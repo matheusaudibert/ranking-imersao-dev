@@ -31,7 +31,7 @@ def main():
   
   st.markdown("## Próxima atualização às 21:00.")
 
-  st.markdown("Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura)")
+  st.markdown("Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura).")
 
 if __name__ == "__main__":
     main()
