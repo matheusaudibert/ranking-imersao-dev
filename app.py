@@ -29,7 +29,7 @@ def main():
                                for pos, stars in ranking_data[start_index:start_index+5]]))
    
   
-  st.markdown("## Próxima atualização às 20:00.")
+  st.markdown("## Próxima atualização às 21:00.")
 
 if __name__ == "__main__":
     main()
