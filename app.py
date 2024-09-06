@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
 
-  st.set_page_config(page_title="Ranking Alura ", layout="centered", initial_sidebar_state="auto", menu_items=None)
+  st.set_page_config(page_title="Ranking Alura ", layout="wide", initial_sidebar_state="auto", menu_items=None)
 
   st.title("🏆 :gray[Ranking Alura Não Oficial] - Ultima Atualização (19:00) ")
 
@@ -77,6 +77,9 @@ def main():
 29. Lugar = :orange[29] estrelas
 
 30. Lugar = :orange[29] estrelas""")
+   
+
+st.markdown("O ranking é a atualizado a cada 1h. Proxíma atualização: 20:00")
    
   
 
