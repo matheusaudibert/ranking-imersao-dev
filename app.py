@@ -79,7 +79,7 @@ def main():
 30. Lugar = :orange[29] estrelas""")
    
 
-st.markdown("O ranking é a atualizado a cada 1h. Proxíma atualização: 20:00")
+  st.markdown("O ranking é a atualizado a cada 1h. Proxíma atualização: 20:00")
       
 if __name__ == "__main__":
     main()
