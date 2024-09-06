@@ -88,8 +88,8 @@ def main():
 30. Lugar = :orange[29] estrelas
 """)
    
-  with col2:
-    st.markdown("## Próxima atualização às 20:00.")
+  
+  st.markdown("## Próxima atualização às 20:00.")
 
 if __name__ == "__main__":
     main()
