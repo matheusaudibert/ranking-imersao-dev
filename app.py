@@ -4,7 +4,7 @@ def main():
 
   st.set_page_config(page_title="Ranking Alura ", layout="wide", initial_sidebar_state="auto", menu_items=None)
 
-  st.title("🏆 :gray[Ranking Alura Não Oficial] - Ultima Atualização (19:00) ")
+  st.title("🏆 :gray[Ranking Alura Não Oficial] - Ultima Atualização (20:00) ")
 
   st.markdown("### Número de estrelas para estar entre os top 30: :orange[31]")
 
