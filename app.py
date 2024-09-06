@@ -6,87 +6,27 @@ def main():
 
   st.title("🏆 :gray[Ranking Alura Não Oficial] - Ultima Atualização (19:00) ")
 
-  st.markdown(" ### Número de estrelas para estar entre os top 30: :orange[29]")
+  st.markdown("### Número de estrelas para estar entre os top 30: :orange[31]")
 
+  # Criar as colunas para exibir o ranking
   col1, col2, col3, col4, col5, col6 = st.columns(6)
 
-  with col1:
-    st.markdown("""
-1. Lugar = :orange[85] estrelas
+  # Dados de ranking
+  ranking_data = [
+    (1, 86), (2, 86), (3, 84), (4, 79), (5, 76),
+    (6, 74), (7, 69), (8, 67), (9, 53), (10, 53),
+    (11, 51), (12, 51), (13, 50), (14, 43), (15, 43),
+    (16, 42), (17, 39), (18, 39), (19, 38), (20, 38),
+    (21, 38), (22, 37), (23, 36), (24, 35), (25, 34),
+    (26, 34), (27, 33), (28, 32), (29, 32), (30, 31)
+  ]
 
-2. Lugar = :orange[84] estrelas
-
-3. Lugar = :orange[81] estrelas
-
-4. Lugar = :orange[75] estrelas
-
-5. Lugar = :orange[74] estrelas
-""")
-
-  with col2:
-    st.markdown("""
-6. Lugar = :orange[74] estrelas
-
-7. Lugar = :orange[69] estrelas
-
-8. Lugar = :orange[64] estrelas
-
-9. Lugar = :orange[52] estrelas
-
-10. Lugar = :orange[51] estrelas
-""")
-
-  with col3:
-    st.markdown("""
-11. Lugar = :orange[50] estrelas
-
-12. Lugar = :orange[48] estrelas
-
-13. Lugar = :orange[44] estrelas
-
-14. Lugar = :orange[43] estrelas
-
-15. Lugar = :orange[39] estrelas
-""")
-
-  with col4:
-    st.markdown("""
-16. Lugar = :orange[38] estrelas
-
-17. Lugar = :orange[38] estrelas
-
-18. Lugar = :orange[38] estrelas
-
-19. Lugar = :orange[38] estrelas
-
-20. Lugar = :orange[37] estrelas
-""")
-
-  with col5:
-    st.markdown("""
-21. Lugar = :orange[37] estrelas
-
-22. Lugar = :orange[36] estrelas
-
-23. Lugar = :orange[33] estrelas
-
-24. Lugar = :orange[33] estrelas
-
-25. Lugar = :orange[32] estrelas
-""")
-    
-  with col6:
-    st.markdown("""
-26. Lugar = :orange[31] estrelas
-
-27. Lugar = :orange[30] estrelas
-
-28. Lugar = :orange[30] estrelas
-
-29. Lugar = :orange[29] estrelas
-
-30. Lugar = :orange[29] estrelas
-""")
+  # Exibir os dados nas colunas
+  for i, col in enumerate([col1, col2, col3, col4, col5, col6]):
+    start_index = i * 5
+    with col:
+        st.markdown("\n".join([f"{pos}. Lugar = :orange[{stars}] estrelas"
+                               for pos, stars in ranking_data[start_index:start_index+5]]))
    
   
   st.markdown("## Próxima atualização às 20:00.")
