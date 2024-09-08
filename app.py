@@ -70,6 +70,7 @@ def main():
         display_projects(st, "#", top_30, start_index=21)
 
     st.markdown("## Próxima atualização às 00:00.")
+    st.markdown("Repositório do meu projeto [aqui](https://github.com/matheusaudibert/devspace).")
     st.markdown("Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura).")
 
 if __name__ == "__main__":
