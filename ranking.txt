@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (168)
+⭐ (169)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (113)
+⭐ (114)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -12331,7 +12331,7 @@ Descrição do projeto
 Desenvolver uma plataforma web intuitiva e eficiente que permita aos usuários buscar músicas de forma rápida e precisa, filtrando por gênero, cantor ou nome da música. A plataforma deverá retornar os resultados da busca de forma organizada.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 10:59 AM] Alura
 Novo projeto recebido!
