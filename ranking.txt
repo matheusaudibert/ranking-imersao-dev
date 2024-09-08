@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (289)
+⭐ (290)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (139)
+⭐ (140)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (139)
+⭐ (140)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -5010,7 +5010,7 @@ Descrição do projeto
 Uma oportunidade de explorar mais informações a respeito do seu videogame favorito. Principalmente pelo fato dele listar alguns defeitos recorrentes do seu console e te mostrar o caminho para resolver o problema, que não necessite da prestação de serviço do técnico. Caso o problema for maior recomendamos que leve a uma assistência técnica. Esse é um projeto piloto que pretendo elevar na sua construção não apenas banco de dados mas também informações técnicas para auxiliar um técnico eletrônico na manutenção desses aparelhos. Aceito sugestões de melhoria do mesmo...
 
 {Reactions}
-⭐ (14)
+⭐ (17)
 
 [9/6/2024 3:41 PM] Alura
 Novo projeto recebido!
@@ -21973,7 +21973,7 @@ Descrição do projeto
 Este projeto é um emocionante jogo de perguntas com a temática das Olimpíadas! O objetivo é testar seus conhecimentos sobre os Jogos Olímpicos, desde a cidade sede mais recente até detalhes curiosos sobre esportes e atletas lendários.  Prepare-se para enfrentar uma série de perguntas desafiadoras sobre eventos passados e futuros das Olimpíadas. O jogo apresenta uma interface vibrante e interativa, inspirada na grandiosidade dos Jogos, com um fundo dourado e imagens icônicas. Cada pergunta é acompanhada por opções de resposta, e você pode acompanhar seu desempenho em tempo real.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 10:41 PM] Alura
 Novo projeto recebido!
