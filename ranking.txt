@@ -1562,7 +1562,7 @@ Descrição do projeto
 Uma plataforma de compras, moderna e intuitiva.Oferecendo uma experiência rápida e eficiente juntamente com uma interface amigável e recursos que garantem uma navegação fluida. > Link Deploy: https://ecomercebyniel.netlify.app
 
 {Reactions}
-⭐ (194)
+⭐ (195)
 
 [9/5/2024 6:51 PM] Alura
 Novo projeto recebido!
@@ -5642,7 +5642,7 @@ Descrição do projeto
 Olá Pessoas, o meu projeto consiste em um site onde abordo filmes baseados em casos reais, mais especificamente true crimes e nele visualizamos a correlação entre o acontecimento real e a dramaturgia e também mostrando algumas curiosidades. As ferramentas utilizadas foram somente html, css e javaScript, ao acessar a página o usuário é comunicado através de um poup-up sobre aviso de conteúdo sensível e precisa clicar em ‘’estou ciente’’ para poder prosseguir. Mais informações disponíveis no readme
 
 {Reactions}
-⭐ (47)
+⭐ (49)
 
 [9/6/2024 4:55 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (140)
+⭐ (141)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -25055,7 +25055,7 @@ Descrição do projeto
 Este projeto é uma ferramenta abrangente de busca de roadmaps e um questionário interativo projetado para ajudar você a descobrir a carreira em TI que melhor se alinha ao seu perfil e interesses. Acredito que esta plataforma pode ser uma valiosa contribuição para a comunidade, atendendo tanto iniciantes quanto profissionais que estão considerando uma mudança de área.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
