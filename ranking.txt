@@ -23481,7 +23481,7 @@ Descrição do projeto
 A aplicação mostra através de uma pesquisa no qual você digita um país, se esse país tem uma das 7 maravilhas do mundo é exibido com algumas informações e uma foto se o país digitado não possui uma das maravilhas aparece uma mensagem para digitar um novo país.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -23496,7 +23496,7 @@ Descrição do projeto
 Guia Rápido para a Pesquisa de Planos Kaspersky
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -23511,7 +23511,7 @@ Descrição do projeto
 Este projeto visa fornecer informações relevantes sobre a Atenção Primária à Saúde de maneira acessível para profissionais e população em geral. Por meio de uma interface web com busca integrada, os usuários podem encontrar rapidamente links para recursos externos, como documentos oficiais, portais de saúde e materiais educativos, facilitando o acesso ao conhecimento e fomentando a promoção da saúde e a participação social na gestão em saúde.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:31 PM] Alura
 Novo projeto recebido!
@@ -23526,7 +23526,7 @@ Descrição do projeto
 Copia
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:32 PM] Alura
 Novo projeto recebido!
@@ -23541,7 +23541,7 @@ Descrição do projeto
 Um site feito para conhecer o folclore do Brasil, conhecer a nossa cultura e também sobre as nossas lendas
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:33 PM] Alura
 Novo projeto recebido!
@@ -23556,7 +23556,7 @@ Descrição do projeto
 Site que apresenta algumas das linguagens mais conhecidas do mundo, direcionando para o link da documentação da linguagem.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:35 PM] Alura
 Novo projeto recebido!
@@ -23571,7 +23571,7 @@ Descrição do projeto
 One Piece
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:35 PM] Alura
 Novo projeto recebido!
@@ -23586,7 +23586,7 @@ Descrição do projeto
 Uma página para conhecer um pouco mais sobre Planetas, Satélites e Estrelas. Para isso, basta selecionar o link do tópico que deseja e pesquisar sobre aquele assunto. Alterando o tópico da pesquisa, você poderá ver a página mudando de cor!
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:35 PM] Alura
 Novo projeto recebido!
@@ -23601,7 +23601,7 @@ Descrição do projeto
 Maiores medalhistas da natação nos Jogos Paralímpicos de 2024 na França
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -23631,7 +23631,7 @@ Descrição do projeto
 Criar uma base de dados que explique os termos mais utilizados em marketing digital.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -23646,7 +23646,7 @@ Descrição do projeto
 Pesquisa dos melhores restaurantes da região da Paulista e Bela Vista
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:37 PM] Alura
 Novo projeto recebido!
@@ -23661,7 +23661,7 @@ Descrição do projeto
 É um site interativo que permite aos usuários expressarem seus sentimentos e, com base nisso, recebe recomendações de playlists musicais especialmente selecionadas para corresponder ao estado emocional informado. A ideia é proporcionar uma experiência musical personalizada, ajudando o usuário a descobrir novas músicas que ressoam com o que ele está sentindo no momento.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:37 PM] Alura
 Novo projeto recebido!
@@ -23676,7 +23676,7 @@ Descrição do projeto
 Antes de começar  a imersão da Alura, eu já estava trabalhando nesse site, que era um grande catálogo de filmes, músicas, e jogos. Eu construí o site enquanto meus amigos me ajudavam dando sugestões de quais filmes, músicas, ou jogos colocar, e também em conseguir as imagens. Após a finalização do site, todos ficaram satisfeitos com o site, mas eu não. Faltava mais dinamicidade, o site era totalmente estático, sem interação nenhuma com o usuário, apenas mostrando os filmes, músicas e jogos. Após entrar na imersão, decidi que usaria todo o conhecimento que aprendi na Alura para melhorar o site, adicionando JavaScript e mais interação com o usuário. Eu não conseguiria construir um site totalmente do zero em apenas 2 dias, então pequei um no qual eu já estava trabalhando e inseri os conhecimentos dados pela Imersão Dev.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:38 PM] Alura
 Novo projeto recebido!
@@ -23691,7 +23691,7 @@ Descrição do projeto
 É um site interativo que permite aos usuários expressarem seus sentimentos e, com base nisso, recebe recomendações de playlists musicais especialmente selecionadas para corresponder ao estado emocional informado. A ideia é proporcionar uma experiência musical personalizada, ajudando o usuário a descobrir novas músicas que ressoam com o que ele está sentindo no momento.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:40 PM] Alura
 Novo projeto recebido!
@@ -23706,7 +23706,7 @@ Descrição do projeto
 Santa Catarina, um estado brasileiro que encanta por sua diversidade cultural e natural, abriga um conjunto de cidades que formam um mosaico único. Com paisagens que vão desde exuberantes praias até serras majestosas, cada município catarinense possui sua própria identidade, preservando tradições e oferecendo experiências únicas aos visitantes.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23721,7 +23721,7 @@ Descrição do projeto
 Projeto Usado para verificação de preço de jogos, util bastante para aquela pessoa que adora econimizar em jogos com preços justos. Ela usa a API do google para pesquisar os respectivos jogos e mostra o melhor preço, alem de falar um pouco sobre o proprio jogo.  obs: por enquanto o prejeto se encontra em primeira fase do desenvolvimento, estou planejando muitas coisas para vir.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23736,7 +23736,7 @@ Descrição do projeto
 Este projeto, desenvolvido durante a Imersão Alura com Google Gemini, busca trazer um toque brasileiro a um clássico dos jogos de cartas: o Trunfo. Com adaptações nas regras tradicionais, o objetivo é oferecer uma experiência de jogo mais simples e acessível.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23751,7 +23751,7 @@ Descrição do projeto
 Bem-vindo ao TechFusion, Um site dedicado aos apaixonados por tecnologia! O TechFusion oferece informações detalhadas sobre diversos cursos e formações na área de tecnologia, com foco em quem deseja seguir uma carreira ou se especializar no setor. O TechFusion é um projeto que visa unir duas grandes instituições de ensino, a Alura e a FIAP, em um único lugar. Através de uma interface simples e eficiente, os usuários podem pesquisar e obter informações sobre cursos oferecidos por essas instituições. O objetivo principal do TechFusion é facilitar o acesso a informações sobre os cursos de ambas as plataformas, permitindo que os usuários comparem, descubram e escolham o que melhor atende às suas necessidades educacionais.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23766,7 +23766,7 @@ Descrição do projeto
 Este projeto é como uma biblioteca virtual, com recomendações de livros de acordo com seu gênero literário favorito. Você também pode colocar palavras-chave para procurar uma obra.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:42 PM] Alura
 Novo projeto recebido!
@@ -23781,7 +23781,7 @@ Descrição do projeto
 Site para busca de gameplays sobre jogos no YouTube
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:42 PM] Alura
 Novo projeto recebido!
