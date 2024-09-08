@@ -10541,7 +10541,7 @@ Descrição do projeto
 jogo da memória baseado em cartões com tema de olimpíadas e artistas famosos como estilos dos cartões, como Dali
 
 {Reactions}
-⭐ (21)
+⭐ (23)
 
 [9/7/2024 12:57 AM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (111)
+⭐ (112)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
