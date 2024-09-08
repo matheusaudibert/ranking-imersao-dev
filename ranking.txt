@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (124)
+⭐ (125)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (193)
+⭐ (194)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (117)
+⭐ (118)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (161)
+⭐ (162)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (133)
+⭐ (134)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -7586,7 +7586,7 @@ Descrição do projeto
 Projeto realizado durante a Imersão Alura com Google Gemini. O site foi feito com HTML, CSS e Javascript. A intenção foi criar um site de anime responsivo, onde se pode interagir com os baners e o botão de login.
 
 {Reactions}
-⭐ (43)
+⭐ (45)
 
 [9/6/2024 8:36 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (73)
+⭐ (74)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -19176,7 +19176,7 @@ Descrição do projeto
 O CâncerNão! é um projeto web interativo focado na prevenção do câncer, oferecendo informações claras e acessíveis para a conscientização e detecção precoce. Com um mapa de hospitais, prompts de avaliação de saúde e um chat responsivo, o site auxilia os usuários a compreenderem melhor a doença e adotarem medidas preventivas. O design acolhedor e intuitivo visa criar um ambiente de esperança e empatia, promovendo o poder da informação para salvar vidas.
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 8:16 PM] Alura
 Novo projeto recebido!
@@ -22832,7 +22832,7 @@ Descrição do projeto
 Descubra o Brasil - Buscador de cidades turísticas, para facilitar o planejamento da próxima viagem, tendo dicas de hotéis, pontos turísticos e facilitador para compra de passagem.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (77)
+⭐ (76)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
