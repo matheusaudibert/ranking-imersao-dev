@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (287)
+⭐ (286)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (101)
+⭐ (102)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (136)
+⭐ (135)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (124)
+⭐ (123)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -25055,7 +25055,7 @@ Descrição do projeto
 Este projeto é uma ferramenta abrangente de busca de roadmaps e um questionário interativo projetado para ajudar você a descobrir a carreira em TI que melhor se alinha ao seu perfil e interesses. Acredito que esta plataforma pode ser uma valiosa contribuição para a comunidade, atendendo tanto iniciantes quanto profissionais que estão considerando uma mudança de área.
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
