@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (129)
+⭐ (130)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (141)
+⭐ (142)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -22483,7 +22483,7 @@ Descrição do projeto
 Cansado de cursos chatos e teorias enfadonhas? No SoftinSkills, a diversão é garantida!  Descubra como transformar jogos em ferramentas poderosas para o desenvolvimento pessoal e profissional. Desenvolva as Soft Skills mais buscadas no mercado jogando, tem jogo pra todo mundo desde o tabuleiro cheio de gente quanto seu jogo online colaborativo.
 
 {Reactions}
-⭐ (30)
+⭐ (32)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
@@ -22532,7 +22532,7 @@ Descrição do projeto (cont.)
 entre os 30 melhores? O Desafio dos Campeões não é apenas um jogo, mas uma demonstração do que é possível alcançar quando se combina criatividade com habilidade técnica. O projeto não só oferece uma experiência divertida para os jogadores, mas também serve como um excelente exemplo educacional para desenvolvedores que querem aprender a aplicar suas habilidades em projetos reais.  A riqueza de detalhes no desenvolvimento, a utilização de boas práticas de programação e a capacidade de expansão tornam este projeto digno de estar entre os 30 melhores. Ele mostra o potencial de um desenvolvedor em criar algo que não só entretém, mas também ensina, inova e inspira.  Vote no Desafio dos Campeões e faça parte desta aventura épica!
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
