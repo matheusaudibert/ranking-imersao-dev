@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (75)
+⭐ (76)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -22393,7 +22393,7 @@ Descrição do projeto
 Um guia completo de como aprender japonês + buscador de animes (dentre 1119 animes), mostrando informações como nível de dificuldade de língua japonesa, e disponibilização de baralho do Anki com o vocabulário usado no anime, pronto para estudo.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 10:59 PM] Alura
 Novo projeto recebido!
