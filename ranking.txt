@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -14808,7 +14808,7 @@ Descrição do projeto
 Meu projeto foi feito levando em consideração o meu convívio com a Ansiedade e minha inquietação e problemas que vieram com ela, por isso resolvi fazer o projeto com o foco em distrair a mente e se acalmar com as opções dentro do site. Essas opções são filmes, vídeos, jogos, músicas e livros, pesquisando algum desses irá aparecer opções de por exemplo filmes com a descrição e o link para aonde você pode assistir o mesmo. Com essas escolhas espero que a pessoa que acessar o site consiga se distrair e se acalmar nem que seja por pelo menos 30 minutos.
 
 {Reactions}
-⭐ (21)
+⭐ (24)
 
 [9/7/2024 3:18 PM] Alura
 Novo projeto recebido!
