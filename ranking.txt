@@ -1652,7 +1652,7 @@ Descrição do projeto
 Voltado para o público gamer, este projeto tem como objetivo apresentar uma breve descrição de jogos retro. O conceito visual teve como base de referência diversas imagens de terminais dentro de jogos, como, por exemplo, o Pip-Boy de Fallout e outros similares. Caso tenha interesse em verificar apenas a parte visual, segue o link do deploy: https://founder-gif.github.io/EncicloGamer
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/5/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
