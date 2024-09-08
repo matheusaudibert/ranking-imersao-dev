@@ -4537,7 +4537,7 @@ Descrição do projeto
 O Show da Imersão é um jogo de perguntas e respostas desenvolvido em HTML, CSS e JavaScript, com o objetivo de simular a experiência do famoso programa de televisão "Show do Milhão". O jogador responde a perguntas de múltipla escolha e tem a chance de ganhar prêmios em barras de ouro virtuais que valem mais do que dinheiro.
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/6/2024 3:01 PM] Alura
 Novo projeto recebido!
@@ -5642,7 +5642,7 @@ Descrição do projeto
 Olá Pessoas, o meu projeto consiste em um site onde abordo filmes baseados em casos reais, mais especificamente true crimes e nele visualizamos a correlação entre o acontecimento real e a dramaturgia e também mostrando algumas curiosidades. As ferramentas utilizadas foram somente html, css e javaScript, ao acessar a página o usuário é comunicado através de um poup-up sobre aviso de conteúdo sensível e precisa clicar em ‘’estou ciente’’ para poder prosseguir. Mais informações disponíveis no readme
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/6/2024 4:55 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (111)
+⭐ (112)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (140)
+⭐ (141)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (63)
+⭐ (64)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
