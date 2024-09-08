@@ -4537,7 +4537,7 @@ Descrição do projeto
 O Show da Imersão é um jogo de perguntas e respostas desenvolvido em HTML, CSS e JavaScript, com o objetivo de simular a experiência do famoso programa de televisão "Show do Milhão". O jogador responde a perguntas de múltipla escolha e tem a chance de ganhar prêmios em barras de ouro virtuais que valem mais do que dinheiro.
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/6/2024 3:01 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (112)
+⭐ (113)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (87)
+⭐ (88)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -14204,7 +14204,7 @@ Descrição do projeto
 Sinta o cinema!  O FilmêMood te convida a explorar o mundo do cinema de uma forma totalmente nova. Escolha a sua emoção e descubra o filme perfeito para o seu momento.  Como funciona:  É simples! Basta selecionar a emoção que você está sentindo, entre feliz, triste, ansioso e apaixonado,e deixar a que faremos o resto.  Diferenciais:  Rápido e fácil: Encontre o filme ideal em poucos segundos. Personalizado: Filmes escolhidos especialmente para você. Diversão garantida: Prepare-se para se emocionar, rir e se apaixonar. Público-alvo:  Amantes de cinema de todas as idades que buscam uma experiência cinematográfica rápida e divertida.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 2:21 PM] Alura
 Novo projeto recebido!
@@ -15515,7 +15515,7 @@ Descrição do projeto
 Um pequeno roadmap de quais podem ser os próximos passos para quem quer aprender programação, baseado na minha experiência de mercado. Feito com muito carinho de um dev para outros devs e futuros devs <3
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 4:32 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -24509,7 +24509,7 @@ Descrição do projeto
 Uma ferramenta simples e intuitiva que te ajuda a descobrir novas oportunidades de trabalho e renda extra. Basta digitar uma palavra-chave relacionada à área que você busca e pronto! Você terá acesso a uma lista de plataformas e projetos que podem te interessar.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -25260,7 +25260,7 @@ Descrição do projeto
 "Vamos de DDS, AI?" é um parceiro amigável e inteligente para encontrar o DDS perfeito! Você pode pesquisar por tema ou então se surpreender com nossas sugestões de conteúdo, tudo para tornar a segurança no trabalho mais leve e inspiradora. Chega de DDS chatos, bora aprender com a IA!
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
