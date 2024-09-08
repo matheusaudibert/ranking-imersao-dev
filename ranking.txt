@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -19221,7 +19221,7 @@ Descrição do projeto
 Essa plataforma online revoluciona a avaliação psicológica, oferecendo aos profissionais de saúde mental um acervo abrangente e intuitivo de escalas psicométricas. Desenvolvida durante [Imersão Dev Alura Gemini], esta solução inovadora simplifica o processo de encontrar escalas adequadas para o diagnóstico, economizando tempo e aumentando a precisão. Ao democratizar o acesso a ferramentas de qualidade, contribuímos significativamente para o bem-estar emocional da população. Nossa interface amigável, mesmo para usuários sem experiência tecnológica, permite que os profissionais dediquem mais tempo aos pacientes. Além de melhorar a qualidade de vida através de diagnósticos precisos, empoderamos os profissionais com recursos modernos e fomentamos a pesquisa na área da psicologia, estabelecendo novos padrões na saúde mental.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 8:20 PM] Alura
 Novo projeto recebido!
@@ -21592,7 +21592,7 @@ Descrição do projeto (cont.)
 da aplicação para uma interface visualmente atraente. JavaScript: Implementação de funcionalidades dinâmicas e interativas. React: Framework utilizado para criar uma interface de usuário responsiva e modular. Node.js:Backend para gerenciamento de dados e exr.Vanilla JavaScript: Para lógica de criação, atualização e renderização das partículas.
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 10:21 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
