@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (293)
+⭐ (294)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -11284,7 +11284,7 @@ Descrição do projeto
 JogaLogo 🎮 é um buscador de jogos que ajuda o usuário a encontrar rapidamente títulos pelo nome ou descrição. Desenvolvido com HTML, CSS e JavaScript, oferece sugestões automáticas enquanto o usuário digita, proporcionando uma experiência intuitiva e interativa. 🔎✨
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/7/2024 3:25 AM] Alura
 Novo projeto recebido!
@@ -17912,7 +17912,7 @@ Descrição do projeto
 Essa aplicação web desenvolvida durante a imersão, projetada para ajudar os usuários a encontrar e visualizar vídeos de exercícios físicos. O projeto exibe vídeos a partir de um conjunto de dados pré-definidos, sem utilizar APIs externas, e é totalmente gerenciado com uma única página.   https://fitessence.vercel.app/
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/7/2024 7:07 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (56)
+⭐ (57)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -21973,7 +21973,7 @@ Descrição do projeto
 Este projeto é um emocionante jogo de perguntas com a temática das Olimpíadas! O objetivo é testar seus conhecimentos sobre os Jogos Olímpicos, desde a cidade sede mais recente até detalhes curiosos sobre esportes e atletas lendários.  Prepare-se para enfrentar uma série de perguntas desafiadoras sobre eventos passados e futuros das Olimpíadas. O jogo apresenta uma interface vibrante e interativa, inspirada na grandiosidade dos Jogos, com um fundo dourado e imagens icônicas. Cada pergunta é acompanhada por opções de resposta, e você pode acompanhar seu desempenho em tempo real.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 10:41 PM] Alura
 Novo projeto recebido!
