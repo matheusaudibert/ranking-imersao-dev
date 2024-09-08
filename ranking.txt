@@ -21391,7 +21391,7 @@ Descrição do projeto
 O Mundo RPG é uma plataforma web que permite a criação de fichas de personagens de RPG de mesa. Nele você tem acesso a criação de fichas de diversas classes como: Alquimista, Assassino, Bardo/Dancarina, Bruxo, Cacador, Druida, Guerreiro, Ladrao, Mago, Monge, Paladino, Sacerdote
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 10:13 PM] Alura
 Novo projeto recebido!
