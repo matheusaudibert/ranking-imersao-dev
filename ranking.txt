@@ -545,7 +545,7 @@ Descrição do projeto
 A intenção de meu projeto e auxiliar no conhecimento das pessoas trazendo uma breve descrição de qualquer tecnologia que a pessoa deseja pesquisar dando a ela a oportunidade de saber mais por meio dos links o tema do meu projeto e muito abrangente entao nem todas as informacoes estao disponiveis afinal eu sou humano e ate a IA nao conseguiria afinal de tecnologia o mundo e imenso entao voce pode dar uma breve olhada no banco e ver o que tem. (adoraria colocar um video de demonstracao mas nao da ) obs: precisei pesquisar ainda mais que a imersao me oferece entao espero nao ser desclassificado por adquirir mais conhecimentos afim de tornar meu projeto mais completo.
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/5/2024 12:27 PM] Alura
 Novo projeto recebido!
@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -11057,7 +11057,7 @@ Descrição do projeto (cont.)
 o momento.
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 2:37 AM] Alura
 Novo projeto recebido!
@@ -11072,7 +11072,7 @@ Descrição do projeto
 O objetivo desse projeto é fornecer um guia simples e prático para quem está começando na programação, ajudando a encontrar informações sobre as principais linguagens de forma rápida e eficiente. Com foco em linguagens como HTML, CSS, JavaScript podendo tter novas linguagem adicionadas posteriormente. Este projeto serve como um ponto de partida para futuros desenvolvedores que desejam iniciar sua jornada no universo da programação.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 2:39 AM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -20187,7 +20187,7 @@ Descrição do projeto
 Trata-se de um gerenciador de tarefas. Onde é possível listar tarefas do dia e podem ser concluídas ou excluídas. O objetivo é melhorar esse projeto incluindo calendário e graficos de tarefas realizadas. Foi o meu primeiro projeto e estou feliz em ter conseguido, mas ciente de que tenho muitos degraus pela frentes. obrigada pelo curso.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -20217,7 +20217,7 @@ Descrição do projeto
 Eu escolhi esse assunto, pois tem muita coisa acontecendo no mundo por conta do aquecimento global. Minha ideia inicial era só falar de acontecimente que vêm ocorrendo no Brasil e no mundo sobre o aquecimento global, porém iria ficar muito grande o projeto e iria sair um pouco do contexto de conhecimento da imersão. Aí eu resolvi falar de possíveis futuras novas casas, que são os exoplanetas. Eu tentei passar um pouco dessas curiosidades, mas tentando resaltar que é muito difícil chegar nessas planetas e que é muito mais vantajoso pra nós combater o aquecimento global, do que abandonar a nossa casa e ir para um lugar que hoje nós não tem certeza que é possível de viver
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 9:12 PM] Alura
 Novo projeto recebido!
