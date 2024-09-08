@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (178)
+⭐ (179)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -1277,7 +1277,7 @@ Descrição do projeto
 O projeto é sobre a busca de cartas de yugioh, com valores de ataque e defesa, tipo da carta e descrição da mesma.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/5/2024 5:32 PM] Alura
 Novo projeto recebido!
@@ -1652,7 +1652,7 @@ Descrição do projeto
 Voltado para o público gamer, este projeto tem como objetivo apresentar uma breve descrição de jogos retro. O conceito visual teve como base de referência diversas imagens de terminais dentro de jogos, como, por exemplo, o Pip-Boy de Fallout e outros similares. Caso tenha interesse em verificar apenas a parte visual, segue o link do deploy: https://founder-gif.github.io/EncicloGamer
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/5/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (151)
+⭐ (152)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -5192,7 +5192,7 @@ Descrição do projeto
 Já se perguntou por que a Lua muda de forma? Ou como as fases lunares influenciam a natureza e até mesmo a gente? Essa aplicação é a sua porta de entrada para um universo de curiosidades sobre o nosso satélite natural!
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/6/2024 4:00 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (120)
+⭐ (123)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -12192,7 +12192,7 @@ Descrição do projeto
 O que é esse projeto?  Imagine um site que te ajuda a encontrar os melhores descontos em jogos para computador. É como um guia completo para os jogadores que adoram economizar!  Como funciona?  Você procura: Digita o nome de um jogo, plataforma (como Steam, Epic Games) ou qualquer palavra-chave relacionada. O site busca: Ele procura em um banco de dados com várias informações sobre jogos e promoções. Ele te mostra: O site te apresenta uma lista com os jogos que combinam com a sua busca, junto com links para as páginas das promoções. Por que é útil?  Economiza tempo: Não precisa mais ficar procurando em vários sites diferentes. Encontra as melhores ofertas: Te mostra os jogos com os maiores descontos. É fácil de usar: A interface é simples e intuitiva. Em resumo:  É um projeto que torna a vida dos gamers mais fácil e divertida, ajudando a encontrar os melhores jogos com os melhores preços!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 10:22 AM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (99)
+⭐ (100)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (40)
+⭐ (39)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
