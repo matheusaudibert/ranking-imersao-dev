@@ -545,7 +545,7 @@ Descrição do projeto
 A intenção de meu projeto e auxiliar no conhecimento das pessoas trazendo uma breve descrição de qualquer tecnologia que a pessoa deseja pesquisar dando a ela a oportunidade de saber mais por meio dos links o tema do meu projeto e muito abrangente entao nem todas as informacoes estao disponiveis afinal eu sou humano e ate a IA nao conseguiria afinal de tecnologia o mundo e imenso entao voce pode dar uma breve olhada no banco e ver o que tem. (adoraria colocar um video de demonstracao mas nao da ) obs: precisei pesquisar ainda mais que a imersao me oferece entao espero nao ser desclassificado por adquirir mais conhecimentos afim de tornar meu projeto mais completo.
 
 {Reactions}
-⭐ (100)
+⭐ (101)
 
 [9/5/2024 12:27 PM] Alura
 Novo projeto recebido!
@@ -6100,7 +6100,7 @@ Descrição do projeto
 Cansado de passar horas procurando a receita perfeita? Com o Comidinhas Saborosas, você encontra todas as receitas que precisa em um só lugar. Economize tempo e dinheiro, explore novos sabores e prepare refeições deliciosas com facilidade. Eu construi esse site com html, css, javascript e com a ajuda do Gemini!
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/6/2024 5:40 PM] Alura
 Novo projeto recebido!
@@ -6869,7 +6869,7 @@ Descrição do projeto
 Este é meu primeiro projeto no qual tive contato com as linguagens de programação HTML, CSS e JavaScript! Me inspirei nos meus pais que tem um Restaurante para a realização do meu projeto, no qual criei um site para facilitar o conhecimento e tirar as dúvidas dos futuros clientes! Acesse o site em: https://santa-luiza.vercel.app
 
 {Reactions}
-⭐ (166)
+⭐ (167)
 
 [9/6/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (108)
+⭐ (109)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (89)
+⭐ (90)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
