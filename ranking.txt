@@ -11436,7 +11436,7 @@ Descrição do projeto
 É uma plataforma para pesquisar filmes e séries da Marvel, tanto os que fazem parte do MCU (Marvel Cinematic Universe) quanto os que não fazem parte do universo. Nos resultados da pesquisa irá obter uma sinopse e um link que direcionará à plataforma de streaming.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 3:39 AM] Alura
 Novo projeto recebido!
@@ -20997,7 +20997,7 @@ Descrição do projeto
 O projeto é um site que permite aos usuários explorar e buscar notícias de forma rápida e prática. Com uma interface simples e intuitiva, o projeto oferece a possibilidade de filtrar notícias por palavras-chave e visualizar os resultados com paginação, além de destacar o termo pesquisado nos títulos e descrições.  Este projeto é um site de notícias desenvolvido durante a Imersão Alura + Gemini, uma iniciativa que visa capacitar desenvolvedores em tecnologias de ponta. Através deste projeto, foi possível aplicar os conhecimentos adquiridos na imersão para criar uma aplicação web funcional e eficiente.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 9:55 PM] Alura
 Novo projeto recebido!
@@ -22063,7 +22063,7 @@ Descrição do projeto
 Base com dados e fotos de planetas. Tentei criar um jogo com Gemini para incluir, mas após ficar horas e horas, consegui fazer um triângulo mover e exibir mensagem quando completa o percurso.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 10:44 PM] Alura
 Novo projeto recebido!
