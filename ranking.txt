@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (277)
+⭐ (278)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (113)
+⭐ (114)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (206)
+⭐ (207)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (131)
+⭐ (132)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -9502,7 +9502,7 @@ Descrição do projeto
 Hey Gamer! Conheça a Biblioteca Royale, um projeto que visa fornecer informações sobre as cartas deste game incrível para que você possa se tornar o rei no campo de batalha.  Espero que curta o trabalho deste iniciante!   Link do Projeto: https://weslleyalex.github.io/BibliotecaRoyale/ (Suas observações e sugestões são bem-vindas)  Link do Repositório: https://github.com/WeslleyAlex/BibliotecaRoyale (Confira o código na integra)
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/6/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (96)
+⭐ (98)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -21466,7 +21466,7 @@ Descrição do projeto
 E se o Jesse Pinkman, da aclamada série Breaking Bad, abrisse um domínio para expressar seus pensamentos sobre os filmes que vem consumindo após ser solto de seu cativeiro? Uma espécie de letterboxd de um ex fabricante de mentafetamina azul que estudou o básico de codigos e agora encanta o mundo com suas críticas "refinadas".
 
 {Reactions}
-⭐ (18)
+⭐ (20)
 
 [9/7/2024 10:16 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (37)
+⭐ (39)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
