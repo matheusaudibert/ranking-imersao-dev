@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
