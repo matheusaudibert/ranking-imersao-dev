@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -11224,7 +11224,7 @@ Descrição do projeto
 O projeto explora a flora brasileira de flores do brasil
 
 {Reactions}
-⭐ (64)
+⭐ (65)
 
 [9/7/2024 3:13 AM] Alura
 Novo projeto recebido!
@@ -11873,7 +11873,7 @@ Descrição do projeto
 Um website para mostrar um evento e um resumo da história do protagonista de um jogo que quero criar.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 7:31 AM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (106)
+⭐ (108)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -15515,7 +15515,7 @@ Descrição do projeto
 Um pequeno roadmap de quais podem ser os próximos passos para quem quer aprender programação, baseado na minha experiência de mercado. Feito com muito carinho de um dev para outros devs e futuros devs <3
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 4:32 PM] Alura
 Novo projeto recebido!
