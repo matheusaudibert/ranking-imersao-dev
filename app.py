@@ -72,7 +72,7 @@ def main():
         display_projects(st, "#", top_30, start_index=21)
 
     st.markdown("## Próxima atualização às 00:00.")
-    st.markdown("## :violet[Deixe o seu like no meu projeto! [DEVSPACE](https://devspaceee.vercel.app/index.html)]")
+    st.markdown("## :violet[Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155). Acesso o meu projeto [aqui](https://devspaceee.vercel.app/index.html).]")
     st.markdown("## Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura).")
 
 if __name__ == "__main__":
