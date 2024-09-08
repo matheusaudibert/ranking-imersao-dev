@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (296)
+⭐ (297)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (210)
+⭐ (211)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (149)
+⭐ (150)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (119)
+⭐ (120)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -9320,7 +9320,7 @@ Descrição do projeto
 Mergulhe no mundo mágico do Studio Ghibli com um só clique! Pesquise filmes, explore sinopses e ouça trilhas sonoras. Tudo isso em um só lugar, feito com muito carinho para os fãs. A plataforma, construída utilizando as tecnologias HTML, CSS, JavaScript e Gemini, oferece um recurso valioso para a pesquisa e o estudo da animação japonesa. Através de uma interface intuitiva e recursos de busca avançados, o site permite aos usuários acessar informações detalhadas sobre cada filme, como sinopse e trilha sonora. Os resultados obtidos com o desenvolvimento deste projeto demonstram a viabilidade de utilizar ferramentas digitais para a organização e divulgação de acervos audiovisuais, contribuindo para a preservação e valorização do patrimônio cultural.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/6/2024 11:07 PM] Alura
 Novo projeto recebido!
@@ -11254,7 +11254,7 @@ Descrição do projeto
 O projeto desenvolve um sistema de autoatendimento para uma loja de marmitas. Através de um menu interativo e um totem, os clientes personalizam seus pedidos, escolhendo o tamanho da embalagem e os ingredientes principais: carboidrato, proteína e guarnição. Após a confirmação, o sistema emite uma mensagem de agradecimento, finalizando o processo de forma intuitiva e eficiente.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 3:18 AM] Alura
 Novo projeto recebido!
@@ -22483,7 +22483,7 @@ Descrição do projeto
 Cansado de cursos chatos e teorias enfadonhas? No SoftinSkills, a diversão é garantida!  Descubra como transformar jogos em ferramentas poderosas para o desenvolvimento pessoal e profissional. Desenvolva as Soft Skills mais buscadas no mercado jogando, tem jogo pra todo mundo desde o tabuleiro cheio de gente quanto seu jogo online colaborativo.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
