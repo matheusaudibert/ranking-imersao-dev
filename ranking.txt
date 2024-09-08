@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (119)
+⭐ (120)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -5162,7 +5162,7 @@ Descrição do projeto
 Durante o projeto "Imersão RPG", você irá mergulhar numa aventura onde guiará um Mago? Guerreiro? Bardo? Você escolhe quem vai partir numa aventura desde uma prisão subterrânea, até a cidade para finalmente descansar em paz. A estrutura do projeto se baseia em listas de objetos que guardam as informações dos personagens, história, etc. Além de funções responsáveis por diferentes mecânicas, como mostrar os personagens, comparar os atributos, contar a história, e mais.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/6/2024 3:51 PM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -9074,7 +9074,7 @@ Descrição do projeto
 Site que facilita a busca de programas e projetos voltados para a INCLUSÃO TECNOLÓGICA de mulheres e outras minorias, promovendo a diversidade no mundo da programação !!
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -11661,7 +11661,7 @@ Descrição do projeto
 Desvendando os Mistérios da Sua Casa: Já sentiu uma presença estranha em casa? Essa aplicação divertida e misteriosa vai te ajudar a descobrir qual criatura sobrenatural (ou não) pode estar te assombrando! Descreva o estranho: Digite no campo de pesquisa uma característica do fenômeno paranormal que você está vivenciando e dê boas risadas com as respostas um tanto quanto absurdas que a aplicação pode te oferecer.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 4:48 AM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -23511,7 +23511,7 @@ Descrição do projeto
 Este projeto visa fornecer informações relevantes sobre a Atenção Primária à Saúde de maneira acessível para profissionais e população em geral. Por meio de uma interface web com busca integrada, os usuários podem encontrar rapidamente links para recursos externos, como documentos oficiais, portais de saúde e materiais educativos, facilitando o acesso ao conhecimento e fomentando a promoção da saúde e a participação social na gestão em saúde.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 11:31 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
