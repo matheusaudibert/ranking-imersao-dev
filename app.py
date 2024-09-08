@@ -85,7 +85,7 @@ def main():
 
     # Barra de pesquisa para encontrar projetos
     st.sidebar.header("🔍 Pesquisar Projetos")
-    search_name = st.sidebar.text_input("Digite o nome do projeto:")
+    search_name = st.sidebar.text_input("Digite o nome seu nome:")
 
     if search_name:
         # Filtra projetos que contêm o nome pesquisado e obtém suas posições
@@ -98,7 +98,7 @@ def main():
                 st.sidebar.markdown(f"   **Link do GitHub**: [Link]({github_link})")
                 st.sidebar.markdown(f"   **Reações**: :orange[{reactions}]")
         else:
-            st.sidebar.markdown("Nenhum projeto encontrado com esse nome.")
+            st.sidebar.markdown("Não te encotrei 😕.")
 
 if __name__ == "__main__":
     main()
