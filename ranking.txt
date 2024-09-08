@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (156)
+⭐ (157)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (96)
+⭐ (97)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -8969,7 +8969,7 @@ Descrição do projeto
 Tentei meu melhor para fazer um site de pesquisa dos personagens da franquia de jogos Don't Starve, pretendo implementar mais detalhes mas por enquanto foi o que pude finalizar
 
 {Reactions}
-⭐ (16)
+⭐ (19)
 
 [9/6/2024 10:36 PM] Alura
 Novo projeto recebido!
@@ -11421,7 +11421,7 @@ Descrição do projeto
 Meu Personal trainner virtual
 
 {Reactions}
-⭐ (70)
+⭐ (72)
 
 [9/7/2024 3:38 AM] Alura
 Novo projeto recebido!
@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (43)
+⭐ (45)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (44)
+⭐ (46)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -23978,7 +23978,7 @@ Descrição do projeto
 Consumir alimentos sazonais oferece vários benefícios, como um maior aporte de nutrientes, menor presença de agrotóxicos, apoio à agricultura local e custos mais baixos para os consumidores.  Pensando nisso, o projeto "Sabores da Estação" tem como objetivo facilitar a escolha de alimentos com base em sua sazonalidade. Com ele, você pode consultar uma lista de alimentos disponíveis em qualquer mês do ano ou descobrir os melhores períodos para consumir um alimento específico. Basta digitar na barra de pesquisa o mês ou o alimento desejado para obter mais informações!
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -23993,7 +23993,7 @@ Descrição do projeto
 O Portal de Conhecimento Gratuito é uma plataforma que permite o acesso a livros clássicos da literatura em domínio público. A interface é acessível, com controles de tamanho de fonte e modo escuro, além da integração com o VLibras para suporte em Libras. O usuário pode buscar livros por título, com sugestões automáticas e download dos títulos.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
