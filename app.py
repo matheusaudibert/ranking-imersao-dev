@@ -51,8 +51,9 @@ def format_time_delta(delta):
     minutes, seconds = divmod(remainder, 60)
     return f"{hours:02}:{minutes:02}:{seconds:02}"
 
-def calculate_time_remaining():
-    now = datetime.datetime.now()
+def calculate_time_remaining(offset_hours):
+    now_utc = datetime.datetime.utcnow()
+    now = now_utc - datetime.timedelta(hours=offset_hours)
     next_update = now.replace(hour=0, minute=0, second=0, microsecond=0)
     if now.hour == 0 and now.minute == 0:
         next_update += datetime.timedelta(days=1)
@@ -86,7 +87,9 @@ def main():
     st.markdown("### ⏰ Próxima atualização às 00:00.")
     st.markdown("### 📚 Total de projetos: 1677")
 
-    time_remaining = calculate_time_remaining()
+  
+    offset_hours = 3 
+    time_remaining = calculate_time_remaining(offset_hours)
     formatted_time = format_time_delta(time_remaining)
     st.sidebar.markdown(f"## ⏳ Tempo restante para o fim das votações: {formatted_time}")
 
@@ -111,8 +114,8 @@ def main():
                 st.sidebar.markdown("Não te encontrei.")
 
     with st.sidebar:
-      st.markdown("⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
-      st.markdown("🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)")
+        st.markdown("⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
+        st.markdown("🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)")
 
 if __name__ == "__main__":
     main()
