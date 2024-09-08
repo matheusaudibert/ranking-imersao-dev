@@ -23511,7 +23511,7 @@ Descrição do projeto
 Este projeto visa fornecer informações relevantes sobre a Atenção Primária à Saúde de maneira acessível para profissionais e população em geral. Por meio de uma interface web com busca integrada, os usuários podem encontrar rapidamente links para recursos externos, como documentos oficiais, portais de saúde e materiais educativos, facilitando o acesso ao conhecimento e fomentando a promoção da saúde e a participação social na gestão em saúde.
 
 {Reactions}
-⭐ (19)
+⭐ (21)
 
 [9/7/2024 11:31 PM] Alura
 Novo projeto recebido!
@@ -25010,7 +25010,7 @@ Descrição do projeto
 Bem-vindo ao projeto "Evolução dos Jogos"! Este projeto foi desenvolvido como parte da imersão Alura
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
