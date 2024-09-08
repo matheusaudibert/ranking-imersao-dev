@@ -31,7 +31,7 @@ Descrição do projeto
 O Hyper Cortex foi um projeto desenvolvido com o objetivo de ajudar as pessoas com Alzheimer, tendo jogos, sobre o Alzheimer, além de dicas para os cuidadores.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/5/2024 8:36 AM] Alura
 Novo projeto recebido!
@@ -46,7 +46,7 @@ Descrição do projeto
 Este projeto tem como objetivo explorar as estrelas mais brilhantes do universo observável, permitindo que os usuários realizem buscas específicas para obter informações detalhadas sobre as estrelas de seu interesse. Desenvolvido com HTML, CSS e JavaScript, o sistema oferece uma interface intuitiva e responsiva para facilitar a navegação e a interação, tornando a descoberta de dados astronômicos mais acessível e interessante para todos os entusiastas do espaço.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/5/2024 8:41 AM] Alura
 Novo projeto recebido!
@@ -76,7 +76,7 @@ Descrição do projeto
 O projeto é um guia de personagens sobre o jogo Honkai: Star Rail, onde há cards contando pequenas informações sobre os personagens e seus poderes.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 9:08 AM] Alura
 Novo projeto recebido!
@@ -91,7 +91,7 @@ Descrição do projeto
 Desenvolver uma pagina que fale sobre cibersegurança no Brasil
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 9:14 AM] Alura
 Novo projeto recebido!
@@ -106,7 +106,7 @@ Descrição do projeto
 Jogo em JavaScript
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 9:14 AM] Alura
 Novo projeto recebido!
@@ -121,7 +121,7 @@ Descrição do projeto
 Página sobre charcutaria no Brasil.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 9:16 AM] Alura
 Novo projeto recebido!
@@ -136,7 +136,7 @@ Descrição do projeto
 Resumo: O projeto "Pesquisa de Jogadores da NBA" é uma aplicação web interativa que permite aos usuários buscar e visualizar informações detalhadas sobre jogadores da NBA. Com uma interface moderna e fácil de usar, a aplicação oferece uma pesquisa eficiente e exibe dados relevantes sobre os jogadores em um formato atraente.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 9:37 AM] Alura
 Novo projeto recebido!
@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (186)
+⭐ (188)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -166,7 +166,7 @@ Descrição do projeto
 Uma pagina que apresenta instrumentos musicais, com seus sons e imagem de cada um
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 9:48 AM] Alura
 Novo projeto recebido!
@@ -183,7 +183,7 @@ Descrição do projeto (cont.)
 UkW2MFapi2U1klPOOErsdQbi729kNF/ Formação: ● Engenharia da Computação em Ênfase IoT - Universidade UNIVESP - Cursando 5° Semestre. ● Técnico em Eletrônica - Instituto Monitor. ● Técnico em Mecatrônica - Colégio Seta.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 9:57 AM] Alura
 Novo projeto recebido!
@@ -198,7 +198,7 @@ Descrição do projeto
 O meu projeto se trata de um sistema de controle financeiro com js e dados manuais
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 10:13 AM] Alura
 Novo projeto recebido!
@@ -213,7 +213,7 @@ Descrição do projeto
 Um site voltado para eventos históricos, com foco inicial em guerras.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 10:24 AM] Alura
 Novo projeto recebido!
@@ -228,7 +228,7 @@ Descrição do projeto
 Projeto Imersão com Gemini
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 10:28 AM] Alura
 Novo projeto recebido!
@@ -243,7 +243,7 @@ Descrição do projeto
 Gerenciar custo de insumos de projetos em impressão 3D
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 10:35 AM] Alura
 Novo projeto recebido!
@@ -258,7 +258,7 @@ Descrição do projeto
 O MoneyGrow é um sistema que tem como finalidade mostrar em quais tipos de investimentos é ideal aplicar o seu dinheiro, visando o crescimento do seu patrimônio. Com uma interface intuitiva e fácil de usar, o sistema fornece informações valiosas em tabelas e gráficos sobre diferentes tipos de investimentos em renda fixa.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/5/2024 10:36 AM] Alura
 Novo projeto recebido!
@@ -303,7 +303,7 @@ Descrição do projeto
 Minha primeira interação com HTML, CSS E JS, sou estagiário de T.I e estou fazendo um site inspirado no mundo mágico de Harry Potter, fiz algumas modificações legais e ainda estou fazendo mais. Espero que gostem!
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 10:48 AM] Alura
 Novo projeto recebido!
@@ -318,7 +318,7 @@ Descrição do projeto
 Um projeto no qual foi criado para eu relembrar algumas partes do HTML5 e CSS3.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 10:50 AM] Alura
 Novo projeto recebido!
@@ -333,7 +333,7 @@ Descrição do projeto
 O projeto oferece um resumo objetivo de informações sobre diversos países. Ao digitar o nome de um país na barra de pesquisa, o usuário é apresentado a um painel com vários tipos de dados. Exemplo: Nome, Capital, Moeda, Idioma.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 11:02 AM] Alura
 Novo projeto recebido!
@@ -348,7 +348,7 @@ Descrição do projeto
 Prodfilm é uma plataforma online de filmes, desenvolvida com as tecnologias HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 11:07 AM] Alura
 Novo projeto recebido!
@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (251)
+⭐ (253)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -378,7 +378,7 @@ Descrição do projeto
 Esta é uma versão anabolizada do que foi aprendido em aula, as diferenças da aula são:  Pesquisa dinamica digitando na barra de busca Botão de Curtir com contagem Estilização de fundo, cores e botões, fotos dos atletas
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/5/2024 11:15 AM] Alura
 Novo projeto recebido!
@@ -393,7 +393,7 @@ Descrição do projeto
 Site para consulta e pesquisa dos Hashiras do universo de Demons Slayer usando animações simples e conceitos básicos. É possível acessar o site clicando aqui: https://desafio-dev-alura-gemini2024-and-git-441af6-andrelukes-projects.vercel.app
 
 {Reactions}
-⭐ (63)
+⭐ (64)
 
 [9/5/2024 11:32 AM] Alura
 Novo projeto recebido!
@@ -408,7 +408,7 @@ Descrição do projeto
 Este projeto é uma página simples de busca de diretores de cinema chamada "Cinema Database". O usuário pode inserir o nome de um diretor no campo de pesquisa e, ao clicar no botão "Pesquisar", os dados de diretores pré-cadastrados são exibidos abaixo. A interface é minimalista, com foco na usabilidade, permitindo ao usuário acessar descrições curtas sobre diretores renomados, como David Fincher, Christopher Nolan e Sofia Coppola, além de links para mais informações. Os dados dos diretores estão armazenados em um array JavaScript, que contém o nome, uma breve descrição, e um link para a Wikipédia de cada um. O projeto também inclui um cabeçalho com o título do site, e um rodapé com os direitos reservados e o link para o meu GitHub.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 11:49 AM] Alura
 Novo projeto recebido!
@@ -423,7 +423,7 @@ Descrição do projeto
 Trata-se de um app para listar as franquias do Jurassic Park
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 11:55 AM] Alura
 Novo projeto recebido!
@@ -438,7 +438,7 @@ Descrição do projeto
 Criei um Site para verificação de idade com base nos dados de entrada(ano de nascimento), apresentando sua idade e um avatar.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 11:56 AM] Alura
 Novo projeto recebido!
@@ -453,7 +453,7 @@ Descrição do projeto
 Site oficial da empresa Heacher Games, o estúdio de jogos que eu junto de mais um amigo estamos fundando no programa de aceleração de StartUps da PUC Campinas o "Cria I". Nele constará as principais informações sobre a empresa, como nossos jogos, contato, história e muito mais.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 11:56 AM] Alura
 Novo projeto recebido!
@@ -468,7 +468,7 @@ Descrição do projeto
 O projeto se trata de uma aba de pesquisa sobres jogadores de E-Sports do mundo inteiro. Colocando em prática as aulas da imersão.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 12:09 PM] Alura
 Novo projeto recebido!
@@ -483,7 +483,7 @@ Descrição do projeto
 Descubra o Brasil: O Paraíso dos Nômades Digitais e Trabalhadores HomeOffice       Já pensou em trabalhar em um escritório com vista para uma praia paradisíaca ou em meio a vibrantes cidades históricas? O Brasil oferece exatamente isso e muito mais.  Mais do que sol e carnaval, o Brasil é um mosaico de experiências únicas, desde a exuberância da Amazônia até o charme colonial de Minas Gerais. Cada estado é uma nova oportunidade para quem busca combinar trabalho remoto com aventuras incríveis.  Prepare-se para explorar um país onde cada canto é uma nova descoberta e cada dia é uma nova experiência. Venha descobrir como o Brasil pode ser o seu próximo destino de trabalho e prazer!
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 12:20 PM] Alura
 Novo projeto recebido!
@@ -498,7 +498,7 @@ Descrição do projeto
 Oi gente esse é o projeto que eu fiz Se tiver que fazer outro que parece que foi isso que eu entendi por favor comentem comigo obrigado
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/5/2024 12:23 PM] Alura
 Novo projeto recebido!
@@ -513,7 +513,7 @@ Descrição do projeto
 Site sobre as maravilhas da humanidade modernas e antigas
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 12:25 PM] Alura
 Novo projeto recebido!
@@ -530,7 +530,7 @@ Descrição do projeto (cont.)
 ário e armazenamento de dados.   Características:   Design minimalista: Interface limpa e fácil de usar, com foco nas funcionalidades essenciais.  Personalização: Permite que o usuário ajuste a aparência e o comportamento da aplicação de acordo com suas preferências.  Responsividade: Adapta-se a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.   Benefícios:   Aumento da produtividade: Ajuda o usuário a organizar suas tarefas e manter o foco.  Melhora da experiência do usuário: Interface intuitiva e personalizável.  Código limpo e organizado: Facilita a manutenção e a adição de novas funcionalidades.   Este projeto é um excelente ponto de partida para quem deseja aprender a desenvolver aplicações web utilizando HTML, CSS e JavaScript. Além disso, é uma ferramenta útil para organizar suas tarefas e aumentar sua produtividade.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/5/2024 12:26 PM] Alura
 Novo projeto recebido!
@@ -545,7 +545,7 @@ Descrição do projeto
 A intenção de meu projeto e auxiliar no conhecimento das pessoas trazendo uma breve descrição de qualquer tecnologia que a pessoa deseja pesquisar dando a ela a oportunidade de saber mais por meio dos links o tema do meu projeto e muito abrangente entao nem todas as informacoes estao disponiveis afinal eu sou humano e ate a IA nao conseguiria afinal de tecnologia o mundo e imenso entao voce pode dar uma breve olhada no banco e ver o que tem. (adoraria colocar um video de demonstracao mas nao da ) obs: precisei pesquisar ainda mais que a imersao me oferece entao espero nao ser desclassificado por adquirir mais conhecimentos afim de tornar meu projeto mais completo.
 
 {Reactions}
-⭐ (91)
+⭐ (92)
 
 [9/5/2024 12:27 PM] Alura
 Novo projeto recebido!
@@ -560,7 +560,7 @@ Descrição do projeto
 Site de busca para Atletas Radicais
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/5/2024 1:25 PM] Alura
 Novo projeto recebido!
@@ -592,7 +592,7 @@ Descrição do projeto (cont.)
 ciar melhor seus compromissos diários e rotas alternativas, evitando estresse e otimizando o tempo.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/5/2024 1:29 PM] Alura
 Novo projeto recebido!
@@ -607,7 +607,7 @@ Descrição do projeto
 Este site basicamente implementa a funcionalidade de listar materiais que sobram das obras/construções e as pessoas poderão vender esse material que sobra para outros interessados que estão construindo ou reformando. O site possui uma funcionalidade de busca e apresenta informações com o contato das pessoas que querem divulgar seus materiais.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/5/2024 1:34 PM] Alura
 Novo projeto recebido!
@@ -622,7 +622,7 @@ Descrição do projeto
 Sobre o Projeto Objetivo do Projeto: Bem-vindo ao repositório do Gemini IA News! Este projeto visa criar um site acessível e envolvente para introduzir a Inteligência Artificial a pessoas com mais idade ou pouca familiaridade com tecnologia. O site utiliza HTML, CSS e JavaScript para oferecer conteúdos em texto e vídeo de maneira simples e divertida, facilitando o aprendizado sobre IA e conceitos básicos de engenharia de prompt.  Site: https://beatrizgdc.github.io/geminiIaNews/  Vídeo do Projeto: https://youtu.be/8xS9065ZZWA 🎥  Código Fonte no GitHub: https://github.com/beatrizgdc/geminiIaNews 📝  Sobre a Desenvolvedora: Beatriz Garcia - LinkedIn: https://www.linkedin.com/in/beatrizgdcevaio/
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/5/2024 1:44 PM] Alura
 Novo projeto recebido!
@@ -637,7 +637,7 @@ Descrição do projeto
 O projeto foi desenvolvido utilizando as linguagens e formas utilizadas nas aulas. O tema escolhido foi Star Wars, onde o usuário pode buscar informações de personagens que compõem a saga.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 2:03 PM] Alura
 Novo projeto recebido!
@@ -652,7 +652,7 @@ Descrição do projeto
 O objetivo principal deste projeto é desenvolver um assistente virtual baseado em redes neurais de processamento de linguagem natural, com o intuito de fornecer informações científicas precisas e atualizadas a pesquisadores e estudantes de graduação. O sistema utilizará técnicas de resumo de textos e questionamento-resposta para permitir que os usuários encontrem rapidamente as informações relevantes em grandes bases de dados científicas. A interface do usuário será um chatbot acessível via web e aplicativo móvel, priorizando a simplicidade e a intuitividade. O sucesso do projeto será medido pela quantidade de usuários ativos, pela precisão das respostas geradas e pela satisfação dos usuários, avaliada através de pesquisas.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 2:03 PM] Alura
 Novo projeto recebido!
@@ -667,7 +667,7 @@ Descrição do projeto
 Projeto desenvolvivo para ser um guia sobre o uso de árvores medicinais nativas do Semiárido brasileiro para ajudar a pessoas leigas a conhecerem mais sobre os usos das espécies e para que servem.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 2:08 PM] Alura
 Novo projeto recebido!
@@ -682,7 +682,7 @@ Descrição do projeto
 Diante da crescente preocupação com a má alimentação e suas consequências para a saúde, o Sabor Saudável surge como uma solução inovadora. Uma plataforma inovadora que poderá conectar profissionais da saúde e seus pacientes em busca de uma alimentação mais saudável. Através de um banco de dados extenso de receitas, a plataforma permite a criação de planos alimentares personalizados a partir de um único ingrediente base, facilitando a adesão a hábitos alimentares mais saudáveis. Tanto profissionais quanto pacientes podem utilizar a ferramenta para encontrar inspiração e criar menus nutritivos e saborosos.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -697,7 +697,7 @@ Descrição do projeto
 Uma pagina de pesquisa sobre tecnologia
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -712,7 +712,7 @@ Descrição do projeto
 um site com o intuito de ensinar sobre a historia, com um foco inicial nas guerras
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 2:28 PM] Alura
 Novo projeto recebido!
@@ -727,7 +727,7 @@ Descrição do projeto
 Sejam bem vindos ao meu projeto! Uma página wiki do melhor anime já feito: One Piece! Pesquise seus personagens favoritos do bando dos piratas Chapéu de Palha, você também pode tentar a sua sorte pesquisando um personagem aleatório em “Estou com sorte”! Este projeto colocou em pratica todas as informações e conhecimentos passados através da Imersão Alura-Gemini ✨ Aproveite o projeto e avaliem!
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/5/2024 2:29 PM] Alura
 Novo projeto recebido!
@@ -742,7 +742,7 @@ Descrição do projeto
 etc
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 2:35 PM] Alura
 Novo projeto recebido!
@@ -757,7 +757,7 @@ Descrição do projeto
 Ainda não tenho,  mas quero aprender.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 2:36 PM] Alura
 Novo projeto recebido!
@@ -772,7 +772,7 @@ Descrição do projeto
 Ambiente de testes para desenvolvedores web, onde os usuários podem experimentar e aprender a criar páginas web utilizando HTML, CSS e JavaScript. Ele fornece um editor interativo dividido em três painéis: um para código HTML, outro para CSS e outro para JavaScript. Os usuários podem escrever seus códigos nos respectivos campos e visualizar os resultados imediatamente em um painel de saída clicando no botão "Executar"
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/5/2024 2:41 PM] Alura
 Novo projeto recebido!
@@ -787,7 +787,7 @@ Descrição do projeto
 É uma lista de tarefas onde você pode adicionar uma atividade futura. Ao concluir a tarefa, você clica no símbolo de certo, indicando que a tarefa foi finalizada. Caso tenha se enganado, não queira mais a tarefa, ou mesmo se já tiver concluído e não quiser que ela apareça mais, você pode clicar no ícone de lixeira para excluí-la.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 2:42 PM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (112)
+⭐ (113)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -832,7 +832,7 @@ Descrição do projeto
 Utilizando os conhecimentos adquiridos através das aulas da imersão, resolvi fazer um site com todos os jogadores convocados para a seleção brasileira que vão disputar as eliminatórias da Copa do Mundo de 2026.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/5/2024 2:51 PM] Alura
 Novo projeto recebido!
@@ -1562,7 +1562,7 @@ Descrição do projeto
 Uma plataforma de compras, moderna e intuitiva.Oferecendo uma experiência rápida e eficiente juntamente com uma interface amigável e recursos que garantem uma navegação fluida. > Link Deploy: https://ecomercebyniel.netlify.app
 
 {Reactions}
-⭐ (164)
+⭐ (165)
 
 [9/5/2024 6:51 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (173)
+⭐ (174)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -3783,7 +3783,7 @@ Descrição do projeto
 Minha aplicação é dedicada aos jogadores de Call of Duty: Warzone. Ela inclui um sistema de pesquisa que permite encontrar jogadores e visualizar suas redes sociais de stream, além de uma seção de notícias com atualizações e informações sobre o jogo, como torneios, atualização das Seasons e uma ferramenta para os melhores ajustes de armas em cada Modo de jogo. Com um design criativo, moderno e simples.
 
 {Reactions}
-⭐ (49)
+⭐ (52)
 
 [9/6/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (56)
+⭐ (57)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
