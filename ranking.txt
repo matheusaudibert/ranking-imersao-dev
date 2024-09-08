@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (154)
+⭐ (155)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (143)
+⭐ (144)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2147,7 +2147,7 @@ Descrição do projeto
 A Garden Sustentability, é uma ideação para o projeto da Alura com o Google Gemini. Aqui nós iremos combinar o verde com a tecnologia para criar um projeto inovador e impactante.  Conceito: Um jardim comunitário que utiliza tecnologia para otimizar o cultivo, monitorar o crescimento das plantas e promover a educação ambiental de forma interativa. Utilizando Sensores (Úmidade, temperatura, nutricionais), Irrigação automatizada, Painéis solares, Aplicativo mobile e Câmeras;
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (148)
+⭐ (149)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -15695,7 +15695,7 @@ Descrição do projeto
 Um projeto feito na imersão alura e meu primeiro projeto com html, css e javascript. Nele é possível pesquisar os 26 estados brasileiros, exceto Distrito Federal, ao pesquisar ele mostra as principais informações dos estados como região que se encontra, capital entre outras, além de ter um link para sites confiáveis para saber mais dos estados. Um bom site para saber mais sobre nosso país, venha pesquisar o seu estado!
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -15710,7 +15710,7 @@ Descrição do projeto
 Receitas-Sococo
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 4:44 PM] Alura
 Novo projeto recebido!
@@ -15740,7 +15740,7 @@ Descrição do projeto
 Esta aplicação web simples permite que você pesquise por exercícios de academia, filtrando por nome ou grupo muscular. Os resultados da pesquisa são exibidos em uma lista clara e concisa, com links para vídeos demonstrativos.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 4:46 PM] Alura
 Novo projeto recebido!
@@ -15755,7 +15755,7 @@ Descrição do projeto
 Este projeto foi criado para esclarecer algumas dúvidas sobre neuropsicopedagogia e é também um site pessoal que oferece atendimento nesta área.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 4:46 PM] Alura
 Novo projeto recebido!
@@ -15785,7 +15785,7 @@ Descrição do projeto
 Meu projeto tem como objetivo facilitar a visualização de progressões de acordes no círculo das quintas para músicos e DJs que façam uso de outras notações mais modernas, como Camelot e Open Keys. Ao digitar um acorde no campo de busca, o usuário recebe como resultado todas as possíveis conexões daquele acorde com outros acordes em todas os 3 tipos de notação. Uma possível melhoria futura seria possibilitar ao usuário que também insira os acordes em notação Camelot e Open Keys no campo de busca e receba o resultado das possíveis conexões.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 4:49 PM] Alura
 Novo projeto recebido!
@@ -15800,7 +15800,7 @@ Descrição do projeto
 🧩 Aprendendo o Alfabeto em Libras  🚀 Um jogo educativo para aprender o alfabeto da Língua Brasileira de Sinais de forma divertida e interativa! 👩‍🏫 Ensine e Aprenda: Explore cada letra com sinais visuais. 🎯 Teste seus Conhecimentos: Quiz rápido com pontuação, tempo e moedas! 📱 Interface Moderna: Design responsivo e acessível para todas as idades. 🤝 Educação Inclusiva: Promovendo o aprendizado de Libras para todos.
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 4:50 PM] Alura
 Novo projeto recebido!
@@ -15815,7 +15815,7 @@ Descrição do projeto
 Eu usei alguns dos códigos que vocês ensinaram, mas coloquei coisas adicionais! Espero que gostem (repost)
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 4:50 PM] Alura
 Novo projeto recebido!
@@ -15830,7 +15830,7 @@ Descrição do projeto
 Um site para quem quer aprender um pouco mais sobre diversos objetos astronômicos, desde estrelas, planetas, luas, estrelas, até satélites e buracos negros.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 4:54 PM] Alura
 Novo projeto recebido!
@@ -15845,7 +15845,7 @@ Descrição do projeto
 Fiz um projeto com a temática Linux, onde você poderá pesquisar informações sobre distro linux (o projeto tem 50 distribuições disponíveis)
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 4:54 PM] Alura
 Novo projeto recebido!
@@ -15860,7 +15860,7 @@ Descrição do projeto
 Projeto baseado na Imersão Dev com Gemini, um projeto simples que mostra algumas linguagens de programação e uma pequena descrição sobre elas.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 4:54 PM] Alura
 Novo projeto recebido!
@@ -15875,7 +15875,7 @@ Descrição do projeto
 O projeto tem enfoque informativo para as condições de SOP e HAC, estado do desenvolvimento (em andamento) estou aprimorando ainda e tendo algumas dificuldades, se alguém puder apoiar desde já fica o meu agradecimento.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/7/2024 4:55 PM] Alura
 Novo projeto recebido!
