@@ -18767,7 +18767,7 @@ Descrição do projeto
 RareBunny RoadMap é uma aplicação web projetada para auxiliar usuários na busca e descoberta de informações sobre áreas e tecnologias na indústria de tecnologia. Com uma interface simples e direta, a aplicação permite que os usuários pesquisem por diferentes áreas tecnológicas e obtenham detalhes relevantes de forma rápida e fácil.
 
 {Reactions}
-⭐ (30)
+⭐ (32)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
