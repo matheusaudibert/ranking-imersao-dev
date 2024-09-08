@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (283)
+⭐ (284)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -5860,7 +5860,7 @@ Descrição do projeto
 Seja bem-vindo(a) ao Ferramentas IA! Aqui você poderá descobrir inúmeras ferramentas que utilizam a tecnologia da inteligência artifical para facilitar suas tarefas. Precisa criar um texto bonito? Aqui você acha uma IA que faz isso! Precisa criar um vídeo legal? Aqui você encontra a ferramenta perfeita! Acesse o site pelo seguinte link: https://qmartinz.github.io/Ferramentas-IA/. Nesse website, você pode pesquisar por ferramentas online de inteligência artificial dentro de um banco de dados com mais de 40 itens. Eu criei esse website após algumas dificuldades em encontrar IAs que pudessem ser utilizadas em alguns projetos de escola, já que onde eu estudo o uso de IA é bem promovido pelo corpo docente. Aproveitem a ferramenta!
 
 {Reactions}
-⭐ (110)
+⭐ (109)
 
 [9/6/2024 5:09 PM] Alura
 Novo projeto recebido!
@@ -11421,7 +11421,7 @@ Descrição do projeto
 Meu Personal trainner virtual
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/7/2024 3:38 AM] Alura
 Novo projeto recebido!
@@ -11843,7 +11843,7 @@ Descrição do projeto
 Curiosidades de Joinville: Desvendando os Segredos da Cidade!
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 7:13 AM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (89)
+⭐ (91)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -25177,7 +25177,7 @@ Descrição do projeto
 Página com info de jogos de tabuleiro utilizando-se:HTML, CSS, JAVA SCRIPT, desenvolvida na imersão Alura.
 
 {Reactions}
-⭐ (24)
+⭐ (23)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
