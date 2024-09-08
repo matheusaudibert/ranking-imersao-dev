@@ -17687,7 +17687,7 @@ Descrição do projeto
 Aplicação para marcar os pontos de uma partida de truco gaudério.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 6:52 PM] Alura
 Novo projeto recebido!
@@ -22123,7 +22123,7 @@ Descrição do projeto
 Um projeto simples de apresentação, para quem tem interesse nas tecnologias criadas por Tony Stark. Listando 14 criações, apresentei apenas 6 mais vistas, com links como ponte á outras informações e curiosidades
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 10:48 PM] Alura
 Novo projeto recebido!
