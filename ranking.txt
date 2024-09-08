@@ -545,7 +545,7 @@ Descrição do projeto
 A intenção de meu projeto e auxiliar no conhecimento das pessoas trazendo uma breve descrição de qualquer tecnologia que a pessoa deseja pesquisar dando a ela a oportunidade de saber mais por meio dos links o tema do meu projeto e muito abrangente entao nem todas as informacoes estao disponiveis afinal eu sou humano e ate a IA nao conseguiria afinal de tecnologia o mundo e imenso entao voce pode dar uma breve olhada no banco e ver o que tem. (adoraria colocar um video de demonstracao mas nao da ) obs: precisei pesquisar ainda mais que a imersao me oferece entao espero nao ser desclassificado por adquirir mais conhecimentos afim de tornar meu projeto mais completo.
 
 {Reactions}
-⭐ (95)
+⭐ (96)
 
 [9/5/2024 12:27 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -7175,7 +7175,7 @@ Descrição do projeto
 Se você quer saber o que é RAG, Fine-Tuning, REST ou outros termos muito usados quando falamos de IA e APIs e ainda ter acesso à livros, revistas digitais e ferramentas sobre o tema, o seu lugar é aqui! 🧠
 
 {Reactions}
-⭐ (55)
+⭐ (57)
 
 [9/6/2024 7:34 PM] Alura
 Novo projeto recebido!
@@ -9074,7 +9074,7 @@ Descrição do projeto
 Site que facilita a busca de programas e projetos voltados para a INCLUSÃO TECNOLÓGICA de mulheres e outras minorias, promovendo a diversidade no mundo da programação !!
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (121)
+⭐ (122)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -14491,7 +14491,7 @@ Descrição do projeto
 Patas Gemini: Ajude a encontrar um novo melhor amigo!
 
 {Reactions}
-⭐ (45)
+⭐ (47)
 
 [9/7/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -17083,7 +17083,7 @@ Descrição do projeto
 Essa aplicação web te permite explorar o universo de One Piece de uma forma divertida e interativa! Você pode pesquisar por seus personagens favoritos e descobrir mais sobre suas aventuras.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 6:16 PM] Alura
 Novo projeto recebido!
@@ -19176,7 +19176,7 @@ Descrição do projeto
 O CâncerNão! é um projeto web interativo focado na prevenção do câncer, oferecendo informações claras e acessíveis para a conscientização e detecção precoce. Com um mapa de hospitais, prompts de avaliação de saúde e um chat responsivo, o site auxilia os usuários a compreenderem melhor a doença e adotarem medidas preventivas. O design acolhedor e intuitivo visa criar um ambiente de esperança e empatia, promovendo o poder da informação para salvar vidas.
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 8:16 PM] Alura
 Novo projeto recebido!
