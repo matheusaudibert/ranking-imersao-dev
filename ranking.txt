@@ -1033,7 +1033,7 @@ Descrição do projeto
 A base de conhecimento escolhida foi a culinária, com a criação de um site de receitas chamado Sabores da Alma para agregar receitas. As funções do projeto consistem na busca por diversas categorias: nome, tags e tempo de preparo. A descrição completa pode ser conferida no repositório do [GitHub](https://github.com/dsadriel/imersao-dev-alura-gemini). A página pode ser acessada través do link: https://dsadriel.github.io/imersao-dev-alura-gemini/
 
 {Reactions}
-⭐ (91)
+⭐ (92)
 
 [9/5/2024 4:17 PM] Alura
 Novo projeto recebido!
@@ -8939,7 +8939,7 @@ Descrição do projeto (cont.)
 se no site ela irá te informar uma mensagem, uma dica ou um conhecimento novo acerca de assuntos ambientais/sociais.
 
 {Reactions}
-⭐ (48)
+⭐ (47)
 
 [9/6/2024 10:29 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -25177,7 +25177,7 @@ Descrição do projeto
 Página com info de jogos de tabuleiro utilizando-se:HTML, CSS, JAVA SCRIPT, desenvolvida na imersão Alura.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
