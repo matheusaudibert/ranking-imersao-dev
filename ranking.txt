@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (297)
+⭐ (298)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -3428,7 +3428,7 @@ Descrição do projeto
 Fiz uma site com uma lista de animes que podem ser filtrados por categoria https://bomba4512.github.io/imersao-alura/ OBS: Fiz o projeto enquanto fazia live lá na twitch, segue lá! https://www.twitch.tv/bomba4512
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/6/2024 11:48 AM] Alura
 Novo projeto recebido!
@@ -5010,7 +5010,7 @@ Descrição do projeto
 Uma oportunidade de explorar mais informações a respeito do seu videogame favorito. Principalmente pelo fato dele listar alguns defeitos recorrentes do seu console e te mostrar o caminho para resolver o problema, que não necessite da prestação de serviço do técnico. Caso o problema for maior recomendamos que leve a uma assistência técnica. Esse é um projeto piloto que pretendo elevar na sua construção não apenas banco de dados mas também informações técnicas para auxiliar um técnico eletrônico na manutenção desses aparelhos. Aceito sugestões de melhoria do mesmo...
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/6/2024 3:41 PM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (101)
+⭐ (102)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -15605,7 +15605,7 @@ Descrição do projeto
 "De Casa até a Escola: A Jornada da Educação"  Imagine um jogo simples, mas cheio de significado, onde o jogador enfrenta um dos maiores desafios da vida real: o caminho até a escola. Em "De Casa até a Escola", você controla um personagem que deve permanecer no caminho certo, superando obstáculos e desafios crescentes a cada fase. Mas não é apenas um jogo — é um lembrete poderoso de que, apesar das dificuldades, a educação tem o poder de mudar vidas.  Com três fases progressivamente mais difíceis, você não só se diverte, mas também se envolve em uma narrativa que destaca a importância da educação. E mais: você pode personalizar seu personagem e até preparar sua mochila, adicionando materiais escolares pela barra de pesquisa, tornando cada partida única e pessoal.  Link do jogo: https://github.com/mody-737/caminho-escola  Se divirtam! ;D
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 4:36 PM] Alura
 Novo projeto recebido!
@@ -15620,7 +15620,7 @@ Descrição do projeto
 Retro Game Explorer é uma plataforma para explorar e descobrir informações sobre jogos clássicos. Este projeto visa proporcionar uma experiência nostálgica, permitindo que o usuário mergulhe em uma vasta coleção de títulos icônicos.  A aplicação permite aos usuários realizar buscas detalhadas para encontrar jogos específicos através de um campo de pesquisa, onde resultados da pesquisa são apresentados destacando o título do jogo, uma breve descrição, o gênero e uma imagem relacionada. Além disso, cada jogo listado inclui um link direto para obter mais informações.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 4:36 PM] Alura
 Novo projeto recebido!
@@ -15635,7 +15635,7 @@ Descrição do projeto
 A paixão de todo brasileiro é o futebol. Dessa forma, meu projeto tem como objetivo reunir em um único local toda a história do maior campeonato do país, o Campeonato Brasileiro. Neste projeto, o usuário pode pesquisar pelo nome do seu time do coração e ver todos os seus títulos ou ainda pesquisar por um ano específico para saber mais informações do campeonato daquele ano. Através do resultado, é possível acessar um website com as informações completas do campeonato daquele ano.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 4:38 PM] Alura
 Novo projeto recebido!
@@ -15650,7 +15650,7 @@ Descrição do projeto
 Fazenda do Luizinho:  É uma fazendinha super divertida onde as crianças podem explorar o mundo dos animais! Com a Fazenda do Luizinho, a criançada vai aprender os nomes dos animais, ouvir seus sons e até mesmo fazer buscas por seus bichinhos favoritos! Disponível em:  https://fazenda-luizinho.vercel.app/
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 4:40 PM] Alura
 Novo projeto recebido!
@@ -15665,7 +15665,7 @@ Descrição do projeto
 Eu não adicionei todos os estados por falta de tempo mas tem uns que eu acho mais importantes, e nesse projeta fala sobre as características de cada estado do nosso país querido.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 4:41 PM] Alura
 Novo projeto recebido!
@@ -15680,7 +15680,7 @@ Descrição do projeto
 um site para homenagem a qualidade de ensino daAlura e o potencial de aprendizado do Google Gemini.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 4:42 PM] Alura
 Novo projeto recebido!
