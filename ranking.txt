@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (100)
+⭐ (101)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -4507,7 +4507,7 @@ Descrição do projeto
 Um jogo de adivinhar palavras pra testar o conhecimento do DEV. O usuário tem 5 chances para adivinha a palavra chave e pode pedir uma dica. Nas cinco chances que o usuário vai tentando a tela muda de cor e ao finalizar acertando ou errando ele pode reiniciar o jogo. Foi desenvolvido com HTML, CSS e JavaScript. tem um pequeno banco de elementos com palavras e dicas e é isso. Se divertir e aprender!
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/6/2024 2:59 PM] Alura
 Novo projeto recebido!
@@ -8939,7 +8939,7 @@ Descrição do projeto (cont.)
 se no site ela irá te informar uma mensagem, uma dica ou um conhecimento novo acerca de assuntos ambientais/sociais.
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/6/2024 10:29 PM] Alura
 Novo projeto recebido!
@@ -9059,7 +9059,7 @@ Descrição do projeto
 Uma página sobre animais marinhos que pode ser divertida,  O objetivo é apresentar o mundo marinho de forma interessante e despertar o interesse das pessoas pela preservação dos oceanos.
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (135)
+⭐ (136)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
