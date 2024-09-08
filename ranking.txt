@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (111)
+⭐ (113)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (113)
+⭐ (114)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -3653,7 +3653,7 @@ Descrição do projeto
 A Jornada do Herói Lógico é um projeto de educação gamificada que combina uma aventura interativa com conceitos de programação. O jogo conta a história de um herói que enfrenta uma série de desafios e deve usar seu conhecimento lógico para tomar decisões corretas e avançar na história. Durante sua jornada, o herói precisa resolver problemas que envolvem lógica, recursão, algoritmos e funções.
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/6/2024 12:35 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (103)
+⭐ (104)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (92)
+⭐ (93)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (89)
+⭐ (90)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -13455,7 +13455,7 @@ Descrição do projeto
 Bem-vindo ao Pawesome Place, seu guia completo para encontrar os lugares mais legais para explorar com seu bichinho de estimação em Portugal (e quem sabe, no futuro, no Brasil e no mundo!). Parques, praias, trilhas e mais! Imagine ter um guia turístico pessoal para o seu pet. Descubra os melhores locais para passear, brincar e fazer novas amizades com outros pets! Não seria AWESOME?
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -13868,7 +13868,7 @@ Descrição do projeto
 O meu projeto foi inspirado no projeto da imersão, mas ao invés de atletas eu criei um site onde podemos buscar por freelancers de programação e/ou designer. O projeto é responsivo e está hospedado neste link: https://lucas22022008.github.io/SearchDev/
 
 {Reactions}
-⭐ (25)
+⭐ (27)
 
 [9/7/2024 1:54 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
