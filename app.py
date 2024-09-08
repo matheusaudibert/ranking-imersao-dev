@@ -69,8 +69,8 @@ def main():
     with col3:
       display_projects(st, "#", top_30, start_index=21)
 
-    st.markdown("## ⏰ Próxima atualização às 10:00.")
-    st.markdown("## 📚 Total de projetos: 1677")
+    st.markdown("### ⏰ Próxima atualização às 10:00.")
+    st.markdown("### 📚 Total de projetos: 1677")
 
     with st.sidebar:
       st.markdown("⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
