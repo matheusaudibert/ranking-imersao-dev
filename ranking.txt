@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (149)
+⭐ (150)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -1562,7 +1562,7 @@ Descrição do projeto
 Uma plataforma de compras, moderna e intuitiva.Oferecendo uma experiência rápida e eficiente juntamente com uma interface amigável e recursos que garantem uma navegação fluida. > Link Deploy: https://ecomercebyniel.netlify.app
 
 {Reactions}
-⭐ (163)
+⭐ (164)
 
 [9/5/2024 6:51 PM] Alura
 Novo projeto recebido!
@@ -11254,7 +11254,7 @@ Descrição do projeto
 O projeto desenvolve um sistema de autoatendimento para uma loja de marmitas. Através de um menu interativo e um totem, os clientes personalizam seus pedidos, escolhendo o tamanho da embalagem e os ingredientes principais: carboidrato, proteína e guarnição. Após a confirmação, o sistema emite uma mensagem de agradecimento, finalizando o processo de forma intuitiva e eficiente.
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 3:18 AM] Alura
 Novo projeto recebido!
@@ -12053,7 +12053,7 @@ Descrição do projeto
 Projeto fictício sobre empreendimento de uma empresa de Design Gráfico e Front-End
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 9:48 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (110)
+⭐ (111)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -18017,7 +18017,7 @@ Descrição do projeto
 Desenvolvido com HTML, CSS e JavaScript, o Observatório COP30 é um projeto open-source que busca democratizar o acesso à informação sobre a COP30 com uma plataforma que oferece uma interface intuitiva. Pré-visualização: https://cop30.vercel.app/
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 7:21 PM] Alura
 Novo projeto recebido!
@@ -19596,7 +19596,7 @@ Descrição do projeto
 Mundo da Imaginação é uma aplicação web voltada para ajudar os usuários a explorar livros através de um sistema de busca simples e acessível. O projeto inclui funcionalidades voltadas para acessibilidade, como opções de fontes amigáveis para pessoas com dislexia, paletas de cores adaptadas para daltônicos e link de AudioBooks para pessoas com deficiência visual.
 
 {Reactions}
-⭐ (26)
+⭐ (28)
 
 [9/7/2024 8:38 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (68)
+⭐ (70)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -22877,7 +22877,7 @@ Descrição do projeto
 Fiz um pesquisador de jogos
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:13 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23436,7 +23436,7 @@ Descrição do projeto
 Uma ferramenta interativa para fãs do Batman que desejam conhecer mais sobre os vilões de Gotham City, construída com as tecnologias básicas da web.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:29 PM] Alura
 Novo projeto recebido!
