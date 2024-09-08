@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (133)
+⭐ (134)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -21042,7 +21042,7 @@ Descrição do projeto
 Este projeto é um guia interativo das seleções que já participaram da Copa do Mundo.  Construído com HTML, CSS e JavaScript, ele permite que os usuários busquem por uma seleção específica e obtenham informações como título, descrição, ano em que o país sediou a copa e um link para mais detalhes., levando para a Wikipedia correspondente.  A interface do usuário é composta por uma caixa de pesquisa e um botão. Ao inserir o nome da seleção desejada e clicar no botão, o JavaScript busca nos dados e exibe os resultados correspondentes na página. O projeto é organizado nas linguagens citadas, incluindo um arquivo "dados.js" que armazena as informações de cada seleção.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
