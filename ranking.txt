@@ -5830,7 +5830,7 @@ Descrição do projeto
 Descubra o universo da fenomenologia em um único espaço interativo. O Mapa Conceitual de Fenomenologia permite que você explore conceitos e autores de maneira intuitiva. Ao pesquisar nomes ou palavras-chave, você acessa instantaneamente dados essenciais sobre os principais pensadores fenomenológicos e suas contribuições, organizados de forma clara e visual. Ideal para quem busca uma compreensão rápida e objetiva dos pilares dessa linha filosófica.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/6/2024 5:08 PM] Alura
 Novo projeto recebido!
@@ -5845,7 +5845,7 @@ Descrição do projeto
 Olimpiadas
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:08 PM] Alura
 Novo projeto recebido!
@@ -5860,7 +5860,7 @@ Descrição do projeto
 Seja bem-vindo(a) ao Ferramentas IA! Aqui você poderá descobrir inúmeras ferramentas que utilizam a tecnologia da inteligência artifical para facilitar suas tarefas. Precisa criar um texto bonito? Aqui você acha uma IA que faz isso! Precisa criar um vídeo legal? Aqui você encontra a ferramenta perfeita! Acesse o site pelo seguinte link: https://qmartinz.github.io/Ferramentas-IA/. Nesse website, você pode pesquisar por ferramentas online de inteligência artificial dentro de um banco de dados com mais de 40 itens. Eu criei esse website após algumas dificuldades em encontrar IAs que pudessem ser utilizadas em alguns projetos de escola, já que onde eu estudo o uso de IA é bem promovido pelo corpo docente. Aproveitem a ferramenta!
 
 {Reactions}
-⭐ (115)
+⭐ (116)
 
 [9/6/2024 5:09 PM] Alura
 Novo projeto recebido!
@@ -5890,7 +5890,7 @@ Descrição do projeto
 Do universo de Harry Potter, apresentamos A Biblioteca Proibida — um portal místico onde os segredos mais profundos e obscuros da magia estão à sua disposição! 🧙‍♂️📚  Explore os livros mais enigmáticos e raros, acessíveis apenas aos bruxos mais audaciosos. Realize suas pesquisas e descubra volumes secretos que podem mudar o destino do mundo mágico. Mas cuidado, alguns segredos foram escondidos por um bom motivo... 😈✨  Seja bem-vindo à Biblioteca Proibida, onde conhecimento e perigo caminham lado a lado. Será que você está pronto para desvendar o desconhecido?
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/6/2024 5:17 PM] Alura
 Novo projeto recebido!
@@ -5905,7 +5905,7 @@ Descrição do projeto
 Esta aplicação web permite pesquisar por vencedores da Bola de Ouro, exibindo informações como nome, descrição e um link para mais detalhes. A busca é realizada em tempo real, filtrando os resultados com base no termo inserido pelo usuário.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/6/2024 5:19 PM] Alura
 Novo projeto recebido!
@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (125)
+⭐ (126)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -5935,7 +5935,7 @@ Descrição do projeto
 Desenvolvimento de uma aplicação de filmes, utilizando variáveis para armazenar dados de pesquisa e funções para exibir os resultados pesquisados, tudo isso feito manualmente, sem o uso de APIs. Inclui verificação de cadastro sem a necessidade de um banco de dados.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -5950,7 +5950,7 @@ Descrição do projeto
 Este projeto simples e divertido tem como objetivo ajudar os amantes de gatos a encontrarem informações sobre as diversas raças felinas. Com uma interface intuitiva, o usuário pode pesquisar por raças específicas e encontrar detalhes como descrição, características e links para mais informações.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 5:27 PM] Alura
 Novo projeto recebido!
@@ -5965,7 +5965,7 @@ Descrição do projeto
 Pokedex interativa com os iniciais da primeira geração de pokemon
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 5:28 PM] Alura
 Novo projeto recebido!
@@ -5995,7 +5995,7 @@ Descrição do projeto
 "Paisagens Sul-Matogrossenses" é um guia interativo para explorar as belezas naturais de Mato Grosso do Sul. Com um mapa detalhado e informações completas sobre cada local, o usuário pode facilmente planejar sua próxima aventura, descobrindo como chegar, o que encontrar e dicas de turismo.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 5:31 PM] Alura
 Novo projeto recebido!
@@ -6010,7 +6010,7 @@ Descrição do projeto
 Este projeto é um aplicativo web interativo que permite aos usuários pesquisar um banco de dados de monstros do universo de The Witcher.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 5:32 PM] Alura
 Novo projeto recebido!
@@ -6025,7 +6025,7 @@ Descrição do projeto
 Tabuada Divertida
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 5:35 PM] Alura
 Novo projeto recebido!
@@ -6040,7 +6040,7 @@ Descrição do projeto
 Cantinho virtual onde você pode explorar a rica história da poesia brasileira, pesquisando pelo nome do poeta para saber mais sobre ele e suas principais obras.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 5:36 PM] Alura
 Novo projeto recebido!
@@ -6070,7 +6070,7 @@ Descrição do projeto
 Este projeto apresenta frases motivacionais com base na emoção/humor que o usuário digitar, com o objetivo de ajudar com uma palavra amiga ou acrescentar conhecimento.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 5:37 PM] Alura
 Novo projeto recebido!
@@ -6085,7 +6085,7 @@ Descrição do projeto
 O projeto cria uma interface simples e intuitiva para pesquisar por personagens do universo Star Wars. O usuário digita o nome de um personagem em um campo de pesquisa e ao clicar no botão "Pesquisar", a aplicação busca por correspondências no nome, lado da Força e descrição do personagem em um conjunto de dados pré-definido.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 5:38 PM] Alura
 Novo projeto recebido!
@@ -15515,7 +15515,7 @@ Descrição do projeto
 Um pequeno roadmap de quais podem ser os próximos passos para quem quer aprender programação, baseado na minha experiência de mercado. Feito com muito carinho de um dev para outros devs e futuros devs <3
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 4:32 PM] Alura
 Novo projeto recebido!
