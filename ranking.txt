@@ -10361,7 +10361,7 @@ Descrição do projeto
 Projeto de base de conhescimento sobre os agentes do jogo valorant, e suas habilidades e demais informações.
 
 {Reactions}
-⭐ (39)
+⭐ (38)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (147)
+⭐ (148)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -15965,7 +15965,7 @@ Descrição do projeto
 🌌🗓️ O Ephemeris é um projeto web que serve como um calendário astronômico, permitindo que você acompanhe e observe eventos importantes como eclipses, superluas, oposições de planetas e muito mais. O objetivo é fornecer informações sobre esses fenômenos celestes, ajudando entusiastas e astrônomos amadores a planejar e aproveitar ao máximo suas observações.
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 5:02 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
@@ -24297,7 +24297,7 @@ Descrição do projeto (cont.)
 tares. * Fomentar uma relação mais profunda e informada com a alimentação, alinhada aos princípios da sustentabilidade e da saúde integral.  Público-Alvo:  * Pessoas com restrições alimentares, como intolerância ao glúten e à lactose. * Entusiastas da culinária que buscam compreender melhor os aspectos científicos dos alimentos. * Consumidores interessados em alimentação saudável e sustentável.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 11:50 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (95)
+⭐ (94)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
