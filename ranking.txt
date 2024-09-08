@@ -13703,7 +13703,7 @@ Descrição do projeto
 Cansado de procurar frases geek por horas? O Frases Geeks Diárias é a sua plataforma para encontrar as melhores citações do universo nerd. Com um acervo vasto e uma interface intuitiva, você descobre frases icônicas de seus personagens favoritos em segundos. Desenvolvido com HTML5, CSS3 e JavaScript, o projeto já conta com milhares de usuários e mais de [número] frases cadastradas. Junte-se à comunidade geek e compartilhe suas citações favoritas!
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 1:36 PM] Alura
 Novo projeto recebido!
@@ -13733,7 +13733,7 @@ Descrição do projeto
 Este projeto é um blog pessoal sobre corrida e fitness. Ele permite que os usuários encontrem dicas, planos de treino e informações sobre nutrição.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 1:40 PM] Alura
 Novo projeto recebido!
@@ -13763,7 +13763,7 @@ Descrição do projeto
 Seu parceiro para desvendar o universo agrícola! Digita a palavra-chave e pronto, a safra de informações é sua.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:44 PM] Alura
 Novo projeto recebido!
@@ -13808,7 +13808,7 @@ Descrição do projeto
 FarmaQuick: Sua Saúde em suas Mãos O FarmaQuick é um buscador de medicamentos online que oferece informações completas e confiáveis sobre remédios, incluindo bula, possíveis alternativas naturais e muito mais. Com uma interface simples, o FarmaQuick facilita a vida de quem precisa gerenciar seus tratamentos.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 1:48 PM] Alura
 Novo projeto recebido!
@@ -13838,7 +13838,7 @@ Descrição do projeto
 Mergulhe nas memórias: Aonde a música te leva?  "Viajar no tempo nunca foi tão emocionante! A Máquina do Tempo te leva em uma jornada pelas suas emoções mais profundas. Cada música é uma cápsula do tempo que te transporta para momentos inesquecíveis. Sinta a emoção de reviver a primeira paixão, a alegria de uma conquista ou a saudade de um tempo que não volta mais. Permita-se sentir tudo o que a música tem a oferecer." De 1940 a 2024, sua história ganha vida em cada nota.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:52 PM] Alura
 Novo projeto recebido!
@@ -13853,7 +13853,7 @@ Descrição do projeto
 Projeto para buscar animes utilizando a API Jikan Open Source do MyAnimeList
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:53 PM] Alura
 Novo projeto recebido!
@@ -13883,7 +13883,7 @@ Descrição do projeto
 Bardo é um chatbot simples criado apenas criado com html, css e javascript. Ele é um programa que apenas responde perguntas já pré definidas. Bardo é uma calopsita fofa e amigável que gosta muito de conversar. Esse projeto foi criado com o intuito de treinar o que foi aprendido na imersão alura devs! e também trazer um pouco a vibe de “IA” mesmo ele não  sendo uma IA, A inspiração foi remeter a um processo automatizado!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:54 PM] Alura
 Novo projeto recebido!
@@ -13917,7 +13917,7 @@ Descrição do projeto
 Essa é uma aplicação simples, mas poderosa, que te permite criar sua própria cineteca online! Imagine ter todos os seus filmes favoritos em um só lugar, com busca rápida e informações detalhadas. É como ter um catálogo de filmes personalizado, direto no seu navegador..
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:55 PM] Alura
 Novo projeto recebido!
@@ -13932,7 +13932,7 @@ Descrição do projeto
 Projeto que visa pesquisar leis brasileiras relacionadas a direitos de crianças, adolescentes e pessoas com autismo.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:56 PM] Alura
 Novo projeto recebido!
@@ -13962,7 +13962,7 @@ Descrição do projeto
 Já imaginou encontrar o carro dos seus sonhos com apenas alguns cliques? Desenvolvei uma plataforma intuitiva que te permite pesquisar por carros de forma rápida e eficiente. Esta ferramenta inteligente analisa sua pesquisa e te apresenta uma seleção personalizada de modelos que atendem aos seus critérios. Seja por marca, modelo, características técnicas ou até mesmo por estilo, aqui você encontra tudo o que precisa para tomar a melhor decisão na hora de comprar um carro. Ferramenta feita para entusiastas do mundo automotivo, trazendo as melhores máquinas existentes no globo terrestre!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:59 PM] Alura
 Novo projeto recebido!
@@ -13992,7 +13992,7 @@ Descrição do projeto
 O projeto visa explorar e ampliar o conhecimento de algumas marcas esportivas, contendo as características, curiosidades a descricão e o link específico de cada uma delas.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 2:03 PM] Alura
 Novo projeto recebido!
@@ -14009,7 +14009,7 @@ Descrição do projeto (cont.)
 ribuições:  Sinta-se à vontade para contribuir com o projeto! Se você encontrar algum erro, tiver alguma sugestão ou quiser adicionar novos velocistas, basta abrir um pull request.  Aviso:  Esse projeto é apenas para fins de diversão e aprendizado. Não se responsabilizo por qualquer dano causado pela leitura deste código ou pelo uso deste site.  Agradecimentos:  Agradeço aos criadores das tecnologias utilizadas nesse projeto, em especial aos desenvolvedores do JavaScript, HTML e CSS, ao projeto "Imersão" da Alura. Sem vocês, nada disso seria possível.  Divirta-se explorando o mundo da velocidade! ⚡
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 2:03 PM] Alura
 Novo projeto recebido!
@@ -14039,7 +14039,7 @@ Descrição do projeto
 A ideia inicial do projeto era colocar os candidatos de grandes cidades como SP, RJ e Crato que não é uma grande cidade mas é de onde eu sou, mas infelizmente não consegui fazer tudo a tempo e tive que escolher somente uma dessas cidades e coloquei os candidatos de SP a função do site é você procurar o político que deseja votar e ver informações sobre ele, não só informações boas como ruins assim facilitando a escolha do seu políticos
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 2:06 PM] Alura
 Novo projeto recebido!
@@ -14054,7 +14054,7 @@ Descrição do projeto
 Este projeto web permite pesquisar por países, culturas e tradições.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 2:08 PM] Alura
 Novo projeto recebido!
@@ -14069,7 +14069,7 @@ Descrição do projeto
 Projeto Filmes Ganhadores do Óscar em 2024
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 2:09 PM] Alura
 Novo projeto recebido!
@@ -14084,7 +14084,7 @@ Descrição do projeto
 O projeto foi pensado com uma base de dados de opções turísticas em cada Estado Brasileiro. Fazendo uma breve busca, você terá algumas das opões imperdíveis para cada região do nosso Brasilzão. Pegue sua mala, e vamos juntos escolher o melhor destino para nossa viagem.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 2:10 PM] Alura
 Novo projeto recebido!
@@ -14099,7 +14099,7 @@ Descrição do projeto
 Simplemente nao tenho
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 2:10 PM] Alura
 Novo projeto recebido!
@@ -14114,7 +14114,7 @@ Descrição do projeto
 Aqui você poderá ver melhor sobre o processo de gamificação e acompanhar como ele está entrando na educação nos dias de hoje. Essa aplicação é a sua nova melhor amiga! Ela te ajuda a encontrar todas as informações que você precisa sobre games de forma rápida e fácil.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -14129,7 +14129,7 @@ Descrição do projeto
 Lista alguns jogos clássicos de tabuleiro conforme palavra-chave pesquisada.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 2:15 PM] Alura
 Novo projeto recebido!
@@ -14144,7 +14144,7 @@ Descrição do projeto
 Aplicação web para encontrar carregadores públicos para veículos elétricos
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 2:16 PM] Alura
 Novo projeto recebido!
@@ -14159,7 +14159,7 @@ Descrição do projeto
 projeto simples de bandas de metal  nacional com as bandas Shaman, Angra e Sepultura. A tríade do metal nacional
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 2:17 PM] Alura
 Novo projeto recebido!
@@ -14174,7 +14174,7 @@ Descrição do projeto
 um dicionário de gírias brasileiras
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 2:18 PM] Alura
 Novo projeto recebido!
@@ -14189,7 +14189,7 @@ Descrição do projeto
 O Colorfy é uma aplicação web projetada para ajudar os usuários a encontrar a paleta de cores perfeita para seus projetos. Com uma função de busca simples, os usuários podem rapidamente encontrar combinações de cores com base em palavras-chave.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 2:19 PM] Alura
 Novo projeto recebido!
@@ -14219,7 +14219,7 @@ Descrição do projeto
 The Umbrella Academy - Website Este projeto é um site interativo dedicado à série "The Umbrella Academy". Ele oferece uma experiência visual única, apresentando uma sinopse sobre a série, juntamente com um carrossel de personagens principais, permitindo que os fãs explorem mais sobre cada um deles de maneira dinâmica.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 2:22 PM] Alura
 Novo projeto recebido!
@@ -14234,7 +14234,7 @@ Descrição do projeto
 Introdução O projeto em questão é um site de busca que visa facilitar o acesso à informação sobre tecnologias assistivas para pessoas com deficiência. A aplicação permite que o usuário pesquise por tipos de deficiência ou tecnologias específicas, retornando resultados relevantes e links para mais informações.  Objetivo: Apresentar o projeto de forma clara e concisa, destacando sua finalidade de promover a inclusão digital de pessoas com deficiência.  Público-alvo: Especificar quem se beneficiará da aplicação (pessoas com deficiência, profissionais da área, desenvolvedores, etc.).  Tecnologias utilizadas: Listar as principais tecnologias empregadas no desenvolvimento (HTML, CSS, JavaScript, etc.).
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 2:24 PM] Alura
 Novo projeto recebido!
@@ -14281,7 +14281,7 @@ Descrição do projeto
 O projeto foi realizado durante a imersão, aprendi novas tecnologias como o Javascript, e aprofundei ainda mais o conhecimento básico que tinha em htlm/css. O Tema do projeto foi inteligencias artificias, pois é uma tecnologia que me interessou bastante e virou um foco na minha carreira como dev.Então resumindo o projeto ele é uma aplicação bem simples, onde há uma introdução sobre o as IA´s e ao o usuaruio pesquisar sobre IA´s, ele tem novas descobertas a servem feitas sobre elas
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 2:25 PM] Alura
 Novo projeto recebido!
@@ -14296,7 +14296,7 @@ Descrição do projeto
 Mov.IA é um site de recomendações de filmes que oferece uma variedade de títulos populares, organizados por gênero, classificação e outros filtros. Com uma interface dinâmica e interativa, o site está em constante aprimoramento. Ainda sem IA implementada, novos ajustes estão em andamento para melhorar a experiência.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 2:25 PM] Alura
 Novo projeto recebido!
@@ -14311,7 +14311,7 @@ Descrição do projeto
 O HoTyre Blog é um site dedicado aos apaixonados por Fórmula 1. Com informações detalhadas sobre pilotos, equipes, GPs e um acervo de lendas, a plataforma oferece uma experiência imersiva no universo da maior categoria do automobilismo mundial. rojeto desenvolvido com HTML, CSS e JavaScript, utilizando JSON para armazenar os dados de forma eficiente. A plataforma oferece uma interface intuitiva e responsiva, permitindo que os usuários naveguem facilmente pelo conteúdo. A busca inteligente e o menu dinâmico garantem uma experiência personalizada.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 2:28 PM] Alura
 Novo projeto recebido!
@@ -14326,7 +14326,7 @@ Descrição do projeto
 O Catálogo de Peças de Informática é uma aplicação web interativa criada durante a Imersão Dev com Google Gemini, com o objetivo de facilitar a busca e visualização de diferentes componentes de hardware. O projeto utiliza HTML, CSS e JavaScript para oferecer uma interface moderna e funcional, permitindo que os usuários pesquisem e filtrem peças de informática, como processadores, placas de vídeo, e memórias RAM, de forma simples e eficiente.  A aplicação carrega dinamicamente os dados de cada peça a partir de um array de objetos e exibe as informações em tempo real conforme o usuário utiliza a funcionalidade de pesquisa.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 2:29 PM] Alura
 Novo projeto recebido!
@@ -14341,7 +14341,7 @@ Descrição do projeto
 Uma página de busca para conhecer mais sobre linguagens de programação.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 2:30 PM] Alura
 Novo projeto recebido!
@@ -14371,7 +14371,7 @@ Descrição do projeto
 buscador de informações sobre Animes
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 2:31 PM] Alura
 Novo projeto recebido!
@@ -17250,7 +17250,7 @@ Descrição do projeto
 One Piece Fan App é um projeto web interativo criado para os fãs do anime e mangá One Piece. Essa aplicação permite aos usuários pesquisar por seus personagens favoritos e descobrir detalhes como habilidades, recompensas e aparições.
 
 {Reactions}
-⭐ (10)
+⭐ (13)
 
 [9/7/2024 6:22 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
