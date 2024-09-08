@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (145)
+⭐ (146)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (58)
+⭐ (57)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -6100,7 +6100,7 @@ Descrição do projeto
 Cansado de passar horas procurando a receita perfeita? Com o Comidinhas Saborosas, você encontra todas as receitas que precisa em um só lugar. Economize tempo e dinheiro, explore novos sabores e prepare refeições deliciosas com facilidade. Eu construi esse site com html, css, javascript e com a ajuda do Gemini!
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/6/2024 5:40 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (110)
+⭐ (111)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23886,7 +23886,7 @@ Descrição do projeto
 Um site sobre personagens de League Of Legends, que inclui todos os personagens do jogo, as pessoas podem filtrar sua busca por: Nome do Campeão,Ano de lançamento, Rota Principal. Classe, Tipo de dano e Região de Origem
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -23903,7 +23903,7 @@ Descrição do projeto (cont.)
 s foram utilizados apenas como exemplos). Obrigado por visitarem meu site. Espero que gostem!
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
