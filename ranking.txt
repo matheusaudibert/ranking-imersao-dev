@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (135)
+⭐ (136)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
