@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (95)
+⭐ (96)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (109)
+⭐ (110)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (114)
+⭐ (116)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (100)
+⭐ (101)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (34)
+⭐ (36)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (48)
+⭐ (50)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -21027,7 +21027,7 @@ Descrição do projeto
 A página ajudará você a descobrir o biotipo corporal de acordo com as informações fornecidas: ectomorfo, mesomorfo ou endomorfo. Após isso, é possível conferir mais informações no botão "saiba mais". Ficar por dentro do seu biotipo é o melhor caminho para ter uma noção mais precisa das suas necessidades específicas em termos de nutrição e treinamento, permitindo um plano de saúde e fitness mais personalizado e eficaz.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -24203,7 +24203,7 @@ Descrição do projeto
 Site que possibilita gerar planos de corte de projetos de móveis para que marceneiros amadores, intusiastas e makers possam construir seus proprios móveis.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
