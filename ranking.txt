@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (152)
+⭐ (153)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (172)
+⭐ (173)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2779,7 +2779,7 @@ Descrição do projeto
 Quer aprender inglês, espanhol, alemão, francês e italiano de maneira divertida? Então não perca tempo e venha conhecer o Lang Studious um app web que monta questionários para você treinar a língua que você está estudando em uma interface amigável!!
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/6/2024 2:55 AM] Alura
 Novo projeto recebido!
@@ -2899,7 +2899,7 @@ Descrição do projeto
 AI.HUB: Sua biblioteca com as melhores INTELIGÊNCIAS ARTIFICIAIS do momento! Explore nosso catálogo e descubra IA's inovadoras para ASSISTÊNCIA, DESIGN, VÍDEO, MÚSICA e ESTUDOS. Além disso, o site conta com uma seção exclusiva que explica o funcionamento das IAs e seus diferentes tipos. ATUALIZAÇÕES estão a caminho! O site é totalmente RESPONSIVO, adaptando-se perfeitamente a qualquer dispositivo, para que você possa acessar quando e onde quiser! SEU APOIO é essencial para impulsionar o site e torná-lo conhecido por todos. Confira o link e aproveite: https://portfolio-ai-kvg6ycv0m-profile-z4ffarani.vercel.app. Agradeço desde já, future-se!
 
 {Reactions}
-⭐ (143)
+⭐ (144)
 
 [9/6/2024 5:45 AM] Alura
 Novo projeto recebido!
@@ -5162,7 +5162,7 @@ Descrição do projeto
 Durante o projeto "Imersão RPG", você irá mergulhar numa aventura onde guiará um Mago? Guerreiro? Bardo? Você escolhe quem vai partir numa aventura desde uma prisão subterrânea, até a cidade para finalmente descansar em paz. A estrutura do projeto se baseia em listas de objetos que guardam as informações dos personagens, história, etc. Além de funções responsáveis por diferentes mecânicas, como mostrar os personagens, comparar os atributos, contar a história, e mais.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/6/2024 3:51 PM] Alura
 Novo projeto recebido!
@@ -6100,7 +6100,7 @@ Descrição do projeto
 Cansado de passar horas procurando a receita perfeita? Com o Comidinhas Saborosas, você encontra todas as receitas que precisa em um só lugar. Economize tempo e dinheiro, explore novos sabores e prepare refeições deliciosas com facilidade. Eu construi esse site com html, css, javascript e com a ajuda do Gemini!
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/6/2024 5:40 PM] Alura
 Novo projeto recebido!
@@ -10224,7 +10224,7 @@ Descrição do projeto
 Página voltada para apresentar os maiores cantores do mundo.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 12:26 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (92)
+⭐ (93)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (8)
+⭐ (10)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
