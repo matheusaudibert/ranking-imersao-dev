@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (253)
+⭐ (254)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (81)
+⭐ (82)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -3783,7 +3783,7 @@ Descrição do projeto
 Minha aplicação é dedicada aos jogadores de Call of Duty: Warzone. Ela inclui um sistema de pesquisa que permite encontrar jogadores e visualizar suas redes sociais de stream, além de uma seção de notícias com atualizações e informações sobre o jogo, como torneios, atualização das Seasons e uma ferramenta para os melhores ajustes de armas em cada Modo de jogo. Com um design criativo, moderno e simples.
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/6/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -5192,7 +5192,7 @@ Descrição do projeto
 Já se perguntou por que a Lua muda de forma? Ou como as fases lunares influenciam a natureza e até mesmo a gente? Essa aplicação é a sua porta de entrada para um universo de curiosidades sobre o nosso satélite natural!
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/6/2024 4:00 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (142)
+⭐ (143)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (56)
+⭐ (57)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -24248,7 +24248,7 @@ Descrição do projeto
 Este projeto simula um terminal web que permite você interagir com comandos.  Tecnologias utilizadas: - HTML - CSS - JavaScript  Usabilidade: Fique à vontade para explorar os comandos disponíveis e me diga o que achou da experiência!  Easter Eggs: Existem alguns segredos escondidos neste terminal  Será que você consegue encontrá-los todos?  P.S. Não se preocupe, não há nada malicioso escondido por aqui. Apenas algumas brincadeiras para te entreter.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
@@ -24329,7 +24329,7 @@ Descrição do projeto
 Endereços dos hospitais da rede SUS em Belo Horizonte, MG - com especialidades
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24344,7 +24344,7 @@ Descrição do projeto
 Em apoio ao setembro amarelo, a ideia era mostra as umdades CAPS disponíveis na cidade de Fortaleza para quem busca ajuda.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24359,7 +24359,7 @@ Descrição do projeto
 Um banco de dados do universo Star Wars
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24374,7 +24374,7 @@ Descrição do projeto
 uma pagina simples para quem deseja começar a jogar o jogo dota 2
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24389,7 +24389,7 @@ Descrição do projeto
 Focus é um aplicativo web simples e intuitivo que te ajuda a organizar suas tarefas e aumentar sua produtividade. Crie listas personalizadas, marque as tarefas como concluídas e acompanhe seu progresso de forma visual e motivadora. Com Focus, você terá mais controle sobre seu tempo e alcançará seus objetivos com mais facilidade.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24419,7 +24419,7 @@ Descrição do projeto
 Projeto de batalha de herois contra monstros épicos dos RPGs clássicos.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
@@ -24434,7 +24434,7 @@ Descrição do projeto
 Este projeto foi criado para combinar a paixão por cães com o universo épico de Game of Thrones. Ao navegar pelo site, você poderá selecionar a raça do seu cachorro e descobrir qual das lendárias casas de Westeros mais combina com as características e personalidades caninas.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
@@ -24464,7 +24464,7 @@ Descrição do projeto
 Guia interativo de solução de problemas de PC com busca em tempo real. Interface responsiva, base de dados de problemas comuns e passos de solução. Otimizado para performance e acessibilidade.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
@@ -24479,7 +24479,7 @@ Descrição do projeto
 Projeto de busca de filmes e series
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24494,7 +24494,7 @@ Descrição do projeto
 Um site feito usando HTML, CSS  e JavaScript. Sobre os personagens do famoso jogo de terror Five Nights at Freddy's, nomeando e descrevendo os personagens do primeiro até o quarto jogo.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24539,7 +24539,7 @@ Descrição do projeto
 Site tipo portfolio para minha irmã que trabalha Arquitetura de Interiores. no ramo de
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24554,7 +24554,7 @@ Descrição do projeto
 Amo video games desde criaça, então nesse projeto quis trazer um pouco de cada console de video game.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24569,7 +24569,7 @@ Descrição do projeto
 Projeto de pesquisa de TDAH
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24584,7 +24584,7 @@ Descrição do projeto
 Empresa TECIMERS
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24599,7 +24599,7 @@ Descrição do projeto
 Objetivo:  Criar uma plataforma online que sirva como um guia completo para os amantes do terror, com foco em explorar os diversos subgêneros do gênero e oferecer listas de filmes relevantes para cada um. A ideia é proporcionar uma experiência educativa e divertida, ajudando os usuários a descobrirem novos filmes e aprofundarem seus conhecimentos sobre o terror.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
