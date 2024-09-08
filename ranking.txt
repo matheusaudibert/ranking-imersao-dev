@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (141)
+⭐ (142)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (101)
+⭐ (102)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (75)
+⭐ (76)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -17912,7 +17912,7 @@ Descrição do projeto
 Essa aplicação web desenvolvida durante a imersão, projetada para ajudar os usuários a encontrar e visualizar vídeos de exercícios físicos. O projeto exibe vídeos a partir de um conjunto de dados pré-definidos, sem utilizar APIs externas, e é totalmente gerenciado com uma única página.   https://fitessence.vercel.app/
 
 {Reactions}
-⭐ (51)
+⭐ (52)
 
 [9/7/2024 7:07 PM] Alura
 Novo projeto recebido!
@@ -19992,7 +19992,7 @@ Descrição do projeto
 Projeto focado em buscas de jogos antigos
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:03 PM] Alura
 Novo projeto recebido!
@@ -20007,7 +20007,7 @@ Descrição do projeto
 O VegBi é um site de receitas, voltado para todas as pessoas mas principalmente aos veganos que podem encontrar dificuldades de achar receitas gostosas ao adotarem a postura Veg. É um site simples, porém funcional. Aplicando tudo que foi aprendido na Imersão Alura com Gemini.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:03 PM] Alura
 Novo projeto recebido!
@@ -20022,7 +20022,7 @@ Descrição do projeto
 Um site de pesquisas de plugins do editor NeoVim. E um pequeno chatbot para ajudar a conhecer os plugins.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 9:03 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (39)
+⭐ (38)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
