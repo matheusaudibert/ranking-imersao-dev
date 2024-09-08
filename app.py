@@ -114,8 +114,9 @@ def main():
                 st.sidebar.markdown("Não te encontrei.")
 
     with st.sidebar:
-      st.markdown(f"⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
-      st.markdown(f"🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)")
+      st.markdown(f"[⭐ Deixe o seu like no meu projeto!](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
+      st.markdown(f"[🌐 Acesse o meu projeto](https://devspaceee.vercel.app/index.html)")
+      st.markdown(f"[🤿 Imersão Dev com Gemini [Guia de Mergulho]](https://devspaceee.vercel.app/index.html)")
 
 if __name__ == "__main__":
     main()
