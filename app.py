@@ -49,7 +49,7 @@ def display_projects(st, title, projects, start_index):
 def main():
     st.set_page_config(page_title="Ranking Alura", layout="wide", initial_sidebar_state="auto", menu_items=None)
 
-    st.title("🏆 Ranking Alura :gray[Não Oficial] - Última Atualização (12:30)")
+    st.title("🏆 Ranking Alura :gray[Não Oficial] - Última Atualização (00:00)")
 
     
 
@@ -71,7 +71,7 @@ def main():
     with col3:
         display_projects(st, "#", top_30, start_index=21)
 
-    st.markdown("## ⏰ Próxima atualização às 00:00. Total de projetos: 1,677")
+    st.markdown("## ⏰ Próxima atualização às 01:00. Total de projetos: 1,677")
     st.markdown(":orange[⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)]")
     st.markdown(":blue[🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)]")
     st.markdown("Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura)")
