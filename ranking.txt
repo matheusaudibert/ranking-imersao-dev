@@ -1202,7 +1202,7 @@ Descrição do projeto
 Projeto criado durante a Imersão_Dev da Alura com Google Gemini
 
 {Reactions}
-⭐ (93)
+⭐ (94)
 
 [9/5/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (133)
+⭐ (134)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -24509,7 +24509,7 @@ Descrição do projeto
 Uma ferramenta simples e intuitiva que te ajuda a descobrir novas oportunidades de trabalho e renda extra. Basta digitar uma palavra-chave relacionada à área que você busca e pronto! Você terá acesso a uma lista de plataformas e projetos que podem te interessar.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -25380,7 +25380,7 @@ Descrição do projeto
 O projeto consiste em uma página interativa que permite os usuários realizarem pesquisas textuais para encontrar um personagem do jogo *Honkai: Star Rail*, além de poderem filtrar personagens por elementos e caminhos. Ao clicar no personagem, o usuário é direcionado para um link com mais informações.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 ==============================================================
 Exported 1,677 message(s)
