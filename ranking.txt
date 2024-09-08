@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (231)
+⭐ (233)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -17837,7 +17837,7 @@ Descrição do projeto
 Este projeto foi feito com carinho e maior dedicação, um site feito para os gamers se atentarem aos lançamentos dos jogos novos desse ano de 2024. Tem alguns bugs mas estamos corrigindo aos poucos, aproveitem para ver os trailers e curtirem os jogos novos que vão lançar :) !!
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 7:03 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
