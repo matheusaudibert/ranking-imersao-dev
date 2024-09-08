@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (192)
+⭐ (193)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (108)
+⭐ (109)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -11511,7 +11511,7 @@ Descrição do projeto
 Um programa para aprender sobre países, capitais e bandeiras. Ele possui três modos, uma voltada para o simples aprendizado e pesquisa e os outros dois voltados para o desafio do conhecimento de capitais e bandeiras.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 3:48 AM] Alura
 Novo projeto recebido!
@@ -19221,7 +19221,7 @@ Descrição do projeto
 Essa plataforma online revoluciona a avaliação psicológica, oferecendo aos profissionais de saúde mental um acervo abrangente e intuitivo de escalas psicométricas. Desenvolvida durante [Imersão Dev Alura Gemini], esta solução inovadora simplifica o processo de encontrar escalas adequadas para o diagnóstico, economizando tempo e aumentando a precisão. Ao democratizar o acesso a ferramentas de qualidade, contribuímos significativamente para o bem-estar emocional da população. Nossa interface amigável, mesmo para usuários sem experiência tecnológica, permite que os profissionais dediquem mais tempo aos pacientes. Além de melhorar a qualidade de vida através de diagnósticos precisos, empoderamos os profissionais com recursos modernos e fomentamos a pesquisa na área da psicologia, estabelecendo novos padrões na saúde mental.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 8:20 PM] Alura
 Novo projeto recebido!
@@ -21466,7 +21466,7 @@ Descrição do projeto
 E se o Jesse Pinkman, da aclamada série Breaking Bad, abrisse um domínio para expressar seus pensamentos sobre os filmes que vem consumindo após ser solto de seu cativeiro? Uma espécie de letterboxd de um ex fabricante de mentafetamina azul que estudou o básico de codigos e agora encanta o mundo com suas críticas "refinadas".
 
 {Reactions}
-⭐ (15)
+⭐ (18)
 
 [9/7/2024 10:16 PM] Alura
 Novo projeto recebido!
