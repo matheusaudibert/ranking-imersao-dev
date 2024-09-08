@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (178)
+⭐ (179)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (132)
+⭐ (133)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -2779,7 +2779,7 @@ Descrição do projeto
 Quer aprender inglês, espanhol, alemão, francês e italiano de maneira divertida? Então não perca tempo e venha conhecer o Lang Studious um app web que monta questionários para você treinar a língua que você está estudando em uma interface amigável!!
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/6/2024 2:55 AM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -21466,7 +21466,7 @@ Descrição do projeto
 E se o Jesse Pinkman, da aclamada série Breaking Bad, abrisse um domínio para expressar seus pensamentos sobre os filmes que vem consumindo após ser solto de seu cativeiro? Uma espécie de letterboxd de um ex fabricante de mentafetamina azul que estudou o básico de codigos e agora encanta o mundo com suas críticas "refinadas".
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 10:16 PM] Alura
 Novo projeto recebido!
@@ -24755,7 +24755,7 @@ Descrição do projeto
 Website que recomenda documentários de diversos tipos. Basta escolher um tema, e você será direcionado para as recomendações.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
