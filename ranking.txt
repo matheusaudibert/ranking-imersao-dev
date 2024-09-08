@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (97)
+⭐ (98)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -14491,7 +14491,7 @@ Descrição do projeto
 Patas Gemini: Ajude a encontrar um novo melhor amigo!
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -21087,7 +21087,7 @@ Descrição do projeto
 Um projetinho simples em que o usuário pode fazer uma pesquisa de um animal do seu interesse.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 10:00 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (42)
+⭐ (44)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23736,7 +23736,7 @@ Descrição do projeto
 Este projeto, desenvolvido durante a Imersão Alura com Google Gemini, busca trazer um toque brasileiro a um clássico dos jogos de cartas: o Trunfo. Com adaptações nas regras tradicionais, o objetivo é oferecer uma experiência de jogo mais simples e acessível.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
