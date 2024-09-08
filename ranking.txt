@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (253)
+⭐ (254)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -11254,7 +11254,7 @@ Descrição do projeto
 O projeto desenvolve um sistema de autoatendimento para uma loja de marmitas. Através de um menu interativo e um totem, os clientes personalizam seus pedidos, escolhendo o tamanho da embalagem e os ingredientes principais: carboidrato, proteína e guarnição. Após a confirmação, o sistema emite uma mensagem de agradecimento, finalizando o processo de forma intuitiva e eficiente.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 3:18 AM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (92)
+⭐ (93)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (67)
+⭐ (68)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -19596,7 +19596,7 @@ Descrição do projeto
 Mundo da Imaginação é uma aplicação web voltada para ajudar os usuários a explorar livros através de um sistema de busca simples e acessível. O projeto inclui funcionalidades voltadas para acessibilidade, como opções de fontes amigáveis para pessoas com dislexia, paletas de cores adaptadas para daltônicos e link de AudioBooks para pessoas com deficiência visual.
 
 {Reactions}
-⭐ (7)
+⭐ (15)
 
 [9/7/2024 8:38 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
