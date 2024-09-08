@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (144)
+⭐ (145)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -3366,7 +3366,7 @@ Descrição do projeto
 🎬 Filmes que Todo Mundo Deve Ver! 🌟
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/6/2024 11:42 AM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -17717,7 +17717,7 @@ Descrição do projeto
 Esse projeto foi o meu primeiro contato com a programação. Tesouros perdidos mostra alguns dos animais que estão ameaçados de extinção em cada bioma brasileiro. Minha ideia foi apresentar a diversidade da fauna brasileira através de uma pequena descrição de cada espécie e trazer as principais ameaças enfrentadas por elas a fim de conscientizar as pessoas sobre a importância da biodiversidade brasileira. https://tesouro-perdido.vercel.app/
 
 {Reactions}
-⭐ (86)
+⭐ (87)
 
 [9/7/2024 6:56 PM] Alura
 Novo projeto recebido!
@@ -17837,7 +17837,7 @@ Descrição do projeto
 Este projeto foi feito com carinho e maior dedicação, um site feito para os gamers se atentarem aos lançamentos dos jogos novos desse ano de 2024. Tem alguns bugs mas estamos corrigindo aos poucos, aproveitem para ver os trailers e curtirem os jogos novos que vão lançar :) !!
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 7:03 PM] Alura
 Novo projeto recebido!
@@ -18032,7 +18032,7 @@ Descrição do projeto
 Criei o projeto com o propósito de fazer com que as pessoas que hoje estão acostumadas a tomar um remédio para cada dor que surge no dia a dia, mudem este hábito e optem por opções mais naturais e muito mais benéficas. No site FarmaChá não encontra-se apenas chá, mas diversas opções naturais (no momento uma outra opção incluída foi "óleos essenciais"), porém sabemos que os chás são os mais acessíveis a todos os públicos. No campo de busca pode-se digitar a dor, incômodo, ou então diretamente "chá", assim todos serão encontrados, já que sabe-se que os mesmos não servem apenas para reparar dores, mas também para promover o bem-estar e prevenir futuros problemas.
 
 {Reactions}
-⭐ (18)
+⭐ (17)
 
 [9/7/2024 7:23 PM] Alura
 Novo projeto recebido!
