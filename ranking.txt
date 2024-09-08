@@ -16256,7 +16256,7 @@ Descrição do projeto
 com carinho - um espaço para se entender e se auto-regular. A ideia nasceu da minha própria necessidade e vontade de ter as técnicas DBT facilitadas para uso do dia a dia.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 5:23 PM] Alura
 Novo projeto recebido!
@@ -22832,7 +22832,7 @@ Descrição do projeto
 Descubra o Brasil - Buscador de cidades turísticas, para facilitar o planejamento da próxima viagem, tendo dicas de hotéis, pontos turísticos e facilitador para compra de passagem.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (72)
+⭐ (73)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
