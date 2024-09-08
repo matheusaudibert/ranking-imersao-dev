@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (271)
+⭐ (272)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -9320,7 +9320,7 @@ Descrição do projeto
 Mergulhe no mundo mágico do Studio Ghibli com um só clique! Pesquise filmes, explore sinopses e ouça trilhas sonoras. Tudo isso em um só lugar, feito com muito carinho para os fãs. A plataforma, construída utilizando as tecnologias HTML, CSS, JavaScript e Gemini, oferece um recurso valioso para a pesquisa e o estudo da animação japonesa. Através de uma interface intuitiva e recursos de busca avançados, o site permite aos usuários acessar informações detalhadas sobre cada filme, como sinopse e trilha sonora. Os resultados obtidos com o desenvolvimento deste projeto demonstram a viabilidade de utilizar ferramentas digitais para a organização e divulgação de acervos audiovisuais, contribuindo para a preservação e valorização do patrimônio cultural.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/6/2024 11:07 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (107)
+⭐ (108)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
