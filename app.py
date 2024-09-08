@@ -51,7 +51,7 @@ def main():
 
     st.title("🏆 Ranking Alura :gray[Não Oficial] - Última Atualização (12:30)")
 
-    st.markdown("# :rainbow[Deixe o seu like no meu projeto! [DEVSPACE](https://devspaceee.vercel.app/index.html)]")
+    
 
     input_filename = 'ranking.txt'
     top_30_projects = parse_txt(input_filename)
@@ -72,6 +72,7 @@ def main():
         display_projects(st, "#", top_30, start_index=21)
 
     st.markdown("## Próxima atualização às 00:00.")
+    st.markdown("## :violet[Deixe o seu like no meu projeto! [DEVSPACE](https://devspaceee.vercel.app/index.html)]")
     st.markdown("## Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura).")
 
 if __name__ == "__main__":
