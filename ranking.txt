@@ -1562,7 +1562,7 @@ Descrição do projeto
 Uma plataforma de compras, moderna e intuitiva.Oferecendo uma experiência rápida e eficiente juntamente com uma interface amigável e recursos que garantem uma navegação fluida. > Link Deploy: https://ecomercebyniel.netlify.app
 
 {Reactions}
-⭐ (187)
+⭐ (189)
 
 [9/5/2024 6:51 PM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (122)
+⭐ (121)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (106)
+⭐ (107)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -12504,7 +12504,7 @@ Descrição do projeto
 O projeto consiste em uma aplicação em HTML, CSS e Javascript onde o usuário pode digitar sua data de aniversário e o sistema retornará um acontecimento histórico que aconteceu no mundo nesse dia. O projeto foi desenvolvido durante a imersão dev!
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 11:27 AM] Alura
 Novo projeto recebido!
@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
