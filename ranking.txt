@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (135)
+⭐ (134)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -5642,7 +5642,7 @@ Descrição do projeto
 Olá Pessoas, o meu projeto consiste em um site onde abordo filmes baseados em casos reais, mais especificamente true crimes e nele visualizamos a correlação entre o acontecimento real e a dramaturgia e também mostrando algumas curiosidades. As ferramentas utilizadas foram somente html, css e javaScript, ao acessar a página o usuário é comunicado através de um poup-up sobre aviso de conteúdo sensível e precisa clicar em ‘’estou ciente’’ para poder prosseguir. Mais informações disponíveis no readme
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/6/2024 4:55 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (129)
+⭐ (130)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -21391,7 +21391,7 @@ Descrição do projeto
 O Mundo RPG é uma plataforma web que permite a criação de fichas de personagens de RPG de mesa. Nele você tem acesso a criação de fichas de diversas classes como: Alquimista, Assassino, Bardo/Dancarina, Bruxo, Cacador, Druida, Guerreiro, Ladrao, Mago, Monge, Paladino, Sacerdote
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 10:13 PM] Alura
 Novo projeto recebido!
