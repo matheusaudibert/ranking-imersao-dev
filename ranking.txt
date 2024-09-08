@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (234)
+⭐ (235)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -2899,7 +2899,7 @@ Descrição do projeto
 AI.HUB: Sua biblioteca com as melhores INTELIGÊNCIAS ARTIFICIAIS do momento! Explore nosso catálogo e descubra IA's inovadoras para ASSISTÊNCIA, DESIGN, VÍDEO, MÚSICA e ESTUDOS. Além disso, o site conta com uma seção exclusiva que explica o funcionamento das IAs e seus diferentes tipos. ATUALIZAÇÕES estão a caminho! O site é totalmente RESPONSIVO, adaptando-se perfeitamente a qualquer dispositivo, para que você possa acessar quando e onde quiser! SEU APOIO é essencial para impulsionar o site e torná-lo conhecido por todos. Confira o link e aproveite: https://portfolio-ai-kvg6ycv0m-profile-z4ffarani.vercel.app. Agradeço desde já, future-se!
 
 {Reactions}
-⭐ (140)
+⭐ (142)
 
 [9/6/2024 5:45 AM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (137)
+⭐ (138)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (186)
+⭐ (187)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -16691,7 +16691,7 @@ Descrição do projeto
 Mecanismo de busca de filmes de forma iterativa e poderosa na acertividade. Mais de 31 mil filmes estão disponíveis.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 5:54 PM] Alura
 Novo projeto recebido!
@@ -18017,7 +18017,7 @@ Descrição do projeto
 Desenvolvido com HTML, CSS e JavaScript, o Observatório COP30 é um projeto open-source que busca democratizar o acesso à informação sobre a COP30 com uma plataforma que oferece uma interface intuitiva. Pré-visualização: https://cop30.vercel.app/
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 7:21 PM] Alura
 Novo projeto recebido!
@@ -20292,7 +20292,7 @@ Descrição do projeto
 O Oráculo do Tarot, por Ana Gemini. Conselhos diários e respostas que podem te apoiar em momentos decisivos da sua vida.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 9:17 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -25162,7 +25162,7 @@ Descrição do projeto
 Demonstrativo Simples Webtoon
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25207,7 +25207,7 @@ Descrição do projeto
 CAST MARVEL é um site de busca simples e fácil de usar, projetado para ajudar os fãs da Marvel a encontrar seus atores favoritos. Com uma interface intuitiva e resultados precisos, o CAST MARVEL torna a sua busca por informações sobre os atores da Marvel mais rápida e agradável.
 
 {Reactions}
-⭐ (11)
+⭐ (10)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25230,7 +25230,7 @@ Descrição do projeto (cont.)
 acho indispensável). E deu "tudo" certo! Yay!🥳 (também fiz Várias outras coisas, capricho, como por exemplo adicionar ícones... Ficou muito legal)  Nessa prática eu fixei MUITO tudo o que aprendemos na imersão, e ainda aprendi mais... Foi demais. Gostei bastante do resultado final, espero que você também goste, e que seja útil... Quem sabe? Você pode baixar e editar para se tornar seu próprio resumo inteligente!  * Criado por Louy Santana Fernandes Maracaipe durante a Imersão Dev com Google Gemini 2024/2.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25260,7 +25260,7 @@ Descrição do projeto
 "Vamos de DDS, AI?" é um parceiro amigável e inteligente para encontrar o DDS perfeito! Você pode pesquisar por tema ou então se surpreender com nossas sugestões de conteúdo, tudo para tornar a segurança no trabalho mais leve e inspiradora. Chega de DDS chatos, bora aprender com a IA!
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25275,7 +25275,7 @@ Descrição do projeto
 Site para pesquisar um fruto que você acha legal com Imersão Dev e Google Gemini‼
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
