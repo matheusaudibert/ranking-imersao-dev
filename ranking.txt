@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (175)
+⭐ (176)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (108)
+⭐ (109)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (64)
+⭐ (65)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -8860,7 +8860,7 @@ Descrição do projeto
 Este projeto web é um catálogo interativo dedicado aos fãs da franquia Final Fantasy. Desenvolvido durante a imersão Dev da Alura com Gemini, o objetivo principal é proporcionar aos usuários uma experiência imersiva e completa no universo de Final Fantasy.
 
 {Reactions}
-⭐ (31)
+⭐ (33)
 
 [9/6/2024 10:23 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (75)
+⭐ (76)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -18122,7 +18122,7 @@ Descrição do projeto
 Saudações, Neste projeto falo da “Rica Gastronomia de Moçambique” um país que faz parte da CPLP (assim com Brasil) situada na África Oriental, é com muito orgulho que apresento… sem mais de longas entrem nos nossos pratos típicos, e desfrutem os sabores deste lado do mundo.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 7:27 PM] Alura
 Novo projeto recebido!
@@ -18467,7 +18467,7 @@ Descrição do projeto
 Jogo para testar seu cérebro e a capacidade de lembrar o nome das músicas que está ouvindo, podendo também descobrir novas músicas e ampliar seu repertório!
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 7:39 PM] Alura
 Novo projeto recebido!
@@ -20652,7 +20652,7 @@ Descrição do projeto
 O Portal do Cosmos é um site simples e divertido que te ajuda a explorar o vasto universo! Com ele, você pode pesquisar sobre qualquer assunto relacionado ao espaço e descobrir informações incríveis sobre planetas, estrelas, galáxias e muito mais.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 9:36 PM] Alura
 Novo projeto recebido!
