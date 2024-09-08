@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (259)
+⭐ (260)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (166)
+⭐ (167)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (250)
+⭐ (251)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -988,7 +988,7 @@ Descrição do projeto
 Que animal posso adotar? é um simples catálogo de possíveis animais que você pode adotar!
 
 {Reactions}
-⭐ (67)
+⭐ (68)
 
 [9/5/2024 4:07 PM] Alura
 Novo projeto recebido!
@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -3548,7 +3548,7 @@ Descrição do projeto
 Eu fiz um buscador dos planetas do sistema solar, adicionei botões que aparece uma curiosidade quando passa o mouse em cima, e a barra de pesquisas para buscar cada planeta. Agradeço muito pela oportunidade, este foi o meu primeiro site e eu estou realmente muito agradecido pelos conhecimentos compartilhados e ainda mais, de graça!
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/6/2024 12:12 PM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (123)
+⭐ (124)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (194)
+⭐ (195)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -11796,7 +11796,7 @@ Descrição do projeto
 Ao iniciar a imersão, com meu cafezinho sobre a mesa, surgiu a ideia de criar o projeto sobre "Tipos de Cafés" e assim iniciou os estudos!  Imagina um site onde você pode encontrar o café perfeito para aquele seu momento relaxante? É isso que esse projeto faz! Com ele, você pode pesquisar por tipos de café, ver suas características e até mesmo descobrir novas opções para experimentar.  Como funciona essa mágica?  Você digita: Escreve o tipo de café que você procura na barra de pesquisa. É vasculhado uma lista de tipos de cafés para encontrar aqueles que combinam com a sua busca. Os resultados aparecem na tela, mostrando tudo sobre os cafés encontrados, como sabor, aroma e entre outras coisas.
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 5:55 AM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -22123,7 +22123,7 @@ Descrição do projeto
 Um projeto simples de apresentação, para quem tem interesse nas tecnologias criadas por Tony Stark. Listando 14 criações, apresentei apenas 6 mais vistas, com links como ponte á outras informações e curiosidades
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 10:48 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
