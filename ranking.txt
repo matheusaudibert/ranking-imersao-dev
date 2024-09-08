@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (142)
+⭐ (143)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -2974,7 +2974,7 @@ Descrição do projeto
 CinemaFlix é uma plataforma de streaming fictícia desenvolvida durante a Imersão DEV da Alura com Google Gemini, utilizando HTML, CSS e JavaScript. O projeto oferece uma interface moderna e intuitiva, permitindo aos usuários explorar uma vasta coleção de filmes, séries, animes e documentários. Com funcionalidades como pesquisa em tempo real, filtragem por gênero e exibição dinâmica de conteúdo, o CinemaFlix proporciona uma experiência interativa e envolvente. O projeto também é documentado com comentários detalhados para facilitar a compreensão do código e a manutenção futura.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/6/2024 8:15 AM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (95)
+⭐ (96)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -20292,7 +20292,7 @@ Descrição do projeto
 O Oráculo do Tarot, por Ana Gemini. Conselhos diários e respostas que podem te apoiar em momentos decisivos da sua vida.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 9:17 PM] Alura
 Novo projeto recebido!
@@ -20472,7 +20472,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 9:26 PM] Alura
 Novo projeto recebido!
@@ -20817,7 +20817,7 @@ Descrição do projeto
 "Onde Joga Isso Fora?" é a aplicação que vai reciclar a ideia de como você deve lidar com seus resíduos. 🌎 Imagine um lugar onde encontrar um ponto de coleta para qualquer tipo de material é tão fácil quanto pedir um delivery! 🍕
 
 {Reactions}
-⭐ (5)
+⭐ (7)
 
 [9/7/2024 9:46 PM] Alura
 Novo projeto recebido!
