@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (140)
+⭐ (141)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -11873,7 +11873,7 @@ Descrição do projeto
 Um website para mostrar um evento e um resumo da história do protagonista de um jogo que quero criar.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 7:31 AM] Alura
 Novo projeto recebido!
@@ -22063,7 +22063,7 @@ Descrição do projeto
 Base com dados e fotos de planetas. Tentei criar um jogo com Gemini para incluir, mas após ficar horas e horas, consegui fazer um triângulo mover e exibir mensagem quando completa o percurso.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 10:44 PM] Alura
 Novo projeto recebido!
