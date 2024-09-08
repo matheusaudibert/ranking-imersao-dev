@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (199)
+⭐ (200)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (97)
+⭐ (98)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (170)
+⭐ (171)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -14204,7 +14204,7 @@ Descrição do projeto
 Sinta o cinema!  O FilmêMood te convida a explorar o mundo do cinema de uma forma totalmente nova. Escolha a sua emoção e descubra o filme perfeito para o seu momento.  Como funciona:  É simples! Basta selecionar a emoção que você está sentindo, entre feliz, triste, ansioso e apaixonado,e deixar a que faremos o resto.  Diferenciais:  Rápido e fácil: Encontre o filme ideal em poucos segundos. Personalizado: Filmes escolhidos especialmente para você. Diversão garantida: Prepare-se para se emocionar, rir e se apaixonar. Público-alvo:  Amantes de cinema de todas as idades que buscam uma experiência cinematográfica rápida e divertida.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 2:21 PM] Alura
 Novo projeto recebido!
@@ -25260,7 +25260,7 @@ Descrição do projeto
 "Vamos de DDS, AI?" é um parceiro amigável e inteligente para encontrar o DDS perfeito! Você pode pesquisar por tema ou então se surpreender com nossas sugestões de conteúdo, tudo para tornar a segurança no trabalho mais leve e inspiradora. Chega de DDS chatos, bora aprender com a IA!
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
