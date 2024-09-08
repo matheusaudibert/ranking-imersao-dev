@@ -5552,7 +5552,7 @@ Descrição do projeto
 O jogo que te desafia a pensar!  Escolha o tema e divirta-se adivinhando palavras com a ajuda da inteligência artificial para gerar um tema a sua escolha. Desenvolvi usando apenas JavaScript, HTML e CSS.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/6/2024 4:48 PM] Alura
 Novo projeto recebido!
@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -12053,7 +12053,7 @@ Descrição do projeto
 Projeto fictício sobre empreendimento de uma empresa de Design Gráfico e Front-End
 
 {Reactions}
-⭐ (14)
+⭐ (21)
 
 [9/7/2024 9:48 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (108)
+⭐ (109)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -22577,7 +22577,7 @@ Descrição do projeto
 Esta Pokédex é uma aplicação de busca de Pokémons, que permite ao usuário pesquisar um Pokémon pelo seu nome. A aplicação exibe o número, nome, imagem e tipos de cada Pokémon encontrado.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 11:04 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -24143,7 +24143,7 @@ Descrição do projeto
 ☕ Sobre a Aplicação Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.Como Funciona Pesquisa Intuitiva: Digite o nome do café que você procura e clique no botão "Pesquisar". Resultados Personalizados: A aplicação irá procurar por palavras-chave no título, descrição e tags dos cafés, mostrando os resultados mais relevantes.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
@@ -24248,7 +24248,7 @@ Descrição do projeto
 Este projeto simula um terminal web que permite você interagir com comandos.  Tecnologias utilizadas: - HTML - CSS - JavaScript  Usabilidade: Fique à vontade para explorar os comandos disponíveis e me diga o que achou da experiência!  Easter Eggs: Existem alguns segredos escondidos neste terminal  Será que você consegue encontrá-los todos?  P.S. Não se preocupe, não há nada malicioso escondido por aqui. Apenas algumas brincadeiras para te entreter.
 
 {Reactions}
-⭐ (22)
+⭐ (24)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
