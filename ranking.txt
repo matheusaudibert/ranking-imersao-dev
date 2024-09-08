@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (59)
+⭐ (60)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -10376,7 +10376,7 @@ Descrição do projeto
 O projeto "Alimentos para Cães - Consulta de Permissão de Consumo" é uma aplicação web criada com o objetivo de auxiliar tutores de cães a identificarem de forma rápida e precisa quais alimentos são seguros para seus pets. Com uma interface interativa e responsiva, os usuários podem buscar alimentos específicos e descobrir se eles são permitidos, moderados ou proibidos para o consumo canino.  A aplicação organiza as informações em três categorias principais: alimentos permitidos, que podem ser consumidos sem preocupações; alimentos de moderação, que devem ser oferecidos com cautela; e alimentos proibidos, que representam riscos à saúde dos cães. O projeto também oferece uma interface visual amigável, que se adapta a diferentes dispositivos e tamanhos de tela.  Desenvolvido como parte da Imersão Dev com o Gemini da Google, promovida pela Alura, o projeto utiliza HTML5, CSS3, JavaScript e JSON para criar uma experiência eficiente e intuitiva.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -12759,7 +12759,7 @@ Descrição do projeto
 LevelSkills é uma plataforma que avalia habilidades técnicas e comportamentais por meio de quizzes interativos. Ela ajuda usuários a identificar pontos fortes e áreas de melhoria, oferecendo feedback útil para aprimorar currículos e preparar-se melhor para entrevistas de emprego.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 12:06 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -17250,7 +17250,7 @@ Descrição do projeto
 One Piece Fan App é um projeto web interativo criado para os fãs do anime e mangá One Piece. Essa aplicação permite aos usuários pesquisar por seus personagens favoritos e descobrir detalhes como habilidades, recompensas e aparições.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 6:22 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
