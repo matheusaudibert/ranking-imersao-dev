@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (144)
+⭐ (145)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (192)
+⭐ (193)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -6869,7 +6869,7 @@ Descrição do projeto
 Este é meu primeiro projeto no qual tive contato com as linguagens de programação HTML, CSS e JavaScript! Me inspirei nos meus pais que tem um Restaurante para a realização do meu projeto, no qual criei um site para facilitar o conhecimento e tirar as dúvidas dos futuros clientes! Acesse o site em: https://santa-luiza.vercel.app
 
 {Reactions}
-⭐ (157)
+⭐ (158)
 
 [9/6/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (89)
+⭐ (88)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -14401,7 +14401,7 @@ Descrição do projeto
 Miau da Sorte é um site inspirado nos tradicionais biscoitos da sorte, mas com um toque especial: a fofura dos gatos! Ao clicar no gatinho da sorte, você receberá uma mensagem inspiradora e positiva para te acompanhar em seus dias.
 
 {Reactions}
-⭐ (17)
+⭐ (19)
 
 [9/7/2024 2:39 PM] Alura
 Novo projeto recebido!
@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (25)
+⭐ (28)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -17837,7 +17837,7 @@ Descrição do projeto
 Este projeto foi feito com carinho e maior dedicação, um site feito para os gamers se atentarem aos lançamentos dos jogos novos desse ano de 2024. Tem alguns bugs mas estamos corrigindo aos poucos, aproveitem para ver os trailers e curtirem os jogos novos que vão lançar :) !!
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 7:03 PM] Alura
 Novo projeto recebido!
@@ -21958,7 +21958,7 @@ Descrição do projeto
 Este projeto web visa auxiliar professores na criação de conteúdos inclusivos. Ao inserir um texto, perguntas e uma descrição das dificuldades do aluno, a ferramenta gera respostas personalizadas, facilitando a inclusão em sala de aula.
 
 {Reactions}
-⭐ (7)
+⭐ (11)
 
 [9/7/2024 10:40 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
