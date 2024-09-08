@@ -2689,7 +2689,7 @@ Descrição do projeto
 Se você quer conhecer melhor algumas das características do seu Homem-Aranha favorito, chegou ao lugar certo! Aqui, você pode explorar informações interativas sobre o Miles Morales, por exemplo.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/6/2024 1:00 AM] Alura
 Novo projeto recebido!
@@ -2704,7 +2704,7 @@ Descrição do projeto
 public class HelloWorld {     public static void main(String[] args) {         System.out.println("Hello, World!");     }
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 1:18 AM] Alura
 Novo projeto recebido!
@@ -2719,7 +2719,7 @@ Descrição do projeto
 Apresentando a Pokédex Web Interativa! Descubra a nossa Pokédex Web, uma ferramenta prática e visualmente atraente para explorar o universo Pokémon. Com esta aplicação, você pode:  Visualizar Pokémon: Veja imagens animadas e detalhadas dos seus Pokémon favoritos. Obter Informações Essenciais: Conheça o nome e o número de cada Pokémon com facilidade. Navegar e Pesquisar: Utilize os botões de navegação para explorar Pokémon ou pesquise por nome e número. Com uma interface intuitiva e fácil de usar, nossa Pokédex é ideal tanto para fãs quanto para novos treinadores. Explore, aprenda e mergulhe no mundo dos Pokémon como nunca antes!
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/6/2024 1:22 AM] Alura
 Novo projeto recebido!
@@ -2734,7 +2734,7 @@ Descrição do projeto
 Este projeto se refere a listagem de clubes de futebol masculino que mais vezes ganharam a UEFA Champions League.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 2:05 AM] Alura
 Novo projeto recebido!
@@ -2749,7 +2749,7 @@ Descrição do projeto
 Este projeto é uma página web interativa que permite buscar informações sobre os personagens principais dos Simpsons, como Homer, Marge, Bart, Lisa e Maggie. Ao digitar um termo no campo de pesquisa, são exibidos detalhes sobre cada personagem, incluindo nome, descrição (ex: Homer é o preguiçoso pai da família, Marge é a mãe dedicada com seu icônico penteado azul) e links para mais informações. A aplicação utiliza HTML, CSS e JavaScript para exibir os resultados de forma dinâmica e intuitiva.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/6/2024 2:20 AM] Alura
 Novo projeto recebido!
@@ -2764,7 +2764,7 @@ Descrição do projeto
 O projeto ManhwaVerse é uma plataforma de busca dedicada a fãs de manhwa. Ele permite que os usuários encontrem facilmente seus títulos favoritos, fornecendo informações detalhadas como classificação, descrição e ano de publicação. Com um foco em praticidade e eficiência, o site foi desenvolvido para oferecer uma experiência personalizada e acessível para todos os entusiastas dessa forma de arte coreana.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/6/2024 2:27 AM] Alura
 Novo projeto recebido!
@@ -2794,7 +2794,7 @@ Descrição do projeto
 O projeto busca identificar quais jogadores do Flamengo estão machucados, o tipo de lesão, tempo de recuperação e quanto tempo falta para ele recuperar. Além disso, fala qual a posição do jogador e dá uma breve descrição.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/6/2024 3:05 AM] Alura
 Novo projeto recebido!
@@ -2809,7 +2809,7 @@ Descrição do projeto
 Boa noite, é de uma área que eu gosto bastante estou falando sobre o SURF e tipo como pegou um bom Hype nessas olímpiadas, eu queria poder mostrar mais para as pessoas esse esporte tão massa que ele é, é apenas uma coisa básica, mas o que estou aprendendo eu quero me aprofundar cada vez mais na área.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 3:06 AM] Alura
 Novo projeto recebido!
@@ -2824,7 +2824,7 @@ Descrição do projeto
 Este é o desenvolvimento de 'Mestres do Espresso', uma plataforma que conecta baristas qualificados à cafeterias. A ideia surgiu da crescente demanda por profissionais especializados em cafés especiais e da necessidade de um espaço digital para conectar oferta e demanda. A plataforma oferece um ambiente transparente e eficiente para baristas encontrarem novas oportunidades de trabalho e para cafeterias encontrarem talentos.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/6/2024 3:06 AM] Alura
 Novo projeto recebido!
@@ -2839,7 +2839,7 @@ Descrição do projeto
 Projeto Alura mais Google Gemini, baseado nas aulas, fiz algo pessoal, mas com muito carinho em homenagem a maior obra do maior mangaka de todos os tempos.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 3:07 AM] Alura
 Novo projeto recebido!
@@ -2854,7 +2854,7 @@ Descrição do projeto
 MyDeck é um site interativo que permite aos usuários pesquisar por cartas incríveis no estilo de jogos de cartas colecionáveis (TCG). Com uma interface simples e intuitiva, o site oferece uma experiência divertida de apresentação entre cartas de diferentes tipos e características.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/6/2024 3:53 AM] Alura
 Novo projeto recebido!
@@ -2869,7 +2869,7 @@ Descrição do projeto
 Meu projeto é um site de pesquisa voltado para a área de Odontologia. Nele é possível realizar buscas sobre características da anatomia dental de todos os dentes. Criação de um menu intuitivo e visualmente atraente para facilitar a navegação em sites. Utilizamos HTML e CSS para construir um menu com efeitos visuais e responsivo a diferentes tamanhos de tela, proporcionando uma experiência de usuário mais agradável.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/6/2024 4:02 AM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -17340,7 +17340,7 @@ Descrição do projeto
 O projeto é um site sobre radioamadorismo. Ele procura detalhar algumas de suas principais modalidades. Um campo de pesquisa de palavras-chave foi adicionado ao final do projeto seguindo o modelo da imersão. Como essa imersão tem como objeto também a Inteligência artificial, todos os textos e imagens foram produzidos com inteligência artificial, exceto a página de links. Foi utilizado IA também para a produção de alguns códigos como o menu.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 6:27 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
