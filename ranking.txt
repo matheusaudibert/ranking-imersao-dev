@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (154)
+⭐ (153)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -11963,7 +11963,7 @@ Descrição do projeto
 Como sou iniciante no desenvolvimento de sites, este projeto é uma tentativa criativa de unir aprendizado com entretenimento.  Neste site simples de busca, voces podem explorar o multiverso da programação, ao pesquisar por uma linguagem vocês são transportados para links aleatórios, que podem ser uma explicação séria sobre a linguagem, uma imagem engraçada ou até um site inesperado! Meu objetivo foi proporcionar uma experiência divertida e educativa, mostrando as diversas facetas do mundo da programação. Espero que gostem!! testem aqui: http://multiverso-r29l.vercel.app/
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/7/2024 8:35 AM] Alura
 Novo projeto recebido!
@@ -11978,7 +11978,7 @@ Descrição do projeto
 HerbAlquimia é uma aplicação web intuitiva projetada para explorar o universo dos chás medicinais, suas propriedades e benefícios para a saúde. O objetivo é ajudar os usuários a encontrar informações detalhadas sobre plantas medicinais e chás, organizados por sistemas do corpo humano, como cardiovascular, respiratório e digestivo
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 8:48 AM] Alura
 Novo projeto recebido!
@@ -11993,7 +11993,7 @@ Descrição do projeto
 Um site para se descobrir quais receitas poderá fazer, apenas com os itens presentes na sua geladeira
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 8:53 AM] Alura
 Novo projeto recebido!
@@ -12008,7 +12008,7 @@ Descrição do projeto
 O projeto apresentar as queimadas que estão acontecemos na brasil
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:18 AM] Alura
 Novo projeto recebido!
@@ -12023,7 +12023,7 @@ Descrição do projeto
 Um projeto que não pode utilizar de css e html.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:40 AM] Alura
 Novo projeto recebido!
@@ -12038,7 +12038,7 @@ Descrição do projeto
 Projeto da #imersao-dev-google-gemini que possibilita pesquisar Seleções Campeãs da Copa do Mundo (por nome e ano). https://github.com/Nogmi81/imersao-Dev-Alura-Gemini e https://imersao-dev-alura-gemini-omega.vercel.app/
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -12053,7 +12053,7 @@ Descrição do projeto
 Projeto fictício sobre empreendimento de uma empresa de Design Gráfico e Front-End
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:48 AM] Alura
 Novo projeto recebido!
@@ -12068,7 +12068,7 @@ Descrição do projeto
 (Search Machine) é um site que tem algumas funcionalidades e praticidades para utilização dos usuários, tem uma base de dados com assuntos diferentes, como Games, Livros, Receitas, Vagas de Emprego, PetShop. Esses dados servem para o usuário ter conhecimento prévio sobre aquele assunto, e links de sites mais completos para mais informações. Além da base de dados, alguns outros projetos foram criados para uso das pessoas, projetos que acabam auxiliando e sendo relevantes para determinadas pessoas, como: Uma carteira de Planejamento Financeiro, Uma Tabela de Saúde para cálculo do IMC e quantidade de água que e pessoa deve consumir por dia, e uma calculadora de Renda Passiva, onde o usuário investidor mais conservador, pode ver a taxa Selic e seu patrimônio e verificar quanto de lucro e rendimento ao longo do tempo. Espero que gostem do projeto, a Interface é bem intuitiva e fácil de usar.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 9:58 AM] Alura
 Novo projeto recebido!
@@ -12085,7 +12085,7 @@ Descrição do projeto (cont.)
 encial de Melhoria:**  * **Expansão do banco de dados:** Adicionar mais músicas ao banco de dados para aumentar a variedade de resultados. * **Funcionalidades avançadas:** Implementar filtros por gênero musical, artista ou ano, além de ordenar os resultados por relevância. * **Integração com APIs:** Conectar a aplicação com APIs de serviços de streaming para permitir ouvir as músicas diretamente na plataforma.  **Em resumo,** este projeto é um ponto de partida para um buscador de músicas mais completo e pode ser expandido com novas funcionalidades e integrações.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 9:59 AM] Alura
 Novo projeto recebido!
@@ -12100,7 +12100,7 @@ Descrição do projeto
 site simples busca de animais desaparecidos
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 10:06 AM] Alura
 Novo projeto recebido!
@@ -12117,7 +12117,7 @@ Descrição do projeto (cont.)
 ais sofisticada, adicionar mais cursos e melhorar a interface do usuário. Contribuições:  Sinta-se à vontade para contribuir com este projeto!  Licença:  Este projeto está sob licença MIT.  Em resumo:  Este é um projeto simples que serve como ponto de partida para quem está iniciando uma programação de aprendizagem. Ele oferece uma interface intuitiva e recursos básicos para auxiliar no aprendizado. (Cursos indicados, são os da Alura)
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 10:12 AM] Alura
 Novo projeto recebido!
@@ -12132,7 +12132,7 @@ Descrição do projeto
 O TopCell o projeto desenvolvido por mim nessa maravilhosa oportunidade que foi a Imersão Dev Alura. Este projeto tem por objetivo que você faça busca por smartphones ideais e conheça suas informações técnicas deles, e como a cereja do bolo somente aparelhos custo-benefício que realmente cabe no seu bolso.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 10:12 AM] Alura
 Novo projeto recebido!
@@ -12147,7 +12147,7 @@ Descrição do projeto
 O projeto consiste em um oráculo online desenvolvido com HTML, CSS e JavaScript. Através de uma interface intuitiva, o usuário pode realizar consultas de tarot, recebendo interpretações personalizadas. A aplicação utiliza algoritmos de randomização para simular o embaralhamento das cartas e fornecer resultados aleatórios, mas com base em um banco de dados de significados pré-definidos.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 10:15 AM] Alura
 Novo projeto recebido!
@@ -12177,7 +12177,7 @@ Descrição do projeto
 Página de site para servir como meu site pessoal e exibição de portifólio .
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 10:22 AM] Alura
 Novo projeto recebido!
@@ -12192,7 +12192,7 @@ Descrição do projeto
 O que é esse projeto?  Imagine um site que te ajuda a encontrar os melhores descontos em jogos para computador. É como um guia completo para os jogadores que adoram economizar!  Como funciona?  Você procura: Digita o nome de um jogo, plataforma (como Steam, Epic Games) ou qualquer palavra-chave relacionada. O site busca: Ele procura em um banco de dados com várias informações sobre jogos e promoções. Ele te mostra: O site te apresenta uma lista com os jogos que combinam com a sua busca, junto com links para as páginas das promoções. Por que é útil?  Economiza tempo: Não precisa mais ficar procurando em vários sites diferentes. Encontra as melhores ofertas: Te mostra os jogos com os maiores descontos. É fácil de usar: A interface é simples e intuitiva. Em resumo:  É um projeto que torna a vida dos gamers mais fácil e divertida, ajudando a encontrar os melhores jogos com os melhores preços!
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 10:22 AM] Alura
 Novo projeto recebido!
@@ -12207,7 +12207,7 @@ Descrição do projeto
 projeto "Pais Presentes". Esse projeto é um guia completo para pais que buscam informações e dicas sobre a jornada da paternidade. Com ele, você pode encontrar artigos, dicas e recursos sobre os mais diversos temas relacionados à criação dos filhos. Ficou simples, mas usei todo o conhecimento aprendido. Sou iniciante e estou em transição de carreira. Faz menos de um mês que iniciei meus estudos e esta imersão foi muito importante para mim. obrigado!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 10:23 AM] Alura
 Novo projeto recebido!
@@ -12237,7 +12237,7 @@ Descrição do projeto
 O objetivo final do meu projeto é criar um site-catálogo online que conecte diretamente os consumidores aos pequenos comerciantes de bairro, como mercearias e quitandas. Através de um cadastro simples, os comerciantes poderão criar um perfil completo para seus estabelecimentos, exibindo seus produtos e serviços de forma atrativa. Dessa forma, eles poderão aumentar suas vendas, alcançar novos clientes e fortalecer a sua marca localmente
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 10:35 AM] Alura
 Novo projeto recebido!
@@ -22123,7 +22123,7 @@ Descrição do projeto
 Um projeto simples de apresentação, para quem tem interesse nas tecnologias criadas por Tony Stark. Listando 14 criações, apresentei apenas 6 mais vistas, com links como ponte á outras informações e curiosidades
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 10:48 PM] Alura
 Novo projeto recebido!
