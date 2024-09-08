@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -24631,7 +24631,7 @@ Descrição do projeto
 Os jogos de tabuleiro estão se tornando cada vez mais populares como hobby em todo o mundo. Este projeto visa fornecer uma plataforma simples e eficaz para explorar alguns dos jogos de tabuleiro mais populares globalmente.  Descrição do Projeto Este projeto consiste em uma página web que permite aos usuários pesquisar por jogos de tabuleiro. Os jogos são consultados com base em informações armazenadas em uma base de dados JavaScript, incluindo o nome, mecânicas e tags associadas. A página oferece uma interface de pesquisa onde você pode digitar termos e visualizar os resultados que correspondem aos critérios fornecidos.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
