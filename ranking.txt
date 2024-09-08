@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (132)
+⭐ (133)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -23751,7 +23751,7 @@ Descrição do projeto
 Bem-vindo ao TechFusion, Um site dedicado aos apaixonados por tecnologia! O TechFusion oferece informações detalhadas sobre diversos cursos e formações na área de tecnologia, com foco em quem deseja seguir uma carreira ou se especializar no setor. O TechFusion é um projeto que visa unir duas grandes instituições de ensino, a Alura e a FIAP, em um único lugar. Através de uma interface simples e eficiente, os usuários podem pesquisar e obter informações sobre cursos oferecidos por essas instituições. O objetivo principal do TechFusion é facilitar o acesso a informações sobre os cursos de ambas as plataformas, permitindo que os usuários comparem, descubram e escolham o que melhor atende às suas necessidades educacionais.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (64)
+⭐ (65)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
