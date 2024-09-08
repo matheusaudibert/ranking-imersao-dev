@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (120)
+⭐ (121)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (119)
+⭐ (120)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -6100,7 +6100,7 @@ Descrição do projeto
 Cansado de passar horas procurando a receita perfeita? Com o Comidinhas Saborosas, você encontra todas as receitas que precisa em um só lugar. Economize tempo e dinheiro, explore novos sabores e prepare refeições deliciosas com facilidade. Eu construi esse site com html, css, javascript e com a ajuda do Gemini!
 
 {Reactions}
-⭐ (63)
+⭐ (64)
 
 [9/6/2024 5:40 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (95)
+⭐ (96)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (81)
+⭐ (83)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -11254,7 +11254,7 @@ Descrição do projeto
 O projeto desenvolve um sistema de autoatendimento para uma loja de marmitas. Através de um menu interativo e um totem, os clientes personalizam seus pedidos, escolhendo o tamanho da embalagem e os ingredientes principais: carboidrato, proteína e guarnição. Após a confirmação, o sistema emite uma mensagem de agradecimento, finalizando o processo de forma intuitiva e eficiente.
 
 {Reactions}
-⭐ (22)
+⭐ (24)
 
 [9/7/2024 3:18 AM] Alura
 Novo projeto recebido!
@@ -11376,7 +11376,7 @@ Descrição do projeto
 https://durma-melhor.vercel.app/ Imagina você procurando o colchão perfeito, mas se perdendo em meio a tantas opções? Com o Durma Melhor, encontrar o colchão ideal é um piscar de olhos!
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 3:32 AM] Alura
 Novo projeto recebido!
@@ -11391,7 +11391,7 @@ Descrição do projeto
 Esse projeto web feito durante a Imersão Dev Alura e Google Gemini te ajuda a encontrar o pet ideal para você! Com uma busca simples, você pode descobrir diversas raças de cães e gatos, com informações detalhadas sobre cada uma. Basta digitar algumas palavras-chave, como "cão pequeno e brincalhão" ou "gato calmo para apartamento", e a aplicação fará uma busca inteligente em nosso banco de dados e te apresentará os resultados mais relevantes.  O melhor de tudo? Nossa aplicação é totalmente responsiva, ou seja, funciona perfeitamente em qualquer dispositivo, seja no seu computador, tablet ou smartphone!
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 3:34 AM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -21162,7 +21162,7 @@ Descrição do projeto
 Xadrez é um dos meus hobies favoritos; Foi minha escolha, para quem sabe... Dar um MATE nessa competição! Link do projeto: https://chess-com-maicon.vercel.app/
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 10:03 PM] Alura
 Novo projeto recebido!
