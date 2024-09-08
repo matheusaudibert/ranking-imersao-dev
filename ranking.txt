@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (167)
+⭐ (168)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (72)
+⭐ (73)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -11361,7 +11361,7 @@ Descrição do projeto
 Mergulhe no fascinante mundo da história com Pílulas Históricas! Este projeto web permite que você explore uma variedade de eventos históricos através de uma interface intuitiva. Com uma simples pesquisa, você encontra fatos interessantes, datas importantes e links para aprofundar seus conhecimentos. Desenvolvido com HTML, CSS e JavaScript, este projeto foi criado durante a Imersão Alura + Gemini e conta com um design clean e responsivo para uma experiência agradável em diferentes dispositivos.
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 3:30 AM] Alura
 Novo projeto recebido!
@@ -13778,7 +13778,7 @@ Descrição do projeto
 Projeto de um gura busca pokémons e digimons
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 1:45 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
