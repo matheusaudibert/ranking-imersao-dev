@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (135)
+⭐ (136)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -9059,7 +9059,7 @@ Descrição do projeto
 Uma página sobre animais marinhos que pode ser divertida,  O objetivo é apresentar o mundo marinho de forma interessante e despertar o interesse das pessoas pela preservação dos oceanos.
 
 {Reactions}
-⭐ (56)
+⭐ (57)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -9669,7 +9669,7 @@ Descrição do projeto
 Ao pensar em um tema para o projeto pensei comigo porque não fazer de algo que sou apaixonada?? Pensando nisso, para tornar o processo ainda mais interessante, pensei em envolver automobilismo na ideia. A ideia principal é uma rede de apoio principalmente aos novos fãs que não sabem por onde começar a entender o esporte, apesar de eu não ter conseguido expressar totalmente isso na elaboração em si em pouco tempo. O objetivo do site é englobar notícias destaques, manuais de como assistir uma categoria específica por exemplo, tudo isso para acolher esses novos fãs que às vezes são piadas de outros mais antigos.
 
 {Reactions}
-⭐ (56)
+⭐ (57)
 
 [9/6/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -22532,7 +22532,7 @@ Descrição do projeto (cont.)
 entre os 30 melhores? O Desafio dos Campeões não é apenas um jogo, mas uma demonstração do que é possível alcançar quando se combina criatividade com habilidade técnica. O projeto não só oferece uma experiência divertida para os jogadores, mas também serve como um excelente exemplo educacional para desenvolvedores que querem aprender a aplicar suas habilidades em projetos reais.  A riqueza de detalhes no desenvolvimento, a utilização de boas práticas de programação e a capacidade de expansão tornam este projeto digno de estar entre os 30 melhores. Ele mostra o potencial de um desenvolvedor em criar algo que não só entretém, mas também ensina, inova e inspira.  Vote no Desafio dos Campeões e faça parte desta aventura épica!
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
@@ -24188,7 +24188,7 @@ Descrição do projeto
 Quer dar um rolê com os amigos, mas tem receio do local não ter acessibilidade? Relaxa, só escrever que tipo de rolê quer dar e vai achar opções maravilhosas pra ti! Infelizmente não são todos os estabelecimentos que se preocupam com a acessibilidade para PcD, mas com este buscador tu encontrará locais que tu possa ir sem medo! Este projeto foi criado para participar da Premiação de Projetos da Imersão Dev com Gemini, promovido pela Alura. Foram utilizados apenas os conhecimentos adquiridos durante a imersão, podendo melhorar ainda mais com futuros conhecimentos que estou buscando. Obs sobre o projeto: Criei baseado em locais de Porto Alegre/RS, capital do meu estado. Quero no futuro implementar ainda mais locais e todo o espectro PcD. Muito obrigado pelo tempo dedicado a observar e testar meu projeto!
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
