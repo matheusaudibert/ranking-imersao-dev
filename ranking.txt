@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (252)
+⭐ (253)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -2147,7 +2147,7 @@ Descrição do projeto
 A Garden Sustentability, é uma ideação para o projeto da Alura com o Google Gemini. Aqui nós iremos combinar o verde com a tecnologia para criar um projeto inovador e impactante.  Conceito: Um jardim comunitário que utiliza tecnologia para otimizar o cultivo, monitorar o crescimento das plantas e promover a educação ambiental de forma interativa. Utilizando Sensores (Úmidade, temperatura, nutricionais), Irrigação automatizada, Painéis solares, Aplicativo mobile e Câmeras;
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (191)
+⭐ (192)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -14401,7 +14401,7 @@ Descrição do projeto
 Miau da Sorte é um site inspirado nos tradicionais biscoitos da sorte, mas com um toque especial: a fofura dos gatos! Ao clicar no gatinho da sorte, você receberá uma mensagem inspiradora e positiva para te acompanhar em seus dias.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 2:39 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -16873,7 +16873,7 @@ Descrição do projeto
 Esse projeto foi criado para quem é amante de literatura e dos jogos! Eu gosto de uma boa história e de me aventurar em mundos fantásticos. Meu nome é Raira, bibliotecária e criadora desse projeto que une duas das minhas maiores paixões. . Aproveitei essa oportunidade para criar o site e quem sabe se tornará meu blog, pois pretendo em breve criar um canal do YT e no Instagram falando sobre resenhas de livros e jogos, dicas de como criar sua própria biblioteca games, e muito mais. Junte-se a mim nessa jornada literária e de jogos de tabuleiro"
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 6:02 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -21958,7 +21958,7 @@ Descrição do projeto
 Este projeto web visa auxiliar professores na criação de conteúdos inclusivos. Ao inserir um texto, perguntas e uma descrição das dificuldades do aluno, a ferramenta gera respostas personalizadas, facilitando a inclusão em sala de aula.
 
 {Reactions}
-⭐ (5)
+⭐ (7)
 
 [9/7/2024 10:40 PM] Alura
 Novo projeto recebido!
