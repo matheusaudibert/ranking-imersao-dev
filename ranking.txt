@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (233)
+⭐ (234)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -3548,7 +3548,7 @@ Descrição do projeto
 Eu fiz um buscador dos planetas do sistema solar, adicionei botões que aparece uma curiosidade quando passa o mouse em cima, e a barra de pesquisas para buscar cada planeta. Agradeço muito pela oportunidade, este foi o meu primeiro site e eu estou realmente muito agradecido pelos conhecimentos compartilhados e ainda mais, de graça!
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/6/2024 12:12 PM] Alura
 Novo projeto recebido!
@@ -14898,7 +14898,7 @@ Descrição do projeto
 O Mundo Tech é um site online intuitivo e fácil de usar, projetado para ajudar desenvolvedores, estudantes e entusiastas de tecnologia a explorarem e aprenderem sobre as diversas tecnologias utilizadas na criação de aplicações web e mobile.
 
 {Reactions}
-⭐ (8)
+⭐ (10)
 
 [9/7/2024 3:30 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
