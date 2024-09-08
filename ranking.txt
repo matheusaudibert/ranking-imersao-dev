@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (177)
+⭐ (178)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (106)
+⭐ (107)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
