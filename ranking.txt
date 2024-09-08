@@ -393,7 +393,7 @@ Descrição do projeto
 Site para consulta e pesquisa dos Hashiras do universo de Demons Slayer usando animações simples e conceitos básicos. É possível acessar o site clicando aqui: https://desafio-dev-alura-gemini2024-and-git-441af6-andrelukes-projects.vercel.app
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/5/2024 11:32 AM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (79)
+⭐ (80)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
@@ -23237,7 +23237,7 @@ Descrição do projeto
 Sistema de Cadastro de Alunos  Este projeto é um sistema básico de cadastro de alunos, feito com Java Servlet no backend e HTML, CSS, e JavaScript no frontend.  Tecnologias  	•	Java (Servlet) 	•	Tomcat (Servidor) 	•	HTML, CSS e JavaScript  Funcionalidades  	1.	Cadastrar alunos com nome, idade e curso. 	2.	Exibir a lista de alunos cadastrados. 	3.	Validação dos dados do formulário com JavaScript.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23252,7 +23252,7 @@ Descrição do projeto
 Esse meu projeto é voltado para algo que faço no meu dia a dia que é provar todos os tipos de energéticos e dar a minha opinião sobre elas. Para amantes de energéticos como eu.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23267,7 +23267,7 @@ Descrição do projeto
 Aplicativo que pesquisa músicos clássicos
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -25177,7 +25177,7 @@ Descrição do projeto
 Página com info de jogos de tabuleiro utilizando-se:HTML, CSS, JAVA SCRIPT, desenvolvida na imersão Alura.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
