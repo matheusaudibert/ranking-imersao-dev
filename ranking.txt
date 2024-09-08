@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (172)
+⭐ (173)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (20)
+⭐ (23)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24233,7 +24233,7 @@ Descrição do projeto
 SAÚDE DA FAMÍLIA- PROJETO PARA CADASTRAMENTO E ACOMPANHAMENTO DE CRIANÇAS MENORES QUE 5 ANOS.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
@@ -24248,7 +24248,7 @@ Descrição do projeto
 Este projeto simula um terminal web que permite você interagir com comandos.  Tecnologias utilizadas: - HTML - CSS - JavaScript  Usabilidade: Fique à vontade para explorar os comandos disponíveis e me diga o que achou da experiência!  Easter Eggs: Existem alguns segredos escondidos neste terminal  Será que você consegue encontrá-los todos?  P.S. Não se preocupe, não há nada malicioso escondido por aqui. Apenas algumas brincadeiras para te entreter.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
@@ -24263,7 +24263,7 @@ Descrição do projeto
 "Portfólio de Inovações: Encontre o Futuro" é um projeto que visa criar uma plataforma interativa para explorar e descobrir inovações tecnológicas e científicas atuais. Através deste projeto, os usuários podem pesquisar, filtrar e acessar informações sobre diversas tecnologias e tendências inovadoras em áreas como Inteligência Artificial, Realidade Aumentada, Robótica, e muito mais. https://olimpiedas-hazel.vercel.app/
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:50 PM] Alura
 Novo projeto recebido!
@@ -24278,7 +24278,7 @@ Descrição do projeto
 A ideia foi criar um guia onde eu pudesse pesquisar  o nome de algum personagem bíblico e esse guia me desse informações mais detalhadas. No final, não consegui colocar muita coisa. Fiz uma base de dados com mais de 200 personagens, mas no final só consegui inserir alguns poucos, por conta do tempo. Espero ser escolhido.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:50 PM] Alura
 Novo projeto recebido!
@@ -24297,7 +24297,7 @@ Descrição do projeto (cont.)
 tares. * Fomentar uma relação mais profunda e informada com a alimentação, alinhada aos princípios da sustentabilidade e da saúde integral.  Público-Alvo:  * Pessoas com restrições alimentares, como intolerância ao glúten e à lactose. * Entusiastas da culinária que buscam compreender melhor os aspectos científicos dos alimentos. * Consumidores interessados em alimentação saudável e sustentável.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:50 PM] Alura
 Novo projeto recebido!
@@ -24314,7 +24314,7 @@ Descrição do projeto (cont.)
 ação da página. dados.js: Arquivo JavaScript que contém os dados das brincadeiras. app.js: Arquivo JavaScript que implementa a lógica de pesquisa e exibição de sugestões.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:50 PM] Alura
 Novo projeto recebido!
@@ -24329,7 +24329,7 @@ Descrição do projeto
 Endereços dos hospitais da rede SUS em Belo Horizonte, MG - com especialidades
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24344,7 +24344,7 @@ Descrição do projeto
 Em apoio ao setembro amarelo, a ideia era mostra as umdades CAPS disponíveis na cidade de Fortaleza para quem busca ajuda.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24359,7 +24359,7 @@ Descrição do projeto
 Um banco de dados do universo Star Wars
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24374,7 +24374,7 @@ Descrição do projeto
 uma pagina simples para quem deseja começar a jogar o jogo dota 2
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24389,7 +24389,7 @@ Descrição do projeto
 Focus é um aplicativo web simples e intuitivo que te ajuda a organizar suas tarefas e aumentar sua produtividade. Crie listas personalizadas, marque as tarefas como concluídas e acompanhe seu progresso de forma visual e motivadora. Com Focus, você terá mais controle sobre seu tempo e alcançará seus objetivos com mais facilidade.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
@@ -24404,7 +24404,7 @@ Descrição do projeto
 história de mistério criada por uma inteligência artificial.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:51 PM] Alura
 Novo projeto recebido!
