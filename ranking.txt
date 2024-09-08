@@ -3548,7 +3548,7 @@ Descrição do projeto
 Eu fiz um buscador dos planetas do sistema solar, adicionei botões que aparece uma curiosidade quando passa o mouse em cima, e a barra de pesquisas para buscar cada planeta. Agradeço muito pela oportunidade, este foi o meu primeiro site e eu estou realmente muito agradecido pelos conhecimentos compartilhados e ainda mais, de graça!
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/6/2024 12:12 PM] Alura
 Novo projeto recebido!
@@ -4267,7 +4267,7 @@ Descrição do projeto (cont.)
 citação pull. Algumas ideias para melhorias futuras incluem:  Filtros: Adicionar filtros para pesquisar por marca, ano, preço, etc. Mapas: Integra um mapa para mostrar a localização das motocicletas. Favoritos: Crie uma lista de favoritos para salvar os resultados da pesquisa. Estrutura do projeto:  index.html: Página principal da aplicação. style.css: Arquivo de estilos CSS. app.js: Lógica JavaScript da aplicação. dados.js: Dados das motocicletas (JSON). Diagrama de classes: classDiagram Motocicleta : modelo Motocicleta : marca Motocicleta : ano Motocicleta : descrição Motocicleta : imagem Motocicleta : link  Usuario : nome Usuario : email Usuario : senha Usuario : favoritos  Busca : pesquisarPorModelo(modelo) Busca : filtrarPorMarca(marca)  Motocicleta --|> Busca Usuario --o> Motocicleta Acesse a página através do link: https://imersao-alura-gemini-umber.vercel.app/
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/6/2024 2:36 PM] Alura
 Novo projeto recebido!
@@ -4282,7 +4282,7 @@ Descrição do projeto
 Estatisticas e Descrições dos Times no mundial de LOL
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -4312,7 +4312,7 @@ Descrição do projeto
 Gerenciador de Gastos Pessoais (Front-End) Este projeto é um aplicativo web de front-end para gerenciar seus gastos pessoais de forma simples e intuitiva. Funcionalidades: Definição de Saldo Inicial: Defina seu saldo inicial para começar a controlar seus gastos. Registro de Gastos: Adicione facilmente novos gastos informando a data, local, valor e descrição. Cálculo do Saldo: O aplicativo calcula automaticamente seu saldo restante à medida que você registra seus gastos. Visualização da Lista de Gastos: Acesse um histórico detalhado de seus gastos, exibido em uma lista organizada. Persistência de Dados: Seus dados de saldo e gastos são salvos localmente no navegador, garantindo que você não os perca ao fechar a página. Limpar Dados: Possibilidade de limpar todos os dados salvos localmente.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/6/2024 2:38 PM] Alura
 Novo projeto recebido!
@@ -4327,7 +4327,7 @@ Descrição do projeto
 Simples e singelo, o projeto foi feito com fins de acompanhar as aulas. Sem muita inovação, porém acho válido a inscrição do meu projeto mesmo assim. em paralelo com o feito na imersão que busca atletas das olimpíadas, o meu busca por atletas do elenco do Botafogo em 2024
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/6/2024 2:39 PM] Alura
 Novo projeto recebido!
@@ -4342,7 +4342,7 @@ Descrição do projeto
 O meu projeto chama-se ONGTech, seguindo a dinâmica do curso ele tem como finalidade ser um buscador confiável de ONGs, onde as pessoas podem encontra e fazer suas doações, Projeto feito no evento da Alura + Google, além do conhecimento obtidos nas aulas do evento, foi usando o Gemini IA para criar ideias ajudar no código e construir os textos.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/6/2024 2:40 PM] Alura
 Novo projeto recebido!
@@ -4357,7 +4357,7 @@ Descrição do projeto
 Meu projeto é um blog para viajantes compartilharem suas experiencias de viagens, dicas de locais para visitar etc.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/6/2024 2:45 PM] Alura
 Novo projeto recebido!
@@ -4372,7 +4372,7 @@ Descrição do projeto
 Projeto feito para participar das premiações baseado no game Stardew Valley.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/6/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -10376,7 +10376,7 @@ Descrição do projeto
 O projeto "Alimentos para Cães - Consulta de Permissão de Consumo" é uma aplicação web criada com o objetivo de auxiliar tutores de cães a identificarem de forma rápida e precisa quais alimentos são seguros para seus pets. Com uma interface interativa e responsiva, os usuários podem buscar alimentos específicos e descobrir se eles são permitidos, moderados ou proibidos para o consumo canino.  A aplicação organiza as informações em três categorias principais: alimentos permitidos, que podem ser consumidos sem preocupações; alimentos de moderação, que devem ser oferecidos com cautela; e alimentos proibidos, que representam riscos à saúde dos cães. O projeto também oferece uma interface visual amigável, que se adapta a diferentes dispositivos e tamanhos de tela.  Desenvolvido como parte da Imersão Dev com o Gemini da Google, promovida pela Alura, o projeto utiliza HTML5, CSS3, JavaScript e JSON para criar uma experiência eficiente e intuitiva.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (79)
+⭐ (80)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (23)
+⭐ (25)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
