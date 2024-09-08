@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (273)
+⭐ (274)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -10044,7 +10044,7 @@ Descrição do projeto
 O Reel & Reed é um repositório com informações sobre filmes, séries e livros. Com uma interface intuitiva e design moderno, o Reel & Read permite que você explore um vasto catálogo de obras, descubra novas sugestões personalizadas. Utilize as poderosas ferramentas de busca para encontrar exatamente o que você procura. Além dos títulos recomendados, o Reel & Read se integra com duas APIs, facilitando a consulta a outros títulos que sejam do seu interesse.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 12:09 AM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (88)
+⭐ (89)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -15950,7 +15950,7 @@ Descrição do projeto
 SustainAgri: Sua Busca por Agricultura Sustentável
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 5:02 PM] Alura
 Novo projeto recebido!
@@ -24509,7 +24509,7 @@ Descrição do projeto
 Uma ferramenta simples e intuitiva que te ajuda a descobrir novas oportunidades de trabalho e renda extra. Basta digitar uma palavra-chave relacionada à área que você busca e pronto! Você terá acesso a uma lista de plataformas e projetos que podem te interessar.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -25260,7 +25260,7 @@ Descrição do projeto
 "Vamos de DDS, AI?" é um parceiro amigável e inteligente para encontrar o DDS perfeito! Você pode pesquisar por tema ou então se surpreender com nossas sugestões de conteúdo, tudo para tornar a segurança no trabalho mais leve e inspiradora. Chega de DDS chatos, bora aprender com a IA!
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
