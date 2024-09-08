@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (129)
+⭐ (131)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (99)
+⭐ (100)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -10770,7 +10770,7 @@ Descrição do projeto
 Este projeto web tem como objetivo auxiliar os usuários a encontrarem informações sobre o descarte correto de diversos tipos de resíduos. Através de uma interface intuitiva, o usuário pode pesquisar por um determinado tipo de resíduo e obter informações sobre como descartá-lo de forma segura e responsável.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 1:33 AM] Alura
 Novo projeto recebido!
@@ -10800,7 +10800,7 @@ Descrição do projeto
 Projeto desenvolvido com fins de alertar, informar e ensinar a todos sobre algumas doenças virais que tem nos assombrado nos últimos tempos.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 1:41 AM] Alura
 Novo projeto recebido!
@@ -10815,7 +10815,7 @@ Descrição do projeto
 QuizBiblicoInfantil
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 1:44 AM] Alura
 Novo projeto recebido!
@@ -10830,7 +10830,7 @@ Descrição do projeto
 Descrição Este projeto é uma wiki interativa sobre a timeline da série The Legend of Zelda, desenvolvida inteiramente com HTML, CSS e JavaScript. A aplicação permite que os usuários naveguem pelos eventos dos jogos em ordem cronológica, visualize sinopses detalhadas e acessem links para uma wiki externa para obter informações mais aprofundadas.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 1:56 AM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (86)
+⭐ (87)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -10860,7 +10860,7 @@ Descrição do projeto
 A Academy EduQando é uma plataforma online personalizada que ajuda estudantes e profissionais a encontrarem os métodos de estudo mais eficazes para cada perfil de aprendizado. Com uma interface intuitiva, a ferramenta permite pesquisar por diversas técnicas de estudo, como mapas mentais, técnica Pomodoro e flashcards. Além disso, oferece links para ferramentas online que complementam o processo de aprendizado, como aplicativos de anotações e organizadores de tarefas. Para o futuro, planeja-se implementar esses métodos diretamente na plataforma, permitindo que os usuários interajam com eles de forma dinâmica e intuitiva. Por exemplo, um usuário poderá criar seus próprios flashcards ou mapas mentais diretamente na aplicação.  A Academy EduQando se destaca por oferecer uma ampla variedade de métodos de estudo, personalização e facilidade de uso, tornando o aprendizado mais eficiente e prazeroso.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 2:01 AM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
