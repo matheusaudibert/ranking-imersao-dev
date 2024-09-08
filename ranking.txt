@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (279)
+⭐ (280)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (203)
+⭐ (204)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (121)
+⭐ (122)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -7175,7 +7175,7 @@ Descrição do projeto
 Se você quer saber o que é RAG, Fine-Tuning, REST ou outros termos muito usados quando falamos de IA e APIs e ainda ter acesso à livros, revistas digitais e ferramentas sobre o tema, o seu lugar é aqui! 🧠
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/6/2024 7:34 PM] Alura
 Novo projeto recebido!
@@ -20037,7 +20037,7 @@ Descrição do projeto
 As melhores séries!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 9:04 PM] Alura
 Novo projeto recebido!
@@ -20052,7 +20052,7 @@ Descrição do projeto
 Mulheres na ciencia e tecnologia
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 9:05 PM] Alura
 Novo projeto recebido!
@@ -20067,7 +20067,7 @@ Descrição do projeto
 Base de conhecimento sobre aberturas de xadrez
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 9:06 PM] Alura
 Novo projeto recebido!
@@ -20082,7 +20082,7 @@ Descrição do projeto
 Projeto para desvendar comendas típicas brasileiras, suas receitas, ingredientes e modo de preparo. Culinária brasileira a um clique.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:07 PM] Alura
 Novo projeto recebido!
@@ -20097,7 +20097,7 @@ Descrição do projeto
 Um site com um jogo da velha, feito com JavaScript, HTML e CSS que, antes de poder jogar, é necessário colocar o nome dos dois jogadores, e, após a vitória de um dos jogadores ou empate, aparece um alerta na tela que diz quem ganhou, ou se o jogo ficou empatado.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:08 PM] Alura
 Novo projeto recebido!
@@ -20112,7 +20112,7 @@ Descrição do projeto
 Portfolio da GincanaStore com Html, Css e JavaScript
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 9:08 PM] Alura
 Novo projeto recebido!
@@ -20127,7 +20127,7 @@ Descrição do projeto
 Basicamente acompanhei o curso e fui fazendo junto, meus dados foram baseados no jogo God of War, sou muito fã!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:09 PM] Alura
 Novo projeto recebido!
@@ -20142,7 +20142,7 @@ Descrição do projeto
 Com a ajuda da imersao Dev Alura com Google Gemini pude criar minha primeira aplicacao. Como um amante de videogames, desenvolvi um buscador sobre os consoles da Sony.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:09 PM] Alura
 Novo projeto recebido!
@@ -20157,7 +20157,7 @@ Descrição do projeto
 Será um buscador de dúvidas sobre a astronomia
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 9:09 PM] Alura
 Novo projeto recebido!
@@ -20172,7 +20172,7 @@ Descrição do projeto
 Site sintetizando os principais pontos turísticos e atrações de três capitais brasileiras
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:09 PM] Alura
 Novo projeto recebido!
@@ -20187,7 +20187,7 @@ Descrição do projeto
 Trata-se de um gerenciador de tarefas. Onde é possível listar tarefas do dia e podem ser concluídas ou excluídas. O objetivo é melhorar esse projeto incluindo calendário e graficos de tarefas realizadas. Foi o meu primeiro projeto e estou feliz em ter conseguido, mas ciente de que tenho muitos degraus pela frentes. obrigada pelo curso.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -20217,7 +20217,7 @@ Descrição do projeto
 Eu escolhi esse assunto, pois tem muita coisa acontecendo no mundo por conta do aquecimento global. Minha ideia inicial era só falar de acontecimente que vêm ocorrendo no Brasil e no mundo sobre o aquecimento global, porém iria ficar muito grande o projeto e iria sair um pouco do contexto de conhecimento da imersão. Aí eu resolvi falar de possíveis futuras novas casas, que são os exoplanetas. Eu tentei passar um pouco dessas curiosidades, mas tentando resaltar que é muito difícil chegar nessas planetas e que é muito mais vantajoso pra nós combater o aquecimento global, do que abandonar a nossa casa e ir para um lugar que hoje nós não tem certeza que é possível de viver
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:12 PM] Alura
 Novo projeto recebido!
@@ -20232,7 +20232,7 @@ Descrição do projeto
 Com a ajuda da Imersao Dev Alura com Google Gemini, pude desenvolver uma aplicacao para amantes de videogames Sony.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:13 PM] Alura
 Novo projeto recebido!
@@ -20247,7 +20247,7 @@ Descrição do projeto
 Base sobre aberturas de xadrez (link direto pro site)
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:14 PM] Alura
 Novo projeto recebido!
@@ -20262,7 +20262,7 @@ Descrição do projeto
 Instituições Filantrópicas: Seu Guia para Fazer o Bem!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 9:14 PM] Alura
 Novo projeto recebido!
@@ -20277,7 +20277,7 @@ Descrição do projeto
 "Sua nova melhor amiga na maquiagem!  Descubra tudo sobre produtos e técnicas de maquiagem de forma fácil e rápida.  Como funciona:  Pesquise: Digite o nome do produto ou o estilo de maquiagem que você quer aprender. Descubra: A aplicação encontra todas as informações relevantes, como tutoriais e dicas de uso. Explore: Clique nos resultados para ver mais detalhes e tutoriais completos. Tecnologias: HTML, CSS e JavaScript garantem uma experiência rápida e intuitiva."
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:15 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (86)
+⭐ (87)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
