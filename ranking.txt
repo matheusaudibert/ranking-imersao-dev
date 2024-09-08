@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (214)
+⭐ (215)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (115)
+⭐ (116)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -9320,7 +9320,7 @@ Descrição do projeto
 Mergulhe no mundo mágico do Studio Ghibli com um só clique! Pesquise filmes, explore sinopses e ouça trilhas sonoras. Tudo isso em um só lugar, feito com muito carinho para os fãs. A plataforma, construída utilizando as tecnologias HTML, CSS, JavaScript e Gemini, oferece um recurso valioso para a pesquisa e o estudo da animação japonesa. Através de uma interface intuitiva e recursos de busca avançados, o site permite aos usuários acessar informações detalhadas sobre cada filme, como sinopse e trilha sonora. Os resultados obtidos com o desenvolvimento deste projeto demonstram a viabilidade de utilizar ferramentas digitais para a organização e divulgação de acervos audiovisuais, contribuindo para a preservação e valorização do patrimônio cultural.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/6/2024 11:07 PM] Alura
 Novo projeto recebido!
@@ -14491,7 +14491,7 @@ Descrição do projeto
 Patas Gemini: Ajude a encontrar um novo melhor amigo!
 
 {Reactions}
-⭐ (51)
+⭐ (52)
 
 [9/7/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -22832,7 +22832,7 @@ Descrição do projeto
 Descubra o Brasil - Buscador de cidades turísticas, para facilitar o planejamento da próxima viagem, tendo dicas de hotéis, pontos turísticos e facilitador para compra de passagem.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
