@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (123)
+⭐ (124)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -7355,7 +7355,7 @@ Descrição do projeto
 O GamerHub é uma aplicação web simples e divertida, criada para ajudar você, gamer, a encontrar seus próximos jogos favoritos! Com uma interface intuitiva e fácil de usar, você pode navegar por diversas categorias de jogos, realizar buscas por títulos específicos e descobrir novas aventuras.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/6/2024 8:05 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -15860,7 +15860,7 @@ Descrição do projeto
 Projeto baseado na Imersão Dev com Gemini, um projeto simples que mostra algumas linguagens de programação e uma pequena descrição sobre elas.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 4:54 PM] Alura
 Novo projeto recebido!
@@ -15875,7 +15875,7 @@ Descrição do projeto
 O projeto tem enfoque informativo para as condições de SOP e HAC, estado do desenvolvimento (em andamento) estou aprimorando ainda e tendo algumas dificuldades, se alguém puder apoiar desde já fica o meu agradecimento.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 4:55 PM] Alura
 Novo projeto recebido!
@@ -15890,7 +15890,7 @@ Descrição do projeto
 Projeto baseado no que foi aprendido na Imersão dev da alura. O tema do site é sobre locomotivas a vapor. Nele você pode conhecer algumas das locomotivas a vapor do brasil que marcaram história!
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 4:57 PM] Alura
 Novo projeto recebido!
@@ -21042,7 +21042,7 @@ Descrição do projeto
 Este projeto é um guia interativo das seleções que já participaram da Copa do Mundo.  Construído com HTML, CSS e JavaScript, ele permite que os usuários busquem por uma seleção específica e obtenham informações como título, descrição, ano em que o país sediou a copa e um link para mais detalhes., levando para a Wikipedia correspondente.  A interface do usuário é composta por uma caixa de pesquisa e um botão. Ao inserir o nome da seleção desejada e clicar no botão, o JavaScript busca nos dados e exibe os resultados correspondentes na página. O projeto é organizado nas linguagens citadas, incluindo um arquivo "dados.js" que armazena as informações de cada seleção.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
