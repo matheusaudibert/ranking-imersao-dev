@@ -1,4 +1,5 @@
 import streamlit as st
+import datetime
 
 def parse_txt(filename):
     projects = []
@@ -45,6 +46,19 @@ def display_projects(st, title, projects, start_index):
         st.markdown(f"   **Link do Projeto**: [Link]({github_link})")
         st.markdown(f"   **Reações**: :orange[{reactions}]")
 
+def format_time_delta(delta):
+    hours, remainder = divmod(delta.seconds, 3600)
+    minutes, seconds = divmod(remainder, 60)
+    return f"{hours:02}:{minutes:02}:{seconds:02}"
+
+def calculate_time_remaining():
+    now = datetime.datetime.now()
+    next_update = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    if now.hour == 0 and now.minute == 0:
+        next_update += datetime.timedelta(days=1)
+    remaining_time = next_update - now
+    return remaining_time
+
 def main():
     st.set_page_config(page_title="Ranking Alura", layout="wide", initial_sidebar_state="expanded", menu_items=None)
 
@@ -61,20 +75,20 @@ def main():
     top_30 = top_30_projects[20:30]
 
     with col1:
-      display_projects(st, "#", top_10, start_index=1)
+        display_projects(st, "#", top_10, start_index=1)
     
     with col2:
-      display_projects(st, "#", top_20, start_index=11)
+        display_projects(st, "#", top_20, start_index=11)
     
     with col3:
-      display_projects(st, "#", top_30, start_index=21)
+        display_projects(st, "#", top_30, start_index=21)
 
-    st.markdown("### ⏰ Próxima atualização às 10:00.")
+    st.markdown("### ⏰ Próxima atualização às 00:00.")
     st.markdown("### 📚 Total de projetos: 1677")
 
-    with st.sidebar:
-      st.markdown("⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
-      st.markdown("🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)")
+    time_remaining = calculate_time_remaining()
+    formatted_time = format_time_delta(time_remaining)
+    st.sidebar.markdown(f"## ⏳ Tempo restante para o fim das votações: {formatted_time}")
 
     st.sidebar.header("🔍 Pesquisar Projeto")
     search_name = st.sidebar.text_input("Digite o seu nome:")
@@ -86,13 +100,19 @@ def main():
                 results.append((index + 1, name, github_link, reactions))
         
         if results:
-            st.sidebar.markdown(f"Resultados para '{search_name}':")
-            for position, name, project_link, reactions in results:
-                st.sidebar.markdown(f"{position}. **Nome**: {name}")
-                st.sidebar.markdown(f"   **Link do Projeto**: [Link]({project_link})")
-                st.sidebar.markdown(f"   **Reações**: :orange[{reactions}]")
+            with st.sidebar:
+                st.sidebar.markdown(f"Resultados para '{search_name}':")
+                for position, name, project_link, reactions in results:
+                    st.sidebar.markdown(f"{position}. **Nome**: {name}")
+                    st.sidebar.markdown(f"   **Link do Projeto**: [Link]({project_link})")
+                    st.sidebar.markdown(f"   **Reações**: :orange[{reactions}]")
         else:
-            st.sidebar.markdown("Não te encontrei.")
+            with st.sidebar:
+                st.sidebar.markdown("Não te encontrei.")
+
+    with st.sidebar:
+      st.markdown("⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
+      st.markdown("🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)")
 
 if __name__ == "__main__":
     main()
