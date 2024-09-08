@@ -12774,7 +12774,7 @@ Descrição do projeto
 "Prepare-se para uma experiência única e eletrizante! No *Jogo de desviar Obstáculos*, você vai desafiar seus reflexos e habilidades em um ambiente futurista, cheio de ação e mistérios! Com gráficos modernos e um fundo dinâmico de dados em movimento, cada partida será uma imersão total. Controle seu personagem com teclas de fácil acesso, disponíveis para qualquer dispositivo, e mergulhe em uma aventura de tirar o fôlego! Está pronto para superar seus limites e alcançar o topo? Jogue agora e seja o mestre deste universo digital!"
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 12:08 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (101)
+⭐ (100)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -24631,7 +24631,7 @@ Descrição do projeto
 Os jogos de tabuleiro estão se tornando cada vez mais populares como hobby em todo o mundo. Este projeto visa fornecer uma plataforma simples e eficaz para explorar alguns dos jogos de tabuleiro mais populares globalmente.  Descrição do Projeto Este projeto consiste em uma página web que permite aos usuários pesquisar por jogos de tabuleiro. Os jogos são consultados com base em informações armazenadas em uma base de dados JavaScript, incluindo o nome, mecânicas e tags associadas. A página oferece uma interface de pesquisa onde você pode digitar termos e visualizar os resultados que correspondem aos critérios fornecidos.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24650,7 +24650,7 @@ Descrição do projeto (cont.)
 s funcionalidades, corrigir bugs ou melhorar o design, fique à vontade para abrir um pull request.  Próximos Passos Expandir o banco de dados: Adicionar mais informações sobre gatos, como imagens e vídeos. Implementar um sistema de comentários: Permitir que os usuários deixem comentários sobre os artigos. Criar uma API: Expor os dados do site através de uma API para que outras aplicações possam utilizá-los. Observação: Este é um projeto simples e pode ser utilizado como base para criar um site mais completo sobre gatos.  Miau!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24665,7 +24665,7 @@ Descrição do projeto
 Um site de busca que mostra tutorias de farms de redstone para minecraft Java. Tudo feito com a ajuda do Gemini e com os conhecimentos adquiridos com a imersão dev da Alura!
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24680,7 +24680,7 @@ Descrição do projeto
 Projeto para Adoção de Pets
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24710,7 +24710,7 @@ Descrição do projeto
 Um consultador de personagens de hora de aventura!
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:55 PM] Alura
 Novo projeto recebido!
@@ -24725,7 +24725,7 @@ Descrição do projeto
 Um site feito com HTML, CSS e JavaScript. Com os personagens do jogo Five Nights at Freddy's, do primeiro ao quarto jogo.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:55 PM] Alura
 Novo projeto recebido!
@@ -24740,7 +24740,7 @@ Descrição do projeto
 Primeiramente, gostaria de agradecer pelo privilégio de estar com vocês nesta imersão. Sou pessoa com deficiência visual e não tive dificuldades para absorver o conteúdo. Pensei em algo que cooperasse para a sustentabilidade das cidades. Então criei um buscador simples e intuitivo para ajudar o usuário a encontrar o ecoponto mais próximo para descartar seus eletrônicos de forma correta. A final, precisamos salvar o nosso planeta que está tão caótico.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -24755,7 +24755,7 @@ Descrição do projeto
 Website que recomenda documentários de diversos tipos. Basta escolher um tema, e você será direcionado para as recomendações.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -24770,7 +24770,7 @@ Descrição do projeto
 projeto de Quimica
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -24800,7 +24800,7 @@ Descrição do projeto
 EmergêncIA - Assistente de Saúde Emergêncial
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -24815,7 +24815,7 @@ Descrição do projeto
 Este projeto web permite que o usuário pesquise por times de futebol e obtenha informações detalhadas sobre eles, como nome, país de origem, ano de fundação, estádio, entre outros. A aplicação utiliza a API Football para buscar os dados e exibe os resultados de forma clara e organizada.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -24830,7 +24830,7 @@ Descrição do projeto
 Monstra informações sobre parafusos mais comuns utilizados em diversas areas. Eu trabalho como balconista em uma loja que vende esse tipo de material, então me inspirei em coisas que eu conheço.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -24845,7 +24845,7 @@ Descrição do projeto
 Um buscador Alura + Google Gemini. O objetivo do buscador é:  O usuário digitar palavras chaves no input para receber um breve resumo sobre o que foi pesquisado e ao fim um Saiba Mais que redireciona o usuário ao site com informações mais completas. O usuário não necessariamente precisa digitar completamente o desejado usando de uma lógica simples o buscador encaminha o usuário para o que ele deseja, por exemplo: Fron. (O usuário recebe informações sobre os cursos de Front-End da Alura)
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
