@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (145)
+⭐ (144)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
