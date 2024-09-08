@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (274)
+⭐ (275)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (143)
+⭐ (144)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -4507,7 +4507,7 @@ Descrição do projeto
 Um jogo de adivinhar palavras pra testar o conhecimento do DEV. O usuário tem 5 chances para adivinha a palavra chave e pode pedir uma dica. Nas cinco chances que o usuário vai tentando a tela muda de cor e ao finalizar acertando ou errando ele pode reiniciar o jogo. Foi desenvolvido com HTML, CSS e JavaScript. tem um pequeno banco de elementos com palavras e dicas e é isso. Se divertir e aprender!
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/6/2024 2:59 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (104)
+⭐ (105)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -9074,7 +9074,7 @@ Descrição do projeto
 Site que facilita a busca de programas e projetos voltados para a INCLUSÃO TECNOLÓGICA de mulheres e outras minorias, promovendo a diversidade no mundo da programação !!
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -12534,7 +12534,7 @@ Descrição do projeto
 Projeto feito com base no que aprendi na Imersão Dev com Google Gemini, onde eu fiz uma página onde é possivel pesquisar todos os monstros de The Witcher 3 e acessar suas respectivas páginas da wiki ao clicar no link.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:29 AM] Alura
 Novo projeto recebido!
@@ -12549,7 +12549,7 @@ Descrição do projeto
 Uma aplicação web que permite aos usuários pesquisar e aprender sobre diferentes aberturas de xadrez. Utilizando HTML, CSS e JavaScript, a aplicação exibe descrições detalhadas e links para mais informações sobre cada abertura.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:30 AM] Alura
 Novo projeto recebido!
@@ -12564,7 +12564,7 @@ Descrição do projeto
 Desenvolvi um site mais voltado para estudo onde a pessoa consegue buscar curiosidade de cada planeta do sistema solar
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:37 AM] Alura
 Novo projeto recebido!
@@ -12579,7 +12579,7 @@ Descrição do projeto
 Desenvolvi um site de comércio eletrônico para venda de cosméticos, utilizando HTML, CSS, JavaScript e com o suporte do Google Gemini. O site possui um catálogo com alguns produtos, como maquiagens, produtos de skin care e fragrâncias. Conta com uma barra de pesquisa para o usuário realizar a buscar do produto desejado, não só isso é apresentado o produto que está em promoção. A interface é responsiva e fácil de usar, com um design desenvolvido justamente para atrair o público alvo, como é um site hipotético, caso o cliente queira adquirir o produto será direcionado a página oficial da empresa.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 11:40 AM] Alura
 Novo projeto recebido!
@@ -12594,7 +12594,7 @@ Descrição do projeto
 um guia online completo para quem busca um estilo de vida mais ecológico. Com uma interface intuitiva e conteúdo rico em imagens e links, o site oferece dicas práticas sobre diversos temas relacionados à sustentabilidade.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:42 AM] Alura
 Novo projeto recebido!
@@ -12609,7 +12609,7 @@ Descrição do projeto
 Projeto Pesquisa sobre Jogos Eletrônicos de 2024
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:47 AM] Alura
 Novo projeto recebido!
@@ -12624,7 +12624,7 @@ Descrição do projeto
 Este projeto é uma aplicação web destinada a ajudar os usuários a planejar viagens pelos Estados Unidos de forma prática e intuitiva. A plataforma permite pesquisar destinos, descobrir atrações turísticas, e até mesmo reservar passagens, hospedagem e aluguel de carros. Desenvolvida com HTML, CSS e JavaScript, com ajuda do projeto Imersão Dev da alura,  oferece uma experiência interativa, com funcionalidades de busca por cidade e detalhes sobre os principais pontos turísticos.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:47 AM] Alura
 Novo projeto recebido!
@@ -12639,7 +12639,7 @@ Descrição do projeto
 O AluCine é um projeto ambicioso que visa criar um guia completo e intuitivo para filmes e séries. A proposta é oferecer uma experiência de usuário que permita a busca rápida e eficiente por informações relevantes sobre títulos, como sinopses, avaliações e plataformas de streaming disponíveis. Alguns feitos no projeto não foram ensinados na Imersão, como por exemplo: a mudança de fonte e a colocação da foto de fundo. Porém, pedi ajuda para o Google Gemini para essas alterações que deixariam meu projeto do jeito que imaginei.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:48 AM] Alura
 Novo projeto recebido!
@@ -12654,7 +12654,7 @@ Descrição do projeto
 Um projeto simples, contendo informações de três personagens dos livros "As crônicas de gelo e fogo".
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:50 AM] Alura
 Novo projeto recebido!
@@ -12669,7 +12669,7 @@ Descrição do projeto
 Este projeto é um site simples que ajuda os jogadores a encontrar rapidamente suas plataformas de jogos favoritas. Com um design limpo e intuitivo, o site oferece uma experiência de usuário agradável e eficiente.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:56 AM] Alura
 Novo projeto recebido!
@@ -12684,7 +12684,7 @@ Descrição do projeto
 Abelhas nativas sem ferrão
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 12:00 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -19176,7 +19176,7 @@ Descrição do projeto
 O CâncerNão! é um projeto web interativo focado na prevenção do câncer, oferecendo informações claras e acessíveis para a conscientização e detecção precoce. Com um mapa de hospitais, prompts de avaliação de saúde e um chat responsivo, o site auxilia os usuários a compreenderem melhor a doença e adotarem medidas preventivas. O design acolhedor e intuitivo visa criar um ambiente de esperança e empatia, promovendo o poder da informação para salvar vidas.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 8:16 PM] Alura
 Novo projeto recebido!
@@ -23087,7 +23087,7 @@ Descrição do projeto
 Uma Pequena aplicação com algumas curiosidades e lenda sobre os estados do nordeste
 
 {Reactions}
-⭐ (9)
+⭐ (13)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
