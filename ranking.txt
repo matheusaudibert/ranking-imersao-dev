@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (154)
+⭐ (155)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -9074,7 +9074,7 @@ Descrição do projeto
 Site que facilita a busca de programas e projetos voltados para a INCLUSÃO TECNOLÓGICA de mulheres e outras minorias, promovendo a diversidade no mundo da programação !!
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -15018,7 +15018,7 @@ Descrição do projeto
 Essa aplicação, fruto do Desafio Alura Gemini, é um buscador simples e interativo que te ajuda a revisar tudo o que você aprendeu durante a imersão.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 3:42 PM] Alura
 Novo projeto recebido!
@@ -21592,7 +21592,7 @@ Descrição do projeto (cont.)
 da aplicação para uma interface visualmente atraente. JavaScript: Implementação de funcionalidades dinâmicas e interativas. React: Framework utilizado para criar uma interface de usuário responsiva e modular. Node.js:Backend para gerenciamento de dados e exr.Vanilla JavaScript: Para lógica de criação, atualização e renderização das partículas.
 
 {Reactions}
-⭐ (27)
+⭐ (29)
 
 [9/7/2024 10:21 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
