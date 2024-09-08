@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (290)
+⭐ (291)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (106)
+⭐ (107)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (91)
+⭐ (92)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
