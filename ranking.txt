@@ -2522,7 +2522,7 @@ Descrição do projeto
 Pensando na série de televisão, produzida pela BBC Studios, Doctor Who, que tem como objetivo resolver questões um tanto enigmáticas que acontecem pelo universo, decidi catalogar alguns dos aliens que marcaram as temporadas ao decorrer do tempo.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 11:47 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (95)
+⭐ (96)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (71)
+⭐ (73)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
