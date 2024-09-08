@@ -4537,7 +4537,7 @@ Descrição do projeto
 O Show da Imersão é um jogo de perguntas e respostas desenvolvido em HTML, CSS e JavaScript, com o objetivo de simular a experiência do famoso programa de televisão "Show do Milhão". O jogador responde a perguntas de múltipla escolha e tem a chance de ganhar prêmios em barras de ouro virtuais que valem mais do que dinheiro.
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/6/2024 3:01 PM] Alura
 Novo projeto recebido!
@@ -9502,7 +9502,7 @@ Descrição do projeto
 Hey Gamer! Conheça a Biblioteca Royale, um projeto que visa fornecer informações sobre as cartas deste game incrível para que você possa se tornar o rei no campo de batalha.  Espero que curta o trabalho deste iniciante!   Link do Projeto: https://weslleyalex.github.io/BibliotecaRoyale/ (Suas observações e sugestões são bem-vindas)  Link do Repositório: https://github.com/WeslleyAlex/BibliotecaRoyale (Confira o código na integra)
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/6/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (94)
+⭐ (95)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (89)
+⭐ (90)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -22577,7 +22577,7 @@ Descrição do projeto
 Esta Pokédex é uma aplicação de busca de Pokémons, que permite ao usuário pesquisar um Pokémon pelo seu nome. A aplicação exibe o número, nome, imagem e tipos de cada Pokémon encontrado.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 11:04 PM] Alura
 Novo projeto recebido!
