@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (116)
+⭐ (115)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -6220,7 +6220,7 @@ Descrição do projeto
 O CAB (Carros Antigos Brasileiros) é o seu ChatBot completo para explorar o universo dos carros nacionais antigos. Mergulhe em um mundo de detalhes técnicos, história e imagens surpreendentes. Nossa plataforma intuitiva permite que você pesquise por modelos, marcas e anos de fabricação de forma rápida e fácil. Descubra a evolução da indústria automobilística brasileira e encontre tudo que sua curiosidade por veículos nacionais antigos deseja saber!
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (181)
+⭐ (184)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -6250,7 +6250,7 @@ Descrição do projeto
 PROJETO DA ALURA
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -10376,7 +10376,7 @@ Descrição do projeto
 O projeto "Alimentos para Cães - Consulta de Permissão de Consumo" é uma aplicação web criada com o objetivo de auxiliar tutores de cães a identificarem de forma rápida e precisa quais alimentos são seguros para seus pets. Com uma interface interativa e responsiva, os usuários podem buscar alimentos específicos e descobrir se eles são permitidos, moderados ou proibidos para o consumo canino.  A aplicação organiza as informações em três categorias principais: alimentos permitidos, que podem ser consumidos sem preocupações; alimentos de moderação, que devem ser oferecidos com cautela; e alimentos proibidos, que representam riscos à saúde dos cães. O projeto também oferece uma interface visual amigável, que se adapta a diferentes dispositivos e tamanhos de tela.  Desenvolvido como parte da Imersão Dev com o Gemini da Google, promovida pela Alura, o projeto utiliza HTML5, CSS3, JavaScript e JSON para criar uma experiência eficiente e intuitiva.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -13823,7 +13823,7 @@ Descrição do projeto
 O Adota Pet é um projeto que facilita a adoção de animais de estimação.  Pode ser usado em diversas cidades, em parcerias com ONG,s Abrigos e Prefeituras. Ele foi criado para ajudar você a encontrar o animal perfeito para a sua casa e para proporcionar um espaço onde as histórias de adoção podem ser compartilhadas. Espero que seja um dos projetos escolhidos, para que, eu consiga terminar várias coisas que estão pendentes e  ele realmente possa fazer a diferença  https://adotapet.vercel.app/
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 1:50 PM] Alura
 Novo projeto recebido!
@@ -21027,7 +21027,7 @@ Descrição do projeto
 A página ajudará você a descobrir o biotipo corporal de acordo com as informações fornecidas: ectomorfo, mesomorfo ou endomorfo. Após isso, é possível conferir mais informações no botão "saiba mais". Ficar por dentro do seu biotipo é o melhor caminho para ter uma noção mais precisa das suas necessidades específicas em termos de nutrição e treinamento, permitindo um plano de saúde e fitness mais personalizado e eficaz.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
