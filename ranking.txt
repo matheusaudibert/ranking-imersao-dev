@@ -21297,7 +21297,7 @@ Descrição do projeto
 O projeto "Pioneiras do Futebol" tem como principal objetivo criar uma plataforma online que celebra e divulga a história das mulheres que revolucionaram o esporte mais popular do mundo: o futebol.  A aplicação permite que os usuários pesquisem por jogadoras e descubram informações relevantes sobre suas carreiras, como conquistas, curiosidades e perfis nas redes sociais. O projeto "Pioneiras do Futebol" é uma iniciativa importante para valorizar a história do futebol feminino e inspirar novas gerações de jogadoras. A aplicação oferece uma forma fácil e intuitiva de pesquisar e aprender sobre as maiores atletas do esporte, contribuindo para a divulgação do futebol feminino e para a promoção da igualdade de gênero.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 10:07 PM] Alura
 Novo projeto recebido!
