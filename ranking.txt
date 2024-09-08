@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (122)
+⭐ (121)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (121)
+⭐ (122)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -3548,7 +3548,7 @@ Descrição do projeto
 Eu fiz um buscador dos planetas do sistema solar, adicionei botões que aparece uma curiosidade quando passa o mouse em cima, e a barra de pesquisas para buscar cada planeta. Agradeço muito pela oportunidade, este foi o meu primeiro site e eu estou realmente muito agradecido pelos conhecimentos compartilhados e ainda mais, de graça!
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/6/2024 12:12 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -12504,7 +12504,7 @@ Descrição do projeto
 O projeto consiste em uma aplicação em HTML, CSS e Javascript onde o usuário pode digitar sua data de aniversário e o sistema retornará um acontecimento histórico que aconteceu no mundo nesse dia. O projeto foi desenvolvido durante a imersão dev!
 
 {Reactions}
-⭐ (30)
+⭐ (32)
 
 [9/7/2024 11:27 AM] Alura
 Novo projeto recebido!
