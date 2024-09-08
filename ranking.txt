@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (186)
+⭐ (187)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -5192,7 +5192,7 @@ Descrição do projeto
 Já se perguntou por que a Lua muda de forma? Ou como as fases lunares influenciam a natureza e até mesmo a gente? Essa aplicação é a sua porta de entrada para um universo de curiosidades sobre o nosso satélite natural!
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/6/2024 4:00 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (143)
+⭐ (144)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (123)
+⭐ (124)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -21868,7 +21868,7 @@ Descrição do projeto
 Essa é uma apresentação da Locable, uma plataforma de geolocalização que tem como propósito ajudar pessoas especiais e deficientes encontrarem locais com infraestrutura acessível, seja um restaurante com leitura braile ou um bairro que possui calçadas com rampas.   É uma proposta de uma ferramenta que ainda não existe, mas que poderia facilitar muito o cotidiano dessas pessoas que precisam de um cuidado maior, também sendo uma força de pressão social para que cada vez mais, a infraestrutura do nosso país possua mais acessibilidade e atenção com essas pessoas.  Ela possui um banco de dados separado em cidades, tipos de lugares (restaurantes, bairros, meios de transportes, etc) e tipo de acessibilidade. O usuário pode encontrar o seu destino acessível a partir da coluna de filtros ou pesquisando pelo nome na barra de pesquisa. A ideia do nome surgiu das palavras Local e Able (Acessível), condizente com seu propósito, localizar locais acessíveis. Pronto para dar o seu Locable?
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 10:34 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (72)
+⭐ (71)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
