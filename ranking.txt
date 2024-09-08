@@ -11361,7 +11361,7 @@ Descrição do projeto
 Mergulhe no fascinante mundo da história com Pílulas Históricas! Este projeto web permite que você explore uma variedade de eventos históricos através de uma interface intuitiva. Com uma simples pesquisa, você encontra fatos interessantes, datas importantes e links para aprofundar seus conhecimentos. Desenvolvido com HTML, CSS e JavaScript, este projeto foi criado durante a Imersão Alura + Gemini e conta com um design clean e responsivo para uma experiência agradável em diferentes dispositivos.
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 3:30 AM] Alura
 Novo projeto recebido!
@@ -11421,7 +11421,7 @@ Descrição do projeto
 Meu Personal trainner virtual
 
 {Reactions}
-⭐ (81)
+⭐ (82)
 
 [9/7/2024 3:38 AM] Alura
 Novo projeto recebido!
@@ -22847,7 +22847,7 @@ Descrição do projeto
 Um aplicativo web para pesquisa e visualização de ações da B3, com gráficos de preços históricos das ações.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 11:12 PM] Alura
 Novo projeto recebido!
