@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (168)
+⭐ (169)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -9669,7 +9669,7 @@ Descrição do projeto
 Ao pensar em um tema para o projeto pensei comigo porque não fazer de algo que sou apaixonada?? Pensando nisso, para tornar o processo ainda mais interessante, pensei em envolver automobilismo na ideia. A ideia principal é uma rede de apoio principalmente aos novos fãs que não sabem por onde começar a entender o esporte, apesar de eu não ter conseguido expressar totalmente isso na elaboração em si em pouco tempo. O objetivo do site é englobar notícias destaques, manuais de como assistir uma categoria específica por exemplo, tudo isso para acolher esses novos fãs que às vezes são piadas de outros mais antigos.
 
 {Reactions}
-⭐ (30)
+⭐ (32)
 
 [9/6/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -13868,7 +13868,7 @@ Descrição do projeto
 O meu projeto foi inspirado no projeto da imersão, mas ao invés de atletas eu criei um site onde podemos buscar por freelancers de programação e/ou designer. O projeto é responsivo e está hospedado neste link: https://lucas22022008.github.io/SearchDev/
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 1:54 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -22847,7 +22847,7 @@ Descrição do projeto
 Um aplicativo web para pesquisa e visualização de ações da B3, com gráficos de preços históricos das ações.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:12 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
