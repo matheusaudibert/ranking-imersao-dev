@@ -697,7 +697,7 @@ Descrição do projeto
 Uma pagina de pesquisa sobre tecnologia
 
 {Reactions}
-⭐ (74)
+⭐ (75)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (109)
+⭐ (110)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (67)
+⭐ (68)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -11813,7 +11813,7 @@ Descrição do projeto (cont.)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ⭐‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Link do Projeto: https://solar-alura-dev.vercel.app/  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🚀  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎⭐                                                                                   ‎ ‎ ‎ ‎ ‎ ‎‎ ‎
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 6:43 AM] Alura
 Novo projeto recebido!
@@ -15003,7 +15003,7 @@ Descrição do projeto
 O projeto foi criado com a ideia de tentar facilitar o encontro de restaurantes novos e restaurantes localizados de maneira mais distante (alimentado com base fictícia), de uma maneira simples, sem fugir do tema abordado na imersão (ou seja, sem google API), para poder realizar as pesquisas de restaurantes, pode-se utilizar o tipo de comida, como por exemplo, brasileira ou mexicana. Como a base é totalmente fictícia, não temos links vinculados aos nomes dos restaurantes, e os nomes de ruas são inventados.
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 3:40 PM] Alura
 Novo projeto recebido!
@@ -15515,7 +15515,7 @@ Descrição do projeto
 Um pequeno roadmap de quais podem ser os próximos passos para quem quer aprender programação, baseado na minha experiência de mercado. Feito com muito carinho de um dev para outros devs e futuros devs <3
 
 {Reactions}
-⭐ (12)
+⭐ (16)
 
 [9/7/2024 4:32 PM] Alura
 Novo projeto recebido!
@@ -17792,7 +17792,7 @@ Descrição do projeto
 Seu Quintal Limpo" é o MVP de uma startup de impacto social que conecta profissionais de capinagem com pessoas e empresas que precisam desse serviço. Através de uma plataforma de agendamento, cadastramos trabalhadores que frequentemente enfrentam baixa demanda e acesso a oportunidades, muitos deles com baixa escolaridade e dificuldades para conseguir outros empregos. O objetivo é valorizar esses profissionais, oferecendo uma solução que define um preço justo para o serviço, promovendo inclusão e dignidade no trabalho.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
