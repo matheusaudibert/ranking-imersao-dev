@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (123)
+⭐ (124)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1562,7 +1562,7 @@ Descrição do projeto
 Uma plataforma de compras, moderna e intuitiva.Oferecendo uma experiência rápida e eficiente juntamente com uma interface amigável e recursos que garantem uma navegação fluida. > Link Deploy: https://ecomercebyniel.netlify.app
 
 {Reactions}
-⭐ (190)
+⭐ (191)
 
 [9/5/2024 6:51 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (49)
+⭐ (48)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -23736,7 +23736,7 @@ Descrição do projeto
 Este projeto, desenvolvido durante a Imersão Alura com Google Gemini, busca trazer um toque brasileiro a um clássico dos jogos de cartas: o Trunfo. Com adaptações nas regras tradicionais, o objetivo é oferecer uma experiência de jogo mais simples e acessível.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23781,7 +23781,7 @@ Descrição do projeto
 Site para busca de gameplays sobre jogos no YouTube
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:42 PM] Alura
 Novo projeto recebido!
@@ -23796,7 +23796,7 @@ Descrição do projeto
 Página construida na imersão Alura-Googlegemini: com html, css, js e ajuda do googlegemini. Sobre os cursos da Alura Cursos de Tecnologia.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:42 PM] Alura
 Novo projeto recebido!
@@ -23826,7 +23826,7 @@ Descrição do projeto
 O projeto tem como funcionalidade a busca de informações sobre doenças listadas no SINAN (Sistema de Informação de Agravos de Notificação), A busca pode ser feita pesquisando pelo nome da doença, sintomas ou descrição de uma doença. A finalidade do site é auxiliar os profissionais de saúde no dia-a-dia, ajudando a identificar doenças a partir de sintomas, tendo acesso a informações de tratamento.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -23841,7 +23841,7 @@ Descrição do projeto
 Abordei Imersão falando sobre a Alura, Gemini e meus professores muito queridos que é o Guilherme, a Rafaella e o Luciano. Não consegui fazer muito mas para quem nunca vez como eu gostei. Gratidão por tudo.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -23856,7 +23856,7 @@ Descrição do projeto
 Aproveitei a oportunidade para fazer um projeto que tenho na faculdade que é sobre uma loja de games digitais para todas as plataformas
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -23871,7 +23871,7 @@ Descrição do projeto
 Projeto Da Alura junto com o Google Gemini. meu projeto fala sobre os alguns sites que todos nós conhecemos!
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -23886,7 +23886,7 @@ Descrição do projeto
 Um site sobre personagens de League Of Legends, que inclui todos os personagens do jogo, as pessoas podem filtrar sua busca por: Nome do Campeão,Ano de lançamento, Rota Principal. Classe, Tipo de dano e Região de Origem
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -23903,7 +23903,7 @@ Descrição do projeto (cont.)
 s foram utilizados apenas como exemplos). Obrigado por visitarem meu site. Espero que gostem!
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -23918,7 +23918,7 @@ Descrição do projeto
 tentei juntar um pouca da minha paixão por musica com oque eu aprendi na imersão
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (56)
+⭐ (57)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -23978,7 +23978,7 @@ Descrição do projeto
 Consumir alimentos sazonais oferece vários benefícios, como um maior aporte de nutrientes, menor presença de agrotóxicos, apoio à agricultura local e custos mais baixos para os consumidores.  Pensando nisso, o projeto "Sabores da Estação" tem como objetivo facilitar a escolha de alimentos com base em sua sazonalidade. Com ele, você pode consultar uma lista de alimentos disponíveis em qualquer mês do ano ou descobrir os melhores períodos para consumir um alimento específico. Basta digitar na barra de pesquisa o mês ou o alimento desejado para obter mais informações!
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
