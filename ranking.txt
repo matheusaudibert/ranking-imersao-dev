@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (270)
+⭐ (271)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -2522,7 +2522,7 @@ Descrição do projeto
 Pensando na série de televisão, produzida pela BBC Studios, Doctor Who, que tem como objetivo resolver questões um tanto enigmáticas que acontecem pelo universo, decidi catalogar alguns dos aliens que marcaram as temporadas ao decorrer do tempo.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 11:47 PM] Alura
 Novo projeto recebido!
@@ -2537,7 +2537,7 @@ Descrição do projeto
 Almanaque digital do craques que jogaram no Santos FC. ⚽ Baseado/Inspirado no trabalho da Assophis, Associação de pesquisadores do Santos FC, este projeto visa criar um sitema web com dados sobre os craques que fizeram história no Santos FC
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 11:48 PM] Alura
 Novo projeto recebido!
@@ -2552,7 +2552,7 @@ Descrição do projeto
 pagina de pesquisa de animes
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/5/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -2567,7 +2567,7 @@ Descrição do projeto
 Este projeto se chama Learn To Go, que contem em seu nome um trocadilho que significa "Aprenda a ir!", ou seja, aprenda a ir além e crie programas que te ajudarão a ir mais longe e se destacar como um profissional de tecnologia utilizando Go.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/5/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -2582,7 +2582,7 @@ Descrição do projeto
 Como professora de Des de Sistemas, criei um projeto para Aula de BD, onde é possível o aluno aprender o que é Banco de Dados, Dado, Informação, Atributos, e tudo relativo a Modelagem de Dados. Claro que tem muito mais coisa para colocar como RI, Normalização, mas não vai dar tempo não :D
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -2597,7 +2597,7 @@ Descrição do projeto
 Antes de ver o meu projeto veja a minha foto. Em dezembro de 2023, tomei uma decisão que mudou não só o meu visual, mas também a vida de outras pessoas. Após quase 4 anos deixando meu cabelo crescer, ele já alcançava minha cintura. Decidi cortá-lo. Pedi à cabeleireira que passasse a máquina 2 e salvasse o máximo que pudesse. Voltei para casa com o cabelo curto, algo a que não estava acostumado, mas com o coração leve por ter doado mais de 40 centímetros de cabelo a uma ONG que ajuda pessoas com câncer Agora, no meu projeto Alura-Gemini, criei um portal que facilita o acesso direto às áreas de doação de ONGs que combatem o câncer. Sei que a vida é corrida e nem sempre sobra tempo para ajudar, mas através deste projeto, eu quero tornar mais fácil para você fazer a diferença. Peço que vocês não apenas curtam esse projeto, mas que escolham uma instituição e façam a contribuição de vocês (por menor que seja) para tornar nosso país um lugar melhor.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/6/2024 12:07 AM] Alura
 Novo projeto recebido!
@@ -2612,7 +2612,7 @@ Descrição do projeto
 A  proposta do site é, disponibilizar informações para quem tem interesse e/ou curiosidade em ser doador de medula óssea, muitos não tem conhecimento do quão  simples pode ser  salvar uma vida; o site tende a dar explicações e tirar dúvidas frequentes de possíveis candidatos voluntários.
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/6/2024 12:31 AM] Alura
 Novo projeto recebido!
@@ -2627,7 +2627,7 @@ Descrição do projeto
 O objetivo do projeto é disponibilizar uma variedade de treinos de musculação simples e diretos ao ponto. Esse projeto une uma marca que estou criando chamada "Uncomplicated Workout" ou "Treino Descomplicado" aos meus estudos em programação. Se possível, esse projeto se transformará em um site oficial no futuro.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/6/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -2642,7 +2642,7 @@ Descrição do projeto
 Este projeto web é uma imersão completa aos clássicos do automobilismo. Através de HTML, CSS e JavaScript, busquei recriar a atmosfera dos carros antigos, explorando design vintage e interações intuitivas com o usuário. O objetivo é oferecer aos amantes de automóveis um espaço virtual para apreciar a beleza e a história desses veículos icônicos.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/6/2024 12:44 AM] Alura
 Novo projeto recebido!
@@ -2657,7 +2657,7 @@ Descrição do projeto
 O objetivo do projeto é mostrar as propostas dos atuais candidatos a prefeitura da cidade de São Paulo. O projeto visa ajudar a população paulistana a se informar sobre as propostas para que possam ter mais argumentos na hora da votação. No futuro o site pode ser evoluído para o estado todo ou para todo o País nas épocas de eleições. Além de poder ser integrado com senadores, vereadores e etc.  Reunir as informações em apenas um lugar pode ser muito útil para todos os usuários, fica mais fácil para comparar, ver as propostas, o partido, o número em que vai votar e etc.  Os candidatos poderão ser buscados por nome, partido ou número de votação.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 12:52 AM] Alura
 Novo projeto recebido!
@@ -8860,7 +8860,7 @@ Descrição do projeto
 Este projeto web é um catálogo interativo dedicado aos fãs da franquia Final Fantasy. Desenvolvido durante a imersão Dev da Alura com Gemini, o objetivo principal é proporcionar aos usuários uma experiência imersiva e completa no universo de Final Fantasy.
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/6/2024 10:23 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (100)
+⭐ (101)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
