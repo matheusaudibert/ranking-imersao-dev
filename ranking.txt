@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (75)
+⭐ (76)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (133)
+⭐ (132)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -21042,7 +21042,7 @@ Descrição do projeto
 Este projeto é um guia interativo das seleções que já participaram da Copa do Mundo.  Construído com HTML, CSS e JavaScript, ele permite que os usuários busquem por uma seleção específica e obtenham informações como título, descrição, ano em que o país sediou a copa e um link para mais detalhes., levando para a Wikipedia correspondente.  A interface do usuário é composta por uma caixa de pesquisa e um botão. Ao inserir o nome da seleção desejada e clicar no botão, o JavaScript busca nos dados e exibe os resultados correspondentes na página. O projeto é organizado nas linguagens citadas, incluindo um arquivo "dados.js" que armazena as informações de cada seleção.
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
