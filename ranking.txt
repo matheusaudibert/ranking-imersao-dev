@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (209)
+⭐ (210)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (96)
+⭐ (97)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
