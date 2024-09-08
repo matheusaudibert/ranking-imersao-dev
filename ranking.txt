@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (94)
+⭐ (95)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1682,7 +1682,7 @@ Descrição do projeto
 Hall da Fama - Olimpíada é uma aplicação focada em mostrar uma lista de atletas que marcaram seus nomes na história das Olimpíadas. Todos os dados foram retirados do site "https://olympics.com/en/athletes/" e cobrem todos os resultados até a Olimpíada de Inverno de 2022.
 
 {Reactions}
-⭐ (114)
+⭐ (115)
 
 [9/5/2024 7:13 PM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (135)
+⭐ (136)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (50)
+⭐ (52)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -9669,7 +9669,7 @@ Descrição do projeto
 Ao pensar em um tema para o projeto pensei comigo porque não fazer de algo que sou apaixonada?? Pensando nisso, para tornar o processo ainda mais interessante, pensei em envolver automobilismo na ideia. A ideia principal é uma rede de apoio principalmente aos novos fãs que não sabem por onde começar a entender o esporte, apesar de eu não ter conseguido expressar totalmente isso na elaboração em si em pouco tempo. O objetivo do site é englobar notícias destaques, manuais de como assistir uma categoria específica por exemplo, tudo isso para acolher esses novos fãs que às vezes são piadas de outros mais antigos.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/6/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (30)
+⭐ (34)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -15800,7 +15800,7 @@ Descrição do projeto
 🧩 Aprendendo o Alfabeto em Libras  🚀 Um jogo educativo para aprender o alfabeto da Língua Brasileira de Sinais de forma divertida e interativa! 👩‍🏫 Ensine e Aprenda: Explore cada letra com sinais visuais. 🎯 Teste seus Conhecimentos: Quiz rápido com pontuação, tempo e moedas! 📱 Interface Moderna: Design responsivo e acessível para todas as idades. 🤝 Educação Inclusiva: Promovendo o aprendizado de Libras para todos.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 4:50 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (46)
+⭐ (48)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -22483,7 +22483,7 @@ Descrição do projeto
 Cansado de cursos chatos e teorias enfadonhas? No SoftinSkills, a diversão é garantida!  Descubra como transformar jogos em ferramentas poderosas para o desenvolvimento pessoal e profissional. Desenvolva as Soft Skills mais buscadas no mercado jogando, tem jogo pra todo mundo desde o tabuleiro cheio de gente quanto seu jogo online colaborativo.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
