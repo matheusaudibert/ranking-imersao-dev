@@ -2147,7 +2147,7 @@ Descrição do projeto
 A Garden Sustentability, é uma ideação para o projeto da Alura com o Google Gemini. Aqui nós iremos combinar o verde com a tecnologia para criar um projeto inovador e impactante.  Conceito: Um jardim comunitário que utiliza tecnologia para otimizar o cultivo, monitorar o crescimento das plantas e promover a educação ambiental de forma interativa. Utilizando Sensores (Úmidade, temperatura, nutricionais), Irrigação automatizada, Painéis solares, Aplicativo mobile e Câmeras;
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -2779,7 +2779,7 @@ Descrição do projeto
 Quer aprender inglês, espanhol, alemão, francês e italiano de maneira divertida? Então não perca tempo e venha conhecer o Lang Studious um app web que monta questionários para você treinar a língua que você está estudando em uma interface amigável!!
 
 {Reactions}
-⭐ (97)
+⭐ (98)
 
 [9/6/2024 2:55 AM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (170)
+⭐ (171)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -22532,7 +22532,7 @@ Descrição do projeto (cont.)
 entre os 30 melhores? O Desafio dos Campeões não é apenas um jogo, mas uma demonstração do que é possível alcançar quando se combina criatividade com habilidade técnica. O projeto não só oferece uma experiência divertida para os jogadores, mas também serve como um excelente exemplo educacional para desenvolvedores que querem aprender a aplicar suas habilidades em projetos reais.  A riqueza de detalhes no desenvolvimento, a utilização de boas práticas de programação e a capacidade de expansão tornam este projeto digno de estar entre os 30 melhores. Ele mostra o potencial de um desenvolvedor em criar algo que não só entretém, mas também ensina, inova e inspira.  Vote no Desafio dos Campeões e faça parte desta aventura épica!
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
