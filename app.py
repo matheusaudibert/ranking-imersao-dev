@@ -49,7 +49,7 @@ def display_projects(st, title, projects, start_index):
 def main():
     st.set_page_config(page_title="Ranking Alura", layout="wide", initial_sidebar_state="auto", menu_items=None)
 
-    st.title("🏆 Ranking Alura :gray[Não Oficial] - Última Atualização (02:00)")
+    st.title("🏆 Ranking Alura :gray[Não Oficial] - Última Atualização (02:30)")
 
     
 
@@ -71,7 +71,7 @@ def main():
     with col3:
       display_projects(st, "#", top_30, start_index=21)
 
-    st.markdown("## ⏰ Próxima atualização às 02:30. Total de projetos: 1677")
+    st.markdown("## ⏰ Próxima atualização às 10:00. Total de projetos: 1677")
 
     col4, col5, col6 = st.columns(3)
 
