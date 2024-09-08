@@ -1652,7 +1652,7 @@ Descrição do projeto
 Voltado para o público gamer, este projeto tem como objetivo apresentar uma breve descrição de jogos retro. O conceito visual teve como base de referência diversas imagens de terminais dentro de jogos, como, por exemplo, o Pip-Boy de Fallout e outros similares. Caso tenha interesse em verificar apenas a parte visual, segue o link do deploy: https://founder-gif.github.io/EncicloGamer
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/5/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (140)
+⭐ (141)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -24297,7 +24297,7 @@ Descrição do projeto (cont.)
 tares. * Fomentar uma relação mais profunda e informada com a alimentação, alinhada aos princípios da sustentabilidade e da saúde integral.  Público-Alvo:  * Pessoas com restrições alimentares, como intolerância ao glúten e à lactose. * Entusiastas da culinária que buscam compreender melhor os aspectos científicos dos alimentos. * Consumidores interessados em alimentação saudável e sustentável.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 11:50 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
