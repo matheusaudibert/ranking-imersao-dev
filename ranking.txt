@@ -1562,7 +1562,7 @@ Descrição do projeto
 Uma plataforma de compras, moderna e intuitiva.Oferecendo uma experiência rápida e eficiente juntamente com uma interface amigável e recursos que garantem uma navegação fluida. > Link Deploy: https://ecomercebyniel.netlify.app
 
 {Reactions}
-⭐ (148)
+⭐ (150)
 
 [9/5/2024 6:51 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -17717,7 +17717,7 @@ Descrição do projeto
 Esse projeto foi o meu primeiro contato com a programação. Tesouros perdidos mostra alguns dos animais que estão ameaçados de extinção em cada bioma brasileiro. Minha ideia foi apresentar a diversidade da fauna brasileira através de uma pequena descrição de cada espécie e trazer as principais ameaças enfrentadas por elas a fim de conscientizar as pessoas sobre a importância da biodiversidade brasileira. https://tesouro-perdido.vercel.app/
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/7/2024 6:56 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
