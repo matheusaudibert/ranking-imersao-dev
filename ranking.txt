@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (101)
+⭐ (102)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -11421,7 +11421,7 @@ Descrição do projeto
 Meu Personal trainner virtual
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 3:38 AM] Alura
 Novo projeto recebido!
@@ -14883,7 +14883,7 @@ Descrição do projeto
 Projeto da Imersão Dev Alura que permite pesquisar jogos de vídeo game clássicos. Usuários podem buscar títulos icônicos, ver descrições breves e acessar links com mais detalhes sobre cada jogo. Desenvolvido com HTML, CSS e JavaScript para criar uma interface interativa e funcional.
 
 {Reactions}
-⭐ (21)
+⭐ (20)
 
 [9/7/2024 3:29 PM] Alura
 Novo projeto recebido!
@@ -14898,7 +14898,7 @@ Descrição do projeto
 O Mundo Tech é um site online intuitivo e fácil de usar, projetado para ajudar desenvolvedores, estudantes e entusiastas de tecnologia a explorarem e aprenderem sobre as diversas tecnologias utilizadas na criação de aplicações web e mobile.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 3:30 PM] Alura
 Novo projeto recebido!
@@ -15018,7 +15018,7 @@ Descrição do projeto
 Essa aplicação, fruto do Desafio Alura Gemini, é um buscador simples e interativo que te ajuda a revisar tudo o que você aprendeu durante a imersão.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 3:42 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
