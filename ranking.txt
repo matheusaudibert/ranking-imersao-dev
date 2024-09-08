@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -11179,7 +11179,7 @@ Descrição do projeto
 Uma página feito para encontrar alguna filmes da A24 (Studio de cinema) tendo apenas alguns títulos como Pearl, Maxxxine, The whale etc
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
