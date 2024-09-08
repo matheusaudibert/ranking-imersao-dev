@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (121)
+⭐ (120)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -12504,7 +12504,7 @@ Descrição do projeto
 O projeto consiste em uma aplicação em HTML, CSS e Javascript onde o usuário pode digitar sua data de aniversário e o sistema retornará um acontecimento histórico que aconteceu no mundo nesse dia. O projeto foi desenvolvido durante a imersão dev!
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 11:27 AM] Alura
 Novo projeto recebido!
@@ -22832,7 +22832,7 @@ Descrição do projeto
 Descubra o Brasil - Buscador de cidades turísticas, para facilitar o planejamento da próxima viagem, tendo dicas de hotéis, pontos turísticos e facilitador para compra de passagem.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
@@ -24860,7 +24860,7 @@ Descrição do projeto
 Crie sua própria biblioteca de vídeos e organize seus conteúdos favoritos de forma simples e intuitiva. A Videoteca te permite centralizar seus vídeos pessoais, de estudos e muito mais em um único lugar, facilitando a busca e o acesso. Com esta ferramenta de pesquisa inteligente, você encontra rapidamente aquele vídeo que precisa, seja para revisão de estudos, momentos de lazer ou para compartilhar com amigos.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -24875,7 +24875,7 @@ Descrição do projeto
 Meu projeto é sobre cultura gamer. Um site de notícias do mundo gamer com curiosidades, reviews .
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -24890,7 +24890,7 @@ Descrição do projeto
 Site tipo potifolio para minha irmã do ramo de Arquitetura de Interiores (https://as-arquitetura-interiores.vercel.app/)
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -24905,7 +24905,7 @@ Descrição do projeto
 É um site de receitas Fitness
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -24920,7 +24920,7 @@ Descrição do projeto
 Guia Quatro Patas é uma aplicação web simples e intuitiva que auxilia donos de pets a encontrar hospedagens adequadas para seus animais de estimação através de uma interface amigável.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -24935,7 +24935,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma base de conhecimento sobre os clássicos da literatura brasileira. A aplicação permite que os usuários busquem e visualizem informações sobre os principais livros, como título, autor, resumo e links para mais detalhes.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -24950,7 +24950,7 @@ Descrição do projeto
 O Gallery Museum é uma plataforma digital desenvolvida para proporcionar uma experiência imersiva e educacional no mundo da arte. O site visa oferecer acesso a uma vasta coleção de obras de arte, permitindo aos usuários explorar, pesquisar e apreciar a arte de maneira interativa e acessível. O projeto combina design elegante, funcionalidade intuitiva e uma interface responsiva para criar um ambiente digital envolvente.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -24965,7 +24965,7 @@ Descrição do projeto
 Guia para tutores de primeira viagem. No site o tutor encontrará informações sobre vacinação de cães e gatos, alimentos tóxicos, alimentos que o pet pode ingerir e entre outros...
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -24980,7 +24980,7 @@ Descrição do projeto
 Meu projeto contém os robôs mais atuais do mundo.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -24995,7 +24995,7 @@ Descrição do projeto
 Projeto sobre o evento G20 Brasil
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25010,7 +25010,7 @@ Descrição do projeto
 Bem-vindo ao projeto "Evolução dos Jogos"! Este projeto foi desenvolvido como parte da imersão Alura
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25040,7 +25040,7 @@ Descrição do projeto
 Este projeto é uma aplicação simples de lista de tarefas (To-Do List). O objetivo é permitir que os usuários adicionem, marquem como concluídas e removam tarefas. A aplicação tem uma interface limpa e é fácil de usar.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25055,7 +25055,7 @@ Descrição do projeto
 Este projeto é uma ferramenta abrangente de busca de roadmaps e um questionário interativo projetado para ajudar você a descobrir a carreira em TI que melhor se alinha ao seu perfil e interesses. Acredito que esta plataforma pode ser uma valiosa contribuição para a comunidade, atendendo tanto iniciantes quanto profissionais que estão considerando uma mudança de área.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25070,7 +25070,7 @@ Descrição do projeto
 https://pesquisador-de-animes.vercel.app/  O meu pesquisador da minha base de dados de animes que já assisti
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
