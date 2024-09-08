@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (201)
+⭐ (202)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -15515,7 +15515,7 @@ Descrição do projeto
 Um pequeno roadmap de quais podem ser os próximos passos para quem quer aprender programação, baseado na minha experiência de mercado. Feito com muito carinho de um dev para outros devs e futuros devs <3
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 4:32 PM] Alura
 Novo projeto recebido!
@@ -16766,7 +16766,7 @@ Descrição do projeto
 Como grande fã do mangá e anime One Piece de Eiichiro Oda, decidi criar um simples site com algumas informações que possam ser interessantes para um site sobre esta grande obra. A aplicação possui uma pequena base de dados com alguns personagens que escolhi para explorar a funcionalidade do site.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 5:57 PM] Alura
 Novo projeto recebido!
