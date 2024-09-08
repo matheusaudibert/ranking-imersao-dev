@@ -7175,7 +7175,7 @@ Descrição do projeto
 Se você quer saber o que é RAG, Fine-Tuning, REST ou outros termos muito usados quando falamos de IA e APIs e ainda ter acesso à livros, revistas digitais e ferramentas sobre o tema, o seu lugar é aqui! 🧠
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/6/2024 7:34 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (91)
+⭐ (92)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -19176,7 +19176,7 @@ Descrição do projeto
 O CâncerNão! é um projeto web interativo focado na prevenção do câncer, oferecendo informações claras e acessíveis para a conscientização e detecção precoce. Com um mapa de hospitais, prompts de avaliação de saúde e um chat responsivo, o site auxilia os usuários a compreenderem melhor a doença e adotarem medidas preventivas. O design acolhedor e intuitivo visa criar um ambiente de esperança e empatia, promovendo o poder da informação para salvar vidas.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 8:16 PM] Alura
 Novo projeto recebido!
@@ -21162,7 +21162,7 @@ Descrição do projeto
 Xadrez é um dos meus hobies favoritos; Foi minha escolha, para quem sabe... Dar um MATE nessa competição! Link do projeto: https://chess-com-maicon.vercel.app/
 
 {Reactions}
-⭐ (35)
+⭐ (37)
 
 [9/7/2024 10:03 PM] Alura
 Novo projeto recebido!
@@ -22408,7 +22408,7 @@ Descrição do projeto
 Calcule sua Festa é uma uma plataforma completa para organizar festas e eventos, permitindo calcular automaticamente a quantidade ideal de carne, bebidas, refrigerantes, comidas típicas, mesas e cadeiras com base no número de convidados e duração da festa. Utiliza HTML, CSS e JavaScript para uma interface amigável e dinâmica, com uma base de dados rica em informações sobre consumos médios por pessoa. Ideal para eventos de todos os tipos no Brasil, considerando diferentes tipos de comida e bebida típicas.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 10:59 PM] Alura
 Novo projeto recebido!
@@ -22532,7 +22532,7 @@ Descrição do projeto (cont.)
 entre os 30 melhores? O Desafio dos Campeões não é apenas um jogo, mas uma demonstração do que é possível alcançar quando se combina criatividade com habilidade técnica. O projeto não só oferece uma experiência divertida para os jogadores, mas também serve como um excelente exemplo educacional para desenvolvedores que querem aprender a aplicar suas habilidades em projetos reais.  A riqueza de detalhes no desenvolvimento, a utilização de boas práticas de programação e a capacidade de expansão tornam este projeto digno de estar entre os 30 melhores. Ele mostra o potencial de um desenvolvedor em criar algo que não só entretém, mas também ensina, inova e inspira.  Vote no Desafio dos Campeões e faça parte desta aventura épica!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
@@ -24755,7 +24755,7 @@ Descrição do projeto
 Website que recomenda documentários de diversos tipos. Basta escolher um tema, e você será direcionado para as recomendações.
 
 {Reactions}
-⭐ (14)
+⭐ (16)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (72)
+⭐ (73)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
