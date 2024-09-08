@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (142)
+⭐ (143)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -9320,7 +9320,7 @@ Descrição do projeto
 Mergulhe no mundo mágico do Studio Ghibli com um só clique! Pesquise filmes, explore sinopses e ouça trilhas sonoras. Tudo isso em um só lugar, feito com muito carinho para os fãs. A plataforma, construída utilizando as tecnologias HTML, CSS, JavaScript e Gemini, oferece um recurso valioso para a pesquisa e o estudo da animação japonesa. Através de uma interface intuitiva e recursos de busca avançados, o site permite aos usuários acessar informações detalhadas sobre cada filme, como sinopse e trilha sonora. Os resultados obtidos com o desenvolvimento deste projeto demonstram a viabilidade de utilizar ferramentas digitais para a organização e divulgação de acervos audiovisuais, contribuindo para a preservação e valorização do patrimônio cultural.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/6/2024 11:07 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (80)
+⭐ (81)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
