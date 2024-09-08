@@ -5010,7 +5010,7 @@ Descrição do projeto
 Uma oportunidade de explorar mais informações a respeito do seu videogame favorito. Principalmente pelo fato dele listar alguns defeitos recorrentes do seu console e te mostrar o caminho para resolver o problema, que não necessite da prestação de serviço do técnico. Caso o problema for maior recomendamos que leve a uma assistência técnica. Esse é um projeto piloto que pretendo elevar na sua construção não apenas banco de dados mas também informações técnicas para auxiliar um técnico eletrônico na manutenção desses aparelhos. Aceito sugestões de melhoria do mesmo...
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/6/2024 3:41 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (74)
+⭐ (75)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
