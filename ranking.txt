@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -11010,7 +11010,7 @@ Descrição do projeto
 Tech Titans - As 20 Pessoas Mais Poderosas e Influentes da Tecnologia
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 2:28 AM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
