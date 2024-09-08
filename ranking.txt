@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (137)
+⭐ (138)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (116)
+⭐ (117)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (145)
+⭐ (146)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
