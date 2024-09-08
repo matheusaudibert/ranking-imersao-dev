@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (201)
+⭐ (202)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (135)
+⭐ (136)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -2477,7 +2477,7 @@ Descrição do projeto
 O projeto tem como objetivo utilizar a API Gemini para gerar um resumo da classe informada bem como algumas habilidades da mesma.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/5/2024 11:32 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (159)
+⭐ (161)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (124)
+⭐ (126)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -12504,7 +12504,7 @@ Descrição do projeto
 O projeto consiste em uma aplicação em HTML, CSS e Javascript onde o usuário pode digitar sua data de aniversário e o sistema retornará um acontecimento histórico que aconteceu no mundo nesse dia. O projeto foi desenvolvido durante a imersão dev!
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 11:27 AM] Alura
 Novo projeto recebido!
