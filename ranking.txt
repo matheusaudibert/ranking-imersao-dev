@@ -11963,7 +11963,7 @@ Descrição do projeto
 Como sou iniciante no desenvolvimento de sites, este projeto é uma tentativa criativa de unir aprendizado com entretenimento.  Neste site simples de busca, voces podem explorar o multiverso da programação, ao pesquisar por uma linguagem vocês são transportados para links aleatórios, que podem ser uma explicação séria sobre a linguagem, uma imagem engraçada ou até um site inesperado! Meu objetivo foi proporcionar uma experiência divertida e educativa, mostrando as diversas facetas do mundo da programação. Espero que gostem!! testem aqui: http://multiverso-r29l.vercel.app/
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/7/2024 8:35 AM] Alura
 Novo projeto recebido!
@@ -14898,7 +14898,7 @@ Descrição do projeto
 O Mundo Tech é um site online intuitivo e fácil de usar, projetado para ajudar desenvolvedores, estudantes e entusiastas de tecnologia a explorarem e aprenderem sobre as diversas tecnologias utilizadas na criação de aplicações web e mobile.
 
 {Reactions}
-⭐ (10)
+⭐ (13)
 
 [9/7/2024 3:30 PM] Alura
 Novo projeto recebido!
@@ -22228,7 +22228,7 @@ Descrição do projeto
 O projeto apresenta alguns dos principais personagens de Ordem Paranormal.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 10:53 PM] Alura
 Novo projeto recebido!
@@ -22303,7 +22303,7 @@ Descrição do projeto
 Pode ser muito difícil achar um lugar interessante para passear em SP. Por isso, fiz esse site onde você entra com uma categoria (ex.: "museu") e recebe diversas opções de lugares com uma descrição breve e um link que redireciona para a página oficial do lugar. :)
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 10:55 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -24978,7 +24978,7 @@ Descrição do projeto
 Meu projeto contém os robôs mais atuais do mundo.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -24993,7 +24993,7 @@ Descrição do projeto
 Projeto sobre o evento G20 Brasil
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25008,7 +25008,7 @@ Descrição do projeto
 Bem-vindo ao projeto "Evolução dos Jogos"! Este projeto foi desenvolvido como parte da imersão Alura
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25333,7 +25333,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐
+⭐ (2)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
