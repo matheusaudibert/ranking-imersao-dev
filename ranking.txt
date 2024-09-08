@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (144)
+⭐ (145)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -3139,7 +3139,7 @@ Descrição do projeto
 Vitta Saúde - É uma fonte de pesquisa para doenças, tratamentos e entre outros. Para melhor entendimento do que precisa saber sobre.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/6/2024 9:56 AM] Alura
 Novo projeto recebido!
@@ -3154,7 +3154,7 @@ Descrição do projeto
 Projeto baseado no livro de Baltasar sobre Sabedoria
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 9:57 AM] Alura
 Novo projeto recebido!
@@ -3169,7 +3169,7 @@ Descrição do projeto
 Projeto baseado no livro de Baltasar sobre Sabedoria
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 10:08 AM] Alura
 Novo projeto recebido!
@@ -3184,7 +3184,7 @@ Descrição do projeto
 Em desenvolvimento
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 10:15 AM] Alura
 Novo projeto recebido!
@@ -3199,7 +3199,7 @@ Descrição do projeto
 O Caminho da Prosperidade é um aplicativo web simples e intuitivo projetado para auxiliar na organização de objetivos e metas. Ele permite que o usuário cadastre suas tarefas, acompanhe o progresso e imprima uma lista completa de seus objetivos. A aplicação também oferece mensagens motivacionais para inspirar e impulsionar o usuário a alcançar seus objetivos.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/6/2024 10:20 AM] Alura
 Novo projeto recebido!
@@ -3214,7 +3214,7 @@ Descrição do projeto
 Conhecimentos e curiosidades sobre Animes
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (111)
+⭐ (112)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -3246,7 +3246,7 @@ Descrição do projeto (cont.)
 uma lista dos produtos adicionados ira abrir
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/6/2024 10:42 AM] Alura
 Novo projeto recebido!
@@ -3261,7 +3261,7 @@ Descrição do projeto
 É o site que vocês ensinaram a criar, mas eu coloquei algumas coisas adicionais! Espero que gostem
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 10:46 AM] Alura
 Novo projeto recebido!
@@ -3276,7 +3276,7 @@ Descrição do projeto
 Nesse projeto eu resolvi criar uma aplicação onde o usuário pode obter todas as informações sobre qualquer tipo de Game
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/6/2024 11:01 AM] Alura
 Novo projeto recebido!
@@ -3291,7 +3291,7 @@ Descrição do projeto
 É um site de busca por carros favaritos, onde o usuário pode escolher por nome sua busca!
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 11:07 AM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (12)
+⭐ (15)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
