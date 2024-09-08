@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (202)
+⭐ (203)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (196)
+⭐ (197)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -3653,7 +3653,7 @@ Descrição do projeto
 A Jornada do Herói Lógico é um projeto de educação gamificada que combina uma aventura interativa com conceitos de programação. O jogo conta a história de um herói que enfrenta uma série de desafios e deve usar seu conhecimento lógico para tomar decisões corretas e avançar na história. Durante sua jornada, o herói precisa resolver problemas que envolvem lógica, recursão, algoritmos e funções.
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/6/2024 12:35 PM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (91)
+⭐ (92)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -21042,7 +21042,7 @@ Descrição do projeto
 Este projeto é um guia interativo das seleções que já participaram da Copa do Mundo.  Construído com HTML, CSS e JavaScript, ele permite que os usuários busquem por uma seleção específica e obtenham informações como título, descrição, ano em que o país sediou a copa e um link para mais detalhes., levando para a Wikipedia correspondente.  A interface do usuário é composta por uma caixa de pesquisa e um botão. Ao inserir o nome da seleção desejada e clicar no botão, o JavaScript busca nos dados e exibe os resultados correspondentes na página. O projeto é organizado nas linguagens citadas, incluindo um arquivo "dados.js" que armazena as informações de cada seleção.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -23903,7 +23903,7 @@ Descrição do projeto (cont.)
 s foram utilizados apenas como exemplos). Obrigado por visitarem meu site. Espero que gostem!
 
 {Reactions}
-⭐ (10)
+⭐ (13)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -24449,7 +24449,7 @@ Descrição do projeto
 Esse projeto visa tornar a alimentação de seus cães e gatos muito mais fácil e segura! 🌟 Por meio de uma interface super amigável, você pode pesquisar qualquer alimento e descobrir se ele é seguro para o seu pet. Além disso, oferecemos informações sobre os benefícios e riscos de cada item, garantindo que seu amigo de quatro patas receba o melhor! 🐾🍽️
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
