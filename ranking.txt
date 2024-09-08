@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (145)
+⭐ (146)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -2779,7 +2779,7 @@ Descrição do projeto
 Quer aprender inglês, espanhol, alemão, francês e italiano de maneira divertida? Então não perca tempo e venha conhecer o Lang Studious um app web que monta questionários para você treinar a língua que você está estudando em uma interface amigável!!
 
 {Reactions}
-⭐ (95)
+⭐ (96)
 
 [9/6/2024 2:55 AM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (74)
+⭐ (75)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -14491,7 +14491,7 @@ Descrição do projeto
 Patas Gemini: Ajude a encontrar um novo melhor amigo!
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/7/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (23)
+⭐ (25)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
