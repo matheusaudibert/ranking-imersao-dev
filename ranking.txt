@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (252)
+⭐ (253)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (115)
+⭐ (116)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -5860,7 +5860,7 @@ Descrição do projeto
 Seja bem-vindo(a) ao Ferramentas IA! Aqui você poderá descobrir inúmeras ferramentas que utilizam a tecnologia da inteligência artifical para facilitar suas tarefas. Precisa criar um texto bonito? Aqui você acha uma IA que faz isso! Precisa criar um vídeo legal? Aqui você encontra a ferramenta perfeita! Acesse o site pelo seguinte link: https://qmartinz.github.io/Ferramentas-IA/. Nesse website, você pode pesquisar por ferramentas online de inteligência artificial dentro de um banco de dados com mais de 40 itens. Eu criei esse website após algumas dificuldades em encontrar IAs que pudessem ser utilizadas em alguns projetos de escola, já que onde eu estudo o uso de IA é bem promovido pelo corpo docente. Aproveitem a ferramenta!
 
 {Reactions}
-⭐ (104)
+⭐ (105)
 
 [9/6/2024 5:09 PM] Alura
 Novo projeto recebido!
@@ -8969,7 +8969,7 @@ Descrição do projeto
 Tentei meu melhor para fazer um site de pesquisa dos personagens da franquia de jogos Don't Starve, pretendo implementar mais detalhes mas por enquanto foi o que pude finalizar
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/6/2024 10:36 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -12699,7 +12699,7 @@ Descrição do projeto
 LevelSkills é uma plataforma que avalia habilidades técnicas e comportamentais por meio de quizzes interativos. Ela ajuda usuários a identificar pontos fortes e áreas de melhoria, oferecendo feedback útil para aprimorar currículos e preparar-se melhor para entrevistas de emprego.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 12:00 PM] Alura
 Novo projeto recebido!
@@ -12714,7 +12714,7 @@ Descrição do projeto
 Wiki da Família Moderna: Descubra tudo sobre seus personagens favoritos.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 12:02 PM] Alura
 Novo projeto recebido!
@@ -13410,7 +13410,7 @@ Descrição do projeto
 Descubra as mulheres que revolucionaram o mundo! ✨ Muitas mulheres marcaram a ciência com suas pesquisas e inovações, você conhece suas histórias? Venha saber mais sobre cada uma delas no site Mulheres Cientistas! Pesquise por nomes, áreas de atuação e aprenda mais sobre as mentes brilhantes que moldaram nosso futuro. Deploy: https://mulheres-cientistas.vercel.app/
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 1:00 PM] Alura
 Novo projeto recebido!
@@ -17415,7 +17415,7 @@ Descrição do projeto
 Esse projeto se trata de uma plataforma onde o usuário poderá ver as informações detalhadas sobre um filme ou série de sua preferência, podendo pesquisar títulos ou explorar os apresentados na tela principal. Algumas informações que serão apresentadas: Pôster, Título, Descrição, Data de lançamento e Plataformas disponíveis. O projeto possui um banco de dados de 100 filmes/séries sortidas, em formato JS.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 6:29 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -23207,7 +23207,7 @@ Descrição do projeto
 BuscaFlix é uma aplicação web que permite aos usuários buscar filmes, séries e animes com base em características específicas. A aplicação utiliza a API do Google Generative AI para gerar conteúdo e exibir resultados de busca.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:22 PM] Alura
 Novo projeto recebido!
@@ -24616,7 +24616,7 @@ Descrição do projeto (cont.)
 anheiro feliz e saudável, e a satisfação de ter feito a diferença na vida de um animal.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24740,7 +24740,7 @@ Descrição do projeto
 Primeiramente, gostaria de agradecer pelo privilégio de estar com vocês nesta imersão. Sou pessoa com deficiência visual e não tive dificuldades para absorver o conteúdo. Pensei em algo que cooperasse para a sustentabilidade das cidades. Então criei um buscador simples e intuitivo para ajudar o usuário a encontrar o ecoponto mais próximo para descartar seus eletrônicos de forma correta. A final, precisamos salvar o nosso planeta que está tão caótico.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -24935,7 +24935,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma base de conhecimento sobre os clássicos da literatura brasileira. A aplicação permite que os usuários busquem e visualizem informações sobre os principais livros, como título, autor, resumo e links para mais detalhes.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (66)
+⭐ (68)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25350,7 +25350,7 @@ Descrição do projeto
 Uma breve pokedéx de pokemons com tipagem sombria!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
