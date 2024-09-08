@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (144)
+⭐ (145)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -3653,7 +3653,7 @@ Descrição do projeto
 A Jornada do Herói Lógico é um projeto de educação gamificada que combina uma aventura interativa com conceitos de programação. O jogo conta a história de um herói que enfrenta uma série de desafios e deve usar seu conhecimento lógico para tomar decisões corretas e avançar na história. Durante sua jornada, o herói precisa resolver problemas que envolvem lógica, recursão, algoritmos e funções.
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/6/2024 12:35 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (59)
+⭐ (60)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
