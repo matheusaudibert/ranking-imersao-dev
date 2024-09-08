@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (176)
+⭐ (177)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (86)
+⭐ (85)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -9594,7 +9594,7 @@ Descrição do projeto
 Trata-se de um site dedicado para mulheres no ciclo gravídico puerperal, com finalidade de transmitir conteúdos voltados para educação perinatal, espiritualidade, alimentação saudável, entre outros temas.
 
 {Reactions}
-⭐ (28)
+⭐ (30)
 
 [9/6/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (77)
+⭐ (78)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -11978,7 +11978,7 @@ Descrição do projeto
 HerbAlquimia é uma aplicação web intuitiva projetada para explorar o universo dos chás medicinais, suas propriedades e benefícios para a saúde. O objetivo é ajudar os usuários a encontrar informações detalhadas sobre plantas medicinais e chás, organizados por sistemas do corpo humano, como cardiovascular, respiratório e digestivo
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 8:48 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (96)
+⭐ (97)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
