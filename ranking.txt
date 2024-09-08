@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (144)
+⭐ (146)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (119)
+⭐ (120)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (152)
+⭐ (153)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -16963,7 +16963,7 @@ Descrição do projeto
 Mágico Mundo da Leitura: Abra a Porta para Novas Aventuras!    Desvende os segredos da leitura e embarque em uma jornada de conhecimento!   Este projeto tem como objetivo inspirar as pessoas a descobrirem o prazer da leitura de forma divertida e interativa.   O que você vai encontrar por aqui:  Uma interface amigável: Pesquise por temas que te interessam e descubra um mundo de informações incríveis.  Conteúdo de qualidade: Artigos e dicas sobre os benefícios da leitura, como tornar a leitura mais divertida e como inserir idiomas no aprendizado.  Design atrativo: Uma experiência visual agradável para te acompanhar nessa jornada.  Comece agora sua aventura literária! Confira pelo link abaixo:   https://magicomundodaleitura.vercel.app/   #leitura #aprendizado #desenvolvimento #diversão #livros #conhecimento
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 6:05 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
