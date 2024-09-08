@@ -2674,7 +2674,7 @@ Descrição do projeto (cont.)
 ta estiver incorreta, uma mensagem vermelha será exibida e você poderá tentar novamente. Complete o quiz: Continue respondendo as perguntas até completar todas. Ao final, uma mensagem de parabéns será exibida.
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/6/2024 12:57 AM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -15965,7 +15965,7 @@ Descrição do projeto
 🌌🗓️ O Ephemeris é um projeto web que serve como um calendário astronômico, permitindo que você acompanhe e observe eventos importantes como eclipses, superluas, oposições de planetas e muito mais. O objetivo é fornecer informações sobre esses fenômenos celestes, ajudando entusiastas e astrônomos amadores a planejar e aproveitar ao máximo suas observações.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 5:02 PM] Alura
 Novo projeto recebido!
@@ -19176,7 +19176,7 @@ Descrição do projeto
 O CâncerNão! é um projeto web interativo focado na prevenção do câncer, oferecendo informações claras e acessíveis para a conscientização e detecção precoce. Com um mapa de hospitais, prompts de avaliação de saúde e um chat responsivo, o site auxilia os usuários a compreenderem melhor a doença e adotarem medidas preventivas. O design acolhedor e intuitivo visa criar um ambiente de esperança e empatia, promovendo o poder da informação para salvar vidas.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 8:16 PM] Alura
 Novo projeto recebido!
