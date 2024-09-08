@@ -16,7 +16,7 @@ Descrição do projeto
 Imersão Dev com Google Gemini - Alura
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/5/2024 8:31 AM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (154)
+⭐ (155)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
