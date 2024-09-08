@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (269)
+⭐ (270)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (137)
+⭐ (138)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (139)
+⭐ (140)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (94)
+⭐ (95)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
