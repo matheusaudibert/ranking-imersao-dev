@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (181)
+⭐ (182)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (179)
+⭐ (180)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (124)
+⭐ (125)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -2674,7 +2674,7 @@ Descrição do projeto (cont.)
 ta estiver incorreta, uma mensagem vermelha será exibida e você poderá tentar novamente. Complete o quiz: Continue respondendo as perguntas até completar todas. Ao final, uma mensagem de parabéns será exibida.
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/6/2024 12:57 AM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -5162,7 +5162,7 @@ Descrição do projeto
 Durante o projeto "Imersão RPG", você irá mergulhar numa aventura onde guiará um Mago? Guerreiro? Bardo? Você escolhe quem vai partir numa aventura desde uma prisão subterrânea, até a cidade para finalmente descansar em paz. A estrutura do projeto se baseia em listas de objetos que guardam as informações dos personagens, história, etc. Além de funções responsáveis por diferentes mecânicas, como mostrar os personagens, comparar os atributos, contar a história, e mais.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/6/2024 3:51 PM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (93)
+⭐ (94)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (106)
+⭐ (107)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -10149,7 +10149,7 @@ Descrição do projeto
 A Plataforma de Doação de Alimentos tem como objetivo conectar doadores de alimentos (pessoas ou estabelecimentos) com famílias e instituições que precisam. A aplicação visa reduzir o desperdício de alimentos e combater a insegurança alimentar nas comunidades.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 12:19 AM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -10890,7 +10890,7 @@ Descrição do projeto
 Como Ficar Rico Usando IA. Um projeto que explora o potencial transformador da Inteligência Artificial para criar seu negócio ou aumentar os lucros do seu negócio. Esta aplicação foi criada para ajudar empreendedores, profissionais de diversas áreas e pequenas empresas a entenderem e aplicarem ferramentas de IA de forma prática e eficaz.
 
 {Reactions}
-⭐ (40)
+⭐ (42)
 
 [9/7/2024 2:08 AM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (86)
+⭐ (87)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -11421,7 +11421,7 @@ Descrição do projeto
 Meu Personal trainner virtual
 
 {Reactions}
-⭐ (64)
+⭐ (65)
 
 [9/7/2024 3:38 AM] Alura
 Novo projeto recebido!
@@ -13778,7 +13778,7 @@ Descrição do projeto
 Projeto de um gura busca pokémons e digimons
 
 {Reactions}
-⭐ (18)
+⭐ (20)
 
 [9/7/2024 1:45 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -20472,7 +20472,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 9:26 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25275,7 +25275,7 @@ Descrição do projeto
 Site para pesquisar um fruto que você acha legal com Imersão Dev e Google Gemini‼
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
