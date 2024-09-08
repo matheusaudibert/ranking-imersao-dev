@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (139)
+⭐ (141)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -7019,7 +7019,7 @@ Descrição do projeto
 Este projeto é um simples selecionador de jogos que ajuda usuários a descobrir novos games com base em seus interesses. Ele permite buscas por gênero e oferece sugestões aleatórias,  o sistema exibe informações detalhadas sobre cada jogo.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/6/2024 7:20 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (130)
+⭐ (131)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
