@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (276)
+⭐ (277)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (190)
+⭐ (191)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (173)
+⭐ (174)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (160)
+⭐ (161)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -4657,7 +4657,7 @@ Descrição do projeto
 Criei um buscador simples de jogos indie. Utilizando HTML, CSS e JavaScript, desenvolvi uma aplicação que permite pesquisar por jogos em um banco de dados pré-definido. Foi uma ótima oportunidade para praticar os conceitos básicos de programação web e criar um projeto divertido.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/6/2024 3:10 PM] Alura
 Novo projeto recebido!
@@ -18947,7 +18947,7 @@ Descrição do projeto
 Projeto sobre ordem paranormal
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
