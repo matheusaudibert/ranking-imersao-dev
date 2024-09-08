@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (267)
+⭐ (266)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -20472,7 +20472,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 9:26 PM] Alura
 Novo projeto recebido!
@@ -23162,7 +23162,7 @@ Descrição do projeto
 Portifólio de artes, usando das lógicas de java apresentadas no curso consegui fazer um portifólio com minhas artes que pretendo continuar produzindo para se tornar um site de encomendas
 
 {Reactions}
-⭐ (15)
+⭐ (18)
 
 [9/7/2024 11:21 PM] Alura
 Novo projeto recebido!
@@ -24631,7 +24631,7 @@ Descrição do projeto
 Os jogos de tabuleiro estão se tornando cada vez mais populares como hobby em todo o mundo. Este projeto visa fornecer uma plataforma simples e eficaz para explorar alguns dos jogos de tabuleiro mais populares globalmente.  Descrição do Projeto Este projeto consiste em uma página web que permite aos usuários pesquisar por jogos de tabuleiro. Os jogos são consultados com base em informações armazenadas em uma base de dados JavaScript, incluindo o nome, mecânicas e tags associadas. A página oferece uma interface de pesquisa onde você pode digitar termos e visualizar os resultados que correspondem aos critérios fornecidos.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
