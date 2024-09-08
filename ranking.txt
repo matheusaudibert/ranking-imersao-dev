@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (130)
+⭐ (131)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (250)
+⭐ (251)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -1652,7 +1652,7 @@ Descrição do projeto
 Voltado para o público gamer, este projeto tem como objetivo apresentar uma breve descrição de jogos retro. O conceito visual teve como base de referência diversas imagens de terminais dentro de jogos, como, por exemplo, o Pip-Boy de Fallout e outros similares. Caso tenha interesse em verificar apenas a parte visual, segue o link do deploy: https://founder-gif.github.io/EncicloGamer
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/5/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -2327,7 +2327,7 @@ Descrição do projeto
 Site criado com a intenção de cátalogar filmes, onde é possivel buscar pelo nome, onde a ira aparecer a sinopse e um link para IMDb.
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/5/2024 10:49 PM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (62)
+⭐ (61)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (80)
+⭐ (81)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -14491,7 +14491,7 @@ Descrição do projeto
 Patas Gemini: Ajude a encontrar um novo melhor amigo!
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -17717,7 +17717,7 @@ Descrição do projeto
 Esse projeto foi o meu primeiro contato com a programação. Tesouros perdidos mostra alguns dos animais que estão ameaçados de extinção em cada bioma brasileiro. Minha ideia foi apresentar a diversidade da fauna brasileira através de uma pequena descrição de cada espécie e trazer as principais ameaças enfrentadas por elas a fim de conscientizar as pessoas sobre a importância da biodiversidade brasileira. https://tesouro-perdido.vercel.app/
 
 {Reactions}
-⭐ (93)
+⭐ (94)
 
 [9/7/2024 6:56 PM] Alura
 Novo projeto recebido!
@@ -18767,7 +18767,7 @@ Descrição do projeto
 RareBunny RoadMap é uma aplicação web projetada para auxiliar usuários na busca e descoberta de informações sobre áreas e tecnologias na indústria de tecnologia. Com uma interface simples e direta, a aplicação permite que os usuários pesquisem por diferentes áreas tecnológicas e obtenham detalhes relevantes de forma rápida e fácil.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -20982,7 +20982,7 @@ Descrição do projeto
 Este projeto web tem como objetivo fornecer uma plataforma intuitiva para aprender sobre os conceitos fundamentais do Cloud Computing. Ele oferece uma interface amigável que permite aos usuários pesquisar por tópicos específicos, filtrar o conteúdo por categorias (arquiteturas, modelos de cloud, DevOps) e explorar diversos recursos educacionais.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 9:54 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -22877,7 +22877,7 @@ Descrição do projeto
 Fiz um pesquisador de jogos
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 11:13 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
