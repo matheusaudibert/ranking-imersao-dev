@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (139)
+⭐ (140)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -303,7 +303,7 @@ Descrição do projeto
 Minha primeira interação com HTML, CSS E JS, sou estagiário de T.I e estou fazendo um site inspirado no mundo mágico de Harry Potter, fiz algumas modificações legais e ainda estou fazendo mais. Espero que gostem!
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 10:48 AM] Alura
 Novo projeto recebido!
@@ -318,7 +318,7 @@ Descrição do projeto
 Um projeto no qual foi criado para eu relembrar algumas partes do HTML5 e CSS3.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 10:50 AM] Alura
 Novo projeto recebido!
@@ -333,7 +333,7 @@ Descrição do projeto
 O projeto oferece um resumo objetivo de informações sobre diversos países. Ao digitar o nome de um país na barra de pesquisa, o usuário é apresentado a um painel com vários tipos de dados. Exemplo: Nome, Capital, Moeda, Idioma.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 11:02 AM] Alura
 Novo projeto recebido!
@@ -348,7 +348,7 @@ Descrição do projeto
 Prodfilm é uma plataforma online de filmes, desenvolvida com as tecnologias HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 11:07 AM] Alura
 Novo projeto recebido!
@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (230)
+⭐ (231)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -378,7 +378,7 @@ Descrição do projeto
 Esta é uma versão anabolizada do que foi aprendido em aula, as diferenças da aula são:  Pesquisa dinamica digitando na barra de busca Botão de Curtir com contagem Estilização de fundo, cores e botões, fotos dos atletas
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/5/2024 11:15 AM] Alura
 Novo projeto recebido!
@@ -393,7 +393,7 @@ Descrição do projeto
 Site para consulta e pesquisa dos Hashiras do universo de Demons Slayer usando animações simples e conceitos básicos. É possível acessar o site clicando aqui: https://desafio-dev-alura-gemini2024-and-git-441af6-andrelukes-projects.vercel.app
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/5/2024 11:32 AM] Alura
 Novo projeto recebido!
@@ -408,7 +408,7 @@ Descrição do projeto
 Este projeto é uma página simples de busca de diretores de cinema chamada "Cinema Database". O usuário pode inserir o nome de um diretor no campo de pesquisa e, ao clicar no botão "Pesquisar", os dados de diretores pré-cadastrados são exibidos abaixo. A interface é minimalista, com foco na usabilidade, permitindo ao usuário acessar descrições curtas sobre diretores renomados, como David Fincher, Christopher Nolan e Sofia Coppola, além de links para mais informações. Os dados dos diretores estão armazenados em um array JavaScript, que contém o nome, uma breve descrição, e um link para a Wikipédia de cada um. O projeto também inclui um cabeçalho com o título do site, e um rodapé com os direitos reservados e o link para o meu GitHub.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 11:49 AM] Alura
 Novo projeto recebido!
@@ -423,7 +423,7 @@ Descrição do projeto
 Trata-se de um app para listar as franquias do Jurassic Park
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 11:55 AM] Alura
 Novo projeto recebido!
@@ -1577,7 +1577,7 @@ Descrição do projeto
 Black Lives é um site cujo o foco é mostrar a importância de pessoas negras na história da humanidade, causas , e o quão foram fundamentais na luta contra o racismo.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 6:53 PM] Alura
 Novo projeto recebido!
