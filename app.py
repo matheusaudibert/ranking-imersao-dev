@@ -114,7 +114,7 @@ def main():
                 st.sidebar.markdown("Não te encontrei.")
 
     with st.sidebar:
-      st.markdown(f"⭐ [Deixe o seu like no meu projeto!](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
+      st.markdown(f"⭐ [Deixe o seu like no meu projeto](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
       st.markdown(f"🌐 [Acesse o meu projeto](https://devspaceee.vercel.app/index.html)")
       st.markdown(f"🤿 [Imersão Dev [Guia de Mergulho]](https://grupoalura.notion.site/Imers-o-Dev-com-Gemini-Guia-de-Mergulho-7742af09c51649348a91f67157df8a41#fbfa928f2b37444b91c995f7e00e8f58)")
       st.markdown(f"📋 [Regulamento](https://docs.google.com/document/d/19aLXZBDHmBx3RtYIL0ukTa9MFmnyx_G-/edit)")
