@@ -2027,7 +2027,7 @@ Descrição do projeto
 Pronto para descansar final de semana? Com o CineAI, você encontra filmes no gênero que você ama e obtém análises detalhadas usando o Google Gemini. Nossa ferramenta oferece sinopses envolventes e bem elaboradas para cada filme, ajudando você a escolher o que assistir com confiança. Transforme sua experiência de escolha de filmes e encontre o próximo grande título para sua maratona de cinema!
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/5/2024 8:54 PM] Alura
 Novo projeto recebido!
@@ -2042,7 +2042,7 @@ Descrição do projeto
 O site "Guia para Jogos" é voltado para o público gamer, com o objetivo de facilitar o acesso a guias de platina de jogos específicos. Seu design é minimalista, proporcionando uma experiência intuitiva e simples de usar, permitindo que os usuários encontrem rapidamente os conteúdos desejados.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/5/2024 9:06 PM] Alura
 Novo projeto recebido!
@@ -2057,7 +2057,7 @@ Descrição do projeto
 Projeto sobre os personagens de Undertale e alguns adicionais
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 9:21 PM] Alura
 Novo projeto recebido!
@@ -2087,7 +2087,7 @@ Descrição do projeto
 Temos o orgulho de anunciar nossa parceria com a Alura e o Google Gemini para enfrentar os desafios relacionados à conservação dos oceanos. Juntos, estamos lançando um portal de educação inovador que oferece um espaço interativo e educativo para promover a conscientização sobre a preservação marinha. Este portal não é apenas uma fonte de informações, mas um centro de engajamento que capacita comunidades a agirem pela preservação dos oceanos.  Nossa plataforma, apoiada pela expertise da Alura e pela tecnologia avançada do Google Gemini, oferece conteúdos educativos atualizados e acessíveis sobre a importância dos oceanos e práticas sustentáveis.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 9:27 PM] Alura
 Novo projeto recebido!
@@ -2117,7 +2117,7 @@ Descrição do projeto
 💡Projeto realizado na Imersão Dev Alura Gemini-2024,com features de acessibilidade,apresenta informações sobre os Nove Titãs Originais, personagens do anime Attack on Titan, usando normalização do texto digitado para gerar um card do personagem direto no javascript.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 9:43 PM] Alura
 Novo projeto recebido!
@@ -2132,7 +2132,7 @@ Descrição do projeto
 Com base no meu gosto e quase toda população rs , resolvi fazer uma página na qual encontramos informações de animes , por hora os mais populares que eu gosto também né . Dentre eles One Piece , Bleach e Hunter Hunter , espero que gostem : )
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 9:44 PM] Alura
 Novo projeto recebido!
@@ -2147,7 +2147,7 @@ Descrição do projeto
 A Garden Sustentability, é uma ideação para o projeto da Alura com o Google Gemini. Aqui nós iremos combinar o verde com a tecnologia para criar um projeto inovador e impactante.  Conceito: Um jardim comunitário que utiliza tecnologia para otimizar o cultivo, monitorar o crescimento das plantas e promover a educação ambiental de forma interativa. Utilizando Sensores (Úmidade, temperatura, nutricionais), Irrigação automatizada, Painéis solares, Aplicativo mobile e Câmeras;
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -2162,7 +2162,7 @@ Descrição do projeto
 Realizei um projeto conforme os vídeos, porém adicionei recursos de acessibilidade com menu em CSS. A página possui um menu superior com ajuste de aumento de fonte, darkmode e conteúdo falado. Abaixo possui um input de texto onde o usuário insere um CEP (Com validação) e numa div é preenchido o retorno da api que retorna em Json. Apenas não utilizei um arquivo .json local como no vídeo e preferi fazer algo mais dinâmico. Esse retorno da api pode ser lido em voz alta através de um link no menu, para auxiliar pessoas que como eu são cegas. Em JavaScript, adicionei um evento para escutar o que é digitado em tempo real por isso não utilizei button após o input. Com o Gemini utilizei principalmente para me dar dicas de aparência, já que eu sendo cego não consigo saber visualmente como os elementos estão dispostos na página. Espero cumprir com os requisitos para concorrer, e poder realizar meu sonho de trabalhar como dev.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -2177,7 +2177,7 @@ Descrição do projeto
 Boa noite gente! Meu projeto foi baseado na busca das 3 principais ações da Bolsa Brasileira (B3), entre elas o Itaú Unibanco, Petrobras e Vale. Decidi dar uma aprofundada no projeto e adicionar um script que forneça a cotação em tempo real de cada uma das ações. (Em alguns momentos não é possivel consultar em tempo real o valor das ações porque existe um limite de utilização da key api por dia, que é de 25 usos)
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -25160,7 +25160,7 @@ Descrição do projeto
 Demonstrativo Simples Webtoon
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25175,7 +25175,7 @@ Descrição do projeto
 Página com info de jogos de tabuleiro utilizando-se:HTML, CSS, JAVA SCRIPT, desenvolvida na imersão Alura.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25190,7 +25190,7 @@ Descrição do projeto
 Sou iniciante comecei do zero o projeto, não foi fácil, faltou alguns itens, mais vou continuar evoluindo, agradeço essa grande oportunidade, projeto foi voltado a minha página de trabalho no instragam.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25205,7 +25205,7 @@ Descrição do projeto
 CAST MARVEL é um site de busca simples e fácil de usar, projetado para ajudar os fãs da Marvel a encontrar seus atores favoritos. Com uma interface intuitiva e resultados precisos, o CAST MARVEL torna a sua busca por informações sobre os atores da Marvel mais rápida e agradável.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25228,7 +25228,7 @@ Descrição do projeto (cont.)
 acho indispensável). E deu "tudo" certo! Yay!🥳 (também fiz Várias outras coisas, capricho, como por exemplo adicionar ícones... Ficou muito legal)  Nessa prática eu fixei MUITO tudo o que aprendemos na imersão, e ainda aprendi mais... Foi demais. Gostei bastante do resultado final, espero que você também goste, e que seja útil... Quem sabe? Você pode baixar e editar para se tornar seu próprio resumo inteligente!  * Criado por Louy Santana Fernandes Maracaipe durante a Imersão Dev com Google Gemini 2024/2.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25243,7 +25243,7 @@ Descrição do projeto
 Uma plataforma online que mostra gifs representando visualmente o significado de palavras. Usuários inserem uma palavra e veem gifs que explicam tanto conceitos abstratos quanto objetos concretos. O objetivo é ajudar na compreensão e aprendizado da linguagem de forma visual.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25258,7 +25258,7 @@ Descrição do projeto
 "Vamos de DDS, AI?" é um parceiro amigável e inteligente para encontrar o DDS perfeito! Você pode pesquisar por tema ou então se surpreender com nossas sugestões de conteúdo, tudo para tornar a segurança no trabalho mais leve e inspiradora. Chega de DDS chatos, bora aprender com a IA!
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25273,7 +25273,7 @@ Descrição do projeto
 Site para pesquisar um fruto que você acha legal com Imersão Dev e Google Gemini‼
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25288,7 +25288,7 @@ Descrição do projeto
 Projeto para estudos teologicos da biblia.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25303,7 +25303,7 @@ Descrição do projeto
 Trunfo de Naruto
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25318,7 +25318,7 @@ Descrição do projeto
 Olá pessoal da alura em cima do projeto que independência do brasil prendemos em aulas, decide criar uma pesquisa de informações (baseado no dia de hoje 7 de setembro), independência do brasil com informações simples e que levam a uma fonte mais detalhada
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25359,7 +25359,7 @@ Descrição do projeto
 Segue projeto da imersao
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25374,7 +25374,7 @@ Descrição do projeto
 O projeto consiste em uma página interativa que permite os usuários realizarem pesquisas textuais para encontrar um personagem do jogo *Honkai: Star Rail*, além de poderem filtrar personagens por elementos e caminhos. Ao clicar no personagem, o usuário é direcionado para um link com mais informações.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 ==============================================================
 Exported 1,677 message(s)
