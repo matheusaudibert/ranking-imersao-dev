@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (75)
+⭐ (76)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -5162,7 +5162,7 @@ Descrição do projeto
 Durante o projeto "Imersão RPG", você irá mergulhar numa aventura onde guiará um Mago? Guerreiro? Bardo? Você escolhe quem vai partir numa aventura desde uma prisão subterrânea, até a cidade para finalmente descansar em paz. A estrutura do projeto se baseia em listas de objetos que guardam as informações dos personagens, história, etc. Além de funções responsáveis por diferentes mecânicas, como mostrar os personagens, comparar os atributos, contar a história, e mais.
 
 {Reactions}
-⭐ (56)
+⭐ (57)
 
 [9/6/2024 3:51 PM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (92)
+⭐ (93)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -15965,7 +15965,7 @@ Descrição do projeto
 🌌🗓️ O Ephemeris é um projeto web que serve como um calendário astronômico, permitindo que você acompanhe e observe eventos importantes como eclipses, superluas, oposições de planetas e muito mais. O objetivo é fornecer informações sobre esses fenômenos celestes, ajudando entusiastas e astrônomos amadores a planejar e aproveitar ao máximo suas observações.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 5:02 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (45)
+⭐ (48)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -24008,7 +24008,7 @@ Descrição do projeto
 O Infinity Quest é uma aplicação web que permite aos usuários buscar informações sobre diversos temas relacionados ao espaço e à exploração espacial. A interface do usuário é projetada para ser intuitiva e responsiva, proporcionando uma experiência de pesquisa fluida e agradável.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
@@ -24038,7 +24038,7 @@ Descrição do projeto
 Fiz um catálogo de produtos online, utilizei o nicho de roupas, mas poderia ser usado para outros nichos. Utilizei modelos de busca do mesmo modo feito nas aulas da imersão.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
