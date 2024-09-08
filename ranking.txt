@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (156)
+⭐ (157)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -2147,7 +2147,7 @@ Descrição do projeto
 A Garden Sustentability, é uma ideação para o projeto da Alura com o Google Gemini. Aqui nós iremos combinar o verde com a tecnologia para criar um projeto inovador e impactante.  Conceito: Um jardim comunitário que utiliza tecnologia para otimizar o cultivo, monitorar o crescimento das plantas e promover a educação ambiental de forma interativa. Utilizando Sensores (Úmidade, temperatura, nutricionais), Irrigação automatizada, Painéis solares, Aplicativo mobile e Câmeras;
 
 {Reactions}
-⭐ (47)
+⭐ (46)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (94)
+⭐ (95)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -10466,7 +10466,7 @@ Descrição do projeto
 Uma aplicação bem simples que eu criei para explorar o mundo do autismo. A ideia é apresentar de forma simplificada para as pessoas entenderam alguns assuntos e que possam encontrar informações relevantes sobre o tema de forma fácil e intuitiva.
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 12:45 AM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (97)
+⭐ (98)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -14718,7 +14718,7 @@ Descrição do projeto
 Plataforma contendo informações sobre os livros da Saga Crepúsculo da autora Stephenie Meyer.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 3:10 PM] Alura
 Novo projeto recebido!
@@ -14748,7 +14748,7 @@ Descrição do projeto
 A ideia do site RPGS Brasileiros seria uma espécie de letterboxd, mas para RPGs de Mesa da comunidade brasileira. Ainda pretendo aprimorar o html, css e js para que possa haver uma criação de conta, adicionar e remover mesas de RPG, bem como favoritar e adicionar notas as mesas de rpg.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 3:16 PM] Alura
 Novo projeto recebido!
@@ -14763,7 +14763,7 @@ Descrição do projeto
 https://desafioalura-fumjhu3pa-premos-projects.vercel.app/ site de estetica automotiva com pesquisa de serviços
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 3:16 PM] Alura
 Novo projeto recebido!
@@ -14778,7 +14778,7 @@ Descrição do projeto
 Projeto criado para ser um site pessoal para divulgação do trabalho de um neuropsicopedago.  Todo o projeto foi construído baseado no conhecimento adquirido na imersão!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 3:16 PM] Alura
 Novo projeto recebido!
@@ -14823,7 +14823,7 @@ Descrição do projeto
 Pesquisa de Raças e Classes em World of Warcraft  Este projeto web permite que os usuários pesquisem por raças e classes  no universo de World of Warcraft (WoW).    Ao digitar o nome de uma raça, o sistema retorna uma breve descrição  sobre a raça, incluindo as classes disponíveis e especializações.  Ao digitar o nome de uma classe, o sistema retorna todas as raças  que permitem jogar utilizando aquela classe.   Como o universo de World of Warcraft é bastante amplo, é inviável,  em tão pouco tempo, criar uma base de conhecimento com informações  de todas as Raças e Classes disponíveis no jogo.    No momento, pode-se pesquisar pelas Raças Humano, Orc, Anão, Tauren,  Elfo Noturno e Elfo Sangrento, e algumas Classes como Bruxo, Caçador,  Cavaleiro da Morte, Druida, Guerreiro, Ladino, Sacerdote e Xamã.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 3:20 PM] Alura
 Novo projeto recebido!
@@ -14838,7 +14838,7 @@ Descrição do projeto
 Brasil Empregos - Site de Vagas de Emprego Este projeto é um site simples de vagas de emprego chamado "Brasil Empregos", construído com HTML, CSS e JavaScript.  Funcionalidades:  Os usuários podem pesquisar por vagas com base na localização (estado) e palavra-chave. As listagens de vagas exibem informações básicas como título, empresa e salário. Ao clicar em uma vaga, é aberto um modal com informações detalhadas, como responsabilidades, requisitos, benefícios e detalhes de candidatura.  Link: https://brasil-empregos.vercel.app
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 3:20 PM] Alura
 Novo projeto recebido!
@@ -15710,7 +15710,7 @@ Descrição do projeto
 Receitas-Sococo
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 4:44 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (25)
+⭐ (27)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
