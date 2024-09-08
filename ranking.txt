@@ -6100,7 +6100,7 @@ Descrição do projeto
 Cansado de passar horas procurando a receita perfeita? Com o Comidinhas Saborosas, você encontra todas as receitas que precisa em um só lugar. Economize tempo e dinheiro, explore novos sabores e prepare refeições deliciosas com facilidade. Eu construi esse site com html, css, javascript e com a ajuda do Gemini!
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/6/2024 5:40 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -18017,7 +18017,7 @@ Descrição do projeto
 Desenvolvido com HTML, CSS e JavaScript, o Observatório COP30 é um projeto open-source que busca democratizar o acesso à informação sobre a COP30 com uma plataforma que oferece uma interface intuitiva. Pré-visualização: https://cop30.vercel.app/
 
 {Reactions}
-⭐ (39)
+⭐ (41)
 
 [9/7/2024 7:21 PM] Alura
 Novo projeto recebido!
@@ -22832,7 +22832,7 @@ Descrição do projeto
 Descubra o Brasil - Buscador de cidades turísticas, para facilitar o planejamento da próxima viagem, tendo dicas de hotéis, pontos turísticos e facilitador para compra de passagem.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
@@ -23886,7 +23886,7 @@ Descrição do projeto
 Um site sobre personagens de League Of Legends, que inclui todos os personagens do jogo, as pessoas podem filtrar sua busca por: Nome do Campeão,Ano de lançamento, Rota Principal. Classe, Tipo de dano e Região de Origem
 
 {Reactions}
-⭐ (7)
+⭐ (6)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
