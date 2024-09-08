@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (122)
+⭐ (123)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -2674,7 +2674,7 @@ Descrição do projeto (cont.)
 ta estiver incorreta, uma mensagem vermelha será exibida e você poderá tentar novamente. Complete o quiz: Continue respondendo as perguntas até completar todas. Ao final, uma mensagem de parabéns será exibida.
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/6/2024 12:57 AM] Alura
 Novo projeto recebido!
@@ -7841,7 +7841,7 @@ Descrição do projeto
 Landing page de Terror e Sobrevivência
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/6/2024 9:00 PM] Alura
 Novo projeto recebido!
