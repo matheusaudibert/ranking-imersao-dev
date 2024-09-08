@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (137)
+⭐ (138)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (119)
+⭐ (120)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -5025,7 +5025,7 @@ Descrição do projeto
 Desafie seu conhecimento bíblico com o nosso novo Quiz!  Você ama a Bíblia e quer testar seu conhecimento? Então você não pode perder o nosso Quiz Bíblico exclusivo, criado com muito carinho na Aula e Google Gemine!  Como funciona?  Responda a diversas perguntas sobre acontecimentos da Bíblia. Use até 5 dicas para te ajudar nas respostas. Receba uma pontuação no final e veja como você se saiu! E o melhor de tudo? Você pode jogar várias vezes e sempre aprender algo novo!  Curtiu a ideia? Então não perca tempo e venha se divertir enquanto se aprofunda no conhecimento bíblico. Compartilhe com amigos e familiares e veja quem consegue a maior pontuação!
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/6/2024 3:41 PM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (135)
+⭐ (136)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -19977,7 +19977,7 @@ Descrição do projeto
 Este projeto web, intitulado Mochileiro Digital, tem como objetivo auxiliar viajantes na pesquisa de destinos. E foi feito com base no aprendizado durante as aulas do projeto de Imersão da Alura + Google Gemini. Ao inserir o nome de um país no campo de busca, o usuário obtém informações detalhadas sobre o local, incluindo: Pontos Turísticos, Comidas Típicas, Curiosidades, entre outras características do país procurado. O proejto pode ser testado pelo link a seguir: http://andersonteste.educacao.ws/
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
