@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (142)
+⭐ (143)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (123)
+⭐ (126)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -14386,7 +14386,7 @@ Descrição do projeto
 projeto feito com as 3 maiores bandas do Metal Nacional, um dos maiores subgeneros do rock, contendo as bandas Sepultura, Angra e Shaman. Espero q gostem :)
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -14446,7 +14446,7 @@ Descrição do projeto
 projeto para montar uma pagina na web para duas associadas em advocacia, porém há de ser acrescentado e ajustado futuramente.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 2:45 PM] Alura
 Novo projeto recebido!
@@ -14461,7 +14461,7 @@ Descrição do projeto
 O projeto foca na criação de uma plataforma para pesquisar cientistas históricos. Ele permite que os usuários realizem buscas por nome, link da Wikipédia ou palavras-chave, e exibe os resultados em uma seção específica da página. O projeto integra arquivos CSS para estilização e JavaScript para manipulação e exibição dinâmica dos dados
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 2:45 PM] Alura
 Novo projeto recebido!
@@ -14476,7 +14476,7 @@ Descrição do projeto
 projeto teste
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -14521,7 +14521,7 @@ Descrição do projeto
 Uma página de pesquisa de jogadores de e-sports, a partir do nome ou jogo que eles jogam.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -14536,7 +14536,7 @@ Descrição do projeto
 Campeões do Tour de France!
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 2:51 PM] Alura
 Novo projeto recebido!
@@ -14551,7 +14551,7 @@ Descrição do projeto
 Objetivo do projeto foi pensado em criar um guia com as tecnologias mais usadas do mercado no desenvolvimento web, tanto font-end com back-end. Também tem uma descrição de cada tecnologia e um link que leva a documentação oficial de cada tecnologia, para poder pesquisar na fonte oficial.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 2:53 PM] Alura
 Novo projeto recebido!
@@ -14566,7 +14566,7 @@ Descrição do projeto
 Quer saber tudo sobre seus slimes favoritos de Slime Rancher? Na Slimepedia você encontra todas as informações que precisa! Descubra quais comidas seus slimes adoram, como cuidar deles e muito mais. É como ter um manual do rancheiro no seu bolso!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 2:55 PM] Alura
 Novo projeto recebido!
@@ -14581,7 +14581,7 @@ Descrição do projeto
 Este projeto web foi desenvolvido durante a Imersão Dev com Gemini! O projeto objetiva auxiliar na identificação de plantas tóxicas comumente encontradas em escolas do Rio de Janeiro. Através de uma interface intuitiva, o usuário pode pesquisar por nome da planta ou sintoma, obtendo informações detalhadas sobre a espécie, incluindo nome científico, outros nomes populares, partes tóxicas e sintomas de intoxicação.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 2:57 PM] Alura
 Novo projeto recebido!
@@ -14613,7 +14613,7 @@ Descrição do projeto
 O projeto "Times Brasileiros da Série A" é uma aplicação web interativa que permite aos usuários pesquisar informações sobre os times que participam da Série A do Campeonato Brasileiro. A interface é simples e intuitiva, proporcionando uma experiência agradável ao usuário. Ao digitar o nome de um time, o usuário pode visualizar informações relevantes, como o nome do time, uma descrição e um link para mais detalhes..
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:00 PM] Alura
 Novo projeto recebido!
@@ -14628,7 +14628,7 @@ Descrição do projeto
 Este projeto web permite explorar informações detalhadas dos estados do Brasil, como capital, população, área territorial e densidade demográfica. Os usuários podem buscar por nome do estado, capital ou região através de um campo de pesquisa dinâmico.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:03 PM] Alura
 Novo projeto recebido!
@@ -14643,7 +14643,7 @@ Descrição do projeto
 CEPédia é uma aplicação web que permite pesquisar endereços por CEP (Código de Endereçamento Postal) no Brasil. Ao informar um CEP válido, o usuário obtém informações detalhadas sobre o local, como rua, bairro, cidade, estado e um mapa. Além disso, a aplicação oferece links para o Google Gemini e Google Maps, permitindo que o usuário explore ainda mais a localidade.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:05 PM] Alura
 Novo projeto recebido!
@@ -14658,7 +14658,7 @@ Descrição do projeto
 O projeto foi feito a partir de uma ideia antiga, mas ainda não tinha o conhecimento necessário para coloca-lo para frente. Consiste basicamente em um comparador de preços focado em sets de LEGO. Coincidentemente, a mesma lógica que foi ensinada na Imersão para procurar os atletas conseguiu entregar um resultado satisfatório na pesquisa dos produtos.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:06 PM] Alura
 Novo projeto recebido!
@@ -14673,7 +14673,7 @@ Descrição do projeto
 Este projeto tem como objetivo facilitar a exploração dos principais pontos turísticos do Brasil, promovendo o turismo nacional e internacional de forma acessível e intuitiva. Crie páginas personalizadas para cidades brasileiras como Belém, Fortaleza, Manaus, Recife e Salvador, desejava ter feitas para todas as cidades, mas o pouco tempo não permitiu. Além disso, essa aplicação não só valoriza as riquezas culturais e naturais das regiões brasileira, como também contribui para destacar o Brasil no cenário global do turismo. Ao oferecer uma experiência prática de busca e acesso às informações turísticas, o projeto se alinha às tendências digitais que impulsionam o turismo sustentável e o desenvolvimento econômico.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:07 PM] Alura
 Novo projeto recebido!
@@ -14688,7 +14688,7 @@ Descrição do projeto
 Lista de Tarefas é uma aplicação web simples e intuitiva para gerenciar suas atividades diárias. Com uma interface limpa e responsiva, permite adicionar e remover tarefas facilmente, ajudando você a manter-se organizado e produtivo. Desenvolvida com HTML, CSS e JavaScript, esta ferramenta leve é perfeita para uso rápido e eficiente no navegador.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 3:08 PM] Alura
 Novo projeto recebido!
@@ -14718,7 +14718,7 @@ Descrição do projeto
 Plataforma contendo informações sobre os livros da Saga Crepúsculo da autora Stephenie Meyer.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 3:10 PM] Alura
 Novo projeto recebido!
@@ -14733,7 +14733,7 @@ Descrição do projeto
 Desenvolvi um site destinado aos fãs da série The Walking dead. No site você pode realizar um quiz de conhecimento sobre a série, e ainda verificar seus erros e acertos.  O background do site é composto por fotos da série que passam de forma dinâmica.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 3:15 PM] Alura
 Novo projeto recebido!
@@ -14748,7 +14748,7 @@ Descrição do projeto
 A ideia do site RPGS Brasileiros seria uma espécie de letterboxd, mas para RPGs de Mesa da comunidade brasileira. Ainda pretendo aprimorar o html, css e js para que possa haver uma criação de conta, adicionar e remover mesas de RPG, bem como favoritar e adicionar notas as mesas de rpg.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 3:16 PM] Alura
 Novo projeto recebido!
@@ -14763,7 +14763,7 @@ Descrição do projeto
 https://desafioalura-fumjhu3pa-premos-projects.vercel.app/ site de estetica automotiva com pesquisa de serviços
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:16 PM] Alura
 Novo projeto recebido!
@@ -14778,7 +14778,7 @@ Descrição do projeto
 Projeto criado para ser um site pessoal para divulgação do trabalho de um neuropsicopedago.  Todo o projeto foi construído baseado no conhecimento adquirido na imersão!
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:16 PM] Alura
 Novo projeto recebido!
@@ -14838,7 +14838,7 @@ Descrição do projeto
 Brasil Empregos - Site de Vagas de Emprego Este projeto é um site simples de vagas de emprego chamado "Brasil Empregos", construído com HTML, CSS e JavaScript.  Funcionalidades:  Os usuários podem pesquisar por vagas com base na localização (estado) e palavra-chave. As listagens de vagas exibem informações básicas como título, empresa e salário. Ao clicar em uma vaga, é aberto um modal com informações detalhadas, como responsabilidades, requisitos, benefícios e detalhes de candidatura.  Link: https://brasil-empregos.vercel.app
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 3:20 PM] Alura
 Novo projeto recebido!
@@ -14853,7 +14853,7 @@ Descrição do projeto
 O projeto está em sua forma básica, onde se limita a três nomes importantes no Brasil, pois contribuíram com pensamentos e raciocínios para o ambiente educacional e filosófico, estes são: Djamila Ribeiro, Paulo Freire e Sueli Carneiro, há tags com características e ademais.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 3:24 PM] Alura
 Novo projeto recebido!
@@ -14868,7 +14868,7 @@ Descrição do projeto
 A aplicação oferece temas variados da Matemática para a prática de exercícios - elaborados pelo Google Gemini - contidos num banco de dados que pode ser cada vez mais expandido.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 3:27 PM] Alura
 Novo projeto recebido!
@@ -14898,7 +14898,7 @@ Descrição do projeto
 O Mundo Tech é um site online intuitivo e fácil de usar, projetado para ajudar desenvolvedores, estudantes e entusiastas de tecnologia a explorarem e aprenderem sobre as diversas tecnologias utilizadas na criação de aplicações web e mobile.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 3:30 PM] Alura
 Novo projeto recebido!
@@ -14913,7 +14913,7 @@ Descrição do projeto
 Um site web com o intuito de ajudar as pessoas que fazem academia.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 3:30 PM] Alura
 Novo projeto recebido!
@@ -14928,7 +14928,7 @@ Descrição do projeto
 Um site cheio de charme de Biologia, para que você estudante encontre a sua matéria com um conteúdo criativo.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 3:31 PM] Alura
 Novo projeto recebido!
@@ -14943,7 +14943,7 @@ Descrição do projeto
 Projeto desenvolvido durante o curso de Imersão DEV da Alura. Trabalho realizado com HTML, CSS e Javascript.  Povos Indígenas do Brasil é um mecanismo de busca que visa centralizar informações dos povos originários, ou seja, dos povos indígenas do Brasil.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:32 PM] Alura
 Novo projeto recebido!
@@ -14973,7 +14973,7 @@ Descrição do projeto
 Este repositorio descreve três projetos distintos: um chatbot para WhatsApp, um frontend web para interação com um chatbot de IA e um dashboard interativo construído com Dash. Tenho 2 outros github do projeto onde estao hospeados em um site o outro rodando em um numero de celular, compatillho a pasta do codigo fonte nesse repositorio e o link da aplicação  funcionado
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 3:35 PM] Alura
 Novo projeto recebido!
@@ -14988,7 +14988,7 @@ Descrição do projeto
 Este projeto web tem como objetivo criar uma plataforma de pesquisa sobre o Metaverso. Os usuários podem digitar suas dúvidas e obter respostas relevantes sobre o assunto.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:39 PM] Alura
 Novo projeto recebido!
@@ -15033,7 +15033,7 @@ Descrição do projeto
 Apenas algo básico, para marcar minha presença nessa imersão bem bacana! Cheguei atrasado mas consegui assistir todas as aulas. Um site que direciona os usuários para a plataforma oficial da F1 com detalhes de cada time pesquisado.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 3:44 PM] Alura
 Novo projeto recebido!
@@ -15048,7 +15048,7 @@ Descrição do projeto
 TechExplorer é uma aplicação web intuitiva e completa, projetada para guiar você na sua jornada rumo à carreira dos sonhos na área da tecnologia. Se você está em busca de direcionar seus estudos e encontrar a área ideal para suas habilidades, esta é a ferramenta perfeita para você.  O que o TechExplorer oferece?  Exploração de diversas profissões: Descubra um vasto leque de oportunidades na área da tecnologia, desde desenvolvimento web e mobile até inteligência artificial e ciência de dados. Comparação de habilidades: Entenda quais habilidades são essenciais para cada profissão e como você pode desenvolvê-las. Recursos para aprendizado: Encontre tutoriais, cursos e materiais didáticos para impulsionar sua jornada de aprendizado.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 3:45 PM] Alura
 Novo projeto recebido!
@@ -15063,7 +15063,7 @@ Descrição do projeto
 Fiz um projeto sobre o Shrek, burro e Fiona :)
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 3:47 PM] Alura
 Novo projeto recebido!
@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -17250,7 +17250,7 @@ Descrição do projeto
 One Piece Fan App é um projeto web interativo criado para os fãs do anime e mangá One Piece. Essa aplicação permite aos usuários pesquisar por seus personagens favoritos e descobrir detalhes como habilidades, recompensas e aparições.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 6:22 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (17)
+⭐ (19)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23751,7 +23751,7 @@ Descrição do projeto
 Bem-vindo ao TechFusion, Um site dedicado aos apaixonados por tecnologia! O TechFusion oferece informações detalhadas sobre diversos cursos e formações na área de tecnologia, com foco em quem deseja seguir uma carreira ou se especializar no setor. O TechFusion é um projeto que visa unir duas grandes instituições de ensino, a Alura e a FIAP, em um único lugar. Através de uma interface simples e eficiente, os usuários podem pesquisar e obter informações sobre cursos oferecidos por essas instituições. O objetivo principal do TechFusion é facilitar o acesso a informações sobre os cursos de ambas as plataformas, permitindo que os usuários comparem, descubram e escolham o que melhor atende às suas necessidades educacionais.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -24449,7 +24449,7 @@ Descrição do projeto
 Esse projeto visa tornar a alimentação de seus cães e gatos muito mais fácil e segura! 🌟 Por meio de uma interface super amigável, você pode pesquisar qualquer alimento e descobrir se ele é seguro para o seu pet. Além disso, oferecemos informações sobre os benefícios e riscos de cada item, garantindo que seu amigo de quatro patas receba o melhor! 🐾🍽️
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
