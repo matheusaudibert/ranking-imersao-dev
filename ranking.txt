@@ -1577,7 +1577,7 @@ Descrição do projeto
 Black Lives é um site cujo o foco é mostrar a importância de pessoas negras na história da humanidade, causas , e o quão foram fundamentais na luta contra o racismo.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 6:53 PM] Alura
 Novo projeto recebido!
@@ -1592,7 +1592,7 @@ Descrição do projeto
 Projeto em HTML, CSS e JAVASCRIPT criado juntamente com a imersão com Alura em parceria com Google Gemini
 
 {Reactions}
-⭐ (13)
+⭐ (12)
 
 [9/5/2024 6:55 PM] Alura
 Novo projeto recebido!
@@ -1607,7 +1607,7 @@ Descrição do projeto
 Oláa fiz um projeto sobre um site de pesquisa do universo de Star wars. O site permite que os usuários explorem informações detalhadas sobre filmes, séries e jogos do vasto universo de Star Wars! Aqui o link do site: https://gabfranzini.github.io/ImersaoDevGemini/
 
 {Reactions}
-⭐ (30)
+⭐ (29)
 
 [9/5/2024 6:56 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (132)
+⭐ (133)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -2674,7 +2674,7 @@ Descrição do projeto (cont.)
 ta estiver incorreta, uma mensagem vermelha será exibida e você poderá tentar novamente. Complete o quiz: Continue respondendo as perguntas até completar todas. Ao final, uma mensagem de parabéns será exibida.
 
 {Reactions}
-⭐ (74)
+⭐ (75)
 
 [9/6/2024 12:57 AM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (164)
+⭐ (165)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (120)
+⭐ (121)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -17340,7 +17340,7 @@ Descrição do projeto
 O projeto é um site sobre radioamadorismo. Ele procura detalhar algumas de suas principais modalidades. Um campo de pesquisa de palavras-chave foi adicionado ao final do projeto seguindo o modelo da imersão. Como essa imersão tem como objeto também a Inteligência artificial, todos os textos e imagens foram produzidos com inteligência artificial, exceto a página de links. Foi utilizado IA também para a produção de alguns códigos como o menu.
 
 {Reactions}
-⭐ (18)
+⭐ (20)
 
 [9/7/2024 6:27 PM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
