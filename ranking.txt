@@ -393,7 +393,7 @@ Descrição do projeto
 Site para consulta e pesquisa dos Hashiras do universo de Demons Slayer usando animações simples e conceitos básicos. É possível acessar o site clicando aqui: https://desafio-dev-alura-gemini2024-and-git-441af6-andrelukes-projects.vercel.app
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/5/2024 11:32 AM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (112)
+⭐ (113)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (86)
+⭐ (88)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -18467,7 +18467,7 @@ Descrição do projeto
 Jogo para testar seu cérebro e a capacidade de lembrar o nome das músicas que está ouvindo, podendo também descobrir novas músicas e ampliar seu repertório!
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 7:39 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
