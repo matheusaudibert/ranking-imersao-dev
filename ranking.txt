@@ -10361,7 +10361,7 @@ Descrição do projeto
 Projeto de base de conhescimento sobre os agentes do jogo valorant, e suas habilidades e demais informações.
 
 {Reactions}
-⭐ (26)
+⭐ (29)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -12316,7 +12316,7 @@ Descrição do projeto
 Uma página web contento informações e quiz em torno do universo do filme "Man of Steel", este projeto tem como principal objetivo aprender técnicas de JavaScript
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 10:58 AM] Alura
 Novo projeto recebido!
@@ -12331,7 +12331,7 @@ Descrição do projeto
 Desenvolver uma plataforma web intuitiva e eficiente que permita aos usuários buscar músicas de forma rápida e precisa, filtrando por gênero, cantor ou nome da música. A plataforma deverá retornar os resultados da busca de forma organizada.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 10:59 AM] Alura
 Novo projeto recebido!
@@ -12361,7 +12361,7 @@ Descrição do projeto
 Sou fã de futebol e resolvi criar um site para ajudar outros torcedores a conhecerem mais sobre os times cariocas. Você pode pesquisar pelo seu time favorito e descobrir curiosidades, história e até mesmo links para o site oficial. É uma ótima forma de se conectar com o mundo do futebol!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:09 AM] Alura
 Novo projeto recebido!
@@ -12391,7 +12391,7 @@ Descrição do projeto
 Projeto criado para procurar personagens do anime Naruto. Alterado para que quando feita a pesquisa, no lugar de um link com mais informações apareça uma imagem do personagem. Pode ser visualizado por: https://petry85.github.io/projeto_imersao_alura/
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:15 AM] Alura
 Novo projeto recebido!
