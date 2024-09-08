@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (241)
+⭐ (242)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -697,7 +697,7 @@ Descrição do projeto
 Uma pagina de pesquisa sobre tecnologia
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (117)
+⭐ (118)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -4040,7 +4040,7 @@ Descrição do projeto
 Warrior Vs Wizards é um jogo de luta de turno utilizando cartas, feito durante a Imersão Dev Alura com Google Gemini, fazendo uso de HTML, CSS E JAVASCRIPT. Escolha sabiamente entre: atacar, defender e se esquivar de seu oponente. Cada ação dando uma vantagem na luta, a tornando mais estratégica e dinâmica. Venha enfrentar os maiores guerreiros e magos de todo esse mundo fantasioso. Jogue já: https://warriors-vs-wizards.vercel.app
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/6/2024 2:03 PM] Alura
 Novo projeto recebido!
@@ -10376,7 +10376,7 @@ Descrição do projeto
 O projeto "Alimentos para Cães - Consulta de Permissão de Consumo" é uma aplicação web criada com o objetivo de auxiliar tutores de cães a identificarem de forma rápida e precisa quais alimentos são seguros para seus pets. Com uma interface interativa e responsiva, os usuários podem buscar alimentos específicos e descobrir se eles são permitidos, moderados ou proibidos para o consumo canino.  A aplicação organiza as informações em três categorias principais: alimentos permitidos, que podem ser consumidos sem preocupações; alimentos de moderação, que devem ser oferecidos com cautela; e alimentos proibidos, que representam riscos à saúde dos cães. O projeto também oferece uma interface visual amigável, que se adapta a diferentes dispositivos e tamanhos de tela.  Desenvolvido como parte da Imersão Dev com o Gemini da Google, promovida pela Alura, o projeto utiliza HTML5, CSS3, JavaScript e JSON para criar uma experiência eficiente e intuitiva.
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (80)
+⭐ (81)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -17567,7 +17567,7 @@ Descrição do projeto
 Esse projeto é um guia online super prático para quem ama os quadrinhos da Mauricio de Sousa Produções! Com ele, você pode pesquisar por seus títulos favoritos de forma rápida e fácil.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 6:39 PM] Alura
 Novo projeto recebido!
@@ -21042,7 +21042,7 @@ Descrição do projeto
 Este projeto é um guia interativo das seleções que já participaram da Copa do Mundo.  Construído com HTML, CSS e JavaScript, ele permite que os usuários busquem por uma seleção específica e obtenham informações como título, descrição, ano em que o país sediou a copa e um link para mais detalhes., levando para a Wikipedia correspondente.  A interface do usuário é composta por uma caixa de pesquisa e um botão. Ao inserir o nome da seleção desejada e clicar no botão, o JavaScript busca nos dados e exibe os resultados correspondentes na página. O projeto é organizado nas linguagens citadas, incluindo um arquivo "dados.js" que armazena as informações de cada seleção.
 
 {Reactions}
-⭐ (8)
+⭐ (10)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
