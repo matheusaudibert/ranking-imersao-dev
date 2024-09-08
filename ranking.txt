@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (200)
+⭐ (201)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (187)
+⭐ (188)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -5860,7 +5860,7 @@ Descrição do projeto
 Seja bem-vindo(a) ao Ferramentas IA! Aqui você poderá descobrir inúmeras ferramentas que utilizam a tecnologia da inteligência artifical para facilitar suas tarefas. Precisa criar um texto bonito? Aqui você acha uma IA que faz isso! Precisa criar um vídeo legal? Aqui você encontra a ferramenta perfeita! Acesse o site pelo seguinte link: https://qmartinz.github.io/Ferramentas-IA/. Nesse website, você pode pesquisar por ferramentas online de inteligência artificial dentro de um banco de dados com mais de 40 itens. Eu criei esse website após algumas dificuldades em encontrar IAs que pudessem ser utilizadas em alguns projetos de escola, já que onde eu estudo o uso de IA é bem promovido pelo corpo docente. Aproveitem a ferramenta!
 
 {Reactions}
-⭐ (107)
+⭐ (108)
 
 [9/6/2024 5:09 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (119)
+⭐ (120)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -15018,7 +15018,7 @@ Descrição do projeto
 Essa aplicação, fruto do Desafio Alura Gemini, é um buscador simples e interativo que te ajuda a revisar tudo o que você aprendeu durante a imersão.
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 3:42 PM] Alura
 Novo projeto recebido!
@@ -23087,7 +23087,7 @@ Descrição do projeto
 Uma Pequena aplicação com algumas curiosidades e lenda sobre os estados do nordeste
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
