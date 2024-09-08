@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (181)
+⭐ (182)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -622,7 +622,7 @@ Descrição do projeto
 Sobre o Projeto Objetivo do Projeto: Bem-vindo ao repositório do Gemini IA News! Este projeto visa criar um site acessível e envolvente para introduzir a Inteligência Artificial a pessoas com mais idade ou pouca familiaridade com tecnologia. O site utiliza HTML, CSS e JavaScript para oferecer conteúdos em texto e vídeo de maneira simples e divertida, facilitando o aprendizado sobre IA e conceitos básicos de engenharia de prompt.  Site: https://beatrizgdc.github.io/geminiIaNews/  Vídeo do Projeto: https://youtu.be/8xS9065ZZWA 🎥  Código Fonte no GitHub: https://github.com/beatrizgdc/geminiIaNews 📝  Sobre a Desenvolvedora: Beatriz Garcia - LinkedIn: https://www.linkedin.com/in/beatrizgdcevaio/
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/5/2024 1:44 PM] Alura
 Novo projeto recebido!
@@ -988,7 +988,7 @@ Descrição do projeto
 Que animal posso adotar? é um simples catálogo de possíveis animais que você pode adotar!
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/5/2024 4:07 PM] Alura
 Novo projeto recebido!
@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (145)
+⭐ (146)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (100)
+⭐ (101)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -5552,7 +5552,7 @@ Descrição do projeto
 O jogo que te desafia a pensar!  Escolha o tema e divirta-se adivinhando palavras com a ajuda da inteligência artificial para gerar um tema a sua escolha. Desenvolvi usando apenas JavaScript, HTML e CSS.
 
 {Reactions}
-⭐ (10)
+⭐ (15)
 
 [9/6/2024 4:48 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (118)
+⭐ (120)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -7586,7 +7586,7 @@ Descrição do projeto
 Projeto realizado durante a Imersão Alura com Google Gemini. O site foi feito com HTML, CSS e Javascript. A intenção foi criar um site de anime responsivo, onde se pode interagir com os baners e o botão de login.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/6/2024 8:36 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (61)
+⭐ (64)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -11391,7 +11391,7 @@ Descrição do projeto
 Esse projeto web feito durante a Imersão Dev Alura e Google Gemini te ajuda a encontrar o pet ideal para você! Com uma busca simples, você pode descobrir diversas raças de cães e gatos, com informações detalhadas sobre cada uma. Basta digitar algumas palavras-chave, como "cão pequeno e brincalhão" ou "gato calmo para apartamento", e a aplicação fará uma busca inteligente em nosso banco de dados e te apresentará os resultados mais relevantes.  O melhor de tudo? Nossa aplicação é totalmente responsiva, ou seja, funciona perfeitamente em qualquer dispositivo, seja no seu computador, tablet ou smartphone!
 
 {Reactions}
-⭐ (38)
+⭐ (41)
 
 [9/7/2024 3:34 AM] Alura
 Novo projeto recebido!
@@ -12759,7 +12759,7 @@ Descrição do projeto
 LevelSkills é uma plataforma que avalia habilidades técnicas e comportamentais por meio de quizzes interativos. Ela ajuda usuários a identificar pontos fortes e áreas de melhoria, oferecendo feedback útil para aprimorar currículos e preparar-se melhor para entrevistas de emprego.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 12:06 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (91)
+⭐ (92)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -18047,7 +18047,7 @@ Descrição do projeto
 Meu projeto é um site com informações sobre a premiação do Oscar. Contém uma barra de pesquisa para buscar informações sobre os filmes indicados em 2023. Além disso, na página inicial tem principais notícias da indústria do cinema atualmente e os principais filmes indicados em 2023.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -19581,7 +19581,7 @@ Descrição do projeto
 Criei o projeto de portifolio com objetivo de fornecer um modelo básico que possa ser facilmente adaptado a qualquer currículo pessoal.O projeto inclui exemplos de preenchimento para facilitar a adaptação. Comentários no código ajudam a personalizar e ajustar o portfólio de acordo com suas necessidades específicas.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 8:38 PM] Alura
 Novo projeto recebido!
@@ -19596,7 +19596,7 @@ Descrição do projeto
 Mundo da Imaginação é uma aplicação web voltada para ajudar os usuários a explorar livros através de um sistema de busca simples e acessível. O projeto inclui funcionalidades voltadas para acessibilidade, como opções de fontes amigáveis para pessoas com dislexia, paletas de cores adaptadas para daltônicos e link de AudioBooks para pessoas com deficiência visual.
 
 {Reactions}
-⭐ (23)
+⭐ (25)
 
 [9/7/2024 8:38 PM] Alura
 Novo projeto recebido!
@@ -19611,7 +19611,7 @@ Descrição do projeto
 Em tempos em que o clima mundial está passando por grandes trasnformações, é necessário que busquemos novas tecnologias para a redução da emissão de carbono na atmosfera. Este projeto visa apresentar ao público novas tecnologias que estão surgindo para ajudar o planeta.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 8:38 PM] Alura
 Novo projeto recebido!
@@ -21147,7 +21147,7 @@ Descrição do projeto
 Projeto de um site de busca com o assunto bandas de Rock, estou torcendo para que vocês gostem. preciso muito ganhar uma bolsa , adoro a Alura e espero poder estudar mais a fundo as tecnologias, estou quase terminando minha faculdade de Análise e desenvolvimento de sistemas. obrigado
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 10:01 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (16)
+⭐ (19)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
