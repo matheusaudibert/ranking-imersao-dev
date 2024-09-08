@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (104)
+⭐ (105)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -13515,7 +13515,7 @@ Descrição do projeto
 Explore o universo de Jujutsu Kaisen com o Imersão Dev - Google Gemini! Pesquise informações sobre o anime e faça um quiz interativo para descobrir com qual personagem você mais se parece. Acesse agora e mergulhe nessa experiência única! https://esthertavaress.github.io/imersao-dev-google-gemini/
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 1:15 PM] Alura
 Novo projeto recebido!
@@ -21042,7 +21042,7 @@ Descrição do projeto
 Este projeto é um guia interativo das seleções que já participaram da Copa do Mundo.  Construído com HTML, CSS e JavaScript, ele permite que os usuários busquem por uma seleção específica e obtenham informações como título, descrição, ano em que o país sediou a copa e um link para mais detalhes., levando para a Wikipedia correspondente.  A interface do usuário é composta por uma caixa de pesquisa e um botão. Ao inserir o nome da seleção desejada e clicar no botão, o JavaScript busca nos dados e exibe os resultados correspondentes na página. O projeto é organizado nas linguagens citadas, incluindo um arquivo "dados.js" que armazena as informações de cada seleção.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
