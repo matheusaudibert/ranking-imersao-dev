@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (114)
+⭐ (115)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (108)
+⭐ (109)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -8939,7 +8939,7 @@ Descrição do projeto (cont.)
 se no site ela irá te informar uma mensagem, uma dica ou um conhecimento novo acerca de assuntos ambientais/sociais.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/6/2024 10:29 PM] Alura
 Novo projeto recebido!
@@ -15590,7 +15590,7 @@ Descrição do projeto
 Este projeto web é um guia interativo para entusiastas de artes marciais que desejam explorar os diversos estilos de karate. A aplicação oferece uma interface intuitiva para pesquisar por estilos específicos, apresentando informações detalhadas sobre cada um, como história, características e links para aprofundar os estudos.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 4:35 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (74)
+⭐ (75)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -21147,7 +21147,7 @@ Descrição do projeto
 Projeto de um site de busca com o assunto bandas de Rock, estou torcendo para que vocês gostem. preciso muito ganhar uma bolsa , adoro a Alura e espero poder estudar mais a fundo as tecnologias, estou quase terminando minha faculdade de Análise e desenvolvimento de sistemas. obrigado
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 10:01 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (74)
+⭐ (75)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
