@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (167)
+⭐ (168)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (184)
+⭐ (185)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (36)
+⭐ (35)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -19236,7 +19236,7 @@ Descrição do projeto
 **Pitch do Projeto: IntelliFinder**  O *IntelliFinder* é uma plataforma inovadora que ajuda você a encontrar a inteligência artificial certa para suas necessidades. Ao acessar o site, você simplesmente informa a tarefa ou o desafio que deseja resolver, e o *IntelliFinder* sugere as melhores soluções de IA disponíveis no mercado. De automatizações simples a ferramentas complexas de análise de dados, o *IntelliFinder* facilita o processo de descoberta e seleção da IA ideal, otimizando tempo e recursos. Seja para estudantes, profissionais ou empresas, nossa plataforma garante que você tenha as ferramentas certas para maximizar sua eficiência e resultados.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 8:20 PM] Alura
 Novo projeto recebido!
@@ -19688,7 +19688,7 @@ Descrição do projeto (cont.)
 r o valor do campo de pesquisa e comparar os dados presentes no arquivo dados.js, que consegue procurar os livros também com base no nome do autor depois da mudança. O CSS e o HTML tiveram mudanças pequenas, no caso do HTML foi adicionada uma div com os botões pesquisar e mais um novo chamado limpar que executa a função limpar, ambos também possuem classes próprias. O CSS teve a adição de novas classes e mudanças nas cores e fonte. Por fim, observa-se que essas mudanças foram realizadas com o apoio do Gemini AI, o que melhorou o resultado.
 
 {Reactions}
-⭐ (7)
+⭐ (11)
 
 [9/7/2024 8:45 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (27)
+⭐ (29)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -25374,7 +25374,7 @@ Descrição do projeto
 O projeto consiste em uma página interativa que permite os usuários realizarem pesquisas textuais para encontrar um personagem do jogo *Honkai: Star Rail*, além de poderem filtrar personagens por elementos e caminhos. Ao clicar no personagem, o usuário é direcionado para um link com mais informações.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 ==============================================================
 Exported 1,677 message(s)
