@@ -12519,7 +12519,7 @@ Descrição do projeto
 É meu primeiro contato com a programação e fiz um projeto de acordo com as aulas, fiz a mudança do tema, mas usei o mesmo raciocínio de linhas de comandos. Acredito que a ideia de um catálogo de minipizzas onde é possível consultar as receitas de variados sabores para que possa ser feita em sua casa é muito bacana!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:28 AM] Alura
 Novo projeto recebido!
