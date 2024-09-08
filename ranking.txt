@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (183)
+⭐ (185)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -622,7 +622,7 @@ Descrição do projeto
 Sobre o Projeto Objetivo do Projeto: Bem-vindo ao repositório do Gemini IA News! Este projeto visa criar um site acessível e envolvente para introduzir a Inteligência Artificial a pessoas com mais idade ou pouca familiaridade com tecnologia. O site utiliza HTML, CSS e JavaScript para oferecer conteúdos em texto e vídeo de maneira simples e divertida, facilitando o aprendizado sobre IA e conceitos básicos de engenharia de prompt.  Site: https://beatrizgdc.github.io/geminiIaNews/  Vídeo do Projeto: https://youtu.be/8xS9065ZZWA 🎥  Código Fonte no GitHub: https://github.com/beatrizgdc/geminiIaNews 📝  Sobre a Desenvolvedora: Beatriz Garcia - LinkedIn: https://www.linkedin.com/in/beatrizgdcevaio/
 
 {Reactions}
-⭐ (81)
+⭐ (82)
 
 [9/5/2024 1:44 PM] Alura
 Novo projeto recebido!
@@ -727,7 +727,7 @@ Descrição do projeto
 Sejam bem vindos ao meu projeto! Uma página wiki do melhor anime já feito: One Piece! Pesquise seus personagens favoritos do bando dos piratas Chapéu de Palha, você também pode tentar a sua sorte pesquisando um personagem aleatório em “Estou com sorte”! Este projeto colocou em pratica todas as informações e conhecimentos passados através da Imersão Alura-Gemini ✨ Aproveite o projeto e avaliem!
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/5/2024 2:29 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (129)
+⭐ (130)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (145)
+⭐ (146)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (108)
+⭐ (109)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -14401,7 +14401,7 @@ Descrição do projeto
 Miau da Sorte é um site inspirado nos tradicionais biscoitos da sorte, mas com um toque especial: a fofura dos gatos! Ao clicar no gatinho da sorte, você receberá uma mensagem inspiradora e positiva para te acompanhar em seus dias.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 2:39 PM] Alura
 Novo projeto recebido!
@@ -23736,7 +23736,7 @@ Descrição do projeto
 Este projeto, desenvolvido durante a Imersão Alura com Google Gemini, busca trazer um toque brasileiro a um clássico dos jogos de cartas: o Trunfo. Com adaptações nas regras tradicionais, o objetivo é oferecer uma experiência de jogo mais simples e acessível.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
