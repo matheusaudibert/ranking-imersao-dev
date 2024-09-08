@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (195)
+⭐ (196)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -2674,7 +2674,7 @@ Descrição do projeto (cont.)
 ta estiver incorreta, uma mensagem vermelha será exibida e você poderá tentar novamente. Complete o quiz: Continue respondendo as perguntas até completar todas. Ao final, uma mensagem de parabéns será exibida.
 
 {Reactions}
-⭐ (72)
+⭐ (73)
 
 [9/6/2024 12:57 AM] Alura
 Novo projeto recebido!
@@ -6869,7 +6869,7 @@ Descrição do projeto
 Este é meu primeiro projeto no qual tive contato com as linguagens de programação HTML, CSS e JavaScript! Me inspirei nos meus pais que tem um Restaurante para a realização do meu projeto, no qual criei um site para facilitar o conhecimento e tirar as dúvidas dos futuros clientes! Acesse o site em: https://santa-luiza.vercel.app
 
 {Reactions}
-⭐ (168)
+⭐ (167)
 
 [9/6/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (120)
+⭐ (122)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (47)
+⭐ (46)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
