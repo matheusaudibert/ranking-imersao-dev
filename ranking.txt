@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (292)
+⭐ (293)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (143)
+⭐ (144)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -11963,7 +11963,7 @@ Descrição do projeto
 Como sou iniciante no desenvolvimento de sites, este projeto é uma tentativa criativa de unir aprendizado com entretenimento.  Neste site simples de busca, voces podem explorar o multiverso da programação, ao pesquisar por uma linguagem vocês são transportados para links aleatórios, que podem ser uma explicação séria sobre a linguagem, uma imagem engraçada ou até um site inesperado! Meu objetivo foi proporcionar uma experiência divertida e educativa, mostrando as diversas facetas do mundo da programação. Espero que gostem!! testem aqui: http://multiverso-r29l.vercel.app/
 
 {Reactions}
-⭐ (73)
+⭐ (74)
 
 [9/7/2024 8:35 AM] Alura
 Novo projeto recebido!
@@ -17717,7 +17717,7 @@ Descrição do projeto
 Esse projeto foi o meu primeiro contato com a programação. Tesouros perdidos mostra alguns dos animais que estão ameaçados de extinção em cada bioma brasileiro. Minha ideia foi apresentar a diversidade da fauna brasileira através de uma pequena descrição de cada espécie e trazer as principais ameaças enfrentadas por elas a fim de conscientizar as pessoas sobre a importância da biodiversidade brasileira. https://tesouro-perdido.vercel.app/
 
 {Reactions}
-⭐ (102)
+⭐ (103)
 
 [9/7/2024 6:56 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (98)
+⭐ (99)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
