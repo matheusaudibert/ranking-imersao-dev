@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (15)
+⭐ (17)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -20742,7 +20742,7 @@ Descrição do projeto
 Projeto concluído! Essa aplicação te leva em uma jornada virtual por uma das Sete Maravilhas do Mundo: Machu Picchu!. A pesquisa te leva direto para as informações que você procura, seja sobre a Cidadela Inca, o Templo do Sol ou qualquer outro ponto de interesse. Obrigado Alura por mais esta oportunidade!  Meu site no Vercel: https://machupicchutours.vercel.app/ Meu projeto no GitHub: https://github.com/jmsdavila84/machupicchutours
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 9:40 PM] Alura
 Novo projeto recebido!
