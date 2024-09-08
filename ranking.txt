@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (102)
+⭐ (103)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -2477,7 +2477,7 @@ Descrição do projeto
 O projeto tem como objetivo utilizar a API Gemini para gerar um resumo da classe informada bem como algumas habilidades da mesma.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/5/2024 11:32 PM] Alura
 Novo projeto recebido!
@@ -5642,7 +5642,7 @@ Descrição do projeto
 Olá Pessoas, o meu projeto consiste em um site onde abordo filmes baseados em casos reais, mais especificamente true crimes e nele visualizamos a correlação entre o acontecimento real e a dramaturgia e também mostrando algumas curiosidades. As ferramentas utilizadas foram somente html, css e javaScript, ao acessar a página o usuário é comunicado através de um poup-up sobre aviso de conteúdo sensível e precisa clicar em ‘’estou ciente’’ para poder prosseguir. Mais informações disponíveis no readme
 
 {Reactions}
-⭐ (56)
+⭐ (57)
 
 [9/6/2024 4:55 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (79)
+⭐ (80)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (67)
+⭐ (68)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -22483,7 +22483,7 @@ Descrição do projeto
 Cansado de cursos chatos e teorias enfadonhas? No SoftinSkills, a diversão é garantida!  Descubra como transformar jogos em ferramentas poderosas para o desenvolvimento pessoal e profissional. Desenvolva as Soft Skills mais buscadas no mercado jogando, tem jogo pra todo mundo desde o tabuleiro cheio de gente quanto seu jogo online colaborativo.
 
 {Reactions}
-⭐ (38)
+⭐ (40)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
