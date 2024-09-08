@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (193)
+⭐ (194)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (151)
+⭐ (152)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -3428,7 +3428,7 @@ Descrição do projeto
 Fiz uma site com uma lista de animes que podem ser filtrados por categoria https://bomba4512.github.io/imersao-alura/ OBS: Fiz o projeto enquanto fazia live lá na twitch, segue lá! https://www.twitch.tv/bomba4512
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/6/2024 11:48 AM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (111)
+⭐ (112)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -19641,7 +19641,7 @@ Descrição do projeto
 Biblioteca de jogos retrôs no qual eu zerei.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 8:40 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (59)
+⭐ (60)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
