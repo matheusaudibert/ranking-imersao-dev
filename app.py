@@ -98,7 +98,7 @@ def main():
                 st.sidebar.markdown(f"   **Link do GitHub**: [Link]({github_link})")
                 st.sidebar.markdown(f"   **Reações**: :orange[{reactions}]")
         else:
-            st.sidebar.markdown("Não te encotrei 😕.")
+            st.sidebar.markdown("Não te encotrei.")
 
 if __name__ == "__main__":
     main()
