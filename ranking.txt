@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (145)
+⭐ (146)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (80)
+⭐ (81)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (140)
+⭐ (141)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -20472,7 +20472,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 9:26 PM] Alura
 Novo projeto recebido!
