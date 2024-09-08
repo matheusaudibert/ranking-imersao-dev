@@ -24008,7 +24008,7 @@ Descrição do projeto
 O Infinity Quest é uma aplicação web que permite aos usuários buscar informações sobre diversos temas relacionados ao espaço e à exploração espacial. A interface do usuário é projetada para ser intuitiva e responsiva, proporcionando uma experiência de pesquisa fluida e agradável.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
@@ -24038,7 +24038,7 @@ Descrição do projeto
 Fiz um catálogo de produtos online, utilizei o nicho de roupas, mas poderia ser usado para outros nichos. Utilizei modelos de busca do mesmo modo feito nas aulas da imersão.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
@@ -24053,7 +24053,7 @@ Descrição do projeto
 Pensando em um dos principais temas da Imersão Alura, decidi criar um site que reúne uma lista de IAs. o pesquisar, se tem uma descrição, imagem e o link para seus respectivos sites, ajudando assim pessoas a encontrar uma IA especifica para suas necessidades. Irei tentar manter o projeto vivo e atualizado, e com o passar do tempo e o ganho de conhecimento, ir melhorando e acrescentando mais informações ao site.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
@@ -24068,7 +24068,7 @@ Descrição do projeto
 Um Inventario de Item e magias para RPG de mesa
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
@@ -24098,7 +24098,7 @@ Descrição do projeto
 Um Site que possibilita mostras os melhores lugares do Brasil para se avistar estrelas. Trabalho o dia todo e ainda estudo na noite, nao tive tempo de finalizar as aulas ainda, cheguei apenas ate a aula 3. o Projeto esta bem cru ainda, mas acredito que tenha potencial para muito mais, espero ter a oportunidade de aperfeiçoar ele ainda este fim de semana. Tive compromisso este 7 de setembro e não consegui adicionar mais anda ao site. Desde ja agradeço a oportunidade!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
@@ -24113,7 +24113,7 @@ Descrição do projeto
 rojeto: Marvel Timeline  Objetivo: O projeto Marvel Timeline tem como finalidade criar uma linha do tempo interativa que apresenta a cronologia de todos os filmes do Universo Cinematográfico Marvel (MCU), desde o primeiro filme, Capitão América: O Primeiro Vingador (1943), até Vingadores: Ultimato (2019). O objetivo é organizar e exibir os eventos dos filmes em ordem cronológica, proporcionando aos usuários uma visão clara e envolvente da progressão do universo Marvel ao longo dos ano
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
@@ -24128,7 +24128,7 @@ Descrição do projeto
 O Gallery Museum é uma plataforma digital sofisticada projetada para proporcionar uma experiência imersiva e educacional no mundo da arte. O site visa oferecer acesso a uma vasta coleção de obras de arte, permitindo aos usuários explorar, pesquisar e apreciar a arte de maneira interativa e acessível. O projeto combina design elegante, funcionalidade intuitiva e uma interface responsiva para criar um ambiente digital envolvente.O Gallery Museum representa uma fusão bem-sucedida de design sofisticado e funcionalidade avançada. Através de um processo cuidadoso de planejamento, design, desenvolvimento e testes, criamos uma plataforma que oferece uma rica experiência de exploração artística, com um design elegante e uma interface amigável. O projeto reflete um compromisso com a excelência em design e funcionalidade, proporcionando aos usuários uma experiência enriquecedora e acessível no mundo da arte.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
@@ -24143,7 +24143,7 @@ Descrição do projeto
 ☕ Sobre a Aplicação Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.Como Funciona Pesquisa Intuitiva: Digite o nome do café que você procura e clique no botão "Pesquisar". Resultados Personalizados: A aplicação irá procurar por palavras-chave no título, descrição e tags dos cafés, mostrando os resultados mais relevantes.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
@@ -24158,7 +24158,7 @@ Descrição do projeto
 Ferramenta de busca de talentos do sistema de rpg pathfinder 1 edição com regras oficiais e alternativas.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
