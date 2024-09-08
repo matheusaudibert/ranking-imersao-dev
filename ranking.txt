@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (88)
+⭐ (89)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -15515,7 +15515,7 @@ Descrição do projeto
 Um pequeno roadmap de quais podem ser os próximos passos para quem quer aprender programação, baseado na minha experiência de mercado. Feito com muito carinho de um dev para outros devs e futuros devs <3
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 4:32 PM] Alura
 Novo projeto recebido!
