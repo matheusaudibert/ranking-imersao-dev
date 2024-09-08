@@ -61,9 +61,9 @@ def calculate_time_remaining(offset_hours):
     return remaining_time
 
 def main():
-    st.set_page_config(page_title="Ranking Alura", layout="wide", initial_sidebar_state="expanded", menu_items=None)
+    st.set_page_config(page_title="Ranking Imersão Dev", layout="wide", initial_sidebar_state="expanded", menu_items=None)
 
-    st.title("🏆 Ranking Alura :gray[Não Oficial] - :blue[Atualizações Automáticas]")
+    st.title("🏆 Ranking Imersão Dev (Não Oficial)")
 
     input_filename = 'ranking.txt'
     projects = parse_txt(input_filename)
