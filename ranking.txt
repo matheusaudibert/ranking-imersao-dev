@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (67)
+⭐ (69)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -23751,7 +23751,7 @@ Descrição do projeto
 Bem-vindo ao TechFusion, Um site dedicado aos apaixonados por tecnologia! O TechFusion oferece informações detalhadas sobre diversos cursos e formações na área de tecnologia, com foco em quem deseja seguir uma carreira ou se especializar no setor. O TechFusion é um projeto que visa unir duas grandes instituições de ensino, a Alura e a FIAP, em um único lugar. Através de uma interface simples e eficiente, os usuários podem pesquisar e obter informações sobre cursos oferecidos por essas instituições. O objetivo principal do TechFusion é facilitar o acesso a informações sobre os cursos de ambas as plataformas, permitindo que os usuários comparem, descubram e escolham o que melhor atende às suas necessidades educacionais.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
