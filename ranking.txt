@@ -1202,7 +1202,7 @@ Descrição do projeto
 Projeto criado durante a Imersão_Dev da Alura com Google Gemini
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/5/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (107)
+⭐ (108)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -9502,7 +9502,7 @@ Descrição do projeto
 Hey Gamer! Conheça a Biblioteca Royale, um projeto que visa fornecer informações sobre as cartas deste game incrível para que você possa se tornar o rei no campo de batalha.  Espero que curta o trabalho deste iniciante!   Link do Projeto: https://weslleyalex.github.io/BibliotecaRoyale/ (Suas observações e sugestões são bem-vindas)  Link do Repositório: https://github.com/WeslleyAlex/BibliotecaRoyale (Confira o código na integra)
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/6/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -12053,7 +12053,7 @@ Descrição do projeto
 Projeto fictício sobre empreendimento de uma empresa de Design Gráfico e Front-End
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 9:48 AM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -21466,7 +21466,7 @@ Descrição do projeto
 E se o Jesse Pinkman, da aclamada série Breaking Bad, abrisse um domínio para expressar seus pensamentos sobre os filmes que vem consumindo após ser solto de seu cativeiro? Uma espécie de letterboxd de um ex fabricante de mentafetamina azul que estudou o básico de codigos e agora encanta o mundo com suas críticas "refinadas".
 
 {Reactions}
-⭐ (13)
+⭐ (15)
 
 [9/7/2024 10:16 PM] Alura
 Novo projeto recebido!
