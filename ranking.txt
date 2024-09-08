@@ -3366,7 +3366,7 @@ Descrição do projeto
 🎬 Filmes que Todo Mundo Deve Ver! 🌟
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/6/2024 11:42 AM] Alura
 Novo projeto recebido!
@@ -4492,7 +4492,7 @@ Descrição do projeto
 Este projeto tem intuito de fazer com que usuário interaja de forma que ele possa conhecer mais e ouvir sobre as músicas que mais fizeram sucesso e bandas nos anos 2000. O que o torna bem intuitivo e legal é todas recordações que as músicas e bandas nos trazem além das curiosas descrições sobre elas e por serem não só nacionais mas também internacionais.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/6/2024 2:59 PM] Alura
 Novo projeto recebido!
@@ -4507,7 +4507,7 @@ Descrição do projeto
 Um jogo de adivinhar palavras pra testar o conhecimento do DEV. O usuário tem 5 chances para adivinha a palavra chave e pode pedir uma dica. Nas cinco chances que o usuário vai tentando a tela muda de cor e ao finalizar acertando ou errando ele pode reiniciar o jogo. Foi desenvolvido com HTML, CSS e JavaScript. tem um pequeno banco de elementos com palavras e dicas e é isso. Se divertir e aprender!
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/6/2024 2:59 PM] Alura
 Novo projeto recebido!
@@ -4522,7 +4522,7 @@ Descrição do projeto
 Uma oportunidade de saber mais a respeito do seu Video Game e saber identificar certos defeitos e saber como resolvê-los
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/6/2024 3:00 PM] Alura
 Novo projeto recebido!
@@ -7175,7 +7175,7 @@ Descrição do projeto
 Se você quer saber o que é RAG, Fine-Tuning, REST ou outros termos muito usados quando falamos de IA e APIs e ainda ter acesso à livros, revistas digitais e ferramentas sobre o tema, o seu lugar é aqui! 🧠
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/6/2024 7:34 PM] Alura
 Novo projeto recebido!
@@ -9669,7 +9669,7 @@ Descrição do projeto
 Ao pensar em um tema para o projeto pensei comigo porque não fazer de algo que sou apaixonada?? Pensando nisso, para tornar o processo ainda mais interessante, pensei em envolver automobilismo na ideia. A ideia principal é uma rede de apoio principalmente aos novos fãs que não sabem por onde começar a entender o esporte, apesar de eu não ter conseguido expressar totalmente isso na elaboração em si em pouco tempo. O objetivo do site é englobar notícias destaques, manuais de como assistir uma categoria específica por exemplo, tudo isso para acolher esses novos fãs que às vezes são piadas de outros mais antigos.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/6/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (96)
+⭐ (97)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -12729,7 +12729,7 @@ Descrição do projeto
 A aplicação, "Máquina do Tempo Literária", é como um TARDIS pessoal para os amantes de sci-fi! Um repositório para autores e obras de ficção científica clássica. E aí, vamos viajar no tempo juntos?
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 12:03 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -13455,7 +13455,7 @@ Descrição do projeto
 Bem-vindo ao Pawesome Place, seu guia completo para encontrar os lugares mais legais para explorar com seu bichinho de estimação em Portugal (e quem sabe, no futuro, no Brasil e no mundo!). Parques, praias, trilhas e mais! Imagine ter um guia turístico pessoal para o seu pet. Descubra os melhores locais para passear, brincar e fazer novas amizades com outros pets! Não seria AWESOME?
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (59)
+⭐ (58)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -23736,7 +23736,7 @@ Descrição do projeto
 Este projeto, desenvolvido durante a Imersão Alura com Google Gemini, busca trazer um toque brasileiro a um clássico dos jogos de cartas: o Trunfo. Com adaptações nas regras tradicionais, o objetivo é oferecer uma experiência de jogo mais simples e acessível.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
