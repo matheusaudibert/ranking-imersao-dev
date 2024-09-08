@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (141)
+⭐ (143)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (179)
+⭐ (180)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (171)
+⭐ (172)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -4507,7 +4507,7 @@ Descrição do projeto
 Um jogo de adivinhar palavras pra testar o conhecimento do DEV. O usuário tem 5 chances para adivinha a palavra chave e pode pedir uma dica. Nas cinco chances que o usuário vai tentando a tela muda de cor e ao finalizar acertando ou errando ele pode reiniciar o jogo. Foi desenvolvido com HTML, CSS e JavaScript. tem um pequeno banco de elementos com palavras e dicas e é isso. Se divertir e aprender!
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/6/2024 2:59 PM] Alura
 Novo projeto recebido!
