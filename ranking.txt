@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (125)
+⭐ (126)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (143)
+⭐ (144)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -303,7 +303,7 @@ Descrição do projeto
 Minha primeira interação com HTML, CSS E JS, sou estagiário de T.I e estou fazendo um site inspirado no mundo mágico de Harry Potter, fiz algumas modificações legais e ainda estou fazendo mais. Espero que gostem!
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 10:48 AM] Alura
 Novo projeto recebido!
@@ -318,7 +318,7 @@ Descrição do projeto
 Um projeto no qual foi criado para eu relembrar algumas partes do HTML5 e CSS3.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 10:50 AM] Alura
 Novo projeto recebido!
@@ -333,7 +333,7 @@ Descrição do projeto
 O projeto oferece um resumo objetivo de informações sobre diversos países. Ao digitar o nome de um país na barra de pesquisa, o usuário é apresentado a um painel com vários tipos de dados. Exemplo: Nome, Capital, Moeda, Idioma.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 11:02 AM] Alura
 Novo projeto recebido!
@@ -348,7 +348,7 @@ Descrição do projeto
 Prodfilm é uma plataforma online de filmes, desenvolvida com as tecnologias HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 11:07 AM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
