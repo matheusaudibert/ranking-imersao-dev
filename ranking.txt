@@ -2147,7 +2147,7 @@ Descrição do projeto
 A Garden Sustentability, é uma ideação para o projeto da Alura com o Google Gemini. Aqui nós iremos combinar o verde com a tecnologia para criar um projeto inovador e impactante.  Conceito: Um jardim comunitário que utiliza tecnologia para otimizar o cultivo, monitorar o crescimento das plantas e promover a educação ambiental de forma interativa. Utilizando Sensores (Úmidade, temperatura, nutricionais), Irrigação automatizada, Painéis solares, Aplicativo mobile e Câmeras;
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -11224,7 +11224,7 @@ Descrição do projeto
 O projeto explora a flora brasileira de flores do brasil
 
 {Reactions}
-⭐ (65)
+⭐ (64)
 
 [9/7/2024 3:13 AM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (47)
+⭐ (46)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
