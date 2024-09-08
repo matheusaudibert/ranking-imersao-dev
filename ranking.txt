@@ -988,7 +988,7 @@ Descrição do projeto
 Que animal posso adotar? é um simples catálogo de possíveis animais que você pode adotar!
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/5/2024 4:07 PM] Alura
 Novo projeto recebido!
@@ -3518,7 +3518,7 @@ Descrição do projeto
 Este projeto foi desenvolvido durante a Imersão Dev Alura , com o objetivo de criar uma interface interativa e divertida que compare motos populares do Brasil a pessoas, atribuindo-lhes personalidades únicas e humorísticas. Funcionalidades Pesquise motos populares e visualize especificamente humorísticas que comparam a pessoas. Exibir informações como nome, descrição, imagem e link para mais detalhes de cada moto. Interface simples e responsiva com animações de fundo em vídeo. Link : https://motos-ou-pessoas.vercel.app/
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/6/2024 12:01 PM] Alura
 Novo projeto recebido!
@@ -9059,7 +9059,7 @@ Descrição do projeto
 Uma página sobre animais marinhos que pode ser divertida,  O objetivo é apresentar o mundo marinho de forma interessante e despertar o interesse das pessoas pela preservação dos oceanos.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (93)
+⭐ (94)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -17717,7 +17717,7 @@ Descrição do projeto
 Esse projeto foi o meu primeiro contato com a programação. Tesouros perdidos mostra alguns dos animais que estão ameaçados de extinção em cada bioma brasileiro. Minha ideia foi apresentar a diversidade da fauna brasileira através de uma pequena descrição de cada espécie e trazer as principais ameaças enfrentadas por elas a fim de conscientizar as pessoas sobre a importância da biodiversidade brasileira. https://tesouro-perdido.vercel.app/
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/7/2024 6:56 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (10)
+⭐ (12)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -24143,7 +24143,7 @@ Descrição do projeto
 ☕ Sobre a Aplicação Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.Como Funciona Pesquisa Intuitiva: Digite o nome do café que você procura e clique no botão "Pesquisar". Resultados Personalizados: A aplicação irá procurar por palavras-chave no título, descrição e tags dos cafés, mostrando os resultados mais relevantes.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
