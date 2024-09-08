@@ -393,7 +393,7 @@ Descrição do projeto
 Site para consulta e pesquisa dos Hashiras do universo de Demons Slayer usando animações simples e conceitos básicos. É possível acessar o site clicando aqui: https://desafio-dev-alura-gemini2024-and-git-441af6-andrelukes-projects.vercel.app
 
 {Reactions}
-⭐ (67)
+⭐ (69)
 
 [9/5/2024 11:32 AM] Alura
 Novo projeto recebido!
@@ -16104,7 +16104,7 @@ Descrição do projeto
 É um buscador simples e divertido para você encontrar o kartódromo perfeito para a sua próxima aventura no automobilismo amador!
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 5:12 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
