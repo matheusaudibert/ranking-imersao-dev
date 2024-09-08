@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (197)
+⭐ (198)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (194)
+⭐ (195)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1562,7 +1562,7 @@ Descrição do projeto
 Uma plataforma de compras, moderna e intuitiva.Oferecendo uma experiência rápida e eficiente juntamente com uma interface amigável e recursos que garantem uma navegação fluida. > Link Deploy: https://ecomercebyniel.netlify.app
 
 {Reactions}
-⭐ (181)
+⭐ (182)
 
 [9/5/2024 6:51 PM] Alura
 Novo projeto recebido!
@@ -3653,7 +3653,7 @@ Descrição do projeto
 A Jornada do Herói Lógico é um projeto de educação gamificada que combina uma aventura interativa com conceitos de programação. O jogo conta a história de um herói que enfrenta uma série de desafios e deve usar seu conhecimento lógico para tomar decisões corretas e avançar na história. Durante sua jornada, o herói precisa resolver problemas que envolvem lógica, recursão, algoritmos e funções.
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/6/2024 12:35 PM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (168)
+⭐ (169)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -11813,7 +11813,7 @@ Descrição do projeto (cont.)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ⭐‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Link do Projeto: https://solar-alura-dev.vercel.app/  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🚀  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎⭐                                                                                   ‎ ‎ ‎ ‎ ‎ ‎‎ ‎
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/7/2024 6:43 AM] Alura
 Novo projeto recebido!
@@ -14204,7 +14204,7 @@ Descrição do projeto
 Sinta o cinema!  O FilmêMood te convida a explorar o mundo do cinema de uma forma totalmente nova. Escolha a sua emoção e descubra o filme perfeito para o seu momento.  Como funciona:  É simples! Basta selecionar a emoção que você está sentindo, entre feliz, triste, ansioso e apaixonado,e deixar a que faremos o resto.  Diferenciais:  Rápido e fácil: Encontre o filme ideal em poucos segundos. Personalizado: Filmes escolhidos especialmente para você. Diversão garantida: Prepare-se para se emocionar, rir e se apaixonar. Público-alvo:  Amantes de cinema de todas as idades que buscam uma experiência cinematográfica rápida e divertida.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 2:21 PM] Alura
 Novo projeto recebido!
@@ -21012,7 +21012,7 @@ Descrição do projeto
 este é um projeto que tem por finalidade proporcinar ao usuario  uma facilidade em encontar  repositorios e desenvolvedores no github facilitando a interação de novos usuarios
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 9:55 PM] Alura
 Novo projeto recebido!
