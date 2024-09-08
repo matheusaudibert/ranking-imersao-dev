@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (192)
+⭐ (193)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -2899,7 +2899,7 @@ Descrição do projeto
 AI.HUB: Sua biblioteca com as melhores INTELIGÊNCIAS ARTIFICIAIS do momento! Explore nosso catálogo e descubra IA's inovadoras para ASSISTÊNCIA, DESIGN, VÍDEO, MÚSICA e ESTUDOS. Além disso, o site conta com uma seção exclusiva que explica o funcionamento das IAs e seus diferentes tipos. ATUALIZAÇÕES estão a caminho! O site é totalmente RESPONSIVO, adaptando-se perfeitamente a qualquer dispositivo, para que você possa acessar quando e onde quiser! SEU APOIO é essencial para impulsionar o site e torná-lo conhecido por todos. Confira o link e aproveite: https://portfolio-ai-kvg6ycv0m-profile-z4ffarani.vercel.app. Agradeço desde já, future-se!
 
 {Reactions}
-⭐ (184)
+⭐ (185)
 
 [9/6/2024 5:45 AM] Alura
 Novo projeto recebido!
@@ -8194,7 +8194,7 @@ Descrição do projeto
 💛 Projeto de Pesquisa de Soluções Emocionais | Setembro Amarelo Descubra soluções práticas e links úteis para ajudar a lidar com sentimentos como ansiedade, tristeza e outros estados emocionais. Com uma interface simples e direta, esse projeto oferece uma forma rápida e eficaz de encontrar apoio emocional. Ideal para quem busca equilíbrio e bem-estar mental.  Neste mês de Setembro Amarelo, é importante reforçar a conscientização sobre saúde mental e prevenção ao suicídio. Se você ou alguém que conhece está precisando de ajuda, não hesite em procurar apoio.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/6/2024 9:36 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (109)
+⭐ (110)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (142)
+⭐ (143)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (51)
+⭐ (52)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -21027,7 +21027,7 @@ Descrição do projeto
 A página ajudará você a descobrir o biotipo corporal de acordo com as informações fornecidas: ectomorfo, mesomorfo ou endomorfo. Após isso, é possível conferir mais informações no botão "saiba mais". Ficar por dentro do seu biotipo é o melhor caminho para ter uma noção mais precisa das suas necessidades específicas em termos de nutrição e treinamento, permitindo um plano de saúde e fitness mais personalizado e eficaz.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -21406,7 +21406,7 @@ Descrição do projeto
 O projeto é focado para as crianças de até 12 anos, já que decidi utilizar cinco personagens do videogame Sonic the Hedgehog, sendo eles: o próprio Sonic, Tails, Amy, Knuckles e Shadow. Cada um desses cinco personagens possui um tema sobre a importância do meio ambiente e dicas sobre como devemos cuidar delas, com um link que leva a sites que possuam mais informações caso necessário. O site foi feito pensando para que as gerações futuras desde crianças saibam o quão importante é a natureza e sobre como fazemos parte dela.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
