@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (171)
+⭐ (172)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -19812,7 +19812,7 @@ Descrição do projeto
 A ideia do projeto e ajudar pessoas que jogam o jogo ULTRAKILL para melhorarem as suas habilidades no caso queira ter uma gameplay mais interessante além de que para novatos possam ver algumas dicas
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 8:51 PM] Alura
 Novo projeto recebido!
@@ -19827,7 +19827,7 @@ Descrição do projeto
 Um pequeno projeto para mostrar as pessoas um pouco sobre o processo que gera produtos que usamos todos os dia.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 8:55 PM] Alura
 Novo projeto recebido!
@@ -19842,7 +19842,7 @@ Descrição do projeto
 Este blog é dedicado ao Setembro Amarelo, mês de conscientização sobre a prevenção do suicídio.  O objetivo, com muito carinho, é promover o bem-estar das pessoas, especialmente nestes tempos de estresse e pressão que vivemos.  Gostaria de oferecer momentos de leveza e descontração, pois sabemos que, por mais simples que sejam, as pegadinhas podem liberar endorfinas e contribuir para o equilíbrio emocional.  Embora muitos possam resistir a buscar um tratamento médico, poucos recusam o prazer de assistir a uma boa pegadinha, que, no fim das contas, pode ser uma poderosa ferramenta para aliviar a tensão e melhorar a saúde mental.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 8:55 PM] Alura
 Novo projeto recebido!
@@ -19857,7 +19857,7 @@ Descrição do projeto
 QuestTales é um site interativo de histórias de RPG com múltiplas escolhas, onde os jogadores podem explorar aventuras medievais e tomar decisões que afetam o desenrolar da narrativa. O projeto foi desenvolvido como parte da Imersão Dev com Google Gemini e Alura, utilizando tecnologias como HTML, CSS e JavaScript. As histórias são ilustradas com imagens geradas por inteligência artificial, e o site conta com um sistema de pesquisa interativa que permite aos usuários encontrar histórias e temas específicos com facilidade. O objetivo do QuestTales é proporcionar uma experiência imersiva e envolvente, integrando elementos clássicos de RPG e inovação tecnológica.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 8:55 PM] Alura
 Novo projeto recebido!
@@ -20997,7 +20997,7 @@ Descrição do projeto
 O projeto é um site que permite aos usuários explorar e buscar notícias de forma rápida e prática. Com uma interface simples e intuitiva, o projeto oferece a possibilidade de filtrar notícias por palavras-chave e visualizar os resultados com paginação, além de destacar o termo pesquisado nos títulos e descrições.  Este projeto é um site de notícias desenvolvido durante a Imersão Alura + Gemini, uma iniciativa que visa capacitar desenvolvedores em tecnologias de ponta. Através deste projeto, foi possível aplicar os conhecimentos adquiridos na imersão para criar uma aplicação web funcional e eficiente.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 9:55 PM] Alura
 Novo projeto recebido!
@@ -21314,7 +21314,7 @@ Descrição do projeto (cont.)
 usuário escolha as cores e o material dos sólidos para uma experiência mais personalizada. Exercícios interativos: Criar exercícios práticos para que o usuário possa aplicar os conhecimentos adquiridos e receber feedback imediato. Gráficos e tabelas: Apresentar os resultados dos cálculos de forma visual, através de gráficos e tabelas, facilitando a compreensão dos dados. Assistente virtual: Desenvolver um assistente virtual capaz de responder a dúvidas sobre os cálculos e fornecer explicações detalhadas sobre os conceitos matemáticos envolvidos.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 10:08 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
