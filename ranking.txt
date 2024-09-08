@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (158)
+⭐ (159)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (131)
+⭐ (132)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (108)
+⭐ (109)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -21592,7 +21592,7 @@ Descrição do projeto (cont.)
 da aplicação para uma interface visualmente atraente. JavaScript: Implementação de funcionalidades dinâmicas e interativas. React: Framework utilizado para criar uma interface de usuário responsiva e modular. Node.js:Backend para gerenciamento de dados e exr.Vanilla JavaScript: Para lógica de criação, atualização e renderização das partículas.
 
 {Reactions}
-⭐ (32)
+⭐ (31)
 
 [9/7/2024 10:21 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
