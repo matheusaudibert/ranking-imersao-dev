@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (234)
+⭐ (235)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -12939,7 +12939,7 @@ Descrição do projeto
 Esse projeto é uma ferramenta de busca dos personagens do jogo Life Is Strange 1 e breves descrições sobre si
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 12:21 PM] Alura
 Novo projeto recebido!
@@ -12954,7 +12954,7 @@ Descrição do projeto
 Um projeto humilde de um cara que está iniciando no mundo da programação, através da Imersão DEV da Alura com o Google Gemini. Não é perfeito, bem longe disso, mas fiz com muita alegria e dedicação, aproveitando cada passo deste processo.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 12:23 PM] Alura
 Novo projeto recebido!
@@ -12999,7 +12999,7 @@ Descrição do projeto
 Site de pesquisa por caracteristicas e para bucas de ongs de adoção
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 12:26 PM] Alura
 Novo projeto recebido!
@@ -13014,7 +13014,7 @@ Descrição do projeto
 ...
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 12:28 PM] Alura
 Novo projeto recebido!
@@ -13029,7 +13029,7 @@ Descrição do projeto
 Essa aplicação web te ajuda a encontrar o treino perfeito para você realizar em casa com o tempo que você tem disponível para se exercitar. Afinal o treino deve se adaptar à sua rotina e não ao contrário. Não importa se você tenha 15min ou 1h para treinar, o que importa é se movimentar! Digite quanto tempo você para se exercitar hoje. A aplicação irá exibir todos os treinos que você exigiu à sua pesquisa, com informações detalhadas como nível de dificuldade, materiais necessários e instruções. Com base nos resultados da pesquisa, você pode começar o trino imediatamente já que é feito para utilizar os materiais que você tem em casa.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 12:28 PM] Alura
 Novo projeto recebido!
@@ -13044,7 +13044,7 @@ Descrição do projeto
 Este é um projeto simples de pesquisa sobre cartas do jogo **Clash Royale**. A aplicação permite que o usuário pesquise por cartas ou raridades, retornando informações detalhadas sobre cada carta que corresponde ao termo de busca. A aplicação foi desenvolvida usando **HTML**, **CSS** e **JavaScript**.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 12:31 PM] Alura
 Novo projeto recebido!
@@ -13078,7 +13078,7 @@ Descrição do projeto (cont.)
 para fins educacionais e não deve ser utilizado como fonte única de informações científicas.  Vamos juntos desvendar os mistérios da química!  #tabelaperiodica #química #javascript #webdev  Observações:  Personalize: Adapte este README para o seu projeto, adicionando mais detalhes sobre as funcionalidades, tecnologias e o seu processo de desenvolvimento. Imagens: Inclua imagens para tornar o README mais visualmente atraente. Links: Adicione links para o seu perfil, para o repositório do projeto e para outros recursos relevantes. Chamada para ação: Incentive os usuários a contribuírem, fazerem fork do projeto ou entrarem em contato.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 12:33 PM] Alura
 Novo projeto recebido!
@@ -13168,7 +13168,7 @@ Descrição do projeto
 Oi, pessoal ;). seumentoracademico.vercel.app Como pesquisador e apaixonado por tecnologias, desenvolvi esta solução web intuitiva para ajudar estudantes a organizar suas pesquisas, criar referências bibliográficas e escrever trabalhos incríveis para alcançar os objetivos acadêmicos. Conto com o apoio de vocês!  #TCC #mestrado #doutorado #desenvolvedor #pesquisa #produtividade
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 12:38 PM] Alura
 Novo projeto recebido!
@@ -13213,7 +13213,7 @@ Descrição do projeto
 busca de animes através de banco de dados.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 12:41 PM] Alura
 Novo projeto recebido!
@@ -13243,7 +13243,7 @@ Descrição do projeto
 Crie um lugar onde as pessoas pode descobrir jogos brasileiros e apoiar o mercado de criação de jogos nacionais
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 12:46 PM] Alura
 Novo projeto recebido!
@@ -13258,7 +13258,7 @@ Descrição do projeto
 Projeto: Burger Mania  O Burger Mania é um site onde os visitantes podem explorar uma variedade de hambúrgueres disponíveis. Os usuários têm a opção de visualizar todos os hambúrgueres rolando pela página ou podem utilizar a barra de pesquisa para encontrar um hambúrguer específico rapidamente.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 12:47 PM] Alura
 Novo projeto recebido!
@@ -13288,7 +13288,7 @@ Descrição do projeto
 Projeto feito na imersão, desbravando atletas
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 12:52 PM] Alura
 Novo projeto recebido!
@@ -13303,7 +13303,7 @@ Descrição do projeto
 Um projeto que tem como objetivo encontra a melhor inteligência Artificial, para aderir suas necessidades.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 12:52 PM] Alura
 Novo projeto recebido!
@@ -13333,7 +13333,7 @@ Descrição do projeto
 Buscador de series de terror ou suspense, a busca devolve lista de series, sinopse da série e url do winkpedia da serie
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 12:54 PM] Alura
 Novo projeto recebido!
@@ -13363,7 +13363,7 @@ Descrição do projeto
 Projeto com intuito de buscar e saber mais sobre pilotos de formula 1
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 1:00 PM] Alura
 Novo projeto recebido!
@@ -13378,7 +13378,7 @@ Descrição do projeto
 Banco de dados de pesquisa sobre series e filmes
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:00 PM] Alura
 Novo projeto recebido!
@@ -13440,7 +13440,7 @@ Descrição do projeto
 O CyberWall é o seu guia completo para um mundo digital mais seguro. Aprenda a identificar e evitar ameaças como phishing e ransomware. Com informações claras e atualizadas, você estará sempre um passo à frente dos cibercriminosos.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -13470,7 +13470,7 @@ Descrição do projeto
 Um projeto para pesquisar curiosidades do univero e tudo que envolve  oque esta acima de nós e abaixo na terra
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 1:08 PM] Alura
 Novo projeto recebido!
@@ -13485,7 +13485,7 @@ Descrição do projeto
 Uma forma divertida de explorar o universo de Dragon Ball! Com essa ferramenta, você pode pesquisar por seus personagens favoritos e descobrir mais sobre eles. É como ter uma enciclopédia dos Saiyajins na palma da sua mão!
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 1:11 PM] Alura
 Novo projeto recebido!
@@ -13500,7 +13500,7 @@ Descrição do projeto
 É um site com informações sobre o significado e a origem dos nomes e sobrenomes mais populares do Brasil, com opção de pesquisa sobre sobrenomes que não estão no top 10.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 1:12 PM] Alura
 Novo projeto recebido!
@@ -13545,7 +13545,7 @@ Descrição do projeto
 Um buscador de guias para o MMORPG Lost ark.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 1:16 PM] Alura
 Novo projeto recebido!
@@ -13560,7 +13560,7 @@ Descrição do projeto
 É um projeto para tentar conectar o povo com a seleção brasileira de futebol, e juntar todos os títulos incríveis da copa do mundo em um só lugar, apesar de estar meio cru com as informações dá para imaginar como foram essas conquistas, espero que gostem
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 1:19 PM] Alura
 Novo projeto recebido!
@@ -13605,7 +13605,7 @@ Descrição do projeto
 No meu projeto, realizei uma adaptação do que foi desenvolvido na Imersão dev Alura e Gemini. Nessa adaptação, tornei o que foi desenvolvido, em um formato 100% útil para meu seguimento de carreira. No caso nele, fiz como um portifólio de dashboards, ou seja, coloquei os links dos visuais para poderem ser acessados e visualizados, e coloquei um descritivo do que se trata. No caso sou funcionário público, sendo assim, os dados utilizados são dados públicos.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 1:25 PM] Alura
 Novo projeto recebido!
@@ -13626,7 +13626,7 @@ Descrição do projeto (cont.)
 ma contribui para a construção de um futuro mais seguro e justo para todos.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -13643,7 +13643,7 @@ Descrição do projeto (cont.)
 Mulheres interessadas em tecnologia.     Estudantes de áreas relacionadas à tecnologia.     Empresas que buscam promover a diversidade e a inclusão.     Pessoas interessadas em conhecer histórias inspiradoras.  Em resumo, este projeto é uma vitrine do talento feminino na área da tecnologia, visando fomentar a igualdade de gênero e promover a cultura de inovação no país.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 1:30 PM] Alura
 Novo projeto recebido!
@@ -13673,7 +13673,7 @@ Descrição do projeto
 este projeto irá permitir que você busque pelos seus personagens favoritos da sanrio e saiba mais sobre eles!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 1:35 PM] Alura
 Novo projeto recebido!
@@ -21560,7 +21560,7 @@ Descrição do projeto (cont.)
 lítica. Pesquisadores: Encontrar dados relevantes para suas pesquisas. Desenvolvido com HTML, CSS e JavaScript, este projeto é fruto da Imersão Dev da Alura e tem como objetivo democratizar o acesso à informação sobre o Brasil.  Destaques do projeto:   Interface intuitiva: Busca fácil e navegação simples. Dados atualizados: Informações sempre precisas e relevantes. Visualizações interativas: Gráficos e mapas que facilitam a compreensão dos dados. Fontes confiáveis: Todas as informações são provenientes do IBGE.   Explore os dados do Brasil agora mesmo e descubra um novo olhar sobre o nosso país!
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 10:20 PM] Alura
 Novo projeto recebido!
