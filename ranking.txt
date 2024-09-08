@@ -12774,7 +12774,7 @@ Descrição do projeto
 "Prepare-se para uma experiência única e eletrizante! No *Jogo de desviar Obstáculos*, você vai desafiar seus reflexos e habilidades em um ambiente futurista, cheio de ação e mistérios! Com gráficos modernos e um fundo dinâmico de dados em movimento, cada partida será uma imersão total. Controle seu personagem com teclas de fácil acesso, disponíveis para qualquer dispositivo, e mergulhe em uma aventura de tirar o fôlego! Está pronto para superar seus limites e alcançar o topo? Jogue agora e seja o mestre deste universo digital!"
 
 {Reactions}
-⭐ (25)
+⭐ (27)
 
 [9/7/2024 12:08 PM] Alura
 Novo projeto recebido!
@@ -25365,7 +25365,7 @@ Descrição do projeto
 Segue projeto da imersao
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25380,7 +25380,7 @@ Descrição do projeto
 O projeto consiste em uma página interativa que permite os usuários realizarem pesquisas textuais para encontrar um personagem do jogo *Honkai: Star Rail*, além de poderem filtrar personagens por elementos e caminhos. Ao clicar no personagem, o usuário é direcionado para um link com mais informações.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 ==============================================================
 Exported 1,677 message(s)
