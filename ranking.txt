@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (154)
+⭐ (155)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -20652,7 +20652,7 @@ Descrição do projeto
 O Portal do Cosmos é um site simples e divertido que te ajuda a explorar o vasto universo! Com ele, você pode pesquisar sobre qualquer assunto relacionado ao espaço e descobrir informações incríveis sobre planetas, estrelas, galáxias e muito mais.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 9:36 PM] Alura
 Novo projeto recebido!
@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
