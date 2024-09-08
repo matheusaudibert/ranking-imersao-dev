@@ -18767,7 +18767,7 @@ Descrição do projeto
 RareBunny RoadMap é uma aplicação web projetada para auxiliar usuários na busca e descoberta de informações sobre áreas e tecnologias na indústria de tecnologia. Com uma interface simples e direta, a aplicação permite que os usuários pesquisem por diferentes áreas tecnológicas e obtenham detalhes relevantes de forma rápida e fácil.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -25177,7 +25177,7 @@ Descrição do projeto
 Página com info de jogos de tabuleiro utilizando-se:HTML, CSS, JAVA SCRIPT, desenvolvida na imersão Alura.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
