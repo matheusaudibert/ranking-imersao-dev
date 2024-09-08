@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (228)
+⭐ (227)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (177)
+⭐ (176)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (148)
+⭐ (147)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (108)
+⭐ (109)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (79)
+⭐ (80)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -21027,7 +21027,7 @@ Descrição do projeto
 A página ajudará você a descobrir o biotipo corporal de acordo com as informações fornecidas: ectomorfo, mesomorfo ou endomorfo. Após isso, é possível conferir mais informações no botão "saiba mais". Ficar por dentro do seu biotipo é o melhor caminho para ter uma noção mais precisa das suas necessidades específicas em termos de nutrição e treinamento, permitindo um plano de saúde e fitness mais personalizado e eficaz.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
