@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (248)
+⭐ (249)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (134)
+⭐ (135)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -5860,7 +5860,7 @@ Descrição do projeto
 Seja bem-vindo(a) ao Ferramentas IA! Aqui você poderá descobrir inúmeras ferramentas que utilizam a tecnologia da inteligência artifical para facilitar suas tarefas. Precisa criar um texto bonito? Aqui você acha uma IA que faz isso! Precisa criar um vídeo legal? Aqui você encontra a ferramenta perfeita! Acesse o site pelo seguinte link: https://qmartinz.github.io/Ferramentas-IA/. Nesse website, você pode pesquisar por ferramentas online de inteligência artificial dentro de um banco de dados com mais de 40 itens. Eu criei esse website após algumas dificuldades em encontrar IAs que pudessem ser utilizadas em alguns projetos de escola, já que onde eu estudo o uso de IA é bem promovido pelo corpo docente. Aproveitem a ferramenta!
 
 {Reactions}
-⭐ (100)
+⭐ (101)
 
 [9/6/2024 5:09 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (103)
+⭐ (105)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -12331,7 +12331,7 @@ Descrição do projeto
 Desenvolver uma plataforma web intuitiva e eficiente que permita aos usuários buscar músicas de forma rápida e precisa, filtrando por gênero, cantor ou nome da música. A plataforma deverá retornar os resultados da busca de forma organizada.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 10:59 AM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (110)
+⭐ (111)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -20472,7 +20472,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 9:26 PM] Alura
 Novo projeto recebido!
@@ -21958,7 +21958,7 @@ Descrição do projeto
 Este projeto web visa auxiliar professores na criação de conteúdos inclusivos. Ao inserir um texto, perguntas e uma descrição das dificuldades do aluno, a ferramenta gera respostas personalizadas, facilitando a inclusão em sala de aula.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 10:40 PM] Alura
 Novo projeto recebido!
@@ -23751,7 +23751,7 @@ Descrição do projeto
 Bem-vindo ao TechFusion, Um site dedicado aos apaixonados por tecnologia! O TechFusion oferece informações detalhadas sobre diversos cursos e formações na área de tecnologia, com foco em quem deseja seguir uma carreira ou se especializar no setor. O TechFusion é um projeto que visa unir duas grandes instituições de ensino, a Alura e a FIAP, em um único lugar. Através de uma interface simples e eficiente, os usuários podem pesquisar e obter informações sobre cursos oferecidos por essas instituições. O objetivo principal do TechFusion é facilitar o acesso a informações sobre os cursos de ambas as plataformas, permitindo que os usuários comparem, descubram e escolham o que melhor atende às suas necessidades educacionais.
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
