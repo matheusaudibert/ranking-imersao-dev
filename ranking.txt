@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (131)
+⭐ (132)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (88)
+⭐ (89)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -22817,7 +22817,7 @@ Descrição do projeto
 Um jogo simples onde, a partir de chutes, você terá que acertar uma das escolas da Alura e, após isso, poderá acessar os planos da Alura ou da FIAP
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
