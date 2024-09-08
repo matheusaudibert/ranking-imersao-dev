@@ -2147,7 +2147,7 @@ Descrição do projeto
 A Garden Sustentability, é uma ideação para o projeto da Alura com o Google Gemini. Aqui nós iremos combinar o verde com a tecnologia para criar um projeto inovador e impactante.  Conceito: Um jardim comunitário que utiliza tecnologia para otimizar o cultivo, monitorar o crescimento das plantas e promover a educação ambiental de forma interativa. Utilizando Sensores (Úmidade, temperatura, nutricionais), Irrigação automatizada, Painéis solares, Aplicativo mobile e Câmeras;
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (102)
+⭐ (103)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -18092,7 +18092,7 @@ Descrição do projeto
 Este projeto, embora simples em sua estrutura, busca maximizar a interatividade e a acessibilidade. A inclusão de vídeos do YouTube como recurso complementar nos artigos da Wikipédia visa atender a um público diversificado, incluindo aqueles com dislexia ou outros desafios de aprendizagem.  Inicialmente, planejei vincular o site oficial do Fluminense Futebol Clube, atual campeão da competição, para enriquecer o conteúdo. Entretanto, devido a instabilidades técnicas no servidor do clube, optei por omitir o link temporariamente.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 7:24 PM] Alura
 Novo projeto recebido!
