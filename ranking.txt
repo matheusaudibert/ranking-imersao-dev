@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (271)
+⭐ (272)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -2989,7 +2989,7 @@ Descrição do projeto
 Tela de compra do game Grand Theft Auto 5
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/6/2024 8:26 AM] Alura
 Novo projeto recebido!
@@ -3019,7 +3019,7 @@ Descrição do projeto
 Este projeto foi desenvolvido com o objetivo de educar e informar o público sobre os diferentes níveis do Transtorno do Espectro Autista. O site apresentará informações detalhadas sobre os níveis de autismo e suas características.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/6/2024 8:42 AM] Alura
 Novo projeto recebido!
@@ -3034,7 +3034,7 @@ Descrição do projeto
 Projeto integra o Google Generative AI (GeminiService) com o Venom Bot (WhatsAppService) para criar um chatbot para o WhatsApp. O bot utiliza a inteligência artificial generativa do Google para processar e responder às mensagens.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/6/2024 8:44 AM] Alura
 Novo projeto recebido!
@@ -3049,7 +3049,7 @@ Descrição do projeto
 Projeto integra o Google Generative AI (GeminiService) com o Venom Bot (WhatsAppService) para criar um chatbot para o WhatsApp. O bot utiliza a inteligência artificial generativa do Google para processar e responder às mensagens.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 9:21 AM] Alura
 Novo projeto recebido!
@@ -3064,7 +3064,7 @@ Descrição do projeto
 Levantei um problema que eu já passei e resolvi criar o TreinoFácil: a solução para seus treinos. Diga adeus às dificuldades com a academia! Nossos planos de treino e tutoriais em vídeo te ajudam a alcançar seus objetivos de forma rápida e eficiente.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/6/2024 9:36 AM] Alura
 Novo projeto recebido!
@@ -3079,7 +3079,7 @@ Descrição do projeto
 Observatório das Emendas Parlamentares Acesse a aplicação em Vercel nesse link: https://observatorio-emendas.vercel.app/ Esse projeto Open Source visa explicar o problema recente associado às emendas parlamentares no Brasil e oferecer uma forma de a população visualizar de forma rápida os valores destinados para emendas em cada Estado da Federação.  Os cards com uma explicação rápida ficam passando a cada 8 segundos.  Os dados das emendas de 2020 até Agosto de 2024 podem ser visualizados no iFrame do Google Looker Studio.  Colabore com esse projeto. Deixe dúvidas, sugestões ou dicas de melhorias como issues nesse repositório.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/6/2024 9:45 AM] Alura
 Novo projeto recebido!
@@ -3094,7 +3094,7 @@ Descrição do projeto
 Quando os visitantes desejam comprar um produto, eles têm que fornecer suas informações de contato, como nome e número de telefone, através de um formulário simples. Essas informações são então armazenados no banco de dados. A equipe entrará em contato com eles por e-mail ou telefone.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -3109,7 +3109,7 @@ Descrição do projeto
 Eleições 2024 - Localize seu candidato no município do Rio de Janeiro
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/6/2024 9:48 AM] Alura
 Novo projeto recebido!
@@ -3124,7 +3124,7 @@ Descrição do projeto
 Olá, pessoal! O BuscaCeva é uma plataforma interativa desenvolvida para entusiastas da cerveja. O site proporciona uma forma divertida e intuitiva de explorar estilos de cerveja. Com uma interface amigável, você pode facilmente pesquisar por estilos de cerveja e acessar informações sobre cada um. Seja você um conhecedor experiente ou um iniciante curioso, o BuscaCeva é ideal para expandir seu conhecimento e enriquecer sua experiência no fascinante mundo das cervejas.  Se você gostou por favor deixe sua estrela ⭐ #Sextou #Prost🍻
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/6/2024 9:54 AM] Alura
 Novo projeto recebido!
@@ -3139,7 +3139,7 @@ Descrição do projeto
 Vitta Saúde - É uma fonte de pesquisa para doenças, tratamentos e entre outros. Para melhor entendimento do que precisa saber sobre.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/6/2024 9:56 AM] Alura
 Novo projeto recebido!
@@ -3154,7 +3154,7 @@ Descrição do projeto
 Projeto baseado no livro de Baltasar sobre Sabedoria
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/6/2024 9:57 AM] Alura
 Novo projeto recebido!
@@ -3169,7 +3169,7 @@ Descrição do projeto
 Projeto baseado no livro de Baltasar sobre Sabedoria
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/6/2024 10:08 AM] Alura
 Novo projeto recebido!
@@ -8860,7 +8860,7 @@ Descrição do projeto
 Este projeto web é um catálogo interativo dedicado aos fãs da franquia Final Fantasy. Desenvolvido durante a imersão Dev da Alura com Gemini, o objetivo principal é proporcionar aos usuários uma experiência imersiva e completa no universo de Final Fantasy.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/6/2024 10:23 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (126)
+⭐ (127)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -17717,7 +17717,7 @@ Descrição do projeto
 Esse projeto foi o meu primeiro contato com a programação. Tesouros perdidos mostra alguns dos animais que estão ameaçados de extinção em cada bioma brasileiro. Minha ideia foi apresentar a diversidade da fauna brasileira através de uma pequena descrição de cada espécie e trazer as principais ameaças enfrentadas por elas a fim de conscientizar as pessoas sobre a importância da biodiversidade brasileira. https://tesouro-perdido.vercel.app/
 
 {Reactions}
-⭐ (100)
+⭐ (101)
 
 [9/7/2024 6:56 PM] Alura
 Novo projeto recebido!
