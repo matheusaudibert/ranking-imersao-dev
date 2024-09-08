@@ -3783,7 +3783,7 @@ Descrição do projeto
 Minha aplicação é dedicada aos jogadores de Call of Duty: Warzone. Ela inclui um sistema de pesquisa que permite encontrar jogadores e visualizar suas redes sociais de stream, além de uma seção de notícias com atualizações e informações sobre o jogo, como torneios, atualização das Seasons e uma ferramenta para os melhores ajustes de armas em cada Modo de jogo. Com um design criativo, moderno e simples.
 
 {Reactions}
-⭐ (57)
+⭐ (59)
 
 [9/6/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (165)
+⭐ (166)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -9059,7 +9059,7 @@ Descrição do projeto
 Uma página sobre animais marinhos que pode ser divertida,  O objetivo é apresentar o mundo marinho de forma interessante e despertar o interesse das pessoas pela preservação dos oceanos.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (108)
+⭐ (109)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (100)
+⭐ (101)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (28)
+⭐ (32)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -21868,7 +21868,7 @@ Descrição do projeto
 Essa é uma apresentação da Locable, uma plataforma de geolocalização que tem como propósito ajudar pessoas especiais e deficientes encontrarem locais com infraestrutura acessível, seja um restaurante com leitura braile ou um bairro que possui calçadas com rampas.   É uma proposta de uma ferramenta que ainda não existe, mas que poderia facilitar muito o cotidiano dessas pessoas que precisam de um cuidado maior, também sendo uma força de pressão social para que cada vez mais, a infraestrutura do nosso país possua mais acessibilidade e atenção com essas pessoas.  Ela possui um banco de dados separado em cidades, tipos de lugares (restaurantes, bairros, meios de transportes, etc) e tipo de acessibilidade. O usuário pode encontrar o seu destino acessível a partir da coluna de filtros ou pesquisando pelo nome na barra de pesquisa. A ideia do nome surgiu das palavras Local e Able (Acessível), condizente com seu propósito, localizar locais acessíveis. Pronto para dar o seu Locable?
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 10:34 PM] Alura
 Novo projeto recebido!
