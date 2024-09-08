@@ -63,22 +63,25 @@ def main():
     top_30 = top_30_projects[20:30]
 
     with col1:
-        display_projects(st, "#", top_10, start_index=1)
+      display_projects(st, "#", top_10, start_index=1)
     
     with col2:
-        display_projects(st, "#", top_20, start_index=11)
+      display_projects(st, "#", top_20, start_index=11)
     
     with col3:
-        display_projects(st, "#", top_30, start_index=21)
+      display_projects(st, "#", top_30, start_index=21)
 
     st.markdown("## ⏰ Próxima atualização às 02:00. Total de projetos: 1677")
-    with col1:
+
+    col4, col5, col6 = st.columns(3)
+
+    with col4:
       st.markdown(":orange[⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)]")
 
-    with col2:
+    with col5:
       st.markdown(":blue[🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)]")
 
-    with col3:
+    with col6:
       st.markdown("Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura)")
 
 if __name__ == "__main__":
