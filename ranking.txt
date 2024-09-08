@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (205)
+⭐ (206)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (141)
+⭐ (142)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -17250,7 +17250,7 @@ Descrição do projeto
 One Piece Fan App é um projeto web interativo criado para os fãs do anime e mangá One Piece. Essa aplicação permite aos usuários pesquisar por seus personagens favoritos e descobrir detalhes como habilidades, recompensas e aparições.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 6:22 PM] Alura
 Novo projeto recebido!
