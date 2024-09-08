@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (125)
+⭐ (126)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -22063,7 +22063,7 @@ Descrição do projeto
 Base com dados e fotos de planetas. Tentei criar um jogo com Gemini para incluir, mas após ficar horas e horas, consegui fazer um triângulo mover e exibir mensagem quando completa o percurso.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 10:44 PM] Alura
 Novo projeto recebido!
@@ -22532,7 +22532,7 @@ Descrição do projeto (cont.)
 entre os 30 melhores? O Desafio dos Campeões não é apenas um jogo, mas uma demonstração do que é possível alcançar quando se combina criatividade com habilidade técnica. O projeto não só oferece uma experiência divertida para os jogadores, mas também serve como um excelente exemplo educacional para desenvolvedores que querem aprender a aplicar suas habilidades em projetos reais.  A riqueza de detalhes no desenvolvimento, a utilização de boas práticas de programação e a capacidade de expansão tornam este projeto digno de estar entre os 30 melhores. Ele mostra o potencial de um desenvolvedor em criar algo que não só entretém, mas também ensina, inova e inspira.  Vote no Desafio dos Campeões e faça parte desta aventura épica!
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
@@ -24143,7 +24143,7 @@ Descrição do projeto
 ☕ Sobre a Aplicação Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.Como Funciona Pesquisa Intuitiva: Digite o nome do café que você procura e clique no botão "Pesquisar". Resultados Personalizados: A aplicação irá procurar por palavras-chave no título, descrição e tags dos cafés, mostrando os resultados mais relevantes.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
