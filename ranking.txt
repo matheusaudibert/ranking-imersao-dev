@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (179)
+⭐ (180)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (164)
+⭐ (165)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (122)
+⭐ (121)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -5147,7 +5147,7 @@ Descrição do projeto
 pesquisa de jogadores do flamengo
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/6/2024 3:51 PM] Alura
 Novo projeto recebido!
@@ -5162,7 +5162,7 @@ Descrição do projeto
 Durante o projeto "Imersão RPG", você irá mergulhar numa aventura onde guiará um Mago? Guerreiro? Bardo? Você escolhe quem vai partir numa aventura desde uma prisão subterrânea, até a cidade para finalmente descansar em paz. A estrutura do projeto se baseia em listas de objetos que guardam as informações dos personagens, história, etc. Além de funções responsáveis por diferentes mecânicas, como mostrar os personagens, comparar os atributos, contar a história, e mais.
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/6/2024 3:51 PM] Alura
 Novo projeto recebido!
@@ -7355,7 +7355,7 @@ Descrição do projeto
 O GamerHub é uma aplicação web simples e divertida, criada para ajudar você, gamer, a encontrar seus próximos jogos favoritos! Com uma interface intuitiva e fácil de usar, você pode navegar por diversas categorias de jogos, realizar buscas por títulos específicos e descobrir novas aventuras.
 
 {Reactions}
-⭐ (40)
+⭐ (42)
 
 [9/6/2024 8:05 PM] Alura
 Novo projeto recebido!
@@ -11209,7 +11209,7 @@ Descrição do projeto
 O projeto "Animais Marinhos" é um site web interativo que permite aos usuários pesquisar por diferentes espécies marinhas. Ele utiliza HTML, CSS e JavaScript para criar uma interface intuitiva e visualmente agradável. A página principal apresenta um vídeo de fundo, um campo de pesquisa e uma seção para exibir os resultados. Ao digitar o nome de um animal marinho, o usuário é apresentado a informações relevantes, como descrição e links para mais detalhes. A aplicação também inclui recursos de responsividade para garantir uma boa experiência em diferentes dispositivos.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 3:11 AM] Alura
 Novo projeto recebido!
@@ -11224,7 +11224,7 @@ Descrição do projeto
 O projeto explora a flora brasileira de flores do brasil
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/7/2024 3:13 AM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -17792,7 +17792,7 @@ Descrição do projeto
 Seu Quintal Limpo" é o MVP de uma startup de impacto social que conecta profissionais de capinagem com pessoas e empresas que precisam desse serviço. Através de uma plataforma de agendamento, cadastramos trabalhadores que frequentemente enfrentam baixa demanda e acesso a oportunidades, muitos deles com baixa escolaridade e dificuldades para conseguir outros empregos. O objetivo é valorizar esses profissionais, oferecendo uma solução que define um preço justo para o serviço, promovendo inclusão e dignidade no trabalho.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (63)
+⭐ (64)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
