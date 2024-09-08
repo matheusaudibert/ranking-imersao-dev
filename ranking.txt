@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (280)
+⭐ (281)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (165)
+⭐ (166)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -5025,7 +5025,7 @@ Descrição do projeto
 Desafie seu conhecimento bíblico com o nosso novo Quiz!  Você ama a Bíblia e quer testar seu conhecimento? Então você não pode perder o nosso Quiz Bíblico exclusivo, criado com muito carinho na Aula e Google Gemine!  Como funciona?  Responda a diversas perguntas sobre acontecimentos da Bíblia. Use até 5 dicas para te ajudar nas respostas. Receba uma pontuação no final e veja como você se saiu! E o melhor de tudo? Você pode jogar várias vezes e sempre aprender algo novo!  Curtiu a ideia? Então não perca tempo e venha se divertir enquanto se aprofunda no conhecimento bíblico. Compartilhe com amigos e familiares e veja quem consegue a maior pontuação!
 
 {Reactions}
-⭐ (37)
+⭐ (39)
 
 [9/6/2024 3:41 PM] Alura
 Novo projeto recebido!
@@ -12579,7 +12579,7 @@ Descrição do projeto
 Desenvolvi um site de comércio eletrônico para venda de cosméticos, utilizando HTML, CSS, JavaScript e com o suporte do Google Gemini. O site possui um catálogo com alguns produtos, como maquiagens, produtos de skin care e fragrâncias. Conta com uma barra de pesquisa para o usuário realizar a buscar do produto desejado, não só isso é apresentado o produto que está em promoção. A interface é responsiva e fácil de usar, com um design desenvolvido justamente para atrair o público alvo, como é um site hipotético, caso o cliente queira adquirir o produto será direcionado a página oficial da empresa.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 11:40 AM] Alura
 Novo projeto recebido!
@@ -12774,7 +12774,7 @@ Descrição do projeto
 "Prepare-se para uma experiência única e eletrizante! No *Jogo de desviar Obstáculos*, você vai desafiar seus reflexos e habilidades em um ambiente futurista, cheio de ação e mistérios! Com gráficos modernos e um fundo dinâmico de dados em movimento, cada partida será uma imersão total. Controle seu personagem com teclas de fácil acesso, disponíveis para qualquer dispositivo, e mergulhe em uma aventura de tirar o fôlego! Está pronto para superar seus limites e alcançar o topo? Jogue agora e seja o mestre deste universo digital!"
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 12:08 PM] Alura
 Novo projeto recebido!
