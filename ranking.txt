@@ -16,7 +16,7 @@ Descrição do projeto
 Imersão Dev com Google Gemini - Alura
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/5/2024 8:31 AM] Alura
 Novo projeto recebido!
@@ -31,7 +31,7 @@ Descrição do projeto
 O Hyper Cortex foi um projeto desenvolvido com o objetivo de ajudar as pessoas com Alzheimer, tendo jogos, sobre o Alzheimer, além de dicas para os cuidadores.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/5/2024 8:36 AM] Alura
 Novo projeto recebido!
@@ -46,7 +46,7 @@ Descrição do projeto
 Este projeto tem como objetivo explorar as estrelas mais brilhantes do universo observável, permitindo que os usuários realizem buscas específicas para obter informações detalhadas sobre as estrelas de seu interesse. Desenvolvido com HTML, CSS e JavaScript, o sistema oferece uma interface intuitiva e responsiva para facilitar a navegação e a interação, tornando a descoberta de dados astronômicos mais acessível e interessante para todos os entusiastas do espaço.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 8:41 AM] Alura
 Novo projeto recebido!
@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (226)
+⭐ (227)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -76,7 +76,7 @@ Descrição do projeto
 O projeto é um guia de personagens sobre o jogo Honkai: Star Rail, onde há cards contando pequenas informações sobre os personagens e seus poderes.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 9:08 AM] Alura
 Novo projeto recebido!
@@ -91,7 +91,7 @@ Descrição do projeto
 Desenvolver uma pagina que fale sobre cibersegurança no Brasil
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 9:14 AM] Alura
 Novo projeto recebido!
@@ -106,7 +106,7 @@ Descrição do projeto
 Jogo em JavaScript
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 9:14 AM] Alura
 Novo projeto recebido!
@@ -121,7 +121,7 @@ Descrição do projeto
 Página sobre charcutaria no Brasil.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/5/2024 9:16 AM] Alura
 Novo projeto recebido!
@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -20472,7 +20472,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 9:26 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -25023,7 +25023,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
