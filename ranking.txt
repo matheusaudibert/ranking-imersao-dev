@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (260)
+⭐ (261)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -15875,7 +15875,7 @@ Descrição do projeto
 O projeto tem enfoque informativo para as condições de SOP e HAC, estado do desenvolvimento (em andamento) estou aprimorando ainda e tendo algumas dificuldades, se alguém puder apoiar desde já fica o meu agradecimento.
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 4:55 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
