@@ -2282,7 +2282,7 @@ Descrição do projeto
 Este projeto é uma página interativa onde o usuário pode pesquisar exercícios específicos para diferentes partes do corpo ou objetivos (como ganho de massa, emagrecimento, fortalecimento). O site exibe os exercícios, instruções, e vídeos demonstrativos. Seu objetivo é oferecer uma plataforma prática para que os usuários encontrem exercícios personalizados de acordo com suas metas de treino.
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/5/2024 10:38 PM] Alura
 Novo projeto recebido!
@@ -3783,7 +3783,7 @@ Descrição do projeto
 Minha aplicação é dedicada aos jogadores de Call of Duty: Warzone. Ela inclui um sistema de pesquisa que permite encontrar jogadores e visualizar suas redes sociais de stream, além de uma seção de notícias com atualizações e informações sobre o jogo, como torneios, atualização das Seasons e uma ferramenta para os melhores ajustes de armas em cada Modo de jogo. Com um design criativo, moderno e simples.
 
 {Reactions}
-⭐ (59)
+⭐ (60)
 
 [9/6/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (104)
+⭐ (105)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (75)
+⭐ (76)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -24297,7 +24297,7 @@ Descrição do projeto (cont.)
 tares. * Fomentar uma relação mais profunda e informada com a alimentação, alinhada aos princípios da sustentabilidade e da saúde integral.  Público-Alvo:  * Pessoas com restrições alimentares, como intolerância ao glúten e à lactose. * Entusiastas da culinária que buscam compreender melhor os aspectos científicos dos alimentos. * Consumidores interessados em alimentação saudável e sustentável.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/7/2024 11:50 PM] Alura
 Novo projeto recebido!
