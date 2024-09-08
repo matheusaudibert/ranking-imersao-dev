@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (96)
+⭐ (97)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -15650,7 +15650,7 @@ Descrição do projeto
 Fazenda do Luizinho:  É uma fazendinha super divertida onde as crianças podem explorar o mundo dos animais! Com a Fazenda do Luizinho, a criançada vai aprender os nomes dos animais, ouvir seus sons e até mesmo fazer buscas por seus bichinhos favoritos! Disponível em:  https://fazenda-luizinho.vercel.app/
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 4:40 PM] Alura
 Novo projeto recebido!
@@ -21592,7 +21592,7 @@ Descrição do projeto (cont.)
 da aplicação para uma interface visualmente atraente. JavaScript: Implementação de funcionalidades dinâmicas e interativas. React: Framework utilizado para criar uma interface de usuário responsiva e modular. Node.js:Backend para gerenciamento de dados e exr.Vanilla JavaScript: Para lógica de criação, atualização e renderização das partículas.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 10:21 PM] Alura
 Novo projeto recebido!
@@ -23751,7 +23751,7 @@ Descrição do projeto
 Bem-vindo ao TechFusion, Um site dedicado aos apaixonados por tecnologia! O TechFusion oferece informações detalhadas sobre diversos cursos e formações na área de tecnologia, com foco em quem deseja seguir uma carreira ou se especializar no setor. O TechFusion é um projeto que visa unir duas grandes instituições de ensino, a Alura e a FIAP, em um único lugar. Através de uma interface simples e eficiente, os usuários podem pesquisar e obter informações sobre cursos oferecidos por essas instituições. O objetivo principal do TechFusion é facilitar o acesso a informações sobre os cursos de ambas as plataformas, permitindo que os usuários comparem, descubram e escolham o que melhor atende às suas necessidades educacionais.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
