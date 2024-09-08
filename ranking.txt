@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -10361,7 +10361,7 @@ Descrição do projeto
 Projeto de base de conhescimento sobre os agentes do jogo valorant, e suas habilidades e demais informações.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -15018,7 +15018,7 @@ Descrição do projeto
 Essa aplicação, fruto do Desafio Alura Gemini, é um buscador simples e interativo que te ajuda a revisar tudo o que você aprendeu durante a imersão.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 3:42 PM] Alura
 Novo projeto recebido!
@@ -15800,7 +15800,7 @@ Descrição do projeto
 🧩 Aprendendo o Alfabeto em Libras  🚀 Um jogo educativo para aprender o alfabeto da Língua Brasileira de Sinais de forma divertida e interativa! 👩‍🏫 Ensine e Aprenda: Explore cada letra com sinais visuais. 🎯 Teste seus Conhecimentos: Quiz rápido com pontuação, tempo e moedas! 📱 Interface Moderna: Design responsivo e acessível para todas as idades. 🤝 Educação Inclusiva: Promovendo o aprendizado de Libras para todos.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/7/2024 4:50 PM] Alura
 Novo projeto recebido!
@@ -25230,7 +25230,7 @@ Descrição do projeto (cont.)
 acho indispensável). E deu "tudo" certo! Yay!🥳 (também fiz Várias outras coisas, capricho, como por exemplo adicionar ícones... Ficou muito legal)  Nessa prática eu fixei MUITO tudo o que aprendemos na imersão, e ainda aprendi mais... Foi demais. Gostei bastante do resultado final, espero que você também goste, e que seja útil... Quem sabe? Você pode baixar e editar para se tornar seu próprio resumo inteligente!  * Criado por Louy Santana Fernandes Maracaipe durante a Imersão Dev com Google Gemini 2024/2.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
