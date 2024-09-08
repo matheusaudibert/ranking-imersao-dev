@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (182)
+⭐ (183)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -1202,7 +1202,7 @@ Descrição do projeto
 Projeto criado durante a Imersão_Dev da Alura com Google Gemini
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/5/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (174)
+⭐ (175)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -11511,7 +11511,7 @@ Descrição do projeto
 Um programa para aprender sobre países, capitais e bandeiras. Ele possui três modos, uma voltada para o simples aprendizado e pesquisa e os outros dois voltados para o desafio do conhecimento de capitais e bandeiras.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 3:48 AM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -24248,7 +24248,7 @@ Descrição do projeto
 Este projeto simula um terminal web que permite você interagir com comandos.  Tecnologias utilizadas: - HTML - CSS - JavaScript  Usabilidade: Fique à vontade para explorar os comandos disponíveis e me diga o que achou da experiência!  Easter Eggs: Existem alguns segredos escondidos neste terminal  Será que você consegue encontrá-los todos?  P.S. Não se preocupe, não há nada malicioso escondido por aqui. Apenas algumas brincadeiras para te entreter.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (85)
+⭐ (84)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
