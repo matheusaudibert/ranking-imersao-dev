@@ -1457,7 +1457,7 @@ Descrição do projeto
 Este é um site feito utilizado HTML, CSS, JAVASCRIPT, um site que fala de uma empresa de segurança, usei HTML para elaborar o projecto, usei CSS para estilizar o HTML e tornar o site mas bonito e usei o JAVASCRIPT em algumas partes como para que o Menu Hamburguer funcione, como o carrossel no depoimento,  já agora quero agradecer por essa trilha, cada aula uma nova experiencia, estou amando, muito obrigado
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/5/2024 6:11 PM] Alura
 Novo projeto recebido!
@@ -1472,7 +1472,7 @@ Descrição do projeto
 Este projeto foi desenvolvido com o objetivo de educar e informar o público sobre os diferentes níveis do Transtorno do Espectro Autista. O site apresentará informações detalhadas sobre os níveis de autismo e suas características.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/5/2024 6:17 PM] Alura
 Novo projeto recebido!
@@ -1487,7 +1487,7 @@ Descrição do projeto
 Página com personagens do anime naruto shippuden
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 6:25 PM] Alura
 Novo projeto recebido!
@@ -1502,7 +1502,7 @@ Descrição do projeto
 Buscador de filmes da franquia O Senhor dos Anéis. A página mostra o título do filme, uma breve sinopse e o link para mais informações da Wikipedia.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/5/2024 6:26 PM] Alura
 Novo projeto recebido!
@@ -1517,7 +1517,7 @@ Descrição do projeto
 Crie um caderno digital único e personalizado para cada disciplina. Capture, organize e revise suas anotações de forma rápida e intuitiva. Tire fotos da lousa ou importe imagens diretamente da sua galeria. Tenha todo o seu conteúdo em um só lugar, sempre à mão.Adicione o site à sua tela inicial do celular para tê-lo como app sempre com você: https://profvictor.github.io/EduSnap/
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 6:30 PM] Alura
 Novo projeto recebido!
@@ -1532,7 +1532,7 @@ Descrição do projeto
 Desafie a inteligência artificial mais avançada do mundo! O AIdivinha vai tentar adivinhar a palavra que você está pensando. Quanto mais você jogar, mais inteligente ele fica! Será que você consegue enganá-lo? Teste agora e descubra!"
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 6:35 PM] Alura
 Novo projeto recebido!
@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (81)
+⭐ (82)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -1592,7 +1592,7 @@ Descrição do projeto
 Projeto em HTML, CSS e JAVASCRIPT criado juntamente com a imersão com Alura em parceria com Google Gemini
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 6:55 PM] Alura
 Novo projeto recebido!
@@ -1607,7 +1607,7 @@ Descrição do projeto
 Oláa fiz um projeto sobre um site de pesquisa do universo de Star wars. O site permite que os usuários explorem informações detalhadas sobre filmes, séries e jogos do vasto universo de Star Wars! Aqui o link do site: https://gabfranzini.github.io/ImersaoDevGemini/
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/5/2024 6:56 PM] Alura
 Novo projeto recebido!
@@ -1622,7 +1622,7 @@ Descrição do projeto
 Olá, pessoal!  Estou empolgado em compartilhar com vocês o projeto que desenvolvi sobre os planetas do nosso sistema solar. Este projeto foi criado com o intuito de proporcionar uma exploração detalhada e aprofundada de cada planeta. Durante a pesquisa, me dediquei a reunir informações minuciosas e relevantes para que vocês possam compreender a fundo cada aspecto dos planetas, desde suas características físicas e atmosferas até suas órbitas e peculiaridades.  O objetivo é oferecer um recurso completo para aqueles que desejam aprender mais sobre o nosso sistema solar e explorar cada planeta com um nível de detalhe significativo. Independentemente de ganhar ou não prêmios, o que realmente importa para mim é a satisfação de ter participado e contribuído com um projeto que promove o conhecimento e a curiosidade sobre o universo que habitamos.  Espero que vocês aproveitem e se inspirem com as informações e descobertas que compilei. Estou ansioso para ouvir o que vocês acharão!  Um grande abraço e boa exploração!
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -1637,7 +1637,7 @@ Descrição do projeto
 Relógio de Tattwas (vibração do éter).  Um grande sábio disse: “A vida nasceu da radiação, subsiste pela radiação e se suprime por qualquer desequilíbrio oscilatório”. Você tem direito de triunfar, O espírito deve vencer a matéria. Nós não podemos aceitar a miséria. Lembre-se de que a miséria é própria dos espíritos fracassados. Quando o espírito vence a matéria, o resultado é a luz, o esplendor, o triunfo completo no econômico, no social e no espiritual. É necessário que você conheça a Lei da Vibração Universal. Click aqui para ver a aplicação na Vercel: https://tattwas-clock.vercel.app/
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 7:00 PM] Alura
 Novo projeto recebido!
@@ -1652,7 +1652,7 @@ Descrição do projeto
 Voltado para o público gamer, este projeto tem como objetivo apresentar uma breve descrição de jogos retro. O conceito visual teve como base de referência diversas imagens de terminais dentro de jogos, como, por exemplo, o Pip-Boy de Fallout e outros similares. Caso tenha interesse em verificar apenas a parte visual, segue o link do deploy: https://founder-gif.github.io/EncicloGamer
 
 {Reactions}
-⭐ (51)
+⭐ (52)
 
 [9/5/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -1667,7 +1667,7 @@ Descrição do projeto
 Esse projeto visa capturar a essência de One Piece enquanto mantém a simplicidade e a diversão do dinossauro do Google Chrome.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -1697,7 +1697,7 @@ Descrição do projeto
 Este projeto nasceu da necessidade de auxiliar aqueles que enfrentam desafios na organização de informações durante o estudo. Reconhecendo que a estruturação eficaz do conteúdo de estudo pode ser um obstáculo para muitos, desenvolvi esta plataforma de estudo personalizada que utiliza a API do Gemini. A plataforma cria módulos de estudo estruturados, projetados para melhorar a eficiência do estudo e aumentar o foco do usuário. Ao transformar a maneira como os usuários interagem com o material de estudo, o objetivo é tornar o aprendizado mais acessível, gerenciável e produtivo. Ele ainda está bem rudimentar, mas pretendo focar e evoluir ele ainda mais.
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -1727,7 +1727,7 @@ Descrição do projeto
 Usando a empresa TIfabiohesantosleite
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 7:24 PM] Alura
 Novo projeto recebido!
@@ -1742,7 +1742,7 @@ Descrição do projeto
 TI
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 7:42 PM] Alura
 Novo projeto recebido!
@@ -1757,7 +1757,7 @@ Descrição do projeto
 Black Lives é um site cujo o foco é mostrar a importância de pessoas negras na história da humanidade, causas , e o quão foram fundamentais na luta contra o racismo.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 7:47 PM] Alura
 Novo projeto recebido!
@@ -1802,7 +1802,7 @@ Descrição do projeto
 Dicas de cursos para iniciantes e gratuitos.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 7:59 PM] Alura
 Novo projeto recebido!
@@ -1817,7 +1817,7 @@ Descrição do projeto
 Um site sobre personagens do jogo Genshin Impact
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 8:01 PM] Alura
 Novo projeto recebido!
@@ -1832,7 +1832,7 @@ Descrição do projeto
 Calculadora de alimentação para pets
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 8:02 PM] Alura
 Novo projeto recebido!
@@ -1847,7 +1847,7 @@ Descrição do projeto
 Virtude Estoica é uma aplicação web interativa dedicada à filosofia estoica, projetada para ajudar os usuários a explorar, aprender e aplicar os princípios estoicos em suas vidas diárias. Com uma interface elegante e recursos envolventes, o projeto visa tornar a sabedoria estoica acessível e prática para o mundo moderno.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/5/2024 8:06 PM] Alura
 Novo projeto recebido!
@@ -1862,7 +1862,7 @@ Descrição do projeto
 O projeto esta relacionado a ensinar e dar ideia de como usar a I.A. no dia a dia das profissões. Quero explicar como pode ser usada e fazer com que as pessoas entendam que é uma ferramenta que pode facilitar a vida de todos.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 8:12 PM] Alura
 Novo projeto recebido!
@@ -1877,7 +1877,7 @@ Descrição do projeto
 About O objetivo do projeto foi fazer uma extensão da imersãoDev, construindo uma biblioteca sobre o desenovlvimento web. O conteudo está divido por abas, cada aba destinado a uma linguagem diferente. Sendo um guia pratico e rapido para tirar algumas duvidas. O layout da pagina foi inspirado na pagina da imersão também.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 8:21 PM] Alura
 Novo projeto recebido!
@@ -1892,7 +1892,7 @@ Descrição do projeto
 Projeto organização
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 8:27 PM] Alura
 Novo projeto recebido!
@@ -1907,7 +1907,7 @@ Descrição do projeto
 Explore Promptier - Popularizando IA, a rede social gamificada que transforma sua criatividade em prompts em pura diversão! Crie, compartilhe e descubra prompts inovadores enquanto compete por badges, sobe no ranking e interage com uma comunidade ativa. Venha transformar sua imaginação em desafios de IA e aproveite a experiência! Linguagens: HTML | CSS | JavaScript
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/5/2024 8:29 PM] Alura
 Novo projeto recebido!
@@ -1937,7 +1937,7 @@ Descrição do projeto
 O projeto tem como objetivo tirar dúvidas para as pessoas que cogitam ingressar na Segurança do Trabalho, com todo o comprometimento e seriedade nos dados divulgados por especialistas.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 8:33 PM] Alura
 Novo projeto recebido!
@@ -1967,7 +1967,7 @@ Descrição do projeto
 Projeto de listagem de filmes que mais gostei.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 8:34 PM] Alura
 Novo projeto recebido!
@@ -1997,7 +1997,7 @@ Descrição do projeto
 Este projeto visa enviar mensagem de frases de alerta/advertencia diaria de acordo o perio escolhido pelo usuario
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 8:45 PM] Alura
 Novo projeto recebido!
@@ -2012,7 +2012,7 @@ Descrição do projeto
 Pontos turísticos em cada estado brasileiro
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 8:54 PM] Alura
 Novo projeto recebido!
