@@ -11813,7 +11813,7 @@ Descrição do projeto (cont.)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ⭐‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Link do Projeto: https://solar-alura-dev.vercel.app/  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🚀  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎⭐                                                                                   ‎ ‎ ‎ ‎ ‎ ‎‎ ‎
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/7/2024 6:43 AM] Alura
 Novo projeto recebido!
@@ -12774,7 +12774,7 @@ Descrição do projeto
 "Prepare-se para uma experiência única e eletrizante! No *Jogo de desviar Obstáculos*, você vai desafiar seus reflexos e habilidades em um ambiente futurista, cheio de ação e mistérios! Com gráficos modernos e um fundo dinâmico de dados em movimento, cada partida será uma imersão total. Controle seu personagem com teclas de fácil acesso, disponíveis para qualquer dispositivo, e mergulhe em uma aventura de tirar o fôlego! Está pronto para superar seus limites e alcançar o topo? Jogue agora e seja o mestre deste universo digital!"
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 12:08 PM] Alura
 Novo projeto recebido!
@@ -17340,7 +17340,7 @@ Descrição do projeto
 O projeto é um site sobre radioamadorismo. Ele procura detalhar algumas de suas principais modalidades. Um campo de pesquisa de palavras-chave foi adicionado ao final do projeto seguindo o modelo da imersão. Como essa imersão tem como objeto também a Inteligência artificial, todos os textos e imagens foram produzidos com inteligência artificial, exceto a página de links. Foi utilizado IA também para a produção de alguns códigos como o menu.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 6:27 PM] Alura
 Novo projeto recebido!
@@ -19977,7 +19977,7 @@ Descrição do projeto
 Este projeto web, intitulado Mochileiro Digital, tem como objetivo auxiliar viajantes na pesquisa de destinos. E foi feito com base no aprendizado durante as aulas do projeto de Imersão da Alura + Google Gemini. Ao inserir o nome de um país no campo de busca, o usuário obtém informações detalhadas sobre o local, incluindo: Pontos Turísticos, Comidas Típicas, Curiosidades, entre outras características do país procurado. O proejto pode ser testado pelo link a seguir: http://andersonteste.educacao.ws/
 
 {Reactions}
-⭐ (51)
+⭐ (52)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -24419,7 +24419,7 @@ Descrição do projeto
 Projeto de batalha de herois contra monstros épicos dos RPGs clássicos.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
@@ -24434,7 +24434,7 @@ Descrição do projeto
 Este projeto foi criado para combinar a paixão por cães com o universo épico de Game of Thrones. Ao navegar pelo site, você poderá selecionar a raça do seu cachorro e descobrir qual das lendárias casas de Westeros mais combina com as características e personalidades caninas.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
@@ -24449,7 +24449,7 @@ Descrição do projeto
 Esse projeto visa tornar a alimentação de seus cães e gatos muito mais fácil e segura! 🌟 Por meio de uma interface super amigável, você pode pesquisar qualquer alimento e descobrir se ele é seguro para o seu pet. Além disso, oferecemos informações sobre os benefícios e riscos de cada item, garantindo que seu amigo de quatro patas receba o melhor! 🐾🍽️
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
@@ -24464,7 +24464,7 @@ Descrição do projeto
 Guia interativo de solução de problemas de PC com busca em tempo real. Interface responsiva, base de dados de problemas comuns e passos de solução. Otimizado para performance e acessibilidade.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
@@ -24479,7 +24479,7 @@ Descrição do projeto
 Projeto de busca de filmes e series
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24494,7 +24494,7 @@ Descrição do projeto
 Um site feito usando HTML, CSS  e JavaScript. Sobre os personagens do famoso jogo de terror Five Nights at Freddy's, nomeando e descrevendo os personagens do primeiro até o quarto jogo.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24509,7 +24509,7 @@ Descrição do projeto
 Uma ferramenta simples e intuitiva que te ajuda a descobrir novas oportunidades de trabalho e renda extra. Basta digitar uma palavra-chave relacionada à área que você busca e pronto! Você terá acesso a uma lista de plataformas e projetos que podem te interessar.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24524,7 +24524,7 @@ Descrição do projeto
 Catálogo com os principais exercicios, seus objetivos e forma de execução.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24539,7 +24539,7 @@ Descrição do projeto
 Site tipo portfolio para minha irmã que trabalha Arquitetura de Interiores. no ramo de
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24554,7 +24554,7 @@ Descrição do projeto
 Amo video games desde criaça, então nesse projeto quis trazer um pouco de cada console de video game.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
@@ -24569,7 +24569,7 @@ Descrição do projeto
 Projeto de pesquisa de TDAH
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24584,7 +24584,7 @@ Descrição do projeto
 Empresa TECIMERS
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24599,7 +24599,7 @@ Descrição do projeto
 Objetivo:  Criar uma plataforma online que sirva como um guia completo para os amantes do terror, com foco em explorar os diversos subgêneros do gênero e oferecer listas de filmes relevantes para cada um. A ideia é proporcionar uma experiência educativa e divertida, ajudando os usuários a descobrirem novos filmes e aprofundarem seus conhecimentos sobre o terror.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -24616,7 +24616,7 @@ Descrição do projeto (cont.)
 anheiro feliz e saudável, e a satisfação de ter feito a diferença na vida de um animal.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
