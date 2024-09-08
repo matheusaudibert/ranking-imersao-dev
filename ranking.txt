@@ -5642,7 +5642,7 @@ Descrição do projeto
 Olá Pessoas, o meu projeto consiste em um site onde abordo filmes baseados em casos reais, mais especificamente true crimes e nele visualizamos a correlação entre o acontecimento real e a dramaturgia e também mostrando algumas curiosidades. As ferramentas utilizadas foram somente html, css e javaScript, ao acessar a página o usuário é comunicado através de um poup-up sobre aviso de conteúdo sensível e precisa clicar em ‘’estou ciente’’ para poder prosseguir. Mais informações disponíveis no readme
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/6/2024 4:55 PM] Alura
 Novo projeto recebido!
@@ -12267,7 +12267,7 @@ Descrição do projeto
 Mundo america é um projeto onde você pode explorar mais o mais próximo que você estiver do Brasil, podendo pesquisar sobre continentes, países da América ou estados brasileiros com todas as descrições e imagens providenciadas pelo Gemini
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 10:49 AM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (93)
+⭐ (94)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
