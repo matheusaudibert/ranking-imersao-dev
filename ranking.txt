@@ -2237,7 +2237,7 @@ Descrição do projeto
 Baldur's Gate é um website interativo que reúne informações detalhadas sobre o jogo de RPG Baldur's Gate. Ele serve como um guia completo para jogadores, oferecendo acesso rápido e fácil a informações sobre itens, monstros, personagens, locais e muito mais.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 10:18 PM] Alura
 Novo projeto recebido!
@@ -2252,7 +2252,7 @@ Descrição do projeto
 Este é um projeto de site dedicado à vida e carreira da atriz Fernanda Montenegro, uma das mais renomadas artistas do Brasil. O site oferece uma visão detalhada sobre sua trajetória pessoal e profissional, cobrindo suas contribuições ao teatro, cinema, televisão e streaming. O objetivo deste site é fornecer uma fonte rica de informações sobre os trabalhos e conquistas de Fernanda Montenegro, com detalhes sobre suas atuações, prêmios e influências no cenário cultural brasileiro e internacional.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 10:19 PM] Alura
 Novo projeto recebido!
@@ -2267,7 +2267,7 @@ Descrição do projeto
 O Projeto Eleições 2024 apresentado fornece um aplicativo de pesquisa parcial de 3 candidatos a prefeito da cidade de São Paulo, com as seguintes funcionalidades:  Pesquisa de candidatos, Exibição dos resultados, Dados dos candidatos e Lógica da pesquisa.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 10:34 PM] Alura
 Novo projeto recebido!
@@ -2297,7 +2297,7 @@ Descrição do projeto
 Estou começando a praticar mais exercícios e pra isso escolhi a caminhada e corrida. Pensando nisso, desenvolvi o projeto listando alguns desafios das corridas de rua mais famosas e com várias dificuldades em todo o Brasil.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 10:40 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (155)
+⭐ (156)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -21592,7 +21592,7 @@ Descrição do projeto (cont.)
 da aplicação para uma interface visualmente atraente. JavaScript: Implementação de funcionalidades dinâmicas e interativas. React: Framework utilizado para criar uma interface de usuário responsiva e modular. Node.js:Backend para gerenciamento de dados e exr.Vanilla JavaScript: Para lógica de criação, atualização e renderização das partículas.
 
 {Reactions}
-⭐ (31)
+⭐ (30)
 
 [9/7/2024 10:21 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (73)
+⭐ (74)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
