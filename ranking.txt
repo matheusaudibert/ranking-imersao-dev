@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (242)
+⭐ (243)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (126)
+⭐ (127)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (142)
+⭐ (143)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -1382,7 +1382,7 @@ Descrição do projeto
 Estou fazendo um projeto baseado nas linguagens de programação mais utilizadas, suas funções e média salarial
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/5/2024 5:48 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (99)
+⭐ (100)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -12759,7 +12759,7 @@ Descrição do projeto
 LevelSkills é uma plataforma que avalia habilidades técnicas e comportamentais por meio de quizzes interativos. Ela ajuda usuários a identificar pontos fortes e áreas de melhoria, oferecendo feedback útil para aprimorar currículos e preparar-se melhor para entrevistas de emprego.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 12:06 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (79)
+⭐ (80)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -15003,7 +15003,7 @@ Descrição do projeto
 O projeto foi criado com a ideia de tentar facilitar o encontro de restaurantes novos e restaurantes localizados de maneira mais distante (alimentado com base fictícia), de uma maneira simples, sem fugir do tema abordado na imersão (ou seja, sem google API), para poder realizar as pesquisas de restaurantes, pode-se utilizar o tipo de comida, como por exemplo, brasileira ou mexicana. Como a base é totalmente fictícia, não temos links vinculados aos nomes dos restaurantes, e os nomes de ruas são inventados.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 3:40 PM] Alura
 Novo projeto recebido!
@@ -15365,7 +15365,7 @@ Descrição do projeto
 Este projeto é uma página web simples, informativo, que apresenta as tecnologias mais utilizadas no desenvolvimento front-end. A página utiliza HTML, CSS e JavaScript para criar uma interface dinâmica e visualmente atraente.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 4:21 PM] Alura
 Novo projeto recebido!
@@ -17430,7 +17430,7 @@ Descrição do projeto
 Projeto desenvolvido na Imersão Dev com Gemini promovida pela Alura, traz informações dos principais skatitas brasileiros.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 6:29 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
