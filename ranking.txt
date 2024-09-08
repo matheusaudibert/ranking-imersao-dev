@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (203)
+⭐ (204)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -8194,7 +8194,7 @@ Descrição do projeto
 💛 Projeto de Pesquisa de Soluções Emocionais | Setembro Amarelo Descubra soluções práticas e links úteis para ajudar a lidar com sentimentos como ansiedade, tristeza e outros estados emocionais. Com uma interface simples e direta, esse projeto oferece uma forma rápida e eficaz de encontrar apoio emocional. Ideal para quem busca equilíbrio e bem-estar mental.  Neste mês de Setembro Amarelo, é importante reforçar a conscientização sobre saúde mental e prevenção ao suicídio. Se você ou alguém que conhece está precisando de ajuda, não hesite em procurar apoio.
 
 {Reactions}
-⭐ (40)
+⭐ (42)
 
 [9/6/2024 9:36 PM] Alura
 Novo projeto recebido!
@@ -10376,7 +10376,7 @@ Descrição do projeto
 O projeto "Alimentos para Cães - Consulta de Permissão de Consumo" é uma aplicação web criada com o objetivo de auxiliar tutores de cães a identificarem de forma rápida e precisa quais alimentos são seguros para seus pets. Com uma interface interativa e responsiva, os usuários podem buscar alimentos específicos e descobrir se eles são permitidos, moderados ou proibidos para o consumo canino.  A aplicação organiza as informações em três categorias principais: alimentos permitidos, que podem ser consumidos sem preocupações; alimentos de moderação, que devem ser oferecidos com cautela; e alimentos proibidos, que representam riscos à saúde dos cães. O projeto também oferece uma interface visual amigável, que se adapta a diferentes dispositivos e tamanhos de tela.  Desenvolvido como parte da Imersão Dev com o Gemini da Google, promovida pela Alura, o projeto utiliza HTML5, CSS3, JavaScript e JSON para criar uma experiência eficiente e intuitiva.
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -12053,7 +12053,7 @@ Descrição do projeto
 Projeto fictício sobre empreendimento de uma empresa de Design Gráfico e Front-End
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 9:48 AM] Alura
 Novo projeto recebido!
@@ -21147,7 +21147,7 @@ Descrição do projeto
 Projeto de um site de busca com o assunto bandas de Rock, estou torcendo para que vocês gostem. preciso muito ganhar uma bolsa , adoro a Alura e espero poder estudar mais a fundo as tecnologias, estou quase terminando minha faculdade de Análise e desenvolvimento de sistemas. obrigado
 
 {Reactions}
-⭐ (10)
+⭐ (12)
 
 [9/7/2024 10:01 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (37)
+⭐ (39)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (59)
+⭐ (60)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (41)
+⭐ (43)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
