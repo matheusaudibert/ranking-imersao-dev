@@ -2462,7 +2462,7 @@ Descrição do projeto
 Este projeto tem como objetivo reunir em um único local as principais linguagens de programação utilizadas atualmente, oferecendo uma maneira fácil e eficiente para entusiastas e estudantes encontrarem informações detalhadas sobre cada linguagem. Cada item conta com uma descrição clara e objetiva sobre a linguagem, destacando suas características principais, aplicação e relevância no mercado. Além disso, para aqueles que desejam se aprofundar, é fornecido um link direto para um artigo ou curso relacionado no site da Alura, onde podem aprender de forma mais aprofundada e direcionada. A ideia é criar uma plataforma que funcione como um ponto de partida para quem quer conhecer melhor as diversas linguagens de programação, sejam iniciantes em busca de uma introdução ou programadores experientes que desejam expandir seu conhecimento em novas tecnologias.
 
 {Reactions}
-⭐ (58)
+⭐ (60)
 
 [9/5/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (128)
+⭐ (129)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (72)
+⭐ (73)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -6869,7 +6869,7 @@ Descrição do projeto
 Este é meu primeiro projeto no qual tive contato com as linguagens de programação HTML, CSS e JavaScript! Me inspirei nos meus pais que tem um Restaurante para a realização do meu projeto, no qual criei um site para facilitar o conhecimento e tirar as dúvidas dos futuros clientes! Acesse o site em: https://santa-luiza.vercel.app
 
 {Reactions}
-⭐ (154)
+⭐ (155)
 
 [9/6/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -8860,7 +8860,7 @@ Descrição do projeto
 Este projeto web é um catálogo interativo dedicado aos fãs da franquia Final Fantasy. Desenvolvido durante a imersão Dev da Alura com Gemini, o objetivo principal é proporcionar aos usuários uma experiência imersiva e completa no universo de Final Fantasy.
 
 {Reactions}
-⭐ (20)
+⭐ (23)
 
 [9/6/2024 10:23 PM] Alura
 Novo projeto recebido!
@@ -9074,7 +9074,7 @@ Descrição do projeto
 Site que facilita a busca de programas e projetos voltados para a INCLUSÃO TECNOLÓGICA de mulheres e outras minorias, promovendo a diversidade no mundo da programação !!
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25100,7 +25100,7 @@ Descrição do projeto
 O projeto "Adote um Amigo 🐾" é um site de adoção de animais, onde usuários podem visualizar e filtrar animais (cães e gatos) disponíveis para adoção. O objetivo é facilitar a busca e ajudar a encontrar o animal ideal para adoção, promovendo uma experiência simples e intuitiva para os usuários.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
