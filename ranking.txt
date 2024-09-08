@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (147)
+⭐ (148)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -9669,7 +9669,7 @@ Descrição do projeto
 Ao pensar em um tema para o projeto pensei comigo porque não fazer de algo que sou apaixonada?? Pensando nisso, para tornar o processo ainda mais interessante, pensei em envolver automobilismo na ideia. A ideia principal é uma rede de apoio principalmente aos novos fãs que não sabem por onde começar a entender o esporte, apesar de eu não ter conseguido expressar totalmente isso na elaboração em si em pouco tempo. O objetivo do site é englobar notícias destaques, manuais de como assistir uma categoria específica por exemplo, tudo isso para acolher esses novos fãs que às vezes são piadas de outros mais antigos.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/6/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -14883,7 +14883,7 @@ Descrição do projeto
 Projeto da Imersão Dev Alura que permite pesquisar jogos de vídeo game clássicos. Usuários podem buscar títulos icônicos, ver descrições breves e acessar links com mais detalhes sobre cada jogo. Desenvolvido com HTML, CSS e JavaScript para criar uma interface interativa e funcional.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 3:29 PM] Alura
 Novo projeto recebido!
@@ -24434,7 +24434,7 @@ Descrição do projeto
 Este projeto foi criado para combinar a paixão por cães com o universo épico de Game of Thrones. Ao navegar pelo site, você poderá selecionar a raça do seu cachorro e descobrir qual das lendárias casas de Westeros mais combina com as características e personalidades caninas.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
