@@ -2102,7 +2102,7 @@ Descrição do projeto
 Desenvolvido durante a Imersão Alura com Google Gemini. Este repositório explora o poder dos prompts para impulsionar a criação e inovação com Inteligência Artificial. Aprenda a construir soluções personalizadas e eficientes através de exemplos práticos
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/5/2024 9:39 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (102)
+⭐ (103)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -8860,7 +8860,7 @@ Descrição do projeto
 Este projeto web é um catálogo interativo dedicado aos fãs da franquia Final Fantasy. Desenvolvido durante a imersão Dev da Alura com Gemini, o objetivo principal é proporcionar aos usuários uma experiência imersiva e completa no universo de Final Fantasy.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/6/2024 10:23 PM] Alura
 Novo projeto recebido!
@@ -12774,7 +12774,7 @@ Descrição do projeto
 "Prepare-se para uma experiência única e eletrizante! No *Jogo de desviar Obstáculos*, você vai desafiar seus reflexos e habilidades em um ambiente futurista, cheio de ação e mistérios! Com gráficos modernos e um fundo dinâmico de dados em movimento, cada partida será uma imersão total. Controle seu personagem com teclas de fácil acesso, disponíveis para qualquer dispositivo, e mergulhe em uma aventura de tirar o fôlego! Está pronto para superar seus limites e alcançar o topo? Jogue agora e seja o mestre deste universo digital!"
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 12:08 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (79)
+⭐ (80)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
