@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (140)
+⭐ (141)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -667,7 +667,7 @@ Descrição do projeto
 Projeto desenvolvivo para ser um guia sobre o uso de árvores medicinais nativas do Semiárido brasileiro para ajudar a pessoas leigas a conhecerem mais sobre os usos das espécies e para que servem.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 2:08 PM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (149)
+⭐ (150)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
