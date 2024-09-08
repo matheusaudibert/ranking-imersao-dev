@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (121)
+⭐ (122)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -7355,7 +7355,7 @@ Descrição do projeto
 O GamerHub é uma aplicação web simples e divertida, criada para ajudar você, gamer, a encontrar seus próximos jogos favoritos! Com uma interface intuitiva e fácil de usar, você pode navegar por diversas categorias de jogos, realizar buscas por títulos específicos e descobrir novas aventuras.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/6/2024 8:05 PM] Alura
 Novo projeto recebido!
@@ -7415,7 +7415,7 @@ Descrição do projeto
 O DRACO é um site dedicado a promover o acesso à leitura no Brasil, oferecendo um serviço gratuito de troca de livros em todo o país. Com essa iniciativa, buscamos democratizar o acesso à leitura, permitindo que mais pessoas explorem novos títulos sem custos. Qualquer pessoa pode cadastrar seu livro e trocá-lo por outro, sem se preocupar com frete ou logística. Ao trocar livros usados em vez de descartá-los, contribuímos para a sustentabilidade e a preservação do meio ambiente. O DRACO também fortalece a comunidade de leitores, fomenta a interação e o compartilhamento cultural. Através de um livro, compartilhamos conhecimentos e transformamos vidas!
 
 {Reactions}
-⭐ (11)
+⭐ (10)
 
 [9/6/2024 8:20 PM] Alura
 Novo projeto recebido!
@@ -11571,7 +11571,7 @@ Descrição do projeto
 O SoliSite foi pensado para conectar programadores, sejam iniciantes ou profissionais, à prática constante de suas habilidades, enquanto apoiam ONGs na divulgação de suas causas. O objetivo é aproximar programadores com diferentes habilidades das ONGs que precisam de apoio voluntário para desenvolver seus sites e promover suas iniciativas. Transformando código em impacto social.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 4:12 AM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -15365,7 +15365,7 @@ Descrição do projeto
 Este projeto é uma página web simples, informativo, que apresenta as tecnologias mais utilizadas no desenvolvimento front-end. A página utiliza HTML, CSS e JavaScript para criar uma interface dinâmica e visualmente atraente.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 4:21 PM] Alura
 Novo projeto recebido!
@@ -17792,7 +17792,7 @@ Descrição do projeto
 Seu Quintal Limpo" é o MVP de uma startup de impacto social que conecta profissionais de capinagem com pessoas e empresas que precisam desse serviço. Através de uma plataforma de agendamento, cadastramos trabalhadores que frequentemente enfrentam baixa demanda e acesso a oportunidades, muitos deles com baixa escolaridade e dificuldades para conseguir outros empregos. O objetivo é valorizar esses profissionais, oferecendo uma solução que define um preço justo para o serviço, promovendo inclusão e dignidade no trabalho.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -20997,7 +20997,7 @@ Descrição do projeto
 O projeto é um site que permite aos usuários explorar e buscar notícias de forma rápida e prática. Com uma interface simples e intuitiva, o projeto oferece a possibilidade de filtrar notícias por palavras-chave e visualizar os resultados com paginação, além de destacar o termo pesquisado nos títulos e descrições.  Este projeto é um site de notícias desenvolvido durante a Imersão Alura + Gemini, uma iniciativa que visa capacitar desenvolvedores em tecnologias de ponta. Através deste projeto, foi possível aplicar os conhecimentos adquiridos na imersão para criar uma aplicação web funcional e eficiente.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 9:55 PM] Alura
 Novo projeto recebido!
@@ -21958,7 +21958,7 @@ Descrição do projeto
 Este projeto web visa auxiliar professores na criação de conteúdos inclusivos. Ao inserir um texto, perguntas e uma descrição das dificuldades do aluno, a ferramenta gera respostas personalizadas, facilitando a inclusão em sala de aula.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 10:40 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (25)
+⭐ (27)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24449,7 +24449,7 @@ Descrição do projeto
 Esse projeto visa tornar a alimentação de seus cães e gatos muito mais fácil e segura! 🌟 Por meio de uma interface super amigável, você pode pesquisar qualquer alimento e descobrir se ele é seguro para o seu pet. Além disso, oferecemos informações sobre os benefícios e riscos de cada item, garantindo que seu amigo de quatro patas receba o melhor! 🐾🍽️
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
