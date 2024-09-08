@@ -1652,7 +1652,7 @@ Descrição do projeto
 Voltado para o público gamer, este projeto tem como objetivo apresentar uma breve descrição de jogos retro. O conceito visual teve como base de referência diversas imagens de terminais dentro de jogos, como, por exemplo, o Pip-Boy de Fallout e outros similares. Caso tenha interesse em verificar apenas a parte visual, segue o link do deploy: https://founder-gif.github.io/EncicloGamer
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/5/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (144)
+⭐ (145)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (124)
+⭐ (125)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -11391,7 +11391,7 @@ Descrição do projeto
 Esse projeto web feito durante a Imersão Dev Alura e Google Gemini te ajuda a encontrar o pet ideal para você! Com uma busca simples, você pode descobrir diversas raças de cães e gatos, com informações detalhadas sobre cada uma. Basta digitar algumas palavras-chave, como "cão pequeno e brincalhão" ou "gato calmo para apartamento", e a aplicação fará uma busca inteligente em nosso banco de dados e te apresentará os resultados mais relevantes.  O melhor de tudo? Nossa aplicação é totalmente responsiva, ou seja, funciona perfeitamente em qualquer dispositivo, seja no seu computador, tablet ou smartphone!
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/7/2024 3:34 AM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (86)
+⭐ (87)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
