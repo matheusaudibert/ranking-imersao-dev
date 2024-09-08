@@ -92,7 +92,7 @@ def main():
     time_remaining = calculate_time_remaining(offset_hours)
     formatted_time = format_time_delta(time_remaining)
     with st.sidebar:
-      st.markdown(f"⏳ Tempo restante para o fim das votações: {formatted_time}")
+      st.markdown(f"### ⏳ Tempo restante para o fim das votações: {formatted_time}")
 
     st.sidebar.header("🔍 Pesquisar Projeto")
     search_name = st.sidebar.text_input("Digite o seu nome:")
