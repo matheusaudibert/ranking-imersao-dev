@@ -49,7 +49,7 @@ def display_projects(st, title, projects, start_index):
 def main():
     st.set_page_config(page_title="Ranking Alura", layout="wide", initial_sidebar_state="auto", menu_items=None)
 
-    st.title("🏆 Ranking Alura :gray[Não Oficial] - Última Atualização (01:00)")
+    st.title("🏆 Ranking Alura :gray[Não Oficial] - Última Atualização (01:30)")
 
     
 
@@ -71,10 +71,15 @@ def main():
     with col3:
         display_projects(st, "#", top_30, start_index=21)
 
-    st.markdown("## ⏰ Próxima atualização às 01:30. Total de projetos: 1,677")
-    st.markdown(":orange[⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)]")
-    st.markdown(":blue[🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)]")
-    st.markdown("Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura)")
+    st.markdown("## ⏰ Próxima atualização às 02:00. Total de projetos: 1677")
+    with col1:
+      st.markdown(":orange[⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)]")
+
+    with col2:
+      st.markdown(":blue[🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)]")
+
+    with col3:
+      st.markdown("Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura)")
 
 if __name__ == "__main__":
     main()
