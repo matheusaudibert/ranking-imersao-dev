@@ -393,7 +393,7 @@ Descrição do projeto
 Site para consulta e pesquisa dos Hashiras do universo de Demons Slayer usando animações simples e conceitos básicos. É possível acessar o site clicando aqui: https://desafio-dev-alura-gemini2024-and-git-441af6-andrelukes-projects.vercel.app
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/5/2024 11:32 AM] Alura
 Novo projeto recebido!
@@ -1202,7 +1202,7 @@ Descrição do projeto
 Projeto criado durante a Imersão_Dev da Alura com Google Gemini
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/5/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (129)
+⭐ (130)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -23736,7 +23736,7 @@ Descrição do projeto
 Este projeto, desenvolvido durante a Imersão Alura com Google Gemini, busca trazer um toque brasileiro a um clássico dos jogos de cartas: o Trunfo. Com adaptações nas regras tradicionais, o objetivo é oferecer uma experiência de jogo mais simples e acessível.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -25380,7 +25380,7 @@ Descrição do projeto
 O projeto consiste em uma página interativa que permite os usuários realizarem pesquisas textuais para encontrar um personagem do jogo *Honkai: Star Rail*, além de poderem filtrar personagens por elementos e caminhos. Ao clicar no personagem, o usuário é direcionado para um link com mais informações.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 ==============================================================
 Exported 1,677 message(s)
