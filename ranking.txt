@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (124)
+⭐ (125)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (142)
+⭐ (143)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (116)
+⭐ (117)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -8194,7 +8194,7 @@ Descrição do projeto
 💛 Projeto de Pesquisa de Soluções Emocionais | Setembro Amarelo Descubra soluções práticas e links úteis para ajudar a lidar com sentimentos como ansiedade, tristeza e outros estados emocionais. Com uma interface simples e direta, esse projeto oferece uma forma rápida e eficaz de encontrar apoio emocional. Ideal para quem busca equilíbrio e bem-estar mental.  Neste mês de Setembro Amarelo, é importante reforçar a conscientização sobre saúde mental e prevenção ao suicídio. Se você ou alguém que conhece está precisando de ajuda, não hesite em procurar apoio.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/6/2024 9:36 PM] Alura
 Novo projeto recebido!
@@ -21406,7 +21406,7 @@ Descrição do projeto
 O projeto é focado para as crianças de até 12 anos, já que decidi utilizar cinco personagens do videogame Sonic the Hedgehog, sendo eles: o próprio Sonic, Tails, Amy, Knuckles e Shadow. Cada um desses cinco personagens possui um tema sobre a importância do meio ambiente e dicas sobre como devemos cuidar delas, com um link que leva a sites que possuam mais informações caso necessário. O site foi feito pensando para que as gerações futuras desde crianças saibam o quão importante é a natureza e sobre como fazemos parte dela.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (101)
+⭐ (102)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
