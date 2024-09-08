@@ -2779,7 +2779,7 @@ Descrição do projeto
 Quer aprender inglês, espanhol, alemão, francês e italiano de maneira divertida? Então não perca tempo e venha conhecer o Lang Studious um app web que monta questionários para você treinar a língua que você está estudando em uma interface amigável!!
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/6/2024 2:55 AM] Alura
 Novo projeto recebido!
@@ -2899,7 +2899,7 @@ Descrição do projeto
 AI.HUB: Sua biblioteca com as melhores INTELIGÊNCIAS ARTIFICIAIS do momento! Explore nosso catálogo e descubra IA's inovadoras para ASSISTÊNCIA, DESIGN, VÍDEO, MÚSICA e ESTUDOS. Além disso, o site conta com uma seção exclusiva que explica o funcionamento das IAs e seus diferentes tipos. ATUALIZAÇÕES estão a caminho! O site é totalmente RESPONSIVO, adaptando-se perfeitamente a qualquer dispositivo, para que você possa acessar quando e onde quiser! SEU APOIO é essencial para impulsionar o site e torná-lo conhecido por todos. Confira o link e aproveite: https://portfolio-ai-kvg6ycv0m-profile-z4ffarani.vercel.app. Agradeço desde já, future-se!
 
 {Reactions}
-⭐ (137)
+⭐ (138)
 
 [9/6/2024 5:45 AM] Alura
 Novo projeto recebido!
@@ -5162,7 +5162,7 @@ Descrição do projeto
 Durante o projeto "Imersão RPG", você irá mergulhar numa aventura onde guiará um Mago? Guerreiro? Bardo? Você escolhe quem vai partir numa aventura desde uma prisão subterrânea, até a cidade para finalmente descansar em paz. A estrutura do projeto se baseia em listas de objetos que guardam as informações dos personagens, história, etc. Além de funções responsáveis por diferentes mecânicas, como mostrar os personagens, comparar os atributos, contar a história, e mais.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/6/2024 3:51 PM] Alura
 Novo projeto recebido!
@@ -7901,7 +7901,7 @@ Descrição do projeto
 Permite que os usuários pesquisem por personagens e extras do jogo e série The Last of Us, sendo o meu primeiro projeto. Foi desenvolvido como uma forma de homenagear The Last of Us, uma das franquias mais impactantes e aclamadas dos últimos tempos.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/6/2024 9:06 PM] Alura
 Novo projeto recebido!
@@ -9669,7 +9669,7 @@ Descrição do projeto
 Ao pensar em um tema para o projeto pensei comigo porque não fazer de algo que sou apaixonada?? Pensando nisso, para tornar o processo ainda mais interessante, pensei em envolver automobilismo na ideia. A ideia principal é uma rede de apoio principalmente aos novos fãs que não sabem por onde começar a entender o esporte, apesar de eu não ter conseguido expressar totalmente isso na elaboração em si em pouco tempo. O objetivo do site é englobar notícias destaques, manuais de como assistir uma categoria específica por exemplo, tudo isso para acolher esses novos fãs que às vezes são piadas de outros mais antigos.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/6/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -11963,7 +11963,7 @@ Descrição do projeto
 Como sou iniciante no desenvolvimento de sites, este projeto é uma tentativa criativa de unir aprendizado com entretenimento.  Neste site simples de busca, voces podem explorar o multiverso da programação, ao pesquisar por uma linguagem vocês são transportados para links aleatórios, que podem ser uma explicação séria sobre a linguagem, uma imagem engraçada ou até um site inesperado! Meu objetivo foi proporcionar uma experiência divertida e educativa, mostrando as diversas facetas do mundo da programação. Espero que gostem!! testem aqui: http://multiverso-r29l.vercel.app/
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 8:35 AM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (32)
+⭐ (34)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
