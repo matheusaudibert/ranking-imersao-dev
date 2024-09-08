@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (168)
+⭐ (169)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (88)
+⭐ (89)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (125)
+⭐ (126)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (81)
+⭐ (80)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -13455,7 +13455,7 @@ Descrição do projeto
 Bem-vindo ao Pawesome Place, seu guia completo para encontrar os lugares mais legais para explorar com seu bichinho de estimação em Portugal (e quem sabe, no futuro, no Brasil e no mundo!). Parques, praias, trilhas e mais! Imagine ter um guia turístico pessoal para o seu pet. Descubra os melhores locais para passear, brincar e fazer novas amizades com outros pets! Não seria AWESOME?
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (40)
+⭐ (39)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -19236,7 +19236,7 @@ Descrição do projeto
 **Pitch do Projeto: IntelliFinder**  O *IntelliFinder* é uma plataforma inovadora que ajuda você a encontrar a inteligência artificial certa para suas necessidades. Ao acessar o site, você simplesmente informa a tarefa ou o desafio que deseja resolver, e o *IntelliFinder* sugere as melhores soluções de IA disponíveis no mercado. De automatizações simples a ferramentas complexas de análise de dados, o *IntelliFinder* facilita o processo de descoberta e seleção da IA ideal, otimizando tempo e recursos. Seja para estudantes, profissionais ou empresas, nossa plataforma garante que você tenha as ferramentas certas para maximizar sua eficiência e resultados.
 
 {Reactions}
-⭐ (42)
+⭐ (44)
 
 [9/7/2024 8:20 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (21)
+⭐ (23)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
