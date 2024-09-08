@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (138)
+⭐ (139)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -4507,7 +4507,7 @@ Descrição do projeto
 Um jogo de adivinhar palavras pra testar o conhecimento do DEV. O usuário tem 5 chances para adivinha a palavra chave e pode pedir uma dica. Nas cinco chances que o usuário vai tentando a tela muda de cor e ao finalizar acertando ou errando ele pode reiniciar o jogo. Foi desenvolvido com HTML, CSS e JavaScript. tem um pequeno banco de elementos com palavras e dicas e é isso. Se divertir e aprender!
 
 {Reactions}
-⭐ (37)
+⭐ (36)
 
 [9/6/2024 2:59 PM] Alura
 Novo projeto recebido!
