@@ -1652,7 +1652,7 @@ Descrição do projeto
 Voltado para o público gamer, este projeto tem como objetivo apresentar uma breve descrição de jogos retro. O conceito visual teve como base de referência diversas imagens de terminais dentro de jogos, como, por exemplo, o Pip-Boy de Fallout e outros similares. Caso tenha interesse em verificar apenas a parte visual, segue o link do deploy: https://founder-gif.github.io/EncicloGamer
 
 {Reactions}
-⭐ (67)
+⭐ (68)
 
 [9/5/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (151)
+⭐ (152)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (98)
+⭐ (99)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (123)
+⭐ (124)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -12639,7 +12639,7 @@ Descrição do projeto
 O AluCine é um projeto ambicioso que visa criar um guia completo e intuitivo para filmes e séries. A proposta é oferecer uma experiência de usuário que permita a busca rápida e eficiente por informações relevantes sobre títulos, como sinopses, avaliações e plataformas de streaming disponíveis. Alguns feitos no projeto não foram ensinados na Imersão, como por exemplo: a mudança de fonte e a colocação da foto de fundo. Porém, pedi ajuda para o Google Gemini para essas alterações que deixariam meu projeto do jeito que imaginei.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:48 AM] Alura
 Novo projeto recebido!
@@ -17792,7 +17792,7 @@ Descrição do projeto
 Seu Quintal Limpo" é o MVP de uma startup de impacto social que conecta profissionais de capinagem com pessoas e empresas que precisam desse serviço. Através de uma plataforma de agendamento, cadastramos trabalhadores que frequentemente enfrentam baixa demanda e acesso a oportunidades, muitos deles com baixa escolaridade e dificuldades para conseguir outros empregos. O objetivo é valorizar esses profissionais, oferecendo uma solução que define um preço justo para o serviço, promovendo inclusão e dignidade no trabalho.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -19917,7 +19917,7 @@ Descrição do projeto
 O projeto é uma pequena Wiki do jogo Elden Ring, com a temática do próprio jogo. O foco é em auxiliar na procura de builds para começar a jogar. Proporcionando o nome de algumas builds, a descrição breve do que ela faz e um link para um vídeo com um guia completo. A pesquisa é feita de acordo com o atributo que a pessoa quer focar do personagem e em que estado do jogo ela quer usar a build.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 8:59 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25055,7 +25055,7 @@ Descrição do projeto
 Este projeto é uma ferramenta abrangente de busca de roadmaps e um questionário interativo projetado para ajudar você a descobrir a carreira em TI que melhor se alinha ao seu perfil e interesses. Acredito que esta plataforma pode ser uma valiosa contribuição para a comunidade, atendendo tanto iniciantes quanto profissionais que estão considerando uma mudança de área.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
