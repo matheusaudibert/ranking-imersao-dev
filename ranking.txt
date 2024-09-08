@@ -1607,7 +1607,7 @@ Descrição do projeto
 Oláa fiz um projeto sobre um site de pesquisa do universo de Star wars. O site permite que os usuários explorem informações detalhadas sobre filmes, séries e jogos do vasto universo de Star Wars! Aqui o link do site: https://gabfranzini.github.io/ImersaoDevGemini/
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/5/2024 6:56 PM] Alura
 Novo projeto recebido!
