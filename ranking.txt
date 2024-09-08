@@ -23736,7 +23736,7 @@ Descrição do projeto
 Este projeto, desenvolvido durante a Imersão Alura com Google Gemini, busca trazer um toque brasileiro a um clássico dos jogos de cartas: o Trunfo. Com adaptações nas regras tradicionais, o objetivo é oferecer uma experiência de jogo mais simples e acessível.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
