@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (239)
+⭐ (240)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (239)
+⭐ (240)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (103)
+⭐ (104)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (93)
+⭐ (94)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (138)
+⭐ (139)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -5162,7 +5162,7 @@ Descrição do projeto
 Durante o projeto "Imersão RPG", você irá mergulhar numa aventura onde guiará um Mago? Guerreiro? Bardo? Você escolhe quem vai partir numa aventura desde uma prisão subterrânea, até a cidade para finalmente descansar em paz. A estrutura do projeto se baseia em listas de objetos que guardam as informações dos personagens, história, etc. Além de funções responsáveis por diferentes mecânicas, como mostrar os personagens, comparar os atributos, contar a história, e mais.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/6/2024 3:51 PM] Alura
 Novo projeto recebido!
@@ -10950,7 +10950,7 @@ Descrição do projeto
 Site de comida, utilizando os conhecimentos das aulas, criei um site responsivo utilizando o tipo de pesquisa utilizado para os apps de comida
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 2:20 AM] Alura
 Novo projeto recebido!
@@ -11421,7 +11421,7 @@ Descrição do projeto
 Meu Personal trainner virtual
 
 {Reactions}
-⭐ (59)
+⭐ (60)
 
 [9/7/2024 3:38 AM] Alura
 Novo projeto recebido!
@@ -11481,7 +11481,7 @@ Descrição do projeto
 Este é um projeto em que você consegue buscar recomendações de livros baseado nas suas preferências. Somente é necessário buscar seu gênero literário favorito, alguma palavra chave e etc.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 3:46 AM] Alura
 Novo projeto recebido!
@@ -12789,7 +12789,7 @@ Descrição do projeto
 O Zombie Session é o seu portal definitivo para mergulhar no universo dos zumbis! Explore a coleção de filmes, séries e animes repletos de ação, terror e muita emoção - todos voltados para a temática zumbi. Com uma busca simples, você encontra informações detalhadas sobre suas produções favoritas, sinopses, trailers e muito mais.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 12:09 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (78)
+⭐ (77)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -16691,7 +16691,7 @@ Descrição do projeto
 Mecanismo de busca de filmes de forma iterativa e poderosa na acertividade. Mais de 31 mil filmes estão disponíveis.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 5:54 PM] Alura
 Novo projeto recebido!
@@ -17250,7 +17250,7 @@ Descrição do projeto
 One Piece Fan App é um projeto web interativo criado para os fãs do anime e mangá One Piece. Essa aplicação permite aos usuários pesquisar por seus personagens favoritos e descobrir detalhes como habilidades, recompensas e aparições.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 6:22 PM] Alura
 Novo projeto recebido!
@@ -17792,7 +17792,7 @@ Descrição do projeto
 Seu Quintal Limpo" é o MVP de uma startup de impacto social que conecta profissionais de capinagem com pessoas e empresas que precisam desse serviço. Através de uma plataforma de agendamento, cadastramos trabalhadores que frequentemente enfrentam baixa demanda e acesso a oportunidades, muitos deles com baixa escolaridade e dificuldades para conseguir outros empregos. O objetivo é valorizar esses profissionais, oferecendo uma solução que define um preço justo para o serviço, promovendo inclusão e dignidade no trabalho.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -23072,7 +23072,7 @@ Descrição do projeto
 É um projeto em que consiste na busca de agentes do Valorant. Retornando suas habilidades, uma foto do agente e uma breve descriçäo. Queria dar continuidade adicionando mapas, utilizando API e uma interface melhor. Porém näo é permitido neste projeto. Entäo foi bem básico.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -24950,7 +24950,7 @@ Descrição do projeto
 O Gallery Museum é uma plataforma digital desenvolvida para proporcionar uma experiência imersiva e educacional no mundo da arte. O site visa oferecer acesso a uma vasta coleção de obras de arte, permitindo aos usuários explorar, pesquisar e apreciar a arte de maneira interativa e acessível. O projeto combina design elegante, funcionalidade intuitiva e uma interface responsiva para criar um ambiente digital envolvente.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
