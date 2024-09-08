@@ -91,7 +91,8 @@ def main():
     offset_hours = 3 
     time_remaining = calculate_time_remaining(offset_hours)
     formatted_time = format_time_delta(time_remaining)
-    st.sidebar.markdown(f"## ⏳ Tempo restante para o fim das votações: {formatted_time}")
+    with st.sidebar:
+      st.markdown(f"⏳ Tempo restante para o fim das votações: {formatted_time}")
 
     st.sidebar.header("🔍 Pesquisar Projeto")
     search_name = st.sidebar.text_input("Digite o seu nome:")
@@ -114,8 +115,8 @@ def main():
                 st.sidebar.markdown("Não te encontrei.")
 
     with st.sidebar:
-        st.markdown("⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
-        st.markdown("🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)")
+      st.markdown(f"⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)")
+      st.markdown(f"🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)")
 
 if __name__ == "__main__":
     main()
