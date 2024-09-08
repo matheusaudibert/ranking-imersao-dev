@@ -6869,7 +6869,7 @@ Descrição do projeto
 Este é meu primeiro projeto no qual tive contato com as linguagens de programação HTML, CSS e JavaScript! Me inspirei nos meus pais que tem um Restaurante para a realização do meu projeto, no qual criei um site para facilitar o conhecimento e tirar as dúvidas dos futuros clientes! Acesse o site em: https://santa-luiza.vercel.app
 
 {Reactions}
-⭐ (141)
+⭐ (142)
 
 [9/6/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -21560,7 +21560,7 @@ Descrição do projeto (cont.)
 lítica. Pesquisadores: Encontrar dados relevantes para suas pesquisas. Desenvolvido com HTML, CSS e JavaScript, este projeto é fruto da Imersão Dev da Alura e tem como objetivo democratizar o acesso à informação sobre o Brasil.  Destaques do projeto:   Interface intuitiva: Busca fácil e navegação simples. Dados atualizados: Informações sempre precisas e relevantes. Visualizações interativas: Gráficos e mapas que facilitam a compreensão dos dados. Fontes confiáveis: Todas as informações são provenientes do IBGE.   Explore os dados do Brasil agora mesmo e descubra um novo olhar sobre o nosso país!
 
 {Reactions}
-⭐ (13)
+⭐ (15)
 
 [9/7/2024 10:20 PM] Alura
 Novo projeto recebido!
@@ -23751,7 +23751,7 @@ Descrição do projeto
 Bem-vindo ao TechFusion, Um site dedicado aos apaixonados por tecnologia! O TechFusion oferece informações detalhadas sobre diversos cursos e formações na área de tecnologia, com foco em quem deseja seguir uma carreira ou se especializar no setor. O TechFusion é um projeto que visa unir duas grandes instituições de ensino, a Alura e a FIAP, em um único lugar. Através de uma interface simples e eficiente, os usuários podem pesquisar e obter informações sobre cursos oferecidos por essas instituições. O objetivo principal do TechFusion é facilitar o acesso a informações sobre os cursos de ambas as plataformas, permitindo que os usuários comparem, descubram e escolham o que melhor atende às suas necessidades educacionais.
 
 {Reactions}
-⭐ (23)
+⭐ (26)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -25258,7 +25258,7 @@ Descrição do projeto
 "Vamos de DDS, AI?" é um parceiro amigável e inteligente para encontrar o DDS perfeito! Você pode pesquisar por tema ou então se surpreender com nossas sugestões de conteúdo, tudo para tornar a segurança no trabalho mais leve e inspiradora. Chega de DDS chatos, bora aprender com a IA!
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
