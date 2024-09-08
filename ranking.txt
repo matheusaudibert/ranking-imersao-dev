@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (230)
+⭐ (232)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (101)
+⭐ (102)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -10149,7 +10149,7 @@ Descrição do projeto
 A Plataforma de Doação de Alimentos tem como objetivo conectar doadores de alimentos (pessoas ou estabelecimentos) com famílias e instituições que precisam. A aplicação visa reduzir o desperdício de alimentos e combater a insegurança alimentar nas comunidades.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 12:19 AM] Alura
 Novo projeto recebido!
@@ -12789,7 +12789,7 @@ Descrição do projeto
 O Zombie Session é o seu portal definitivo para mergulhar no universo dos zumbis! Explore a coleção de filmes, séries e animes repletos de ação, terror e muita emoção - todos voltados para a temática zumbi. Com uma busca simples, você encontra informações detalhadas sobre suas produções favoritas, sinopses, trailers e muito mais.
 
 {Reactions}
-⭐ (13)
+⭐ (15)
 
 [9/7/2024 12:09 PM] Alura
 Novo projeto recebido!
@@ -15078,7 +15078,7 @@ Descrição do projeto
 O Tributário Municipal HUB é uma plataforma web interativa projetada para fornecer informações detalhadas sobre impostos municipais no Brasil. Desenvolvido durante a imersão Alura + Gemini, o projeto visa facilitar o acesso a dados relevantes sobre impostos como ISS, IPTU e ITBI. Com uma interface intuitiva e responsiva, os usuários podem facilmente pesquisar e explorar informações essenciais, promovendo um melhor entendimento das obrigações fiscais municipais.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 3:49 PM] Alura
 Novo projeto recebido!
@@ -21027,7 +21027,7 @@ Descrição do projeto
 A página ajudará você a descobrir o biotipo corporal de acordo com as informações fornecidas: ectomorfo, mesomorfo ou endomorfo. Após isso, é possível conferir mais informações no botão "saiba mais". Ficar por dentro do seu biotipo é o melhor caminho para ter uma noção mais precisa das suas necessidades específicas em termos de nutrição e treinamento, permitindo um plano de saúde e fitness mais personalizado e eficaz.
 
 {Reactions}
-⭐ (22)
+⭐ (21)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -25332,6 +25332,8 @@ https://github.com/BiancaMalta/Planta-AI-/tree/main
 Descrição do projeto
 Usando a IA para plantar.
 
+{Reactions}
+⭐
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25345,6 +25347,8 @@ https://github.com/Bushhdog/SomberDex/tree/main
 Descrição do projeto
 Uma breve pokedéx de pokemons com tipagem sombria!
 
+{Reactions}
+⭐
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
