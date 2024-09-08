@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (174)
+⭐ (175)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -3783,7 +3783,7 @@ Descrição do projeto
 Minha aplicação é dedicada aos jogadores de Call of Duty: Warzone. Ela inclui um sistema de pesquisa que permite encontrar jogadores e visualizar suas redes sociais de stream, além de uma seção de notícias com atualizações e informações sobre o jogo, como torneios, atualização das Seasons e uma ferramenta para os melhores ajustes de armas em cada Modo de jogo. Com um design criativo, moderno e simples.
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/6/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -22847,7 +22847,7 @@ Descrição do projeto
 Um aplicativo web para pesquisa e visualização de ações da B3, com gráficos de preços históricos das ações.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 11:12 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
