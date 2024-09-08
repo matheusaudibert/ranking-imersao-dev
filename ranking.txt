@@ -1217,7 +1217,7 @@ Descrição do projeto
 Local de busca projetado para fãs da banda Iron Maiden e entusiastas da música em geral. O objetivo da aplicação é fornecer uma plataforma interativa para explorar a discografia completa da banda e realizar pesquisas específicas por faixas. A aplicação oferece uma interface amigável que facilita a visualização dos álbuns, a aplicação de filtros para encontrar álbuns específicos e a busca por faixas individuais.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 5:21 PM] Alura
 Novo projeto recebido!
@@ -1232,7 +1232,7 @@ Descrição do projeto
 Projeto de uma Pokedex de Pokemon
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 5:29 PM] Alura
 Novo projeto recebido!
@@ -1247,7 +1247,7 @@ Descrição do projeto
 O projeto tem como público-alvo pessoas neurodivergentes que precisam de ajuda para se organizarem e estabelecerem uma rotina. O site trabalha com tópicos sobre a importância da rotina na vida de um neurodivergente; ele também aborda dicas sobre como montar uma rotina e como o hiperfoco pode ser um aliado, além de abordar rotinas no ambiente de trabalho e como evitar crises com essas rotinas. Apliquei essa ideia como uma pessoa neurodivergente que possui o desejo de ajudar outras pessoas neurodivergentes. Tenho muita vontade de evoluir esse projeto futuramente para que ele se torne uma aplicação real que mude a vida de várias pessoas.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/5/2024 5:30 PM] Alura
 Novo projeto recebido!
@@ -1262,7 +1262,7 @@ Descrição do projeto
 Uma aplicação web onde o usuário poderá buscar por uma série ou por um gênero, e um resultado é exibido na tela contendo informações sobre a busca como o gênero, descrição, número de temporadas, onde assistir, etc... Além de recomendar outras séries com gênero e temáticas similares.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 5:30 PM] Alura
 Novo projeto recebido!
@@ -1277,7 +1277,7 @@ Descrição do projeto
 O projeto é sobre a busca de cartas de yugioh, com valores de ataque e defesa, tipo da carta e descrição da mesma.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/5/2024 5:32 PM] Alura
 Novo projeto recebido!
@@ -1292,7 +1292,7 @@ Descrição do projeto
 Um projeto de área de denúncia de uma empresa ! , Onde qualquer funcionário pode denunciar algo ou  alguém .
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 5:32 PM] Alura
 Novo projeto recebido!
@@ -1307,7 +1307,7 @@ Descrição do projeto
 Lista de Pesquisas de atletas do Brasil
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 5:34 PM] Alura
 Novo projeto recebido!
@@ -1322,7 +1322,7 @@ Descrição do projeto
 Desenvolver uma pagina que fale sobre cibersegurança no Brasil
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 5:38 PM] Alura
 Novo projeto recebido!
@@ -1337,7 +1337,7 @@ Descrição do projeto
 Criação de um dashboard interativo para visualizar dados sobre o clima e seus impactos. Contrução de uma plataforma online para conectar pessoas com necessidades especiais a voluntários. Criação de uma rede social focada em um nicho específico para amantes de gamers e também livros.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/5/2024 5:38 PM] Alura
 Novo projeto recebido!
@@ -1352,7 +1352,7 @@ Descrição do projeto
 O projeto é uma enciclopédia que diz como fazer todos os itens do jogo Minecraft. É um jogo que eu gosto bastante, por isso o tema, e nunca vi algo parecido para ajudar a comunidade, muitas vezes é difícil lembrar como tal item é feito ou até a receita muda e a gente fica perdido. O projeto vem a intenção de resolver isso, para todos de forma simples.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 5:44 PM] Alura
 Novo projeto recebido!
@@ -1367,7 +1367,7 @@ Descrição do projeto
 Dungeon Deck é um jogo onde você escolhe um heroi e precisa escolher se a combinação do seu poder uma maneira de derrotar seus oponentes
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 5:44 PM] Alura
 Novo projeto recebido!
@@ -1382,7 +1382,7 @@ Descrição do projeto
 Estou fazendo um projeto baseado nas linguagens de programação mais utilizadas, suas funções e média salarial
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 5:48 PM] Alura
 Novo projeto recebido!
@@ -1397,7 +1397,7 @@ Descrição do projeto
 Este é um app mobile em Flutter que utiliza um sistema de autenticação baseado no firebase e a api do gemini como ia generativa. Este aplicativo foi desenvolvido para detectar fraudes aproveitando-se da capacidade multimodal dos modelos fornecido pelo gemini. O app é capaz de receber informações integrando-se com o whatsapp ou utilizando a biblioteca de arquivos internos do dispositivo para isso. A ideia é permitir a integração com outros app (chat facebook, telegram) permitindo que a fraude seja detectada no histórico de conversas, por envio de mensagens ou através de imagens e outros recursos como áudio.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -1412,7 +1412,7 @@ Descrição do projeto
 Projeto com o intuito de conhecer um pouco mais sobre os dragões do mundo de House of the Dragon.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/5/2024 6:06 PM] Alura
 Novo projeto recebido!
@@ -1427,7 +1427,7 @@ Descrição do projeto
 Raças de gatos
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/5/2024 6:07 PM] Alura
 Novo projeto recebido!
@@ -1442,7 +1442,7 @@ Descrição do projeto
 O Retro Games Collection é um site interativo que exibe uma lista de jogos retro. Os usuários podem navegar por diferentes seções, buscar por jogos e explorar detalhes sobre cada título. Se você sente saudades dos velhos tempos dos videogames, este projeto é feito especialmente para você!
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 6:09 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
