@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -9320,7 +9320,7 @@ Descrição do projeto
 Mergulhe no mundo mágico do Studio Ghibli com um só clique! Pesquise filmes, explore sinopses e ouça trilhas sonoras. Tudo isso em um só lugar, feito com muito carinho para os fãs. A plataforma, construída utilizando as tecnologias HTML, CSS, JavaScript e Gemini, oferece um recurso valioso para a pesquisa e o estudo da animação japonesa. Através de uma interface intuitiva e recursos de busca avançados, o site permite aos usuários acessar informações detalhadas sobre cada filme, como sinopse e trilha sonora. Os resultados obtidos com o desenvolvimento deste projeto demonstram a viabilidade de utilizar ferramentas digitais para a organização e divulgação de acervos audiovisuais, contribuindo para a preservação e valorização do patrimônio cultural.
 
 {Reactions}
-⭐ (37)
+⭐ (42)
 
 [9/6/2024 11:07 PM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (73)
+⭐ (74)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -9669,7 +9669,7 @@ Descrição do projeto
 Ao pensar em um tema para o projeto pensei comigo porque não fazer de algo que sou apaixonada?? Pensando nisso, para tornar o processo ainda mais interessante, pensei em envolver automobilismo na ideia. A ideia principal é uma rede de apoio principalmente aos novos fãs que não sabem por onde começar a entender o esporte, apesar de eu não ter conseguido expressar totalmente isso na elaboração em si em pouco tempo. O objetivo do site é englobar notícias destaques, manuais de como assistir uma categoria específica por exemplo, tudo isso para acolher esses novos fãs que às vezes são piadas de outros mais antigos.
 
 {Reactions}
-⭐ (59)
+⭐ (58)
 
 [9/6/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -22817,7 +22817,7 @@ Descrição do projeto
 Um jogo simples onde, a partir de chutes, você terá que acertar uma das escolas da Alura e, após isso, poderá acessar os planos da Alura ou da FIAP
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
