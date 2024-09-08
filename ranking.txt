@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (138)
+⭐ (139)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (139)
+⭐ (140)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -11057,7 +11057,7 @@ Descrição do projeto (cont.)
 o momento.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 2:37 AM] Alura
 Novo projeto recebido!
@@ -14688,7 +14688,7 @@ Descrição do projeto
 Lista de Tarefas é uma aplicação web simples e intuitiva para gerenciar suas atividades diárias. Com uma interface limpa e responsiva, permite adicionar e remover tarefas facilmente, ajudando você a manter-se organizado e produtivo. Desenvolvida com HTML, CSS e JavaScript, esta ferramenta leve é perfeita para uso rápido e eficiente no navegador.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 3:08 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (96)
+⭐ (97)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
