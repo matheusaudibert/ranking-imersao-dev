@@ -545,7 +545,7 @@ Descrição do projeto
 A intenção de meu projeto e auxiliar no conhecimento das pessoas trazendo uma breve descrição de qualquer tecnologia que a pessoa deseja pesquisar dando a ela a oportunidade de saber mais por meio dos links o tema do meu projeto e muito abrangente entao nem todas as informacoes estao disponiveis afinal eu sou humano e ate a IA nao conseguiria afinal de tecnologia o mundo e imenso entao voce pode dar uma breve olhada no banco e ver o que tem. (adoraria colocar um video de demonstracao mas nao da ) obs: precisei pesquisar ainda mais que a imersao me oferece entao espero nao ser desclassificado por adquirir mais conhecimentos afim de tornar meu projeto mais completo.
 
 {Reactions}
-⭐ (86)
+⭐ (87)
 
 [9/5/2024 12:27 PM] Alura
 Novo projeto recebido!
@@ -988,7 +988,7 @@ Descrição do projeto
 Que animal posso adotar? é um simples catálogo de possíveis animais que você pode adotar!
 
 {Reactions}
-⭐ (63)
+⭐ (64)
 
 [9/5/2024 4:07 PM] Alura
 Novo projeto recebido!
@@ -2674,7 +2674,7 @@ Descrição do projeto (cont.)
 ta estiver incorreta, uma mensagem vermelha será exibida e você poderá tentar novamente. Complete o quiz: Continue respondendo as perguntas até completar todas. Ao final, uma mensagem de parabéns será exibida.
 
 {Reactions}
-⭐ (66)
+⭐ (65)
 
 [9/6/2024 12:57 AM] Alura
 Novo projeto recebido!
@@ -4235,7 +4235,7 @@ Descrição do projeto
 WiPiece - Sua enciclopédia pessoal de One Piece!  WiPiece é um projeto apaixonante que nasceu do amor pelos piratas de chapéu de palha. Com ele, qualquer fã de One Piece pode encontrar todas as informações que precisa sobre seus personagens favoritos, frutas do diabo e muito mais.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/6/2024 2:32 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (72)
+⭐ (73)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -23511,7 +23511,7 @@ Descrição do projeto
 Este projeto visa fornecer informações relevantes sobre a Atenção Primária à Saúde de maneira acessível para profissionais e população em geral. Por meio de uma interface web com busca integrada, os usuários podem encontrar rapidamente links para recursos externos, como documentos oficiais, portais de saúde e materiais educativos, facilitando o acesso ao conhecimento e fomentando a promoção da saúde e a participação social na gestão em saúde.
 
 {Reactions}
-⭐ (11)
+⭐ (13)
 
 [9/7/2024 11:31 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (28)
+⭐ (30)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
