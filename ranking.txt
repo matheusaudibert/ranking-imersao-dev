@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (143)
+⭐ (142)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1202,7 +1202,7 @@ Descrição do projeto
 Projeto criado durante a Imersão_Dev da Alura com Google Gemini
 
 {Reactions}
-⭐ (94)
+⭐ (95)
 
 [9/5/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (103)
+⭐ (104)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (199)
+⭐ (200)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -6869,7 +6869,7 @@ Descrição do projeto
 Este é meu primeiro projeto no qual tive contato com as linguagens de programação HTML, CSS e JavaScript! Me inspirei nos meus pais que tem um Restaurante para a realização do meu projeto, no qual criei um site para facilitar o conhecimento e tirar as dúvidas dos futuros clientes! Acesse o site em: https://santa-luiza.vercel.app
 
 {Reactions}
-⭐ (169)
+⭐ (170)
 
 [9/6/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -19581,7 +19581,7 @@ Descrição do projeto
 Criei o projeto de portifolio com objetivo de fornecer um modelo básico que possa ser facilmente adaptado a qualquer currículo pessoal.O projeto inclui exemplos de preenchimento para facilitar a adaptação. Comentários no código ajudam a personalizar e ajustar o portfólio de acordo com suas necessidades específicas.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 8:38 PM] Alura
 Novo projeto recebido!
@@ -19596,7 +19596,7 @@ Descrição do projeto
 Mundo da Imaginação é uma aplicação web voltada para ajudar os usuários a explorar livros através de um sistema de busca simples e acessível. O projeto inclui funcionalidades voltadas para acessibilidade, como opções de fontes amigáveis para pessoas com dislexia, paletas de cores adaptadas para daltônicos e link de AudioBooks para pessoas com deficiência visual.
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 8:38 PM] Alura
 Novo projeto recebido!
@@ -19611,7 +19611,7 @@ Descrição do projeto
 Em tempos em que o clima mundial está passando por grandes trasnformações, é necessário que busquemos novas tecnologias para a redução da emissão de carbono na atmosfera. Este projeto visa apresentar ao público novas tecnologias que estão surgindo para ajudar o planeta.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 8:38 PM] Alura
 Novo projeto recebido!
