@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (233)
+⭐ (234)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -2899,7 +2899,7 @@ Descrição do projeto
 AI.HUB: Sua biblioteca com as melhores INTELIGÊNCIAS ARTIFICIAIS do momento! Explore nosso catálogo e descubra IA's inovadoras para ASSISTÊNCIA, DESIGN, VÍDEO, MÚSICA e ESTUDOS. Além disso, o site conta com uma seção exclusiva que explica o funcionamento das IAs e seus diferentes tipos. ATUALIZAÇÕES estão a caminho! O site é totalmente RESPONSIVO, adaptando-se perfeitamente a qualquer dispositivo, para que você possa acessar quando e onde quiser! SEU APOIO é essencial para impulsionar o site e torná-lo conhecido por todos. Confira o link e aproveite: https://portfolio-ai-kvg6ycv0m-profile-z4ffarani.vercel.app. Agradeço desde já, future-se!
 
 {Reactions}
-⭐ (135)
+⭐ (136)
 
 [9/6/2024 5:45 AM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -10860,7 +10860,7 @@ Descrição do projeto
 A Academy EduQando é uma plataforma online personalizada que ajuda estudantes e profissionais a encontrarem os métodos de estudo mais eficazes para cada perfil de aprendizado. Com uma interface intuitiva, a ferramenta permite pesquisar por diversas técnicas de estudo, como mapas mentais, técnica Pomodoro e flashcards. Além disso, oferece links para ferramentas online que complementam o processo de aprendizado, como aplicativos de anotações e organizadores de tarefas. Para o futuro, planeja-se implementar esses métodos diretamente na plataforma, permitindo que os usuários interajam com eles de forma dinâmica e intuitiva. Por exemplo, um usuário poderá criar seus próprios flashcards ou mapas mentais diretamente na aplicação.  A Academy EduQando se destaca por oferecer uma ampla variedade de métodos de estudo, personalização e facilidade de uso, tornando o aprendizado mais eficiente e prazeroso.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 2:01 AM] Alura
 Novo projeto recebido!
@@ -10875,7 +10875,7 @@ Descrição do projeto
 é um site onde passa algumas dicas de uma maneira aleatória
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 2:05 AM] Alura
 Novo projeto recebido!
@@ -10890,7 +10890,7 @@ Descrição do projeto
 Como Ficar Rico Usando IA. Um projeto que explora o potencial transformador da Inteligência Artificial para criar seu negócio ou aumentar os lucros do seu negócio. Esta aplicação foi criada para ajudar empreendedores, profissionais de diversas áreas e pequenas empresas a entenderem e aplicarem ferramentas de IA de forma prática e eficaz.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 2:08 AM] Alura
 Novo projeto recebido!
@@ -10905,7 +10905,7 @@ Descrição do projeto
 WorkdGeek é um site de e-commerce dedicado a produtos geek, onde você pode encontrar uma variedade de itens relacionados a filmes, séries, quadrinhos e videogames.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 2:12 AM] Alura
 Novo projeto recebido!
@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -21560,7 +21560,7 @@ Descrição do projeto (cont.)
 lítica. Pesquisadores: Encontrar dados relevantes para suas pesquisas. Desenvolvido com HTML, CSS e JavaScript, este projeto é fruto da Imersão Dev da Alura e tem como objetivo democratizar o acesso à informação sobre o Brasil.  Destaques do projeto:   Interface intuitiva: Busca fácil e navegação simples. Dados atualizados: Informações sempre precisas e relevantes. Visualizações interativas: Gráficos e mapas que facilitam a compreensão dos dados. Fontes confiáveis: Todas as informações são provenientes do IBGE.   Explore os dados do Brasil agora mesmo e descubra um novo olhar sobre o nosso país!
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 10:20 PM] Alura
 Novo projeto recebido!
