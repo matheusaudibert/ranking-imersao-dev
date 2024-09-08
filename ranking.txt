@@ -12504,7 +12504,7 @@ Descrição do projeto
 O projeto consiste em uma aplicação em HTML, CSS e Javascript onde o usuário pode digitar sua data de aniversário e o sistema retornará um acontecimento histórico que aconteceu no mundo nesse dia. O projeto foi desenvolvido durante a imersão dev!
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 11:27 AM] Alura
 Novo projeto recebido!
@@ -14958,7 +14958,7 @@ Descrição do projeto
 Olá! Meu projeto é uma página com o tema "A24" (Studio de cinema) nessa página você pode pesquisar por alguns dos principais filmes, seja pelo gênero ou ano.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 3:33 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (110)
+⭐ (111)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
