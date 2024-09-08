@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (91)
+⭐ (92)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (103)
+⭐ (104)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -24875,7 +24875,7 @@ Descrição do projeto
 Meu projeto é sobre cultura gamer. Um site de notícias do mundo gamer com curiosidades, reviews .
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
