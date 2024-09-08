@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (184)
+⭐ (186)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -5860,7 +5860,7 @@ Descrição do projeto
 Seja bem-vindo(a) ao Ferramentas IA! Aqui você poderá descobrir inúmeras ferramentas que utilizam a tecnologia da inteligência artifical para facilitar suas tarefas. Precisa criar um texto bonito? Aqui você acha uma IA que faz isso! Precisa criar um vídeo legal? Aqui você encontra a ferramenta perfeita! Acesse o site pelo seguinte link: https://qmartinz.github.io/Ferramentas-IA/. Nesse website, você pode pesquisar por ferramentas online de inteligência artificial dentro de um banco de dados com mais de 40 itens. Eu criei esse website após algumas dificuldades em encontrar IAs que pudessem ser utilizadas em alguns projetos de escola, já que onde eu estudo o uso de IA é bem promovido pelo corpo docente. Aproveitem a ferramenta!
 
 {Reactions}
-⭐ (102)
+⭐ (103)
 
 [9/6/2024 5:09 PM] Alura
 Novo projeto recebido!
@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (116)
+⭐ (117)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (34)
+⭐ (33)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -9594,7 +9594,7 @@ Descrição do projeto
 Trata-se de um site dedicado para mulheres no ciclo gravídico puerperal, com finalidade de transmitir conteúdos voltados para educação perinatal, espiritualidade, alimentação saudável, entre outros temas.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/6/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -10541,7 +10541,7 @@ Descrição do projeto
 jogo da memória baseado em cartões com tema de olimpíadas e artistas famosos como estilos dos cartões, como Dali
 
 {Reactions}
-⭐ (19)
+⭐ (21)
 
 [9/7/2024 12:57 AM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (96)
+⭐ (97)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -24965,7 +24965,7 @@ Descrição do projeto
 Guia para tutores de primeira viagem. No site o tutor encontrará informações sobre vacinação de cães e gatos, alimentos tóxicos, alimentos que o pet pode ingerir e entre outros...
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
