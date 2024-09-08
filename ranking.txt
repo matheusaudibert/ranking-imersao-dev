@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (190)
+⭐ (191)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (210)
+⭐ (211)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (96)
+⭐ (97)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
