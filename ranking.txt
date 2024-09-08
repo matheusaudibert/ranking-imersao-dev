@@ -9200,7 +9200,7 @@ Descrição do projeto
 Usando das habilidades, desenvolver um pequeno desafio a todos os amantes, assim como um mini projeto, um jogo da memoria em fase beta, que pretendo melhora, contendo personagens de animes, e claro dois personagens próprios meus, aos quais.   Quero ver quantos animes vocês identificam, assim como, em quanto tempo finalizam todas as vezes, onde a cada ficam mais difíceis,  há um sistema de pontuação onde nas regras podem entender melhor.   Um pequeno vídeo de como está funcionando o projeto, assim como o link do site.  https://robertonakato.github.io/Jogo-da-Memoria-dos-Animes/
 
 {Reactions}
-⭐ (30)
+⭐ (32)
 
 [9/6/2024 10:55 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (92)
+⭐ (93)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (72)
+⭐ (73)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -19176,7 +19176,7 @@ Descrição do projeto
 O CâncerNão! é um projeto web interativo focado na prevenção do câncer, oferecendo informações claras e acessíveis para a conscientização e detecção precoce. Com um mapa de hospitais, prompts de avaliação de saúde e um chat responsivo, o site auxilia os usuários a compreenderem melhor a doença e adotarem medidas preventivas. O design acolhedor e intuitivo visa criar um ambiente de esperança e empatia, promovendo o poder da informação para salvar vidas.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 8:16 PM] Alura
 Novo projeto recebido!
