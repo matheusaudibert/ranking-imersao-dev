@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (162)
+⭐ (163)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (63)
+⭐ (64)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -9954,7 +9954,7 @@ Descrição do projeto
 Um site simples e divertido para conhecer alguns conceitos de Ciência de Dados pela ótica de um dromedário.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 12:03 AM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (67)
+⭐ (68)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -22727,7 +22727,7 @@ Descrição do projeto
 Aqui no Curioso, vamos desvendar juntos o mundo mágico da programação. ‍♂️  O que você vai encontrar por aqui:  Explicações simples: Termos técnicos explicados de um jeito fácil de entender. Exemplos práticos: Codigos e projetos para você colocar a mão na massa. Dicas e truques: Macetes para você se tornar um programador ninja. Quer aprender a criar um site incrível? Ou talvez prefira desenvolver um jogo?  Independente do seu objetivo, aqui você vai encontrar o que precisa para dar seus primeiros passos na programação.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 11:09 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
