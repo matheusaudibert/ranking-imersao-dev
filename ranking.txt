@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (203)
+⭐ (204)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (170)
+⭐ (171)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (143)
+⭐ (144)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (93)
+⭐ (94)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -21592,7 +21592,7 @@ Descrição do projeto (cont.)
 da aplicação para uma interface visualmente atraente. JavaScript: Implementação de funcionalidades dinâmicas e interativas. React: Framework utilizado para criar uma interface de usuário responsiva e modular. Node.js:Backend para gerenciamento de dados e exr.Vanilla JavaScript: Para lógica de criação, atualização e renderização das partículas.
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 10:21 PM] Alura
 Novo projeto recebido!
@@ -23676,7 +23676,7 @@ Descrição do projeto
 Antes de começar  a imersão da Alura, eu já estava trabalhando nesse site, que era um grande catálogo de filmes, músicas, e jogos. Eu construí o site enquanto meus amigos me ajudavam dando sugestões de quais filmes, músicas, ou jogos colocar, e também em conseguir as imagens. Após a finalização do site, todos ficaram satisfeitos com o site, mas eu não. Faltava mais dinamicidade, o site era totalmente estático, sem interação nenhuma com o usuário, apenas mostrando os filmes, músicas e jogos. Após entrar na imersão, decidi que usaria todo o conhecimento que aprendi na Alura para melhorar o site, adicionando JavaScript e mais interação com o usuário. Eu não conseguiria construir um site totalmente do zero em apenas 2 dias, então pequei um no qual eu já estava trabalhando e inseri os conhecimentos dados pela Imersão Dev.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:38 PM] Alura
 Novo projeto recebido!
@@ -23691,7 +23691,7 @@ Descrição do projeto
 É um site interativo que permite aos usuários expressarem seus sentimentos e, com base nisso, recebe recomendações de playlists musicais especialmente selecionadas para corresponder ao estado emocional informado. A ideia é proporcionar uma experiência musical personalizada, ajudando o usuário a descobrir novas músicas que ressoam com o que ele está sentindo no momento.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:40 PM] Alura
 Novo projeto recebido!
@@ -23706,7 +23706,7 @@ Descrição do projeto
 Santa Catarina, um estado brasileiro que encanta por sua diversidade cultural e natural, abriga um conjunto de cidades que formam um mosaico único. Com paisagens que vão desde exuberantes praias até serras majestosas, cada município catarinense possui sua própria identidade, preservando tradições e oferecendo experiências únicas aos visitantes.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23721,7 +23721,7 @@ Descrição do projeto
 Projeto Usado para verificação de preço de jogos, util bastante para aquela pessoa que adora econimizar em jogos com preços justos. Ela usa a API do google para pesquisar os respectivos jogos e mostra o melhor preço, alem de falar um pouco sobre o proprio jogo.  obs: por enquanto o prejeto se encontra em primeira fase do desenvolvimento, estou planejando muitas coisas para vir.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23751,7 +23751,7 @@ Descrição do projeto
 Bem-vindo ao TechFusion, Um site dedicado aos apaixonados por tecnologia! O TechFusion oferece informações detalhadas sobre diversos cursos e formações na área de tecnologia, com foco em quem deseja seguir uma carreira ou se especializar no setor. O TechFusion é um projeto que visa unir duas grandes instituições de ensino, a Alura e a FIAP, em um único lugar. Através de uma interface simples e eficiente, os usuários podem pesquisar e obter informações sobre cursos oferecidos por essas instituições. O objetivo principal do TechFusion é facilitar o acesso a informações sobre os cursos de ambas as plataformas, permitindo que os usuários comparem, descubram e escolham o que melhor atende às suas necessidades educacionais.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
@@ -23766,7 +23766,7 @@ Descrição do projeto
 Este projeto é como uma biblioteca virtual, com recomendações de livros de acordo com seu gênero literário favorito. Você também pode colocar palavras-chave para procurar uma obra.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:42 PM] Alura
 Novo projeto recebido!
@@ -23781,7 +23781,7 @@ Descrição do projeto
 Site para busca de gameplays sobre jogos no YouTube
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:42 PM] Alura
 Novo projeto recebido!
@@ -23796,7 +23796,7 @@ Descrição do projeto
 Página construida na imersão Alura-Googlegemini: com html, css, js e ajuda do googlegemini. Sobre os cursos da Alura Cursos de Tecnologia.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:42 PM] Alura
 Novo projeto recebido!
@@ -23811,7 +23811,7 @@ Descrição do projeto
 Desenvolvida com HTML, CSS e JavaScript, a aplicação oferece uma interface intuitiva e resultados precisos. Perfeita para fãs de quadrinhos.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:42 PM] Alura
 Novo projeto recebido!
@@ -23826,7 +23826,7 @@ Descrição do projeto
 O projeto tem como funcionalidade a busca de informações sobre doenças listadas no SINAN (Sistema de Informação de Agravos de Notificação), A busca pode ser feita pesquisando pelo nome da doença, sintomas ou descrição de uma doença. A finalidade do site é auxiliar os profissionais de saúde no dia-a-dia, ajudando a identificar doenças a partir de sintomas, tendo acesso a informações de tratamento.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (59)
+⭐ (60)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
