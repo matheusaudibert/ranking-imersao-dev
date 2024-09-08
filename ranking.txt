@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
@@ -24509,7 +24509,7 @@ Descrição do projeto
 Uma ferramenta simples e intuitiva que te ajuda a descobrir novas oportunidades de trabalho e renda extra. Basta digitar uma palavra-chave relacionada à área que você busca e pronto! Você terá acesso a uma lista de plataformas e projetos que podem te interessar.
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 11:53 PM] Alura
 Novo projeto recebido!
