@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (282)
+⭐ (283)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (38)
+⭐ (39)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -17340,7 +17340,7 @@ Descrição do projeto
 O projeto é um site sobre radioamadorismo. Ele procura detalhar algumas de suas principais modalidades. Um campo de pesquisa de palavras-chave foi adicionado ao final do projeto seguindo o modelo da imersão. Como essa imersão tem como objeto também a Inteligência artificial, todos os textos e imagens foram produzidos com inteligência artificial, exceto a página de links. Foi utilizado IA também para a produção de alguns códigos como o menu.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 6:27 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
