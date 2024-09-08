@@ -5950,7 +5950,7 @@ Descrição do projeto
 Este projeto simples e divertido tem como objetivo ajudar os amantes de gatos a encontrarem informações sobre as diversas raças felinas. Com uma interface intuitiva, o usuário pode pesquisar por raças específicas e encontrar detalhes como descrição, características e links para mais informações.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:27 PM] Alura
 Novo projeto recebido!
@@ -5965,7 +5965,7 @@ Descrição do projeto
 Pokedex interativa com os iniciais da primeira geração de pokemon
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:28 PM] Alura
 Novo projeto recebido!
@@ -5980,7 +5980,7 @@ Descrição do projeto
 Com base no que aprendi nas 5 aulas eu criei um site para pesquisar sobre personagens do jogo World of Warcraft, espero que gostem! :)
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:29 PM] Alura
 Novo projeto recebido!
@@ -5995,7 +5995,7 @@ Descrição do projeto
 "Paisagens Sul-Matogrossenses" é um guia interativo para explorar as belezas naturais de Mato Grosso do Sul. Com um mapa detalhado e informações completas sobre cada local, o usuário pode facilmente planejar sua próxima aventura, descobrindo como chegar, o que encontrar e dicas de turismo.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:31 PM] Alura
 Novo projeto recebido!
@@ -6010,7 +6010,7 @@ Descrição do projeto
 Este projeto é um aplicativo web interativo que permite aos usuários pesquisar um banco de dados de monstros do universo de The Witcher.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:32 PM] Alura
 Novo projeto recebido!
@@ -6025,7 +6025,7 @@ Descrição do projeto
 Tabuada Divertida
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:35 PM] Alura
 Novo projeto recebido!
@@ -6040,7 +6040,7 @@ Descrição do projeto
 Cantinho virtual onde você pode explorar a rica história da poesia brasileira, pesquisando pelo nome do poeta para saber mais sobre ele e suas principais obras.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:36 PM] Alura
 Novo projeto recebido!
@@ -6055,7 +6055,7 @@ Descrição do projeto
 Esta é uma aplicação web simples que permite pesquisar por judocas brasileiras. O usuário insere o nome do atleta desejado e a aplicação retorna os resultados relevantes, exibindo informações como nome completo, descrição e um link para mais detalhes.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:37 PM] Alura
 Novo projeto recebido!
@@ -6070,7 +6070,7 @@ Descrição do projeto
 Este projeto apresenta frases motivacionais com base na emoção/humor que o usuário digitar, com o objetivo de ajudar com uma palavra amiga ou acrescentar conhecimento.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:37 PM] Alura
 Novo projeto recebido!
@@ -6085,7 +6085,7 @@ Descrição do projeto
 O projeto cria uma interface simples e intuitiva para pesquisar por personagens do universo Star Wars. O usuário digita o nome de um personagem em um campo de pesquisa e ao clicar no botão "Pesquisar", a aplicação busca por correspondências no nome, lado da Força e descrição do personagem em um conjunto de dados pré-definido.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:38 PM] Alura
 Novo projeto recebido!
@@ -6100,7 +6100,7 @@ Descrição do projeto
 Cansado de passar horas procurando a receita perfeita? Com o Comidinhas Saborosas, você encontra todas as receitas que precisa em um só lugar. Economize tempo e dinheiro, explore novos sabores e prepare refeições deliciosas com facilidade. Eu construi esse site com html, css, javascript e com a ajuda do Gemini!
 
 {Reactions}
-⭐ (59)
+⭐ (60)
 
 [9/6/2024 5:40 PM] Alura
 Novo projeto recebido!
@@ -6115,7 +6115,7 @@ Descrição do projeto
 Phrasal Verbs Today: site dedicado ao estudo do idioma inglês, focado em Phrasal Verbs.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:40 PM] Alura
 Novo projeto recebido!
@@ -6130,7 +6130,7 @@ Descrição do projeto
 Pokedex
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:43 PM] Alura
 Novo projeto recebido!
@@ -6145,7 +6145,7 @@ Descrição do projeto
 AnimeList é o resultado do meu primeiro mergulho no mundo do desenvolvimento web!  Criei essa plataforma para amantes de anime como eu, onde você pode explorar lançamentos, buscar por títulos e descobrir novas séries. Sua opinião é muito importante para mim! Acesse e me dê um feedback: https://animelist-virid.vercel.app/
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/6/2024 5:44 PM] Alura
 Novo projeto recebido!
@@ -6160,7 +6160,7 @@ Descrição do projeto
 Como eu gosto de motos, e estou próximo de conquistar a Minha. Fiz um projeto de busca, onde você digita o nome, marca ou descrição sobre a moto e mostrará o resultado. Boa parte do código foi com auxilio do Google Gemini.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:46 PM] Alura
 Novo projeto recebido!
@@ -6175,7 +6175,7 @@ Descrição do projeto
 O primeiro envio estava com algumas informações faltando, por favor desconsidere - "Paisagens Sul-Matogrossenses" é um guia interativo para explorar as belezas naturais de Mato Grosso do Sul. Com um mapa detalhado e informações completas sobre cada local, o usuário pode facilmente planejar sua próxima aventura, descobrindo como chegar, o que encontrar e dicas de turismo.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:47 PM] Alura
 Novo projeto recebido!
@@ -6190,7 +6190,7 @@ Descrição do projeto
 Descubra seu signo em um clique!  É uma página web simples e interativa que te permite descobrir qual é o seu signo de forma rápida e fácil. Basta inserir sua data de nascimento e logo descobrirá qual é o seu signo e as características únicas da sua personalidade. Uma experiência divertida e intuitiva para todos. Link do site: https://descobrindo-signo.vercel.app/
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/6/2024 5:49 PM] Alura
 Novo projeto recebido!
@@ -6205,7 +6205,7 @@ Descrição do projeto
 Olá, minha ideia foi passar um pouco do meu trabalho para o projeto. Possuo uma assistência técnica em casa, que inclusive é a mais bem avaliada da minha região. Bom, quis transferir um pouco das anotações de valores e serviços que possuo em planilhas.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/6/2024 5:51 PM] Alura
 Novo projeto recebido!
@@ -6220,7 +6220,7 @@ Descrição do projeto
 O CAB (Carros Antigos Brasileiros) é o seu ChatBot completo para explorar o universo dos carros nacionais antigos. Mergulhe em um mundo de detalhes técnicos, história e imagens surpreendentes. Nossa plataforma intuitiva permite que você pesquise por modelos, marcas e anos de fabricação de forma rápida e fácil. Descubra a evolução da indústria automobilística brasileira e encontre tudo que sua curiosidade por veículos nacionais antigos deseja saber!
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (173)
+⭐ (174)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -6250,7 +6250,7 @@ Descrição do projeto
 PROJETO DA ALURA
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -6280,7 +6280,7 @@ Descrição do projeto
 Nike Air Max Plus
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/6/2024 5:57 PM] Alura
 Novo projeto recebido!
@@ -6295,7 +6295,7 @@ Descrição do projeto
 Projeto eu tentei fazer parecido com o que foi feito por vocês na imersão, mas como sou game dev, fiz voltado aos jogos populares de 2024.. Usei Html, Css e Js e o Gemini em alguns momentos.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/6/2024 5:57 PM] Alura
 Novo projeto recebido!
@@ -6310,7 +6310,7 @@ Descrição do projeto
 O projeto cria uma base de informação sobre mulheres icônicas no  jornalismo esportivo brasileiro utilizando links externos para maiores informações.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/6/2024 5:58 PM] Alura
 Novo projeto recebido!
@@ -6325,7 +6325,7 @@ Descrição do projeto
 O Patinha Ideal traz informações importantes referentes aos animais de estimação que podemos ter no Brasil. Traz desde informações gerais como "Cachorro" até mais específicos por raças, ajudando assim o público que deseja encontrar um pet ideal para si.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/6/2024 5:59 PM] Alura
 Novo projeto recebido!
