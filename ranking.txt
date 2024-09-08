@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (126)
+⭐ (127)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (134)
+⭐ (135)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (67)
+⭐ (68)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -22817,7 +22817,7 @@ Descrição do projeto
 Um jogo simples onde, a partir de chutes, você terá que acertar uma das escolas da Alura e, após isso, poderá acessar os planos da Alura ou da FIAP
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
