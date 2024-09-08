@@ -9684,7 +9684,7 @@ Descrição do projeto
 Projeto inspirado no Motocross , Escolhi esse tema porque é um esporte que amo e é muito desvalorizado no brasil, como é um esporte muito caro também e nem todos tem a condição ! foi um projeto onde utilizei sistema de direcionamento de páginas , Menu side bar animado , Segui o padrão de link porém de outras formas , fiz também a parte do javascript ja funcionando a pesquisa com múltiplas palavras etc... Fiz voltado mais para desktop porque ainda não peguei muito as manhã das config para smarthphone mais logo chego la !
 
 {Reactions}
-⭐ (22)
+⭐ (24)
 
 [9/6/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -10361,7 +10361,7 @@ Descrição do projeto
 Projeto de base de conhescimento sobre os agentes do jogo valorant, e suas habilidades e demais informações.
 
 {Reactions}
-⭐ (37)
+⭐ (39)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
