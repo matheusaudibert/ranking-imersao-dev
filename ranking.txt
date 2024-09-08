@@ -12252,7 +12252,7 @@ Descrição do projeto
 É um projeto para estudantes e para pessoas que queiram entender o universo astronômico e da ciência onde será encontrado artigos e outros sites para facilitar as pesquisa e o engrandecimento nos estudos.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 10:44 AM] Alura
 Novo projeto recebido!
@@ -12286,7 +12286,7 @@ Descrição do projeto (cont.)
 o vivo de jogos populares, tutoriais e desafios. Uma plataforma de streaming de animes: Com uma curadoria de animes clássicos e modernos, dublados e legendados. Para te ajudar ainda mais, responda às seguintes perguntas:  Qual é a sua paixão no mundo do entretenimento? Quais são as suas habilidades e conhecimentos? Qual é o seu público-alvo ideal? Qual é o seu objetivo principal com este projeto? Com base em suas respostas, podemos definir um projeto mais específico e te ajudar a dar os próximos passos.  Algumas ferramentas que podem te ajudar:  Plataformas de desenvolvimento: WordPress, Wix, Squarespace, etc. Ferramentas de edição de vídeo: Adobe Premiere Pro, Final Cut Pro, etc. Software de edição de áudio: Audacity, Adobe Audition, etc. Ferramentas de design: Adobe Photoshop, Canva, etc. Lembre-se: O sucesso de um projeto de entretenimento depende de sua criatividade, dedicação e da capacidade de se conectar com o público.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 10:52 AM] Alura
 Novo projeto recebido!
@@ -12301,7 +12301,7 @@ Descrição do projeto
 Meu primeiro projeto. Obrigado imersão dev e Google Gemini 😊
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 10:56 AM] Alura
 Novo projeto recebido!
@@ -12316,7 +12316,7 @@ Descrição do projeto
 Uma página web contento informações e quiz em torno do universo do filme "Man of Steel", este projeto tem como principal objetivo aprender técnicas de JavaScript
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 10:58 AM] Alura
 Novo projeto recebido!
@@ -12391,7 +12391,7 @@ Descrição do projeto
 Projeto criado para procurar personagens do anime Naruto. Alterado para que quando feita a pesquisa, no lugar de um link com mais informações apareça uma imagem do personagem. Pode ser visualizado por: https://petry85.github.io/projeto_imersao_alura/
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:15 AM] Alura
 Novo projeto recebido!
@@ -12406,7 +12406,7 @@ Descrição do projeto
 Nesse projeto você encontrará uma página dedicada e mostrar um pouco do que o fisiculturismo envolve. Acredito que existam pessoas, assim como eu, que não sabem nada sobre esse universo mas gostariam de conhecer ao menos um pouco. Foi desenvolvido com o auxílio do Google Gemini e as aulas da Imersão DevGemini oferecidas pela Alura. Espero que gostem do "Mundo Fisiculturista".
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:16 AM] Alura
 Novo projeto recebido!
@@ -12425,7 +12425,7 @@ Descrição do projeto (cont.)
 Brasileira de Sinais e para a promoção da inclusão de pessoas surdas.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:16 AM] Alura
 Novo projeto recebido!
@@ -12440,7 +12440,7 @@ Descrição do projeto
 O projeto foi uma inspiração de um momento que se passou em minha vida, onde tive que correr atrás de informações que não tinha naquele momento, então além de ser voltado para gestantes seria para curiosos de primeira viagem, é simples, mas com o objetivo de ser útil para muitas pessoas.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:17 AM] Alura
 Novo projeto recebido!
@@ -12549,7 +12549,7 @@ Descrição do projeto
 Uma aplicação web que permite aos usuários pesquisar e aprender sobre diferentes aberturas de xadrez. Utilizando HTML, CSS e JavaScript, a aplicação exibe descrições detalhadas e links para mais informações sobre cada abertura.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:30 AM] Alura
 Novo projeto recebido!
@@ -12594,7 +12594,7 @@ Descrição do projeto
 um guia online completo para quem busca um estilo de vida mais ecológico. Com uma interface intuitiva e conteúdo rico em imagens e links, o site oferece dicas práticas sobre diversos temas relacionados à sustentabilidade.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:42 AM] Alura
 Novo projeto recebido!
@@ -12609,7 +12609,7 @@ Descrição do projeto
 Projeto Pesquisa sobre Jogos Eletrônicos de 2024
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:47 AM] Alura
 Novo projeto recebido!
@@ -12624,7 +12624,7 @@ Descrição do projeto
 Este projeto é uma aplicação web destinada a ajudar os usuários a planejar viagens pelos Estados Unidos de forma prática e intuitiva. A plataforma permite pesquisar destinos, descobrir atrações turísticas, e até mesmo reservar passagens, hospedagem e aluguel de carros. Desenvolvida com HTML, CSS e JavaScript, com ajuda do projeto Imersão Dev da alura,  oferece uma experiência interativa, com funcionalidades de busca por cidade e detalhes sobre os principais pontos turísticos.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:47 AM] Alura
 Novo projeto recebido!
@@ -12654,7 +12654,7 @@ Descrição do projeto
 Um projeto simples, contendo informações de três personagens dos livros "As crônicas de gelo e fogo".
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:50 AM] Alura
 Novo projeto recebido!
@@ -12684,7 +12684,7 @@ Descrição do projeto
 Abelhas nativas sem ferrão
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 12:00 PM] Alura
 Novo projeto recebido!
@@ -12699,7 +12699,7 @@ Descrição do projeto
 LevelSkills é uma plataforma que avalia habilidades técnicas e comportamentais por meio de quizzes interativos. Ela ajuda usuários a identificar pontos fortes e áreas de melhoria, oferecendo feedback útil para aprimorar currículos e preparar-se melhor para entrevistas de emprego.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 12:00 PM] Alura
 Novo projeto recebido!
@@ -12714,7 +12714,7 @@ Descrição do projeto
 Wiki da Família Moderna: Descubra tudo sobre seus personagens favoritos.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 12:02 PM] Alura
 Novo projeto recebido!
@@ -12789,7 +12789,7 @@ Descrição do projeto
 O Zombie Session é o seu portal definitivo para mergulhar no universo dos zumbis! Explore a coleção de filmes, séries e animes repletos de ação, terror e muita emoção - todos voltados para a temática zumbi. Com uma busca simples, você encontra informações detalhadas sobre suas produções favoritas, sinopses, trailers e muito mais.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 12:09 PM] Alura
 Novo projeto recebido!
@@ -12804,7 +12804,7 @@ Descrição do projeto
 Com o intuito de ajudar pessoas que buscam sobre jogos retrô esse site é essencial, nele você pesquisa sobre jogos retrô ou consoles retrô podendo conhecer mais sobre os mesmos e até possibilitando baixá-los (isso ainda vai ser adicionado)
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 12:11 PM] Alura
 Novo projeto recebido!
@@ -12879,7 +12879,7 @@ Descrição do projeto
 Um site para guiar os novos torcedores da NBA! Futuramente podera ser um site para que os torcedores fieis acompanhem o status de seu time ou do seu jogador favorito em tempo real!
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 12:18 PM] Alura
 Novo projeto recebido!
@@ -12894,7 +12894,7 @@ Descrição do projeto
 Site voltado a busca sobre informações sobre os agentes do jogo Valorant
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 12:20 PM] Alura
 Novo projeto recebido!
@@ -12909,7 +12909,7 @@ Descrição do projeto
 Criei uma página para mostrar os títulos conquistados pelo Liverpool. O projeto tá bem simples, nada além do que foi ensinado durante a imersão pois essa foi minha primeira experiência com html, java e css. Por favor, leiam o read.me no github - tem um agradecimento pra vocês lá. Espero ficar pelo menos em décimo lugar pra ganhar a bolsa de estudos na Alura. Quero muito continuar a estudar com vocês e essa bolsa é tudo o que preciso. Obrigado!
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 12:20 PM] Alura
 Novo projeto recebido!
@@ -12924,7 +12924,7 @@ Descrição do projeto
 Um projeto com o tema de Marvel, onde se pode pesquisar os filmes e ver os principais personagens e as fases do UCM
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 12:20 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
