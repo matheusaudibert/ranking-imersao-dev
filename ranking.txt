@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (56)
+⭐ (58)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (84)
+⭐ (86)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -14883,7 +14883,7 @@ Descrição do projeto
 Projeto da Imersão Dev Alura que permite pesquisar jogos de vídeo game clássicos. Usuários podem buscar títulos icônicos, ver descrições breves e acessar links com mais detalhes sobre cada jogo. Desenvolvido com HTML, CSS e JavaScript para criar uma interface interativa e funcional.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 3:29 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
