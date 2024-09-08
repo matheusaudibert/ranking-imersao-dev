@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (223)
+⭐ (222)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -3079,7 +3079,7 @@ Descrição do projeto
 Observatório das Emendas Parlamentares Acesse a aplicação em Vercel nesse link: https://observatorio-emendas.vercel.app/ Esse projeto Open Source visa explicar o problema recente associado às emendas parlamentares no Brasil e oferecer uma forma de a população visualizar de forma rápida os valores destinados para emendas em cada Estado da Federação.  Os cards com uma explicação rápida ficam passando a cada 8 segundos.  Os dados das emendas de 2020 até Agosto de 2024 podem ser visualizados no iFrame do Google Looker Studio.  Colabore com esse projeto. Deixe dúvidas, sugestões ou dicas de melhorias como issues nesse repositório.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/6/2024 9:45 AM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (81)
+⭐ (80)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
