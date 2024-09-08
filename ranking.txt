@@ -1382,7 +1382,7 @@ Descrição do projeto
 Estou fazendo um projeto baseado nas linguagens de programação mais utilizadas, suas funções e média salarial
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/5/2024 5:48 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (190)
+⭐ (189)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -15365,7 +15365,7 @@ Descrição do projeto
 Este projeto é uma página web simples, informativo, que apresenta as tecnologias mais utilizadas no desenvolvimento front-end. A página utiliza HTML, CSS e JavaScript para criar uma interface dinâmica e visualmente atraente.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 4:21 PM] Alura
 Novo projeto recebido!
@@ -17460,7 +17460,7 @@ Descrição do projeto
 Site para verificar notas de jogos famosos, notas de criticos(metecritic) e público(steam)
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 6:31 PM] Alura
 Novo projeto recebido!
@@ -17477,7 +17477,7 @@ Descrição do projeto (cont.)
 eixar a interface mais bonita e intuitiva. Curiosidades:  Sabia que... essa aplicação foi desenvolvida com muito café e paixão pelo futebol? ☕⚽ Dica: Tente pesquisar por apelidos famosos, como "Rei Pelé" ou "Fenômeno". Vamos juntos construir a maior galeria de ídolos do futebol da internet!  Agradecimentos:  Agradecemos a todos que contribuíram para este projeto!  [Filipe Borja Freitas]
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 6:32 PM] Alura
 Novo projeto recebido!
@@ -24143,7 +24143,7 @@ Descrição do projeto
 ☕ Sobre a Aplicação Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.Como Funciona Pesquisa Intuitiva: Digite o nome do café que você procura e clique no botão "Pesquisar". Resultados Personalizados: A aplicação irá procurar por palavras-chave no título, descrição e tags dos cafés, mostrando os resultados mais relevantes.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
