@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (126)
+⭐ (127)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -4725,7 +4725,7 @@ Descrição do projeto
 O tema escolhido foi IA e ressaltar que, usada para o bem, podemos, juntos, construir um futuro melhor. A medicina e a área comportamental estáo precisando muito dessa tecnologia. Usei os conceitos passados nas aulas. Codifiquei um layout leve, simples para que a informação seja bem transmitida. Dexei por conta do JavaScript a responsabilidade de incluir toda a informação no site, tanto que o HTML só tem tags html. Assim, as atrualizações de conteúdo pode ser feitas com mais agilidade. Procurei usar as boas práticas e o Gemini me ajudou muito nas orientações para a criação e conclusão do projeto. Espero que gostem!
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/6/2024 3:14 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (109)
+⭐ (110)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -8939,7 +8939,7 @@ Descrição do projeto (cont.)
 se no site ela irá te informar uma mensagem, uma dica ou um conhecimento novo acerca de assuntos ambientais/sociais.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/6/2024 10:29 PM] Alura
 Novo projeto recebido!
@@ -12729,7 +12729,7 @@ Descrição do projeto
 A aplicação, "Máquina do Tempo Literária", é como um TARDIS pessoal para os amantes de sci-fi! Um repositório para autores e obras de ficção científica clássica. E aí, vamos viajar no tempo juntos?
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 12:03 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -13778,7 +13778,7 @@ Descrição do projeto
 Projeto de um gura busca pokémons e digimons
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 1:45 PM] Alura
 Novo projeto recebido!
@@ -15710,7 +15710,7 @@ Descrição do projeto
 Receitas-Sococo
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 4:44 PM] Alura
 Novo projeto recebido!
@@ -18407,7 +18407,7 @@ Descrição do projeto
 Um site simples com dicas sobre o uso do Google Gemini
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/7/2024 7:38 PM] Alura
 Novo projeto recebido!
@@ -21162,7 +21162,7 @@ Descrição do projeto
 Xadrez é um dos meus hobies favoritos; Foi minha escolha, para quem sabe... Dar um MATE nessa competição! Link do projeto: https://chess-com-maicon.vercel.app/
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 10:03 PM] Alura
 Novo projeto recebido!
