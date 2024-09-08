@@ -1652,7 +1652,7 @@ Descrição do projeto
 Voltado para o público gamer, este projeto tem como objetivo apresentar uma breve descrição de jogos retro. O conceito visual teve como base de referência diversas imagens de terminais dentro de jogos, como, por exemplo, o Pip-Boy de Fallout e outros similares. Caso tenha interesse em verificar apenas a parte visual, segue o link do deploy: https://founder-gif.github.io/EncicloGamer
 
 {Reactions}
-⭐ (54)
+⭐ (56)
 
 [9/5/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (116)
+⭐ (117)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (116)
+⭐ (117)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (98)
+⭐ (99)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (96)
+⭐ (98)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -15365,7 +15365,7 @@ Descrição do projeto
 Este projeto é uma página web simples, informativo, que apresenta as tecnologias mais utilizadas no desenvolvimento front-end. A página utiliza HTML, CSS e JavaScript para criar uma interface dinâmica e visualmente atraente.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 4:21 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24143,7 +24143,7 @@ Descrição do projeto
 ☕ Sobre a Aplicação Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.Como Funciona Pesquisa Intuitiva: Digite o nome do café que você procura e clique no botão "Pesquisar". Resultados Personalizados: A aplicação irá procurar por palavras-chave no título, descrição e tags dos cafés, mostrando os resultados mais relevantes.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
