@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (128)
+⭐ (129)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -9502,7 +9502,7 @@ Descrição do projeto
 Hey Gamer! Conheça a Biblioteca Royale, um projeto que visa fornecer informações sobre as cartas deste game incrível para que você possa se tornar o rei no campo de batalha.  Espero que curta o trabalho deste iniciante!   Link do Projeto: https://weslleyalex.github.io/BibliotecaRoyale/ (Suas observações e sugestões são bem-vindas)  Link do Repositório: https://github.com/WeslleyAlex/BibliotecaRoyale (Confira o código na integra)
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/6/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -15695,7 +15695,7 @@ Descrição do projeto
 Um projeto feito na imersão alura e meu primeiro projeto com html, css e javascript. Nele é possível pesquisar os 26 estados brasileiros, exceto Distrito Federal, ao pesquisar ele mostra as principais informações dos estados como região que se encontra, capital entre outras, além de ter um link para sites confiáveis para saber mais dos estados. Um bom site para saber mais sobre nosso país, venha pesquisar o seu estado!
 
 {Reactions}
-⭐ (20)
+⭐ (23)
 
 [9/7/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -22847,7 +22847,7 @@ Descrição do projeto
 Um aplicativo web para pesquisa e visualização de ações da B3, com gráficos de preços históricos das ações.
 
 {Reactions}
-⭐ (25)
+⭐ (27)
 
 [9/7/2024 11:12 PM] Alura
 Novo projeto recebido!
@@ -23421,7 +23421,7 @@ Descrição do projeto
 Fauna Brasileira - Projeto de Pesquisa de Animais Descrição Este projeto web tem como objetivo fornecer informações sobre a fauna brasileira de forma intuitiva e organizada. O usuário pode pesquisar por animais utilizando palavras-chave e obter resultados relevantes como nome científico, descrição, imagem e links para mais informações. Como Acessar - Vercel: https://fauna-brasileira.vercel.app/
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -23436,7 +23436,7 @@ Descrição do projeto
 Uma ferramenta interativa para fãs do Batman que desejam conhecer mais sobre os vilões de Gotham City, construída com as tecnologias básicas da web.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 11:29 PM] Alura
 Novo projeto recebido!
@@ -23451,7 +23451,7 @@ Descrição do projeto
 tentei fazer estilo uma pokedex, para verificar quais golpes o pokemon aprende em cada lvl e facilitar para escolher os golpes. por enquanto só tem 9 pokémons, os primeiros da pokédex, bulbasaur, ivysaur, venusaur, charmander, charmeleon, charizard, squirtle, wartortle e blastoise. o site mostra o nome do pokemon, numero da pokedex, habilidades que ele aprende, golpes que ele aprende, o nivel que ele aprende cada golpe, poder de cada golpe, precisao de cada golpe, o elemento de cada golpe, se é um golpe fisico ou especial, quantidade de vezes que pode usar cada golpe, e tambem uma gif de cada pokémon. espero que gostem
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -23466,7 +23466,7 @@ Descrição do projeto
 site sobre os tipos de maquiagens no Século XX,
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -23481,7 +23481,7 @@ Descrição do projeto
 A aplicação mostra através de uma pesquisa no qual você digita um país, se esse país tem uma das 7 maravilhas do mundo é exibido com algumas informações e uma foto se o país digitado não possui uma das maravilhas aparece uma mensagem para digitar um novo país.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -23496,7 +23496,7 @@ Descrição do projeto
 Guia Rápido para a Pesquisa de Planos Kaspersky
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -23511,7 +23511,7 @@ Descrição do projeto
 Este projeto visa fornecer informações relevantes sobre a Atenção Primária à Saúde de maneira acessível para profissionais e população em geral. Por meio de uma interface web com busca integrada, os usuários podem encontrar rapidamente links para recursos externos, como documentos oficiais, portais de saúde e materiais educativos, facilitando o acesso ao conhecimento e fomentando a promoção da saúde e a participação social na gestão em saúde.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:31 PM] Alura
 Novo projeto recebido!
@@ -23526,7 +23526,7 @@ Descrição do projeto
 Copia
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:32 PM] Alura
 Novo projeto recebido!
@@ -23541,7 +23541,7 @@ Descrição do projeto
 Um site feito para conhecer o folclore do Brasil, conhecer a nossa cultura e também sobre as nossas lendas
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:33 PM] Alura
 Novo projeto recebido!
@@ -23556,7 +23556,7 @@ Descrição do projeto
 Site que apresenta algumas das linguagens mais conhecidas do mundo, direcionando para o link da documentação da linguagem.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:35 PM] Alura
 Novo projeto recebido!
@@ -23571,7 +23571,7 @@ Descrição do projeto
 One Piece
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:35 PM] Alura
 Novo projeto recebido!
@@ -23586,7 +23586,7 @@ Descrição do projeto
 Uma página para conhecer um pouco mais sobre Planetas, Satélites e Estrelas. Para isso, basta selecionar o link do tópico que deseja e pesquisar sobre aquele assunto. Alterando o tópico da pesquisa, você poderá ver a página mudando de cor!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:35 PM] Alura
 Novo projeto recebido!
@@ -23601,7 +23601,7 @@ Descrição do projeto
 Maiores medalhistas da natação nos Jogos Paralímpicos de 2024 na França
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -23631,7 +23631,7 @@ Descrição do projeto
 Criar uma base de dados que explique os termos mais utilizados em marketing digital.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -23646,7 +23646,7 @@ Descrição do projeto
 Pesquisa dos melhores restaurantes da região da Paulista e Bela Vista
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:37 PM] Alura
 Novo projeto recebido!
@@ -23661,7 +23661,7 @@ Descrição do projeto
 É um site interativo que permite aos usuários expressarem seus sentimentos e, com base nisso, recebe recomendações de playlists musicais especialmente selecionadas para corresponder ao estado emocional informado. A ideia é proporcionar uma experiência musical personalizada, ajudando o usuário a descobrir novas músicas que ressoam com o que ele está sentindo no momento.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:37 PM] Alura
 Novo projeto recebido!
