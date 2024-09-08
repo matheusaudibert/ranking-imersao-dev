@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (129)
+⭐ (128)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -2282,7 +2282,7 @@ Descrição do projeto
 Este projeto é uma página interativa onde o usuário pode pesquisar exercícios específicos para diferentes partes do corpo ou objetivos (como ganho de massa, emagrecimento, fortalecimento). O site exibe os exercícios, instruções, e vídeos demonstrativos. Seu objetivo é oferecer uma plataforma prática para que os usuários encontrem exercícios personalizados de acordo com suas metas de treino.
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/5/2024 10:38 PM] Alura
 Novo projeto recebido!
@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
