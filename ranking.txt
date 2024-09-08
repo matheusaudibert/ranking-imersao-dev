@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (158)
+⭐ (159)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -16766,7 +16766,7 @@ Descrição do projeto
 Como grande fã do mangá e anime One Piece de Eiichiro Oda, decidi criar um simples site com algumas informações que possam ser interessantes para um site sobre esta grande obra. A aplicação possui uma pequena base de dados com alguns personagens que escolhi para explorar a funcionalidade do site.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 5:57 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
