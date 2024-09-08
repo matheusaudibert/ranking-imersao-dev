@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (175)
+⭐ (176)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -5642,7 +5642,7 @@ Descrição do projeto
 Olá Pessoas, o meu projeto consiste em um site onde abordo filmes baseados em casos reais, mais especificamente true crimes e nele visualizamos a correlação entre o acontecimento real e a dramaturgia e também mostrando algumas curiosidades. As ferramentas utilizadas foram somente html, css e javaScript, ao acessar a página o usuário é comunicado através de um poup-up sobre aviso de conteúdo sensível e precisa clicar em ‘’estou ciente’’ para poder prosseguir. Mais informações disponíveis no readme
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/6/2024 4:55 PM] Alura
 Novo projeto recebido!
