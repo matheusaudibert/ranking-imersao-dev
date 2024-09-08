@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (77)
+⭐ (78)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -20997,7 +20997,7 @@ Descrição do projeto
 O projeto é um site que permite aos usuários explorar e buscar notícias de forma rápida e prática. Com uma interface simples e intuitiva, o projeto oferece a possibilidade de filtrar notícias por palavras-chave e visualizar os resultados com paginação, além de destacar o termo pesquisado nos títulos e descrições.  Este projeto é um site de notícias desenvolvido durante a Imersão Alura + Gemini, uma iniciativa que visa capacitar desenvolvedores em tecnologias de ponta. Através deste projeto, foi possível aplicar os conhecimentos adquiridos na imersão para criar uma aplicação web funcional e eficiente.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 9:55 PM] Alura
 Novo projeto recebido!
@@ -22228,7 +22228,7 @@ Descrição do projeto
 O projeto apresenta alguns dos principais personagens de Ordem Paranormal.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 10:53 PM] Alura
 Novo projeto recebido!
