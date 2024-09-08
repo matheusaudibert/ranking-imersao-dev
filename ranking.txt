@@ -5725,7 +5725,7 @@ Descrição do projeto
 Será que você realmente sabe reciclar? Se você está sempre na dúvida de onde jogar aquela pilha velha ou embalagem de vidro, esse buscador é a solução! Eu criei o "Trash Ops: A guerra contra o lixo" para ser um guia prático para ajudar as pessoas a encontrarem os melhores locais para o descarte adequado. Para conferir o projeto final: https://trash-ops-imers-o-dev-alura.vercel.app/
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 4:59 PM] Alura
 Novo projeto recebido!
@@ -5740,7 +5740,7 @@ Descrição do projeto
 Segue meu projeto de formulário para possibilitar os colegas que estão em constante estudo, uma pagina que auxilia na organização pessoal de objetivos e estudos.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:02 PM] Alura
 Novo projeto recebido!
@@ -5755,7 +5755,7 @@ Descrição do projeto
 Como no readme um Miau de informações
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:03 PM] Alura
 Novo projeto recebido!
@@ -5770,7 +5770,7 @@ Descrição do projeto
 Uma lista como alguns do mutante mais fortes da novela os mutantes
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/6/2024 5:04 PM] Alura
 Novo projeto recebido!
@@ -5785,7 +5785,7 @@ Descrição do projeto
 Permite que os usuários pesquisem por termos relacionados ao Palmeiras e ao seu histórico de títulos mundiais.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -5800,7 +5800,7 @@ Descrição do projeto
 Final Girl é um blog sobre protagonistas femininas em jogos de Survival Horror.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -5815,7 +5815,7 @@ Descrição do projeto
 Estudo sobre como a humanidade como sociedade evoluiu com a tecnologia um estudo sobre tecnologia antropologica
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/6/2024 5:06 PM] Alura
 Novo projeto recebido!
@@ -5830,7 +5830,7 @@ Descrição do projeto
 Descubra o universo da fenomenologia em um único espaço interativo. O Mapa Conceitual de Fenomenologia permite que você explore conceitos e autores de maneira intuitiva. Ao pesquisar nomes ou palavras-chave, você acessa instantaneamente dados essenciais sobre os principais pensadores fenomenológicos e suas contribuições, organizados de forma clara e visual. Ideal para quem busca uma compreensão rápida e objetiva dos pilares dessa linha filosófica.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 5:08 PM] Alura
 Novo projeto recebido!
@@ -5845,7 +5845,7 @@ Descrição do projeto
 Olimpiadas
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/6/2024 5:08 PM] Alura
 Novo projeto recebido!
@@ -5860,7 +5860,7 @@ Descrição do projeto
 Seja bem-vindo(a) ao Ferramentas IA! Aqui você poderá descobrir inúmeras ferramentas que utilizam a tecnologia da inteligência artifical para facilitar suas tarefas. Precisa criar um texto bonito? Aqui você acha uma IA que faz isso! Precisa criar um vídeo legal? Aqui você encontra a ferramenta perfeita! Acesse o site pelo seguinte link: https://qmartinz.github.io/Ferramentas-IA/. Nesse website, você pode pesquisar por ferramentas online de inteligência artificial dentro de um banco de dados com mais de 40 itens. Eu criei esse website após algumas dificuldades em encontrar IAs que pudessem ser utilizadas em alguns projetos de escola, já que onde eu estudo o uso de IA é bem promovido pelo corpo docente. Aproveitem a ferramenta!
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/6/2024 5:09 PM] Alura
 Novo projeto recebido!
@@ -5875,7 +5875,7 @@ Descrição do projeto
 Fiz sobre trilhas de Petrópolis. Vou tentar incluir mais trilhas, e como o Google Gemini sugeriu fazer melhorias acrescentando também nível de dificuldade, tempo de trilha, etc...
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:16 PM] Alura
 Novo projeto recebido!
@@ -5890,7 +5890,7 @@ Descrição do projeto
 Do universo de Harry Potter, apresentamos A Biblioteca Proibida — um portal místico onde os segredos mais profundos e obscuros da magia estão à sua disposição! 🧙‍♂️📚  Explore os livros mais enigmáticos e raros, acessíveis apenas aos bruxos mais audaciosos. Realize suas pesquisas e descubra volumes secretos que podem mudar o destino do mundo mágico. Mas cuidado, alguns segredos foram escondidos por um bom motivo... 😈✨  Seja bem-vindo à Biblioteca Proibida, onde conhecimento e perigo caminham lado a lado. Será que você está pronto para desvendar o desconhecido?
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:17 PM] Alura
 Novo projeto recebido!
@@ -5905,7 +5905,7 @@ Descrição do projeto
 Esta aplicação web permite pesquisar por vencedores da Bola de Ouro, exibindo informações como nome, descrição e um link para mais detalhes. A busca é realizada em tempo real, filtrando os resultados com base no termo inserido pelo usuário.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/6/2024 5:19 PM] Alura
 Novo projeto recebido!
@@ -5935,7 +5935,7 @@ Descrição do projeto
 Desenvolvimento de uma aplicação de filmes, utilizando variáveis para armazenar dados de pesquisa e funções para exibir os resultados pesquisados, tudo isso feito manualmente, sem o uso de APIs. Inclui verificação de cadastro sem a necessidade de um banco de dados.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (172)
+⭐ (173)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
