@@ -545,7 +545,7 @@ Descrição do projeto
 A intenção de meu projeto e auxiliar no conhecimento das pessoas trazendo uma breve descrição de qualquer tecnologia que a pessoa deseja pesquisar dando a ela a oportunidade de saber mais por meio dos links o tema do meu projeto e muito abrangente entao nem todas as informacoes estao disponiveis afinal eu sou humano e ate a IA nao conseguiria afinal de tecnologia o mundo e imenso entao voce pode dar uma breve olhada no banco e ver o que tem. (adoraria colocar um video de demonstracao mas nao da ) obs: precisei pesquisar ainda mais que a imersao me oferece entao espero nao ser desclassificado por adquirir mais conhecimentos afim de tornar meu projeto mais completo.
 
 {Reactions}
-⭐ (89)
+⭐ (90)
 
 [9/5/2024 12:27 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (82)
+⭐ (84)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -7841,7 +7841,7 @@ Descrição do projeto
 Landing page de Terror e Sobrevivência
 
 {Reactions}
-⭐ (30)
+⭐ (33)
 
 [9/6/2024 9:00 PM] Alura
 Novo projeto recebido!
@@ -8860,7 +8860,7 @@ Descrição do projeto
 Este projeto web é um catálogo interativo dedicado aos fãs da franquia Final Fantasy. Desenvolvido durante a imersão Dev da Alura com Gemini, o objetivo principal é proporcionar aos usuários uma experiência imersiva e completa no universo de Final Fantasy.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/6/2024 10:23 PM] Alura
 Novo projeto recebido!
@@ -11421,7 +11421,7 @@ Descrição do projeto
 Meu Personal trainner virtual
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/7/2024 3:38 AM] Alura
 Novo projeto recebido!
@@ -15875,7 +15875,7 @@ Descrição do projeto
 O projeto tem enfoque informativo para as condições de SOP e HAC, estado do desenvolvimento (em andamento) estou aprimorando ainda e tendo algumas dificuldades, se alguém puder apoiar desde já fica o meu agradecimento.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 4:55 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -24297,7 +24297,7 @@ Descrição do projeto (cont.)
 tares. * Fomentar uma relação mais profunda e informada com a alimentação, alinhada aos princípios da sustentabilidade e da saúde integral.  Público-Alvo:  * Pessoas com restrições alimentares, como intolerância ao glúten e à lactose. * Entusiastas da culinária que buscam compreender melhor os aspectos científicos dos alimentos. * Consumidores interessados em alimentação saudável e sustentável.
 
 {Reactions}
-⭐ (18)
+⭐ (21)
 
 [9/7/2024 11:50 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
