@@ -11361,7 +11361,7 @@ Descrição do projeto
 Mergulhe no fascinante mundo da história com Pílulas Históricas! Este projeto web permite que você explore uma variedade de eventos históricos através de uma interface intuitiva. Com uma simples pesquisa, você encontra fatos interessantes, datas importantes e links para aprofundar seus conhecimentos. Desenvolvido com HTML, CSS e JavaScript, este projeto foi criado durante a Imersão Alura + Gemini e conta com um design clean e responsivo para uma experiência agradável em diferentes dispositivos.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 3:30 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (132)
+⭐ (133)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -22483,7 +22483,7 @@ Descrição do projeto
 Cansado de cursos chatos e teorias enfadonhas? No SoftinSkills, a diversão é garantida!  Descubra como transformar jogos em ferramentas poderosas para o desenvolvimento pessoal e profissional. Desenvolva as Soft Skills mais buscadas no mercado jogando, tem jogo pra todo mundo desde o tabuleiro cheio de gente quanto seu jogo online colaborativo.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
@@ -22847,7 +22847,7 @@ Descrição do projeto
 Um aplicativo web para pesquisa e visualização de ações da B3, com gráficos de preços históricos das ações.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 11:12 PM] Alura
 Novo projeto recebido!
