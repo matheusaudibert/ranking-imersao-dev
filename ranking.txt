@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (126)
+⭐ (127)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -2087,7 +2087,7 @@ Descrição do projeto
 Temos o orgulho de anunciar nossa parceria com a Alura e o Google Gemini para enfrentar os desafios relacionados à conservação dos oceanos. Juntos, estamos lançando um portal de educação inovador que oferece um espaço interativo e educativo para promover a conscientização sobre a preservação marinha. Este portal não é apenas uma fonte de informações, mas um centro de engajamento que capacita comunidades a agirem pela preservação dos oceanos.  Nossa plataforma, apoiada pela expertise da Alura e pela tecnologia avançada do Google Gemini, oferece conteúdos educativos atualizados e acessíveis sobre a importância dos oceanos e práticas sustentáveis.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 9:27 PM] Alura
 Novo projeto recebido!
@@ -2102,7 +2102,7 @@ Descrição do projeto
 Desenvolvido durante a Imersão Alura com Google Gemini. Este repositório explora o poder dos prompts para impulsionar a criação e inovação com Inteligência Artificial. Aprenda a construir soluções personalizadas e eficientes através de exemplos práticos
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/5/2024 9:39 PM] Alura
 Novo projeto recebido!
@@ -2117,7 +2117,7 @@ Descrição do projeto
 💡Projeto realizado na Imersão Dev Alura Gemini-2024,com features de acessibilidade,apresenta informações sobre os Nove Titãs Originais, personagens do anime Attack on Titan, usando normalização do texto digitado para gerar um card do personagem direto no javascript.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 9:43 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (120)
+⭐ (121)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -12774,7 +12774,7 @@ Descrição do projeto
 "Prepare-se para uma experiência única e eletrizante! No *Jogo de desviar Obstáculos*, você vai desafiar seus reflexos e habilidades em um ambiente futurista, cheio de ação e mistérios! Com gráficos modernos e um fundo dinâmico de dados em movimento, cada partida será uma imersão total. Controle seu personagem com teclas de fácil acesso, disponíveis para qualquer dispositivo, e mergulhe em uma aventura de tirar o fôlego! Está pronto para superar seus limites e alcançar o topo? Jogue agora e seja o mestre deste universo digital!"
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 12:08 PM] Alura
 Novo projeto recebido!
@@ -17912,7 +17912,7 @@ Descrição do projeto
 Essa aplicação web desenvolvida durante a imersão, projetada para ajudar os usuários a encontrar e visualizar vídeos de exercícios físicos. O projeto exibe vídeos a partir de um conjunto de dados pré-definidos, sem utilizar APIs externas, e é totalmente gerenciado com uma única página.   https://fitessence.vercel.app/
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/7/2024 7:07 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (80)
+⭐ (81)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
