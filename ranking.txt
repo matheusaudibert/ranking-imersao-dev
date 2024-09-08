@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (243)
+⭐ (244)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -697,7 +697,7 @@ Descrição do projeto
 Uma pagina de pesquisa sobre tecnologia
 
 {Reactions}
-⭐ (70)
+⭐ (68)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -10965,7 +10965,7 @@ Descrição do projeto
 O projeto "Futuro Expandido" é uma aplicação web que visa fornecer informações sobre diversas inovações e tecnologias emergentes. O projeto utiliza HTML, CSS e JavaScript para criar uma interface interativa e dinâmica para os usuários.Funcionalidade Barra de Pesquisa: Permite ao usuário buscar temas específicos. Os resultados são filtrados em tempo real com base no texto de pesquisa. Cards de Resultado: Exibe informações detalhadas sobre as tecnologias e inovações pesquisadas. Cada card pode incluir um botão para mostrar/ocultar mais detalhes. Tags e Categorias: Inclui tags para facilitar a filtragem e categorias para explorar diferentes aspectos de um tema. Objetivo O projeto visa proporcionar uma plataforma informativa e interativa para explorar o impacto de várias inovações tecnológicas e científicas, facilitando a compreensão e a pesquisa sobre essas áreas emergentes.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 2:25 AM] Alura
 Novo projeto recebido!
@@ -10995,7 +10995,7 @@ Descrição do projeto
 Site dedicado em divulgar as mais avançadas tecnologias em Inteligência Artificial! Aqui você encontrará uma seleção das melhores ferramentas para aumentar a produtividade e gerenciar seus projetos.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 2:27 AM] Alura
 Novo projeto recebido!
@@ -12789,7 +12789,7 @@ Descrição do projeto
 O Zombie Session é o seu portal definitivo para mergulhar no universo dos zumbis! Explore a coleção de filmes, séries e animes repletos de ação, terror e muita emoção - todos voltados para a temática zumbi. Com uma busca simples, você encontra informações detalhadas sobre suas produções favoritas, sinopses, trailers e muito mais.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 12:09 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -17792,7 +17792,7 @@ Descrição do projeto
 Seu Quintal Limpo" é o MVP de uma startup de impacto social que conecta profissionais de capinagem com pessoas e empresas que precisam desse serviço. Através de uma plataforma de agendamento, cadastramos trabalhadores que frequentemente enfrentam baixa demanda e acesso a oportunidades, muitos deles com baixa escolaridade e dificuldades para conseguir outros empregos. O objetivo é valorizar esses profissionais, oferecendo uma solução que define um preço justo para o serviço, promovendo inclusão e dignidade no trabalho.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -18917,7 +18917,7 @@ Descrição do projeto
 Alura Search: Conecte-se com a comunidade Alura!  Desenvolvi uma ferramenta que facilita a descoberta de novos conhecimentos e conecta você com outros alunos. Explore um vasto catálogo de cursos e encontre a sua próxima aventura no mundo da programação.  Com poucos cliques, você encontra tudo o que precisa para dar o próximo passo na sua carreira.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 8:03 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (37)
+⭐ (39)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -18947,7 +18947,7 @@ Descrição do projeto
 Projeto sobre ordem paranormal
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -24248,7 +24248,7 @@ Descrição do projeto
 Este projeto simula um terminal web que permite você interagir com comandos.  Tecnologias utilizadas: - HTML - CSS - JavaScript  Usabilidade: Fique à vontade para explorar os comandos disponíveis e me diga o que achou da experiência!  Easter Eggs: Existem alguns segredos escondidos neste terminal  Será que você consegue encontrá-los todos?  P.S. Não se preocupe, não há nada malicioso escondido por aqui. Apenas algumas brincadeiras para te entreter.
 
 {Reactions}
-⭐ (23)
+⭐ (22)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
