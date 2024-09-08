@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (100)
+⭐ (101)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -21868,7 +21868,7 @@ Descrição do projeto
 Essa é uma apresentação da Locable, uma plataforma de geolocalização que tem como propósito ajudar pessoas especiais e deficientes encontrarem locais com infraestrutura acessível, seja um restaurante com leitura braile ou um bairro que possui calçadas com rampas.   É uma proposta de uma ferramenta que ainda não existe, mas que poderia facilitar muito o cotidiano dessas pessoas que precisam de um cuidado maior, também sendo uma força de pressão social para que cada vez mais, a infraestrutura do nosso país possua mais acessibilidade e atenção com essas pessoas.  Ela possui um banco de dados separado em cidades, tipos de lugares (restaurantes, bairros, meios de transportes, etc) e tipo de acessibilidade. O usuário pode encontrar o seu destino acessível a partir da coluna de filtros ou pesquisando pelo nome na barra de pesquisa. A ideia do nome surgiu das palavras Local e Able (Acessível), condizente com seu propósito, localizar locais acessíveis. Pronto para dar o seu Locable?
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 10:34 PM] Alura
 Novo projeto recebido!
