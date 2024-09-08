@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (164)
+⭐ (165)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -5192,7 +5192,7 @@ Descrição do projeto
 Já se perguntou por que a Lua muda de forma? Ou como as fases lunares influenciam a natureza e até mesmo a gente? Essa aplicação é a sua porta de entrada para um universo de curiosidades sobre o nosso satélite natural!
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/6/2024 4:00 PM] Alura
 Novo projeto recebido!
@@ -10890,7 +10890,7 @@ Descrição do projeto
 Como Ficar Rico Usando IA. Um projeto que explora o potencial transformador da Inteligência Artificial para criar seu negócio ou aumentar os lucros do seu negócio. Esta aplicação foi criada para ajudar empreendedores, profissionais de diversas áreas e pequenas empresas a entenderem e aplicarem ferramentas de IA de forma prática e eficaz.
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/7/2024 2:08 AM] Alura
 Novo projeto recebido!
@@ -24449,7 +24449,7 @@ Descrição do projeto
 Esse projeto visa tornar a alimentação de seus cães e gatos muito mais fácil e segura! 🌟 Por meio de uma interface super amigável, você pode pesquisar qualquer alimento e descobrir se ele é seguro para o seu pet. Além disso, oferecemos informações sobre os benefícios e riscos de cada item, garantindo que seu amigo de quatro patas receba o melhor! 🐾🍽️
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
