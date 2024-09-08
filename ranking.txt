@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (125)
+⭐ (126)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -16766,7 +16766,7 @@ Descrição do projeto
 Como grande fã do mangá e anime One Piece de Eiichiro Oda, decidi criar um simples site com algumas informações que possam ser interessantes para um site sobre esta grande obra. A aplicação possui uma pequena base de dados com alguns personagens que escolhi para explorar a funcionalidade do site.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 5:57 PM] Alura
 Novo projeto recebido!
@@ -25350,7 +25350,7 @@ Descrição do projeto
 Uma breve pokedéx de pokemons com tipagem sombria!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25365,7 +25365,7 @@ Descrição do projeto
 Segue projeto da imersao
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25380,7 +25380,7 @@ Descrição do projeto
 O projeto consiste em uma página interativa que permite os usuários realizarem pesquisas textuais para encontrar um personagem do jogo *Honkai: Star Rail*, além de poderem filtrar personagens por elementos e caminhos. Ao clicar no personagem, o usuário é direcionado para um link com mais informações.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 ==============================================================
 Exported 1,677 message(s)
