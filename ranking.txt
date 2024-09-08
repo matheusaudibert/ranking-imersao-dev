@@ -9502,7 +9502,7 @@ Descrição do projeto
 Hey Gamer! Conheça a Biblioteca Royale, um projeto que visa fornecer informações sobre as cartas deste game incrível para que você possa se tornar o rei no campo de batalha.  Espero que curta o trabalho deste iniciante!   Link do Projeto: https://weslleyalex.github.io/BibliotecaRoyale/ (Suas observações e sugestões são bem-vindas)  Link do Repositório: https://github.com/WeslleyAlex/BibliotecaRoyale (Confira o código na integra)
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/6/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -22577,7 +22577,7 @@ Descrição do projeto
 Esta Pokédex é uma aplicação de busca de Pokémons, que permite ao usuário pesquisar um Pokémon pelo seu nome. A aplicação exibe o número, nome, imagem e tipos de cada Pokémon encontrado.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 11:04 PM] Alura
 Novo projeto recebido!
