@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (206)
+⭐ (207)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (205)
+⭐ (206)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -11361,7 +11361,7 @@ Descrição do projeto
 Mergulhe no fascinante mundo da história com Pílulas Históricas! Este projeto web permite que você explore uma variedade de eventos históricos através de uma interface intuitiva. Com uma simples pesquisa, você encontra fatos interessantes, datas importantes e links para aprofundar seus conhecimentos. Desenvolvido com HTML, CSS e JavaScript, este projeto foi criado durante a Imersão Alura + Gemini e conta com um design clean e responsivo para uma experiência agradável em diferentes dispositivos.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 3:30 AM] Alura
 Novo projeto recebido!
