@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (285)
+⭐ (284)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (196)
+⭐ (195)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -9074,7 +9074,7 @@ Descrição do projeto
 Site que facilita a busca de programas e projetos voltados para a INCLUSÃO TECNOLÓGICA de mulheres e outras minorias, promovendo a diversidade no mundo da programação !!
 
 {Reactions}
-⭐ (58)
+⭐ (57)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (131)
+⭐ (132)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -11421,7 +11421,7 @@ Descrição do projeto
 Meu Personal trainner virtual
 
 {Reactions}
-⭐ (77)
+⭐ (76)
 
 [9/7/2024 3:38 AM] Alura
 Novo projeto recebido!
@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
