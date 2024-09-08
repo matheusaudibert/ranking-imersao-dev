@@ -6,7 +6,6 @@ def parse_txt(filename):
     with open(filename, 'r', encoding='utf-8') as file:
         content = file.read()
     
-   
     blocks = content.split('Novo projeto recebido!\n')
     
     for block in blocks[1:]: 
@@ -37,11 +36,12 @@ def parse_txt(filename):
     
     sorted_projects = sorted(projects, key=lambda x: x[2], reverse=True)
     
-    return sorted_projects[:30]
+    return sorted_projects
 
-def display_projects(st, title, projects, start_index):
-    st.markdown(title)
-    for i, (name, github_link, reactions) in enumerate(projects, start=start_index):
+def display_projects(st, projects):
+    if not projects:
+        st.markdown("Nenhum projeto encontrado.")
+    for i, (name, github_link, reactions) in enumerate(projects, start=1):
         st.markdown(f"{i}. **Nome**: {name}")
         st.markdown(f"   **Link do GitHub**: [Link]({github_link})")
         st.markdown(f"   **Reações**: :orange[{reactions}]")
@@ -51,10 +51,9 @@ def main():
 
     st.title("🏆 Ranking Alura :gray[Não Oficial] - Última Atualização (02:30)")
 
-    
-
     input_filename = 'ranking.txt'
-    top_30_projects = parse_txt(input_filename)
+    projects = parse_txt(input_filename)
+    top_30_projects = projects[:30]
 
     col1, col2, col3 = st.columns(3)
    
@@ -63,26 +62,43 @@ def main():
     top_30 = top_30_projects[20:30]
 
     with col1:
-      display_projects(st, "#", top_10, start_index=1)
+        display_projects(st, top_10)
     
     with col2:
-      display_projects(st, "#", top_20, start_index=11)
+        display_projects(st, top_20)
     
     with col3:
-      display_projects(st, "#", top_30, start_index=21)
+        display_projects(st, top_30)
 
     st.markdown("## ⏰ Próxima atualização às 10:00. Total de projetos: 1677")
 
     col4, col5, col6 = st.columns(3)
 
     with col4:
-      st.markdown(":orange[⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)]")
+        st.markdown(":orange[⭐ Deixe o seu like no meu projeto [aqui](https://discord.com/channels/1277631721822748742/1277631722716008535/1281647648096518155)]")
 
     with col5:
-      st.markdown(":blue[🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)]")
+        st.markdown(":blue[🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)]")
 
     with col6:
-      st.markdown("Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura)")
+        st.markdown("Repositório do ranking [aqui](https://github.com/matheusaudibert/ranking_alura)")
+
+    # Barra de pesquisa para encontrar projetos
+    st.sidebar.header("🔍 Pesquisar Projetos")
+    search_name = st.sidebar.text_input("Digite o nome do projeto:")
+
+    if search_name:
+        # Filtra projetos que contêm o nome pesquisado e obtém suas posições
+        results = [(index + 1, project) for index, project in enumerate(projects) if search_name.lower() in project[0].lower()]
+        
+        if results:
+            st.sidebar.markdown(f"Resultados para '{search_name}':")
+            for position, (name, github_link, reactions) in results:
+                st.sidebar.markdown(f"{position}. **Nome**: {name}")
+                st.sidebar.markdown(f"   **Link do GitHub**: [Link]({github_link})")
+                st.sidebar.markdown(f"   **Reações**: :orange[{reactions}]")
+        else:
+            st.sidebar.markdown("Nenhum projeto encontrado com esse nome.")
 
 if __name__ == "__main__":
     main()
