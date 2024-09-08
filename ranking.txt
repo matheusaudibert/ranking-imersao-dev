@@ -15153,7 +15153,7 @@ Descrição do projeto
 Meu projeto é sobre artesanato com linhas, trazendo mais conhecimento sobre esse tipo arte!
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 3:58 PM] Alura
 Novo projeto recebido!
@@ -20982,7 +20982,7 @@ Descrição do projeto
 Este projeto web tem como objetivo fornecer uma plataforma intuitiva para aprender sobre os conceitos fundamentais do Cloud Computing. Ele oferece uma interface amigável que permite aos usuários pesquisar por tópicos específicos, filtrar o conteúdo por categorias (arquiteturas, modelos de cloud, DevOps) e explorar diversos recursos educacionais.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 9:54 PM] Alura
 Novo projeto recebido!
@@ -22003,7 +22003,7 @@ Descrição do projeto
 Criei um site dedicado aos apaixonados por Porsche! Com a ajuda do Google Gemini e dos conhecimentos adquiridos na imersão da Alura, desenvolvi um guia completo sobre os modelos da marca, explorando suas características, desempenho e benefícios. Se você, assim como eu, é um entusiasta da Porsche, venha descobrir tudo o que precisa saber sobre esses carros incríveis. Desenvolvido com HTML, CSS e JavaScript, este site é um projeto de fã para fãs.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 10:42 PM] Alura
 Novo projeto recebido!
@@ -25023,7 +25023,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
