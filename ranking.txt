@@ -4537,7 +4537,7 @@ Descrição do projeto
 O Show da Imersão é um jogo de perguntas e respostas desenvolvido em HTML, CSS e JavaScript, com o objetivo de simular a experiência do famoso programa de televisão "Show do Milhão". O jogador responde a perguntas de múltipla escolha e tem a chance de ganhar prêmios em barras de ouro virtuais que valem mais do que dinheiro.
 
 {Reactions}
-⭐ (80)
+⭐ (81)
 
 [9/6/2024 3:01 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (89)
+⭐ (90)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -14491,7 +14491,7 @@ Descrição do projeto
 Patas Gemini: Ajude a encontrar um novo melhor amigo!
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -25115,7 +25115,7 @@ Descrição do projeto
 A ideia do site, e uma pesquisa baseadas nos planetas do sistema solar.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
