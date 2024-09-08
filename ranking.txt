@@ -23282,7 +23282,7 @@ Descrição do projeto
 Aluga Jogos
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23297,7 +23297,7 @@ Descrição do projeto
 Este repositório contém um banco de dados com informações sobre os livros da Bíblia, incluindo título, descrição e link para a página da Wikipédia. O objetivo é fornecer uma base de dados estruturada e acessível para estudos bíblicos, projetos de pesquisa e desenvolvimento de aplicações relacionadas à Bíblia.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23312,7 +23312,7 @@ Descrição do projeto
 O projeto "Página Virada" é uma aplicação web que permite aos usuários pesquisar livros e visualizar informações detalhadas sobre eles. Utilizando um campo de busca, os usuários podem inserir palavras-chave relacionadas ao título, autor, gêneros, descrição, data de publicação, editora ou tags, e a aplicação retorna uma lista de livros correspondentes. Cada resultado inclui o título, uma breve descrição, e um link para mais informações. O projeto é desenvolvido com HTML, CSS e JavaScript, e os dados dos livros são carregados a partir de um arquivo externo para exibição dinâmica.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
