@@ -1033,7 +1033,7 @@ Descrição do projeto
 A base de conhecimento escolhida foi a culinária, com a criação de um site de receitas chamado Sabores da Alma para agregar receitas. As funções do projeto consistem na busca por diversas categorias: nome, tags e tempo de preparo. A descrição completa pode ser conferida no repositório do [GitHub](https://github.com/dsadriel/imersao-dev-alura-gemini). A página pode ser acessada través do link: https://dsadriel.github.io/imersao-dev-alura-gemini/
 
 {Reactions}
-⭐ (99)
+⭐ (100)
 
 [9/5/2024 4:17 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (171)
+⭐ (170)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
