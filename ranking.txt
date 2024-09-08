@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (165)
+⭐ (166)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2779,7 +2779,7 @@ Descrição do projeto
 Quer aprender inglês, espanhol, alemão, francês e italiano de maneira divertida? Então não perca tempo e venha conhecer o Lang Studious um app web que monta questionários para você treinar a língua que você está estudando em uma interface amigável!!
 
 {Reactions}
-⭐ (79)
+⭐ (80)
 
 [9/6/2024 2:55 AM] Alura
 Novo projeto recebido!
@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (107)
+⭐ (108)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
