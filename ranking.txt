@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (185)
+⭐ (186)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (169)
+⭐ (170)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (237)
+⭐ (236)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (148)
+⭐ (149)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -2327,7 +2327,7 @@ Descrição do projeto
 Site criado com a intenção de cátalogar filmes, onde é possivel buscar pelo nome, onde a ira aparecer a sinopse e um link para IMDb.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/5/2024 10:49 PM] Alura
 Novo projeto recebido!
@@ -2779,7 +2779,7 @@ Descrição do projeto
 Quer aprender inglês, espanhol, alemão, francês e italiano de maneira divertida? Então não perca tempo e venha conhecer o Lang Studious um app web que monta questionários para você treinar a língua que você está estudando em uma interface amigável!!
 
 {Reactions}
-⭐ (87)
+⭐ (86)
 
 [9/6/2024 2:55 AM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (132)
+⭐ (133)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -5162,7 +5162,7 @@ Descrição do projeto
 Durante o projeto "Imersão RPG", você irá mergulhar numa aventura onde guiará um Mago? Guerreiro? Bardo? Você escolhe quem vai partir numa aventura desde uma prisão subterrânea, até a cidade para finalmente descansar em paz. A estrutura do projeto se baseia em listas de objetos que guardam as informações dos personagens, história, etc. Além de funções responsáveis por diferentes mecânicas, como mostrar os personagens, comparar os atributos, contar a história, e mais.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/6/2024 3:51 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (89)
+⭐ (88)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (52)
+⭐ (54)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -16691,7 +16691,7 @@ Descrição do projeto
 Mecanismo de busca de filmes de forma iterativa e poderosa na acertividade. Mais de 31 mil filmes estão disponíveis.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 5:54 PM] Alura
 Novo projeto recebido!
@@ -18122,7 +18122,7 @@ Descrição do projeto
 Saudações, Neste projeto falo da “Rica Gastronomia de Moçambique” um país que faz parte da CPLP (assim com Brasil) situada na África Oriental, é com muito orgulho que apresento… sem mais de longas entrem nos nossos pratos típicos, e desfrutem os sabores deste lado do mundo.
 
 {Reactions}
-⭐ (4)
+⭐ (8)
 
 [9/7/2024 7:27 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -24980,7 +24980,7 @@ Descrição do projeto
 Meu projeto contém os robôs mais atuais do mundo.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -24995,7 +24995,7 @@ Descrição do projeto
 Projeto sobre o evento G20 Brasil
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25010,7 +25010,7 @@ Descrição do projeto
 Bem-vindo ao projeto "Evolução dos Jogos"! Este projeto foi desenvolvido como parte da imersão Alura
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25040,7 +25040,7 @@ Descrição do projeto
 Este projeto é uma aplicação simples de lista de tarefas (To-Do List). O objetivo é permitir que os usuários adicionem, marquem como concluídas e removam tarefas. A aplicação tem uma interface limpa e é fácil de usar.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
@@ -25055,7 +25055,7 @@ Descrição do projeto
 Este projeto é uma ferramenta abrangente de busca de roadmaps e um questionário interativo projetado para ajudar você a descobrir a carreira em TI que melhor se alinha ao seu perfil e interesses. Acredito que esta plataforma pode ser uma valiosa contribuição para a comunidade, atendendo tanto iniciantes quanto profissionais que estão considerando uma mudança de área.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
