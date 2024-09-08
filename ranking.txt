@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (297)
+⭐ (296)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -545,7 +545,7 @@ Descrição do projeto
 A intenção de meu projeto e auxiliar no conhecimento das pessoas trazendo uma breve descrição de qualquer tecnologia que a pessoa deseja pesquisar dando a ela a oportunidade de saber mais por meio dos links o tema do meu projeto e muito abrangente entao nem todas as informacoes estao disponiveis afinal eu sou humano e ate a IA nao conseguiria afinal de tecnologia o mundo e imenso entao voce pode dar uma breve olhada no banco e ver o que tem. (adoraria colocar um video de demonstracao mas nao da ) obs: precisei pesquisar ainda mais que a imersao me oferece entao espero nao ser desclassificado por adquirir mais conhecimentos afim de tornar meu projeto mais completo.
 
 {Reactions}
-⭐ (104)
+⭐ (105)
 
 [9/5/2024 12:27 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (115)
+⭐ (116)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -8194,7 +8194,7 @@ Descrição do projeto
 💛 Projeto de Pesquisa de Soluções Emocionais | Setembro Amarelo Descubra soluções práticas e links úteis para ajudar a lidar com sentimentos como ansiedade, tristeza e outros estados emocionais. Com uma interface simples e direta, esse projeto oferece uma forma rápida e eficaz de encontrar apoio emocional. Ideal para quem busca equilíbrio e bem-estar mental.  Neste mês de Setembro Amarelo, é importante reforçar a conscientização sobre saúde mental e prevenção ao suicídio. Se você ou alguém que conhece está precisando de ajuda, não hesite em procurar apoio.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/6/2024 9:36 PM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -10890,7 +10890,7 @@ Descrição do projeto
 Como Ficar Rico Usando IA. Um projeto que explora o potencial transformador da Inteligência Artificial para criar seu negócio ou aumentar os lucros do seu negócio. Esta aplicação foi criada para ajudar empreendedores, profissionais de diversas áreas e pequenas empresas a entenderem e aplicarem ferramentas de IA de forma prática e eficaz.
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 2:08 AM] Alura
 Novo projeto recebido!
@@ -16796,7 +16796,7 @@ Descrição do projeto
 Pomodoro Timer: Saúde e Produtividade  Este projeto oferece um cronômetro Pomodoro para ajudar programadores a prevenir Lesões por Esforço Repetitivo (LER). Com sessões de trabalho de 25 minutos seguidas de pausas, ele promove exercícios específicos para aliviar a tensão muscular. Personalize o tempo de trabalho e descanso conforme necessário e use a interface intuitiva para melhorar sua saúde e produtividade.  Tecnologias:  HTML CSS JavaScript https://pomodoro-pvy6ba09s-s7ezinhas-projects.vercel.app
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 5:59 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (92)
+⭐ (93)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -21973,7 +21973,7 @@ Descrição do projeto
 Este projeto é um emocionante jogo de perguntas com a temática das Olimpíadas! O objetivo é testar seus conhecimentos sobre os Jogos Olímpicos, desde a cidade sede mais recente até detalhes curiosos sobre esportes e atletas lendários.  Prepare-se para enfrentar uma série de perguntas desafiadoras sobre eventos passados e futuros das Olimpíadas. O jogo apresenta uma interface vibrante e interativa, inspirada na grandiosidade dos Jogos, com um fundo dourado e imagens icônicas. Cada pergunta é acompanhada por opções de resposta, e você pode acompanhar seu desempenho em tempo real.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
