@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (256)
+⭐ (257)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (183)
+⭐ (184)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (101)
+⭐ (102)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (170)
+⭐ (171)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -5552,7 +5552,7 @@ Descrição do projeto
 O jogo que te desafia a pensar!  Escolha o tema e divirta-se adivinhando palavras com a ajuda da inteligência artificial para gerar um tema a sua escolha. Desenvolvi usando apenas JavaScript, HTML e CSS.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/6/2024 4:48 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (63)
+⭐ (62)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -11391,7 +11391,7 @@ Descrição do projeto
 Esse projeto web feito durante a Imersão Dev Alura e Google Gemini te ajuda a encontrar o pet ideal para você! Com uma busca simples, você pode descobrir diversas raças de cães e gatos, com informações detalhadas sobre cada uma. Basta digitar algumas palavras-chave, como "cão pequeno e brincalhão" ou "gato calmo para apartamento", e a aplicação fará uma busca inteligente em nosso banco de dados e te apresentará os resultados mais relevantes.  O melhor de tudo? Nossa aplicação é totalmente responsiva, ou seja, funciona perfeitamente em qualquer dispositivo, seja no seu computador, tablet ou smartphone!
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 3:34 AM] Alura
 Novo projeto recebido!
@@ -14401,7 +14401,7 @@ Descrição do projeto
 Miau da Sorte é um site inspirado nos tradicionais biscoitos da sorte, mas com um toque especial: a fofura dos gatos! Ao clicar no gatinho da sorte, você receberá uma mensagem inspiradora e positiva para te acompanhar em seus dias.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 2:39 PM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (21)
+⭐ (20)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -21898,7 +21898,7 @@ Descrição do projeto
 Nosso sistema foi criado para realizar buscas de cidades históricas do Brasil, oferecendo informações sobre cada cidade, incluindo uma imagem representativa. O fundo do aplicativo possui imagens que se atualizam a cada vez que o usuário faz uma atualização. Atualmente, temos 84 cidades cadastradas em nossa base de dados. Caso a cidade que você procura não esteja listada, envie-nos um e-mail e a incluiremos na base de dados. O projeto foi desenvolvido durante o programa Imersão Dev da Alura.
 
 {Reactions}
-⭐ (36)
+⭐ (38)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
@@ -22577,7 +22577,7 @@ Descrição do projeto
 Esta Pokédex é uma aplicação de busca de Pokémons, que permite ao usuário pesquisar um Pokémon pelo seu nome. A aplicação exibe o número, nome, imagem e tipos de cada Pokémon encontrado.
 
 {Reactions}
-⭐ (10)
+⭐ (17)
 
 [9/7/2024 11:04 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
