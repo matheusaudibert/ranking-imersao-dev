@@ -2477,7 +2477,7 @@ Descrição do projeto
 O projeto tem como objetivo utilizar a API Gemini para gerar um resumo da classe informada bem como algumas habilidades da mesma.
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/5/2024 11:32 PM] Alura
 Novo projeto recebido!
