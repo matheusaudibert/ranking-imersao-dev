@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -697,7 +697,7 @@ Descrição do projeto
 Uma pagina de pesquisa sobre tecnologia
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -3366,7 +3366,7 @@ Descrição do projeto
 🎬 Filmes que Todo Mundo Deve Ver! 🌟
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/6/2024 11:42 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (97)
+⭐ (98)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (81)
+⭐ (82)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
