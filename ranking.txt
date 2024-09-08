@@ -1033,7 +1033,7 @@ Descrição do projeto
 A base de conhecimento escolhida foi a culinária, com a criação de um site de receitas chamado Sabores da Alma para agregar receitas. As funções do projeto consistem na busca por diversas categorias: nome, tags e tempo de preparo. A descrição completa pode ser conferida no repositório do [GitHub](https://github.com/dsadriel/imersao-dev-alura-gemini). A página pode ser acessada través do link: https://dsadriel.github.io/imersao-dev-alura-gemini/
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/5/2024 4:17 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (103)
+⭐ (104)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -11391,7 +11391,7 @@ Descrição do projeto
 Esse projeto web feito durante a Imersão Dev Alura e Google Gemini te ajuda a encontrar o pet ideal para você! Com uma busca simples, você pode descobrir diversas raças de cães e gatos, com informações detalhadas sobre cada uma. Basta digitar algumas palavras-chave, como "cão pequeno e brincalhão" ou "gato calmo para apartamento", e a aplicação fará uma busca inteligente em nosso banco de dados e te apresentará os resultados mais relevantes.  O melhor de tudo? Nossa aplicação é totalmente responsiva, ou seja, funciona perfeitamente em qualquer dispositivo, seja no seu computador, tablet ou smartphone!
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 3:34 AM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -24631,7 +24631,7 @@ Descrição do projeto
 Os jogos de tabuleiro estão se tornando cada vez mais populares como hobby em todo o mundo. Este projeto visa fornecer uma plataforma simples e eficaz para explorar alguns dos jogos de tabuleiro mais populares globalmente.  Descrição do Projeto Este projeto consiste em uma página web que permite aos usuários pesquisar por jogos de tabuleiro. Os jogos são consultados com base em informações armazenadas em uma base de dados JavaScript, incluindo o nome, mecânicas e tags associadas. A página oferece uma interface de pesquisa onde você pode digitar termos e visualizar os resultados que correspondem aos critérios fornecidos.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
