@@ -15003,7 +15003,7 @@ Descrição do projeto
 O projeto foi criado com a ideia de tentar facilitar o encontro de restaurantes novos e restaurantes localizados de maneira mais distante (alimentado com base fictícia), de uma maneira simples, sem fugir do tema abordado na imersão (ou seja, sem google API), para poder realizar as pesquisas de restaurantes, pode-se utilizar o tipo de comida, como por exemplo, brasileira ou mexicana. Como a base é totalmente fictícia, não temos links vinculados aos nomes dos restaurantes, e os nomes de ruas são inventados.
 
 {Reactions}
-⭐ (31)
+⭐ (32)
 
 [9/7/2024 3:40 PM] Alura
 Novo projeto recebido!
@@ -15650,7 +15650,7 @@ Descrição do projeto
 Fazenda do Luizinho:  É uma fazendinha super divertida onde as crianças podem explorar o mundo dos animais! Com a Fazenda do Luizinho, a criançada vai aprender os nomes dos animais, ouvir seus sons e até mesmo fazer buscas por seus bichinhos favoritos! Disponível em:  https://fazenda-luizinho.vercel.app/
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 4:40 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
@@ -22063,7 +22063,7 @@ Descrição do projeto
 Base com dados e fotos de planetas. Tentei criar um jogo com Gemini para incluir, mas após ficar horas e horas, consegui fazer um triângulo mover e exibir mensagem quando completa o percurso.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 10:44 PM] Alura
 Novo projeto recebido!
