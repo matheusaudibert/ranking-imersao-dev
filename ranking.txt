@@ -1202,7 +1202,7 @@ Descrição do projeto
 Projeto criado durante a Imersão_Dev da Alura com Google Gemini
 
 {Reactions}
-⭐ (91)
+⭐ (92)
 
 [9/5/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -2147,7 +2147,7 @@ Descrição do projeto
 A Garden Sustentability, é uma ideação para o projeto da Alura com o Google Gemini. Aqui nós iremos combinar o verde com a tecnologia para criar um projeto inovador e impactante.  Conceito: Um jardim comunitário que utiliza tecnologia para otimizar o cultivo, monitorar o crescimento das plantas e promover a educação ambiental de forma interativa. Utilizando Sensores (Úmidade, temperatura, nutricionais), Irrigação automatizada, Painéis solares, Aplicativo mobile e Câmeras;
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/5/2024 9:47 PM] Alura
 Novo projeto recebido!
@@ -2207,7 +2207,7 @@ Descrição do projeto
 Nostalgia Box: Abre a Caixa e Revele Suas Memórias, onde o usuário poderá resgatar a cultura juvenil  de jogos e brincadeiras.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 10:10 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (137)
+⭐ (138)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -2237,7 +2237,7 @@ Descrição do projeto
 Baldur's Gate é um website interativo que reúne informações detalhadas sobre o jogo de RPG Baldur's Gate. Ele serve como um guia completo para jogadores, oferecendo acesso rápido e fácil a informações sobre itens, monstros, personagens, locais e muito mais.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 10:18 PM] Alura
 Novo projeto recebido!
@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (172)
+⭐ (173)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (77)
+⭐ (78)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (138)
+⭐ (139)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
