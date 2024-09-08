@@ -76,7 +76,7 @@ def main():
       st.markdown("🌐 Acesse o meu projeto [aqui](https://devspaceee.vercel.app/index.html)")
 
     st.sidebar.header("🔍 Pesquisar Projeto")
-    search_name = st.sidebar.text_input("Digite o nome do projeto:")
+    search_name = st.sidebar.text_input("Digite o seu nome:")
     
     if search_name:
         results = []
@@ -91,7 +91,7 @@ def main():
                 st.sidebar.markdown(f"   **Link do Projeto**: [Link]({project_link})")
                 st.sidebar.markdown(f"   **Reações**: :orange[{reactions}]")
         else:
-            st.sidebar.markdown("Nenhum projeto encontrado.")
+            st.sidebar.markdown("Não te encontrei.")
 
 if __name__ == "__main__":
     main()
