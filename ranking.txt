@@ -423,7 +423,7 @@ Descrição do projeto
 Trata-se de um app para listar as franquias do Jurassic Park
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 11:55 AM] Alura
 Novo projeto recebido!
@@ -438,7 +438,7 @@ Descrição do projeto
 Criei um Site para verificação de idade com base nos dados de entrada(ano de nascimento), apresentando sua idade e um avatar.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 11:56 AM] Alura
 Novo projeto recebido!
@@ -453,7 +453,7 @@ Descrição do projeto
 Site oficial da empresa Heacher Games, o estúdio de jogos que eu junto de mais um amigo estamos fundando no programa de aceleração de StartUps da PUC Campinas o "Cria I". Nele constará as principais informações sobre a empresa, como nossos jogos, contato, história e muito mais.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 11:56 AM] Alura
 Novo projeto recebido!
@@ -468,7 +468,7 @@ Descrição do projeto
 O projeto se trata de uma aba de pesquisa sobres jogadores de E-Sports do mundo inteiro. Colocando em prática as aulas da imersão.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 12:09 PM] Alura
 Novo projeto recebido!
@@ -498,7 +498,7 @@ Descrição do projeto
 Oi gente esse é o projeto que eu fiz Se tiver que fazer outro que parece que foi isso que eu entendi por favor comentem comigo obrigado
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/5/2024 12:23 PM] Alura
 Novo projeto recebido!
@@ -513,7 +513,7 @@ Descrição do projeto
 Site sobre as maravilhas da humanidade modernas e antigas
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 12:25 PM] Alura
 Novo projeto recebido!
@@ -697,7 +697,7 @@ Descrição do projeto
 Uma pagina de pesquisa sobre tecnologia
 
 {Reactions}
-⭐ (73)
+⭐ (74)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -757,7 +757,7 @@ Descrição do projeto
 Ainda não tenho,  mas quero aprender.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 2:36 PM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (116)
+⭐ (117)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (190)
+⭐ (191)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2899,7 +2899,7 @@ Descrição do projeto
 AI.HUB: Sua biblioteca com as melhores INTELIGÊNCIAS ARTIFICIAIS do momento! Explore nosso catálogo e descubra IA's inovadoras para ASSISTÊNCIA, DESIGN, VÍDEO, MÚSICA e ESTUDOS. Além disso, o site conta com uma seção exclusiva que explica o funcionamento das IAs e seus diferentes tipos. ATUALIZAÇÕES estão a caminho! O site é totalmente RESPONSIVO, adaptando-se perfeitamente a qualquer dispositivo, para que você possa acessar quando e onde quiser! SEU APOIO é essencial para impulsionar o site e torná-lo conhecido por todos. Confira o link e aproveite: https://portfolio-ai-kvg6ycv0m-profile-z4ffarani.vercel.app. Agradeço desde já, future-se!
 
 {Reactions}
-⭐ (174)
+⭐ (175)
 
 [9/6/2024 5:45 AM] Alura
 Novo projeto recebido!
@@ -11057,7 +11057,7 @@ Descrição do projeto (cont.)
 o momento.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 2:37 AM] Alura
 Novo projeto recebido!
@@ -17912,7 +17912,7 @@ Descrição do projeto
 Essa aplicação web desenvolvida durante a imersão, projetada para ajudar os usuários a encontrar e visualizar vídeos de exercícios físicos. O projeto exibe vídeos a partir de um conjunto de dados pré-definidos, sem utilizar APIs externas, e é totalmente gerenciado com uma única página.   https://fitessence.vercel.app/
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 7:07 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -24143,7 +24143,7 @@ Descrição do projeto
 ☕ Sobre a Aplicação Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.Como Funciona Pesquisa Intuitiva: Digite o nome do café que você procura e clique no botão "Pesquisar". Resultados Personalizados: A aplicação irá procurar por palavras-chave no título, descrição e tags dos cafés, mostrando os resultados mais relevantes.
 
 {Reactions}
-⭐ (39)
+⭐ (38)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
