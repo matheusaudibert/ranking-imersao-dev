@@ -9669,7 +9669,7 @@ Descrição do projeto
 Ao pensar em um tema para o projeto pensei comigo porque não fazer de algo que sou apaixonada?? Pensando nisso, para tornar o processo ainda mais interessante, pensei em envolver automobilismo na ideia. A ideia principal é uma rede de apoio principalmente aos novos fãs que não sabem por onde começar a entender o esporte, apesar de eu não ter conseguido expressar totalmente isso na elaboração em si em pouco tempo. O objetivo do site é englobar notícias destaques, manuais de como assistir uma categoria específica por exemplo, tudo isso para acolher esses novos fãs que às vezes são piadas de outros mais antigos.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/6/2024 11:43 PM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (98)
+⭐ (99)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -12729,7 +12729,7 @@ Descrição do projeto
 A aplicação, "Máquina do Tempo Literária", é como um TARDIS pessoal para os amantes de sci-fi! Um repositório para autores e obras de ficção científica clássica. E aí, vamos viajar no tempo juntos?
 
 {Reactions}
-⭐ (18)
+⭐ (24)
 
 [9/7/2024 12:03 PM] Alura
 Novo projeto recebido!
@@ -13153,7 +13153,7 @@ Descrição do projeto
 Byte por Byte é o seu companheiro de jornada no mundo da programação. Quer saber o que significa aquele termo técnico? Aqui você encontra explicações simples e divertidas, além de exemplos práticos para te ajudar a entender melhor.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 12:37 PM] Alura
 Novo projeto recebido!
@@ -17837,7 +17837,7 @@ Descrição do projeto
 Este projeto foi feito com carinho e maior dedicação, um site feito para os gamers se atentarem aos lançamentos dos jogos novos desse ano de 2024. Tem alguns bugs mas estamos corrigindo aos poucos, aproveitem para ver os trailers e curtirem os jogos novos que vão lançar :) !!
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 7:03 PM] Alura
 Novo projeto recebido!
@@ -21162,7 +21162,7 @@ Descrição do projeto
 Xadrez é um dos meus hobies favoritos; Foi minha escolha, para quem sabe... Dar um MATE nessa competição! Link do projeto: https://chess-com-maicon.vercel.app/
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 10:03 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
