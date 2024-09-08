@@ -1202,7 +1202,7 @@ Descrição do projeto
 Projeto criado durante a Imersão_Dev da Alura com Google Gemini
 
 {Reactions}
-⭐ (86)
+⭐ (87)
 
 [9/5/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (166)
+⭐ (167)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (138)
+⭐ (139)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (93)
+⭐ (94)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -23132,7 +23132,7 @@ Descrição do projeto
 Uma viagem no tempo dos videogames. Prepare-se para uma jornada nostálgica pelos consoles que marcaram gerações! A Nostalgia Gamer é uma aplicação web simples e intuitiva que te permite pesquisar por seus consoles favoritos e descobrir mais sobre eles.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23147,7 +23147,7 @@ Descrição do projeto
 O projeto 'De Calouro a Adulto' é um guia online criado para auxiliar jovens na transição para a vida adulta. Oferecendo informações e dicas práticas sobre diversos temas, o projeto busca equipar os jovens com os conhecimentos e habilidades necessárias para enfrentar os desafios do mundo adulto. Desenvolvido por mim.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:21 PM] Alura
 Novo projeto recebido!
@@ -23162,7 +23162,7 @@ Descrição do projeto
 Portifólio de artes, usando das lógicas de java apresentadas no curso consegui fazer um portifólio com minhas artes que pretendo continuar produzindo para se tornar um site de encomendas
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 11:21 PM] Alura
 Novo projeto recebido!
@@ -23177,7 +23177,7 @@ Descrição do projeto
 Criar um banco de dados abrangente de personagens de anime, categorizados por suas características e qualidades. O projeto deve permitir que os usuários pesquisem por características específicas e recebam como resultado uma lista de personagens que as exemplificam, junto com exemplos e análises detalhadas dessas características em ação. Uma verdadeira fonte de inspiração, um verdadeiro InspiraVerse.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:22 PM] Alura
 Novo projeto recebido!
@@ -23192,7 +23192,7 @@ Descrição do projeto
 um To Do List com funções de adicionar remover e marcar como concluida, utilizando javascript, html e css
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:22 PM] Alura
 Novo projeto recebido!
@@ -23207,7 +23207,7 @@ Descrição do projeto
 BuscaFlix é uma aplicação web que permite aos usuários buscar filmes, séries e animes com base em características específicas. A aplicação utiliza a API do Google Generative AI para gerar conteúdo e exibir resultados de busca.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:22 PM] Alura
 Novo projeto recebido!
@@ -23222,7 +23222,7 @@ Descrição do projeto
 Projeto onde mostra a historia de algumas brincadeiras infantis antigas
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:22 PM] Alura
 Novo projeto recebido!
@@ -23237,7 +23237,7 @@ Descrição do projeto
 Sistema de Cadastro de Alunos  Este projeto é um sistema básico de cadastro de alunos, feito com Java Servlet no backend e HTML, CSS, e JavaScript no frontend.  Tecnologias  	•	Java (Servlet) 	•	Tomcat (Servidor) 	•	HTML, CSS e JavaScript  Funcionalidades  	1.	Cadastrar alunos com nome, idade e curso. 	2.	Exibir a lista de alunos cadastrados. 	3.	Validação dos dados do formulário com JavaScript.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23252,7 +23252,7 @@ Descrição do projeto
 Esse meu projeto é voltado para algo que faço no meu dia a dia que é provar todos os tipos de energéticos e dar a minha opinião sobre elas. Para amantes de energéticos como eu.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23267,7 +23267,7 @@ Descrição do projeto
 Aplicativo que pesquisa músicos clássicos
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23282,7 +23282,7 @@ Descrição do projeto
 Aluga Jogos
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23297,7 +23297,7 @@ Descrição do projeto
 Este repositório contém um banco de dados com informações sobre os livros da Bíblia, incluindo título, descrição e link para a página da Wikipédia. O objetivo é fornecer uma base de dados estruturada e acessível para estudos bíblicos, projetos de pesquisa e desenvolvimento de aplicações relacionadas à Bíblia.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23312,7 +23312,7 @@ Descrição do projeto
 O projeto "Página Virada" é uma aplicação web que permite aos usuários pesquisar livros e visualizar informações detalhadas sobre eles. Utilizando um campo de busca, os usuários podem inserir palavras-chave relacionadas ao título, autor, gêneros, descrição, data de publicação, editora ou tags, e a aplicação retorna uma lista de livros correspondentes. Cada resultado inclui o título, uma breve descrição, e um link para mais informações. O projeto é desenvolvido com HTML, CSS e JavaScript, e os dados dos livros são carregados a partir de um arquivo externo para exibição dinâmica.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23327,7 +23327,7 @@ Descrição do projeto
 A Floriografia, também conhecida como "a linguagem vitoriana das flores", surgiu como um método secreto de comunicação que deixou influências até os dias atuais. A aplicação web aqui apresentada permite explorar o rico significado por trás das flores. Com ela, você pode descobrir o que cada flor representa, sua origem e com quais outras flores combina. É como ter um dicionário de flores sempre à mão!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23342,7 +23342,7 @@ Descrição do projeto
 Buscador de Cursos Online: Ferramenta para encontrar rapidamente cursos online gratuitos em diversas áreas do conhecimento. Desenvolvido durante a Imersão Dev. Projeto Imersão Dev: Aplicação web que permite pesquisar cursos online gratuitos. Utilizando HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:26 PM] Alura
 Novo projeto recebido!
@@ -23376,7 +23376,7 @@ Descrição do projeto
 O projeto foi pensado em buscar cartas de Magic The Gathering, mostrando todas as informações das cartas.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23391,7 +23391,7 @@ Descrição do projeto
 Esse site é feito para pesquisa sobre carros, suas curiosidade e aprendi muito com esse curso, obrigado galera da alura e gemini
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -23406,7 +23406,7 @@ Descrição do projeto
 Esse projeto tem a finalidade de criar um site que fala um pouco sobre a cultura e história da China, bem como fornecer um banco de dados sobre a escrita e a língua chinesa.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
