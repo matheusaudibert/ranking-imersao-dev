@@ -393,7 +393,7 @@ Descrição do projeto
 Site para consulta e pesquisa dos Hashiras do universo de Demons Slayer usando animações simples e conceitos básicos. É possível acessar o site clicando aqui: https://desafio-dev-alura-gemini2024-and-git-441af6-andrelukes-projects.vercel.app
 
 {Reactions}
-⭐ (64)
+⭐ (65)
 
 [9/5/2024 11:32 AM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (121)
+⭐ (122)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -8269,7 +8269,7 @@ Descrição do projeto
 O Rimas Score é um site com intuito de compartilhar e armazenar dados sobre a cultura das batalha de rima no Brasil,, com ele o usuario tem acesso a historia, instagram e titulos relevantes dos Melhores Mcs do Brasil.  Talvez um dia esse projeto seja um porta voz da cultura do hip hop brasil.   RIMAS EM 3 2 1..
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/6/2024 9:41 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
