@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (34)
+⭐ (36)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24935,7 +24935,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma base de conhecimento sobre os clássicos da literatura brasileira. A aplicação permite que os usuários busquem e visualizem informações sobre os principais livros, como título, autor, resumo e links para mais detalhes.
 
 {Reactions}
-⭐ (2)
+⭐ (3)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
