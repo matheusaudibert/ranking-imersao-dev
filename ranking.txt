@@ -15650,7 +15650,7 @@ Descrição do projeto
 Fazenda do Luizinho:  É uma fazendinha super divertida onde as crianças podem explorar o mundo dos animais! Com a Fazenda do Luizinho, a criançada vai aprender os nomes dos animais, ouvir seus sons e até mesmo fazer buscas por seus bichinhos favoritos! Disponível em:  https://fazenda-luizinho.vercel.app/
 
 {Reactions}
-⭐ (7)
+⭐ (9)
 
 [9/7/2024 4:40 PM] Alura
 Novo projeto recebido!
@@ -18062,7 +18062,7 @@ Descrição do projeto
 Bem-vindo(a) ao Espécies do Parque das aves. Permite que os usuários pesquisem por aves e suas peculiaridades. O projeto foi pensado em facilitar a vida do usuário que irá visitar o parque, podendo acompanhar todas as espécies de animais presentes no ambiente.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -20472,7 +20472,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 9:26 PM] Alura
 Novo projeto recebido!
