@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (134)
+⭐ (135)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -2462,7 +2462,7 @@ Descrição do projeto
 Este projeto tem como objetivo reunir em um único local as principais linguagens de programação utilizadas atualmente, oferecendo uma maneira fácil e eficiente para entusiastas e estudantes encontrarem informações detalhadas sobre cada linguagem. Cada item conta com uma descrição clara e objetiva sobre a linguagem, destacando suas características principais, aplicação e relevância no mercado. Além disso, para aqueles que desejam se aprofundar, é fornecido um link direto para um artigo ou curso relacionado no site da Alura, onde podem aprender de forma mais aprofundada e direcionada. A ideia é criar uma plataforma que funcione como um ponto de partida para quem quer conhecer melhor as diversas linguagens de programação, sejam iniciantes em busca de uma introdução ou programadores experientes que desejam expandir seu conhecimento em novas tecnologias.
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/5/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -12759,7 +12759,7 @@ Descrição do projeto
 LevelSkills é uma plataforma que avalia habilidades técnicas e comportamentais por meio de quizzes interativos. Ela ajuda usuários a identificar pontos fortes e áreas de melhoria, oferecendo feedback útil para aprimorar currículos e preparar-se melhor para entrevistas de emprego.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 12:06 PM] Alura
 Novo projeto recebido!
@@ -21868,7 +21868,7 @@ Descrição do projeto
 Essa é uma apresentação da Locable, uma plataforma de geolocalização que tem como propósito ajudar pessoas especiais e deficientes encontrarem locais com infraestrutura acessível, seja um restaurante com leitura braile ou um bairro que possui calçadas com rampas.   É uma proposta de uma ferramenta que ainda não existe, mas que poderia facilitar muito o cotidiano dessas pessoas que precisam de um cuidado maior, também sendo uma força de pressão social para que cada vez mais, a infraestrutura do nosso país possua mais acessibilidade e atenção com essas pessoas.  Ela possui um banco de dados separado em cidades, tipos de lugares (restaurantes, bairros, meios de transportes, etc) e tipo de acessibilidade. O usuário pode encontrar o seu destino acessível a partir da coluna de filtros ou pesquisando pelo nome na barra de pesquisa. A ideia do nome surgiu das palavras Local e Able (Acessível), condizente com seu propósito, localizar locais acessíveis. Pronto para dar o seu Locable?
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 10:34 PM] Alura
 Novo projeto recebido!
