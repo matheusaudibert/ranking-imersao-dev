@@ -63,7 +63,7 @@ def calculate_time_remaining(offset_hours):
 def main():
     st.set_page_config(page_title="Ranking Alura", layout="wide", initial_sidebar_state="expanded", menu_items=None)
 
-    st.title("🏆 Ranking Aluraaa :gray[Não Oficial] - Última Atualização (04:00)")
+    st.title("🏆 Ranking Alura :gray[Não Oficial] - Sempre Atualizado")
 
     input_filename = 'ranking.txt'
     projects = parse_txt(input_filename)
@@ -84,7 +84,6 @@ def main():
     with col3:
         display_projects(st, "#", top_30, start_index=21)
 
-    st.markdown("### ⏰ Próxima atualização às 00:00.")
     st.markdown("### 📚 Total de projetos: 1677")
 
   
