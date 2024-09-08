@@ -1033,7 +1033,7 @@ Descrição do projeto
 A base de conhecimento escolhida foi a culinária, com a criação de um site de receitas chamado Sabores da Alma para agregar receitas. As funções do projeto consistem na busca por diversas categorias: nome, tags e tempo de preparo. A descrição completa pode ser conferida no repositório do [GitHub](https://github.com/dsadriel/imersao-dev-alura-gemini). A página pode ser acessada través do link: https://dsadriel.github.io/imersao-dev-alura-gemini/
 
 {Reactions}
-⭐ (86)
+⭐ (89)
 
 [9/5/2024 4:17 PM] Alura
 Novo projeto recebido!
@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (159)
+⭐ (160)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (115)
+⭐ (116)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -8969,7 +8969,7 @@ Descrição do projeto
 Tentei meu melhor para fazer um site de pesquisa dos personagens da franquia de jogos Don't Starve, pretendo implementar mais detalhes mas por enquanto foi o que pude finalizar
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/6/2024 10:36 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (66)
+⭐ (65)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -19977,7 +19977,7 @@ Descrição do projeto
 Este projeto web, intitulado Mochileiro Digital, tem como objetivo auxiliar viajantes na pesquisa de destinos. E foi feito com base no aprendizado durante as aulas do projeto de Imersão da Alura + Google Gemini. Ao inserir o nome de um país no campo de busca, o usuário obtém informações detalhadas sobre o local, incluindo: Pontos Turísticos, Comidas Típicas, Curiosidades, entre outras características do país procurado. O proejto pode ser testado pelo link a seguir: http://andersonteste.educacao.ws/
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -22727,7 +22727,7 @@ Descrição do projeto
 Aqui no Curioso, vamos desvendar juntos o mundo mágico da programação. ‍♂️  O que você vai encontrar por aqui:  Explicações simples: Termos técnicos explicados de um jeito fácil de entender. Exemplos práticos: Codigos e projetos para você colocar a mão na massa. Dicas e truques: Macetes para você se tornar um programador ninja. Quer aprender a criar um site incrível? Ou talvez prefira desenvolver um jogo?  Independente do seu objetivo, aqui você vai encontrar o que precisa para dar seus primeiros passos na programação.
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 11:09 PM] Alura
 Novo projeto recebido!
@@ -23042,7 +23042,7 @@ Descrição do projeto
 Fiz uma página de pesquisa, para todos os fãs de Naruto! É possível pesquisar os personagens mais famosos e ainda saber mais sobre eles. Página ajustável e hiper-mega-divertida, contendo algumas animações. Espero, de coração, que gostem! Pois tenho muito carinho por Naruto, Programação e pela Alura e seus professores.
 
 {Reactions}
-⭐ (67)
+⭐ (68)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
