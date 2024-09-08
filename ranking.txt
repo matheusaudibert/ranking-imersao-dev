@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (261)
+⭐ (262)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -3653,7 +3653,7 @@ Descrição do projeto
 A Jornada do Herói Lógico é um projeto de educação gamificada que combina uma aventura interativa com conceitos de programação. O jogo conta a história de um herói que enfrenta uma série de desafios e deve usar seu conhecimento lógico para tomar decisões corretas e avançar na história. Durante sua jornada, o herói precisa resolver problemas que envolvem lógica, recursão, algoritmos e funções.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/6/2024 12:35 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (128)
+⭐ (129)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -17415,7 +17415,7 @@ Descrição do projeto
 Esse projeto se trata de uma plataforma onde o usuário poderá ver as informações detalhadas sobre um filme ou série de sua preferência, podendo pesquisar títulos ou explorar os apresentados na tela principal. Algumas informações que serão apresentadas: Pôster, Título, Descrição, Data de lançamento e Plataformas disponíveis. O projeto possui um banco de dados de 100 filmes/séries sortidas, em formato JS.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 6:29 PM] Alura
 Novo projeto recebido!
@@ -20472,7 +20472,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 9:26 PM] Alura
 Novo projeto recebido!
