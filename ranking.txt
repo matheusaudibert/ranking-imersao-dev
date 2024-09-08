@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (154)
+⭐ (156)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (216)
+⭐ (217)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (163)
+⭐ (164)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -6869,7 +6869,7 @@ Descrição do projeto
 Este é meu primeiro projeto no qual tive contato com as linguagens de programação HTML, CSS e JavaScript! Me inspirei nos meus pais que tem um Restaurante para a realização do meu projeto, no qual criei um site para facilitar o conhecimento e tirar as dúvidas dos futuros clientes! Acesse o site em: https://santa-luiza.vercel.app
 
 {Reactions}
-⭐ (149)
+⭐ (151)
 
 [9/6/2024 7:02 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (99)
+⭐ (100)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (77)
+⭐ (78)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -11254,7 +11254,7 @@ Descrição do projeto
 O projeto desenvolve um sistema de autoatendimento para uma loja de marmitas. Através de um menu interativo e um totem, os clientes personalizam seus pedidos, escolhendo o tamanho da embalagem e os ingredientes principais: carboidrato, proteína e guarnição. Após a confirmação, o sistema emite uma mensagem de agradecimento, finalizando o processo de forma intuitiva e eficiente.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 3:18 AM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -17837,7 +17837,7 @@ Descrição do projeto
 Este projeto foi feito com carinho e maior dedicação, um site feito para os gamers se atentarem aos lançamentos dos jogos novos desse ano de 2024. Tem alguns bugs mas estamos corrigindo aos poucos, aproveitem para ver os trailers e curtirem os jogos novos que vão lançar :) !!
 
 {Reactions}
-⭐ (18)
+⭐ (21)
 
 [9/7/2024 7:03 PM] Alura
 Novo projeto recebido!
@@ -20877,7 +20877,7 @@ Descrição do projeto
 Projeto “Hardware Info” 🚀 Desenvolvido graças à Imersão Dev com Google Gemini (Alura), o projeto “Hardware Info” tem como objetivo ser seu guia definitivo sobre a arquitetura interna de um computador pessoal. Ao final, você vai entender como cada componente funciona e como eles se conectam para dar vida ao seu PC. 💻✨
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 9:50 PM] Alura
 Novo projeto recebido!
@@ -21147,7 +21147,7 @@ Descrição do projeto
 Projeto de um site de busca com o assunto bandas de Rock, estou torcendo para que vocês gostem. preciso muito ganhar uma bolsa , adoro a Alura e espero poder estudar mais a fundo as tecnologias, estou quase terminando minha faculdade de Análise e desenvolvimento de sistemas. obrigado
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 10:01 PM] Alura
 Novo projeto recebido!
@@ -21162,7 +21162,7 @@ Descrição do projeto
 Xadrez é um dos meus hobies favoritos; Foi minha escolha, para quem sabe... Dar um MATE nessa competição! Link do projeto: https://chess-com-maicon.vercel.app/
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 10:03 PM] Alura
 Novo projeto recebido!
@@ -21192,7 +21192,7 @@ Descrição do projeto
 mergulhando MUITO
 
 {Reactions}
-⭐ (2)
+⭐ (3)
 
 [9/7/2024 10:04 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23948,7 +23948,7 @@ Descrição do projeto
 Um editor simples de código online, com o Easy Code você pode treinar a sintaxe HMTL, CSS sem ajuda de um auto-complete dos editores de código.
 
 {Reactions}
-⭐ (36)
+⭐ (38)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24143,7 +24143,7 @@ Descrição do projeto
 ☕ Sobre a Aplicação Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.Como Funciona Pesquisa Intuitiva: Digite o nome do café que você procura e clique no botão "Pesquisar". Resultados Personalizados: A aplicação irá procurar por palavras-chave no título, descrição e tags dos cafés, mostrando os resultados mais relevantes.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
