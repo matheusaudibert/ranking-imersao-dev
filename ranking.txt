@@ -10149,7 +10149,7 @@ Descrição do projeto
 A Plataforma de Doação de Alimentos tem como objetivo conectar doadores de alimentos (pessoas ou estabelecimentos) com famílias e instituições que precisam. A aplicação visa reduzir o desperdício de alimentos e combater a insegurança alimentar nas comunidades.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 12:19 AM] Alura
 Novo projeto recebido!
@@ -12789,7 +12789,7 @@ Descrição do projeto
 O Zombie Session é o seu portal definitivo para mergulhar no universo dos zumbis! Explore a coleção de filmes, séries e animes repletos de ação, terror e muita emoção - todos voltados para a temática zumbi. Com uma busca simples, você encontra informações detalhadas sobre suas produções favoritas, sinopses, trailers e muito mais.
 
 {Reactions}
-⭐ (8)
+⭐ (13)
 
 [9/7/2024 12:09 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -17492,7 +17492,7 @@ Descrição do projeto
 O TrashWiki é um catálogo de filmes trash desenvolvido como uma aplicação web. Ele permite filtrar filmes por busca, gênero e década, proporcionando uma experiência interativa para explorar filmes desse estilo único. O diferencial é pela quantidade de filmes e as diferentes formas de filtragem.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 6:33 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (51)
+⭐ (50)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -20742,7 +20742,7 @@ Descrição do projeto
 Projeto concluído! Essa aplicação te leva em uma jornada virtual por uma das Sete Maravilhas do Mundo: Machu Picchu!. A pesquisa te leva direto para as informações que você procura, seja sobre a Cidadela Inca, o Templo do Sol ou qualquer outro ponto de interesse. Obrigado Alura por mais esta oportunidade!  Meu site no Vercel: https://machupicchutours.vercel.app/ Meu projeto no GitHub: https://github.com/jmsdavila84/machupicchutours
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 9:40 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
