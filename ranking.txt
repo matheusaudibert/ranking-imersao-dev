@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (136)
+⭐ (137)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -2477,7 +2477,7 @@ Descrição do projeto
 O projeto tem como objetivo utilizar a API Gemini para gerar um resumo da classe informada bem como algumas habilidades da mesma.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/5/2024 11:32 PM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (120)
+⭐ (121)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -18092,7 +18092,7 @@ Descrição do projeto
 Este projeto, embora simples em sua estrutura, busca maximizar a interatividade e a acessibilidade. A inclusão de vídeos do YouTube como recurso complementar nos artigos da Wikipédia visa atender a um público diversificado, incluindo aqueles com dislexia ou outros desafios de aprendizagem.  Inicialmente, planejei vincular o site oficial do Fluminense Futebol Clube, atual campeão da competição, para enriquecer o conteúdo. Entretanto, devido a instabilidades técnicas no servidor do clube, optei por omitir o link temporariamente.
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 7:24 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
