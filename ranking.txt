@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (100)
+⭐ (102)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -24695,7 +24695,7 @@ Descrição do projeto
 A ideia era um site que ajudasse devs iniciantes que não sabem sobre areas e linguagens a seguir e que tivesse games, recomendações e uma comunidade própria e bem ativa
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 11:54 PM] Alura
 Novo projeto recebido!
@@ -25190,7 +25190,7 @@ Descrição do projeto
 Sou iniciante comecei do zero o projeto, não foi fácil, faltou alguns itens, mais vou continuar evoluindo, agradeço essa grande oportunidade, projeto foi voltado a minha página de trabalho no instragam.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25205,7 +25205,7 @@ Descrição do projeto
 CAST MARVEL é um site de busca simples e fácil de usar, projetado para ajudar os fãs da Marvel a encontrar seus atores favoritos. Com uma interface intuitiva e resultados precisos, o CAST MARVEL torna a sua busca por informações sobre os atores da Marvel mais rápida e agradável.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25228,7 +25228,7 @@ Descrição do projeto (cont.)
 acho indispensável). E deu "tudo" certo! Yay!🥳 (também fiz Várias outras coisas, capricho, como por exemplo adicionar ícones... Ficou muito legal)  Nessa prática eu fixei MUITO tudo o que aprendemos na imersão, e ainda aprendi mais... Foi demais. Gostei bastante do resultado final, espero que você também goste, e que seja útil... Quem sabe? Você pode baixar e editar para se tornar seu próprio resumo inteligente!  * Criado por Louy Santana Fernandes Maracaipe durante a Imersão Dev com Google Gemini 2024/2.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25243,7 +25243,7 @@ Descrição do projeto
 Uma plataforma online que mostra gifs representando visualmente o significado de palavras. Usuários inserem uma palavra e veem gifs que explicam tanto conceitos abstratos quanto objetos concretos. O objetivo é ajudar na compreensão e aprendizado da linguagem de forma visual.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25258,7 +25258,7 @@ Descrição do projeto
 "Vamos de DDS, AI?" é um parceiro amigável e inteligente para encontrar o DDS perfeito! Você pode pesquisar por tema ou então se surpreender com nossas sugestões de conteúdo, tudo para tornar a segurança no trabalho mais leve e inspiradora. Chega de DDS chatos, bora aprender com a IA!
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25273,7 +25273,7 @@ Descrição do projeto
 Site para pesquisar um fruto que você acha legal com Imersão Dev e Google Gemini‼
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25288,7 +25288,7 @@ Descrição do projeto
 Projeto para estudos teologicos da biblia.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25303,7 +25303,7 @@ Descrição do projeto
 Trunfo de Naruto
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25318,7 +25318,7 @@ Descrição do projeto
 Olá pessoal da alura em cima do projeto que independência do brasil prendemos em aulas, decide criar uma pesquisa de informações (baseado no dia de hoje 7 de setembro), independência do brasil com informações simples e que levam a uma fonte mais detalhada
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
