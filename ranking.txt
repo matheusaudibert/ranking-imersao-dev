@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (134)
+⭐ (135)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (77)
+⭐ (78)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -20292,7 +20292,7 @@ Descrição do projeto
 O Oráculo do Tarot, por Ana Gemini. Conselhos diários e respostas que podem te apoiar em momentos decisivos da sua vida.
 
 {Reactions}
-⭐ (35)
+⭐ (36)
 
 [9/7/2024 9:17 PM] Alura
 Novo projeto recebido!
@@ -20307,7 +20307,7 @@ Descrição do projeto
 Projeto de pesquisa de conteúdos sobre a astronomia!
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:17 PM] Alura
 Novo projeto recebido!
@@ -20322,7 +20322,7 @@ Descrição do projeto
 Wimo é um website desenvolvido pela minha própria necessidade como "baby witch" em ter um mapa da lua para magia. No input, se adiciona o atual mês (já que, até o momento, consegui adicionar apenas este mês), seguido do número da data e ano. Além disso, também adicionei, com base nos conhecimentos da aula e ajuda de ferramentas de IA, uma seção "About" que possui recomendações minhas, no mesmo adicionei a idea de links que preferi não adicionar dentro da div "descrição-meta".
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -20352,7 +20352,7 @@ Descrição do projeto
 Fiz as aplicações e alterações no projeto, como texto, documentarios, e apliqueis alguns assuntos do meu cotidiano. Fiz alterações, de cores, estilos e fontes. Aplicabilidade e formatos diferentes de cores e tamanhos.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
