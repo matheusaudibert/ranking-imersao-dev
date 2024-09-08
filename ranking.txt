@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (102)
+⭐ (104)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -3548,7 +3548,7 @@ Descrição do projeto
 Eu fiz um buscador dos planetas do sistema solar, adicionei botões que aparece uma curiosidade quando passa o mouse em cima, e a barra de pesquisas para buscar cada planeta. Agradeço muito pela oportunidade, este foi o meu primeiro site e eu estou realmente muito agradecido pelos conhecimentos compartilhados e ainda mais, de graça!
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/6/2024 12:12 PM] Alura
 Novo projeto recebido!
@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (115)
+⭐ (116)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -9074,7 +9074,7 @@ Descrição do projeto
 Site que facilita a busca de programas e projetos voltados para a INCLUSÃO TECNOLÓGICA de mulheres e outras minorias, promovendo a diversidade no mundo da programação !!
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -18017,7 +18017,7 @@ Descrição do projeto
 Desenvolvido com HTML, CSS e JavaScript, o Observatório COP30 é um projeto open-source que busca democratizar o acesso à informação sobre a COP30 com uma plataforma que oferece uma interface intuitiva. Pré-visualização: https://cop30.vercel.app/
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 7:21 PM] Alura
 Novo projeto recebido!
@@ -18767,7 +18767,7 @@ Descrição do projeto
 RareBunny RoadMap é uma aplicação web projetada para auxiliar usuários na busca e descoberta de informações sobre áreas e tecnologias na indústria de tecnologia. Com uma interface simples e direta, a aplicação permite que os usuários pesquisem por diferentes áreas tecnológicas e obtenham detalhes relevantes de forma rápida e fácil.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (73)
+⭐ (74)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
