@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (260)
+⭐ (261)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (131)
+⭐ (132)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -1033,7 +1033,7 @@ Descrição do projeto
 A base de conhecimento escolhida foi a culinária, com a criação de um site de receitas chamado Sabores da Alma para agregar receitas. As funções do projeto consistem na busca por diversas categorias: nome, tags e tempo de preparo. A descrição completa pode ser conferida no repositório do [GitHub](https://github.com/dsadriel/imersao-dev-alura-gemini). A página pode ser acessada través do link: https://dsadriel.github.io/imersao-dev-alura-gemini/
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/5/2024 4:17 PM] Alura
 Novo projeto recebido!
@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (123)
+⭐ (124)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (131)
+⭐ (132)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -8939,7 +8939,7 @@ Descrição do projeto (cont.)
 se no site ela irá te informar uma mensagem, uma dica ou um conhecimento novo acerca de assuntos ambientais/sociais.
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/6/2024 10:29 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (95)
+⭐ (96)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (79)
+⭐ (78)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -19902,7 +19902,7 @@ Descrição do projeto
 Conheça toda a videografia musical da IU! Você pode encontrar os clipes por ano, é só pesquisar entre 2008 e 2024 (exceto 2016 e 2023, isso porque ela não lançou nada nesses dois anos). Pesquise, saiba mais sobre cada vídeo e aproveite!!! :) /// Estou muito feliz por ter concluído o projeto, muito obrigada a todos os professores, a Alura e ao pessoal do Discord que foi tão legal!!!
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 8:59 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -20982,7 +20982,7 @@ Descrição do projeto
 Este projeto web tem como objetivo fornecer uma plataforma intuitiva para aprender sobre os conceitos fundamentais do Cloud Computing. Ele oferece uma interface amigável que permite aos usuários pesquisar por tópicos específicos, filtrar o conteúdo por categorias (arquiteturas, modelos de cloud, DevOps) e explorar diversos recursos educacionais.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 9:54 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (17)
+⭐ (20)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
@@ -22847,7 +22847,7 @@ Descrição do projeto
 Um aplicativo web para pesquisa e visualização de ações da B3, com gráficos de preços históricos das ações.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 11:12 PM] Alura
 Novo projeto recebido!
@@ -23117,7 +23117,7 @@ Descrição do projeto
 Linkin Park Tribute  Este projeto é uma homenagem à icônica banda Linkin Park, que marcou gerações com sua música e energia. Com a recente volta da banda, decidimos criar este espaço para celebrar sua história, seus membros e, claro, sua música inesquecível.  Recursos:  Pesquisa interativa de membros Biografias detalhadas Galeria de imagens  Tecnologias: HTML, CSS, JavaScript  Contribuições: Se você é fã do Linkin Park e gostaria de contribuir para este projeto, fique à vontade para abrir um pull request. Seja adicionando novas funcionalidades, corrigindo bugs ou simplesmente sugerindo melhorias.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23132,7 +23132,7 @@ Descrição do projeto
 Uma viagem no tempo dos videogames. Prepare-se para uma jornada nostálgica pelos consoles que marcaram gerações! A Nostalgia Gamer é uma aplicação web simples e intuitiva que te permite pesquisar por seus consoles favoritos e descobrir mais sobre eles.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23147,7 +23147,7 @@ Descrição do projeto
 O projeto 'De Calouro a Adulto' é um guia online criado para auxiliar jovens na transição para a vida adulta. Oferecendo informações e dicas práticas sobre diversos temas, o projeto busca equipar os jovens com os conhecimentos e habilidades necessárias para enfrentar os desafios do mundo adulto. Desenvolvido por mim.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:21 PM] Alura
 Novo projeto recebido!
@@ -23162,7 +23162,7 @@ Descrição do projeto
 Portifólio de artes, usando das lógicas de java apresentadas no curso consegui fazer um portifólio com minhas artes que pretendo continuar produzindo para se tornar um site de encomendas
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:21 PM] Alura
 Novo projeto recebido!
@@ -23177,7 +23177,7 @@ Descrição do projeto
 Criar um banco de dados abrangente de personagens de anime, categorizados por suas características e qualidades. O projeto deve permitir que os usuários pesquisem por características específicas e recebam como resultado uma lista de personagens que as exemplificam, junto com exemplos e análises detalhadas dessas características em ação. Uma verdadeira fonte de inspiração, um verdadeiro InspiraVerse.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:22 PM] Alura
 Novo projeto recebido!
@@ -23192,7 +23192,7 @@ Descrição do projeto
 um To Do List com funções de adicionar remover e marcar como concluida, utilizando javascript, html e css
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:22 PM] Alura
 Novo projeto recebido!
@@ -23207,7 +23207,7 @@ Descrição do projeto
 BuscaFlix é uma aplicação web que permite aos usuários buscar filmes, séries e animes com base em características específicas. A aplicação utiliza a API do Google Generative AI para gerar conteúdo e exibir resultados de busca.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:22 PM] Alura
 Novo projeto recebido!
@@ -23222,7 +23222,7 @@ Descrição do projeto
 Projeto onde mostra a historia de algumas brincadeiras infantis antigas
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:22 PM] Alura
 Novo projeto recebido!
@@ -23237,7 +23237,7 @@ Descrição do projeto
 Sistema de Cadastro de Alunos  Este projeto é um sistema básico de cadastro de alunos, feito com Java Servlet no backend e HTML, CSS, e JavaScript no frontend.  Tecnologias  	•	Java (Servlet) 	•	Tomcat (Servidor) 	•	HTML, CSS e JavaScript  Funcionalidades  	1.	Cadastrar alunos com nome, idade e curso. 	2.	Exibir a lista de alunos cadastrados. 	3.	Validação dos dados do formulário com JavaScript.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23252,7 +23252,7 @@ Descrição do projeto
 Esse meu projeto é voltado para algo que faço no meu dia a dia que é provar todos os tipos de energéticos e dar a minha opinião sobre elas. Para amantes de energéticos como eu.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23267,7 +23267,7 @@ Descrição do projeto
 Aplicativo que pesquisa músicos clássicos
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23282,7 +23282,7 @@ Descrição do projeto
 Aluga Jogos
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23297,7 +23297,7 @@ Descrição do projeto
 Este repositório contém um banco de dados com informações sobre os livros da Bíblia, incluindo título, descrição e link para a página da Wikipédia. O objetivo é fornecer uma base de dados estruturada e acessível para estudos bíblicos, projetos de pesquisa e desenvolvimento de aplicações relacionadas à Bíblia.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23312,7 +23312,7 @@ Descrição do projeto
 O projeto "Página Virada" é uma aplicação web que permite aos usuários pesquisar livros e visualizar informações detalhadas sobre eles. Utilizando um campo de busca, os usuários podem inserir palavras-chave relacionadas ao título, autor, gêneros, descrição, data de publicação, editora ou tags, e a aplicação retorna uma lista de livros correspondentes. Cada resultado inclui o título, uma breve descrição, e um link para mais informações. O projeto é desenvolvido com HTML, CSS e JavaScript, e os dados dos livros são carregados a partir de um arquivo externo para exibição dinâmica.
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23327,7 +23327,7 @@ Descrição do projeto
 A Floriografia, também conhecida como "a linguagem vitoriana das flores", surgiu como um método secreto de comunicação que deixou influências até os dias atuais. A aplicação web aqui apresentada permite explorar o rico significado por trás das flores. Com ela, você pode descobrir o que cada flor representa, sua origem e com quais outras flores combina. É como ter um dicionário de flores sempre à mão!
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23342,7 +23342,7 @@ Descrição do projeto
 Buscador de Cursos Online: Ferramenta para encontrar rapidamente cursos online gratuitos em diversas áreas do conhecimento. Desenvolvido durante a Imersão Dev. Projeto Imersão Dev: Aplicação web que permite pesquisar cursos online gratuitos. Utilizando HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:26 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23376,7 +23376,7 @@ Descrição do projeto
 O projeto foi pensado em buscar cartas de Magic The Gathering, mostrando todas as informações das cartas.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23391,7 +23391,7 @@ Descrição do projeto
 Esse site é feito para pesquisa sobre carros, suas curiosidade e aprendi muito com esse curso, obrigado galera da alura e gemini
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -23406,7 +23406,7 @@ Descrição do projeto
 Esse projeto tem a finalidade de criar um site que fala um pouco sobre a cultura e história da China, bem como fornecer um banco de dados sobre a escrita e a língua chinesa.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -23421,7 +23421,7 @@ Descrição do projeto
 Fauna Brasileira - Projeto de Pesquisa de Animais Descrição Este projeto web tem como objetivo fornecer informações sobre a fauna brasileira de forma intuitiva e organizada. O usuário pode pesquisar por animais utilizando palavras-chave e obter resultados relevantes como nome científico, descrição, imagem e links para mais informações. Como Acessar - Vercel: https://fauna-brasileira.vercel.app/
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -23436,7 +23436,7 @@ Descrição do projeto
 Uma ferramenta interativa para fãs do Batman que desejam conhecer mais sobre os vilões de Gotham City, construída com as tecnologias básicas da web.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:29 PM] Alura
 Novo projeto recebido!
@@ -23451,7 +23451,7 @@ Descrição do projeto
 tentei fazer estilo uma pokedex, para verificar quais golpes o pokemon aprende em cada lvl e facilitar para escolher os golpes. por enquanto só tem 9 pokémons, os primeiros da pokédex, bulbasaur, ivysaur, venusaur, charmander, charmeleon, charizard, squirtle, wartortle e blastoise. o site mostra o nome do pokemon, numero da pokedex, habilidades que ele aprende, golpes que ele aprende, o nivel que ele aprende cada golpe, poder de cada golpe, precisao de cada golpe, o elemento de cada golpe, se é um golpe fisico ou especial, quantidade de vezes que pode usar cada golpe, e tambem uma gif de cada pokémon. espero que gostem
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -23466,7 +23466,7 @@ Descrição do projeto
 site sobre os tipos de maquiagens no Século XX,
 
 {Reactions}
-⭐ (3)
+⭐ (4)
 
 [9/7/2024 11:30 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (64)
+⭐ (65)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
