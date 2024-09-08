@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (240)
+⭐ (241)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -530,7 +530,7 @@ Descrição do projeto (cont.)
 ário e armazenamento de dados.   Características:   Design minimalista: Interface limpa e fácil de usar, com foco nas funcionalidades essenciais.  Personalização: Permite que o usuário ajuste a aparência e o comportamento da aplicação de acordo com suas preferências.  Responsividade: Adapta-se a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.   Benefícios:   Aumento da produtividade: Ajuda o usuário a organizar suas tarefas e manter o foco.  Melhora da experiência do usuário: Interface intuitiva e personalizável.  Código limpo e organizado: Facilita a manutenção e a adição de novas funcionalidades.   Este projeto é um excelente ponto de partida para quem deseja aprender a desenvolver aplicações web utilizando HTML, CSS e JavaScript. Além disso, é uma ferramenta útil para organizar suas tarefas e aumentar sua produtividade.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/5/2024 12:26 PM] Alura
 Novo projeto recebido!
@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (171)
+⭐ (172)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -4447,7 +4447,7 @@ Descrição do projeto
 Olá, criei esse projeto para centralizar todos os jogos em uma página só, lembra da lista telefônica? (coisa de velho, eu sei haha) a ideia seria a mesma, mas para jogos. Facilitando no acesso a wiki, plataformas disponíveis e com uma breve descrição. por enquanto o banco de dados não é tão grande, mas fiz com muito amor para vocês, espero que gostem ❤. link para a página: https://firstproject-flax.vercel.app/
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/6/2024 2:52 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (91)
+⭐ (92)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (75)
+⭐ (76)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -17837,7 +17837,7 @@ Descrição do projeto
 Este projeto foi feito com carinho e maior dedicação, um site feito para os gamers se atentarem aos lançamentos dos jogos novos desse ano de 2024. Tem alguns bugs mas estamos corrigindo aos poucos, aproveitem para ver os trailers e curtirem os jogos novos que vão lançar :) !!
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 7:03 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -20292,7 +20292,7 @@ Descrição do projeto
 O Oráculo do Tarot, por Ana Gemini. Conselhos diários e respostas que podem te apoiar em momentos decisivos da sua vida.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 9:17 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
