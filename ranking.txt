@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (80)
+⭐ (81)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -6762,7 +6762,7 @@ Descrição do projeto
 GeminiWebDev é uma aplicação web simples e divertida que permite aos usuários pesquisarem por seus personagens favoritos de filmes, séries, jogos e desenhos animados. A ideia é criar uma experiência interativa e personalizada para os fãs de diferentes universos.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/6/2024 6:52 PM] Alura
 Novo projeto recebido!
@@ -6777,7 +6777,7 @@ Descrição do projeto
 Musiquinhas é um lugar onde as pessoas possam pesquisar sobre o que elas estão sentindo e com isso, ao clicar em "pesquisar", serão mostradas algumas músicas registradas na aplicação dados.js, tirando delas algumas palavras chaves que estão nas descrições das músicas ou em suas tags. Ou até mesmo sortear alguma música aleatória no "Estou com sorte". Musiquinhas não possui muitas músicas, mas, as que tem, o usuário será capaz de clicar no cantor da mesma e será redirecionado para a sua página no spotify, e caso queira escutá-la, ao clicar no botão "Escute", ele será redirecionado para a página específica da música, também no spotify.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/6/2024 6:53 PM] Alura
 Novo projeto recebido!
@@ -6794,7 +6794,7 @@ Descrição do projeto (cont.)
 o usuário guarde tudo em um formato organizado e acessível. A plataforma é simples e eficiente, oferecendo uma interface intuitiva com um terminal de comandos criativo e prático. Esse terminal pode ser acessado ao clicar na opção de **"Login"** no menu superior da interface, onde o usuário poderá interagir diretamente com suas coleções de conhecimento.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/6/2024 6:54 PM] Alura
 Novo projeto recebido!
@@ -6809,7 +6809,7 @@ Descrição do projeto
 Este projeto implementa uma galeria de imagens interativa com abas, funcionalidade de busca e navegação por setas dentro de um modal.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 6:56 PM] Alura
 Novo projeto recebido!
@@ -15650,7 +15650,7 @@ Descrição do projeto
 Fazenda do Luizinho:  É uma fazendinha super divertida onde as crianças podem explorar o mundo dos animais! Com a Fazenda do Luizinho, a criançada vai aprender os nomes dos animais, ouvir seus sons e até mesmo fazer buscas por seus bichinhos favoritos! Disponível em:  https://fazenda-luizinho.vercel.app/
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 4:40 PM] Alura
 Novo projeto recebido!
