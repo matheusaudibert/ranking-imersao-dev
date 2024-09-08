@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (139)
+⭐ (138)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
@@ -24023,7 +24023,7 @@ Descrição do projeto
 Eco Sentinel é uma plataforma web para monitoramento e alerta de incêndios florestais no Brasil. Utilizamos dados de satélite em tempo real e relatos de cidadãos para fornecer informações críticas e coordenar esforços de resposta.
 
 {Reactions}
-⭐ (10)
+⭐ (12)
 
 [9/7/2024 11:45 PM] Alura
 Novo projeto recebido!
