@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (144)
+⭐ (145)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -9059,7 +9059,7 @@ Descrição do projeto
 Uma página sobre animais marinhos que pode ser divertida,  O objetivo é apresentar o mundo marinho de forma interessante e despertar o interesse das pessoas pela preservação dos oceanos.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/6/2024 10:45 PM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -17792,7 +17792,7 @@ Descrição do projeto
 Seu Quintal Limpo" é o MVP de uma startup de impacto social que conecta profissionais de capinagem com pessoas e empresas que precisam desse serviço. Através de uma plataforma de agendamento, cadastramos trabalhadores que frequentemente enfrentam baixa demanda e acesso a oportunidades, muitos deles com baixa escolaridade e dificuldades para conseguir outros empregos. O objetivo é valorizar esses profissionais, oferecendo uma solução que define um preço justo para o serviço, promovendo inclusão e dignidade no trabalho.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (82)
+⭐ (84)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
@@ -21868,7 +21868,7 @@ Descrição do projeto
 Essa é uma apresentação da Locable, uma plataforma de geolocalização que tem como propósito ajudar pessoas especiais e deficientes encontrarem locais com infraestrutura acessível, seja um restaurante com leitura braile ou um bairro que possui calçadas com rampas.   É uma proposta de uma ferramenta que ainda não existe, mas que poderia facilitar muito o cotidiano dessas pessoas que precisam de um cuidado maior, também sendo uma força de pressão social para que cada vez mais, a infraestrutura do nosso país possua mais acessibilidade e atenção com essas pessoas.  Ela possui um banco de dados separado em cidades, tipos de lugares (restaurantes, bairros, meios de transportes, etc) e tipo de acessibilidade. O usuário pode encontrar o seu destino acessível a partir da coluna de filtros ou pesquisando pelo nome na barra de pesquisa. A ideia do nome surgiu das palavras Local e Able (Acessível), condizente com seu propósito, localizar locais acessíveis. Pronto para dar o seu Locable?
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 10:34 PM] Alura
 Novo projeto recebido!
@@ -22727,7 +22727,7 @@ Descrição do projeto
 Aqui no Curioso, vamos desvendar juntos o mundo mágico da programação. ‍♂️  O que você vai encontrar por aqui:  Explicações simples: Termos técnicos explicados de um jeito fácil de entender. Exemplos práticos: Codigos e projetos para você colocar a mão na massa. Dicas e truques: Macetes para você se tornar um programador ninja. Quer aprender a criar um site incrível? Ou talvez prefira desenvolver um jogo?  Independente do seu objetivo, aqui você vai encontrar o que precisa para dar seus primeiros passos na programação.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/7/2024 11:09 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (40)
+⭐ (41)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
