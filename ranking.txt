@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (136)
+⭐ (137)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (141)
+⭐ (142)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -8860,7 +8860,7 @@ Descrição do projeto
 Este projeto web é um catálogo interativo dedicado aos fãs da franquia Final Fantasy. Desenvolvido durante a imersão Dev da Alura com Gemini, o objetivo principal é proporcionar aos usuários uma experiência imersiva e completa no universo de Final Fantasy.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/6/2024 10:23 PM] Alura
 Novo projeto recebido!
@@ -9684,7 +9684,7 @@ Descrição do projeto
 Projeto inspirado no Motocross , Escolhi esse tema porque é um esporte que amo e é muito desvalorizado no brasil, como é um esporte muito caro também e nem todos tem a condição ! foi um projeto onde utilizei sistema de direcionamento de páginas , Menu side bar animado , Segui o padrão de link porém de outras formas , fiz também a parte do javascript ja funcionando a pesquisa com múltiplas palavras etc... Fiz voltado mais para desktop porque ainda não peguei muito as manhã das config para smarthphone mais logo chego la !
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/6/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -19176,7 +19176,7 @@ Descrição do projeto
 O CâncerNão! é um projeto web interativo focado na prevenção do câncer, oferecendo informações claras e acessíveis para a conscientização e detecção precoce. Com um mapa de hospitais, prompts de avaliação de saúde e um chat responsivo, o site auxilia os usuários a compreenderem melhor a doença e adotarem medidas preventivas. O design acolhedor e intuitivo visa criar um ambiente de esperança e empatia, promovendo o poder da informação para salvar vidas.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 8:16 PM] Alura
 Novo projeto recebido!
@@ -21592,7 +21592,7 @@ Descrição do projeto (cont.)
 da aplicação para uma interface visualmente atraente. JavaScript: Implementação de funcionalidades dinâmicas e interativas. React: Framework utilizado para criar uma interface de usuário responsiva e modular. Node.js:Backend para gerenciamento de dados e exr.Vanilla JavaScript: Para lógica de criação, atualização e renderização das partículas.
 
 {Reactions}
-⭐ (34)
+⭐ (33)
 
 [9/7/2024 10:21 PM] Alura
 Novo projeto recebido!
@@ -24143,7 +24143,7 @@ Descrição do projeto
 ☕ Sobre a Aplicação Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.Como Funciona Pesquisa Intuitiva: Digite o nome do café que você procura e clique no botão "Pesquisar". Resultados Personalizados: A aplicação irá procurar por palavras-chave no título, descrição e tags dos cafés, mostrando os resultados mais relevantes.
 
 {Reactions}
-⭐ (46)
+⭐ (45)
 
 [9/7/2024 11:47 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (96)
+⭐ (95)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
