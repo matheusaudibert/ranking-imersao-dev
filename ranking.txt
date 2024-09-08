@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (137)
+⭐ (138)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -1562,7 +1562,7 @@ Descrição do projeto
 Uma plataforma de compras, moderna e intuitiva.Oferecendo uma experiência rápida e eficiente juntamente com uma interface amigável e recursos que garantem uma navegação fluida. > Link Deploy: https://ecomercebyniel.netlify.app
 
 {Reactions}
-⭐ (169)
+⭐ (170)
 
 [9/5/2024 6:51 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (181)
+⭐ (183)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (143)
+⭐ (144)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (93)
+⭐ (94)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -10376,7 +10376,7 @@ Descrição do projeto
 O projeto "Alimentos para Cães - Consulta de Permissão de Consumo" é uma aplicação web criada com o objetivo de auxiliar tutores de cães a identificarem de forma rápida e precisa quais alimentos são seguros para seus pets. Com uma interface interativa e responsiva, os usuários podem buscar alimentos específicos e descobrir se eles são permitidos, moderados ou proibidos para o consumo canino.  A aplicação organiza as informações em três categorias principais: alimentos permitidos, que podem ser consumidos sem preocupações; alimentos de moderação, que devem ser oferecidos com cautela; e alimentos proibidos, que representam riscos à saúde dos cães. O projeto também oferece uma interface visual amigável, que se adapta a diferentes dispositivos e tamanhos de tela.  Desenvolvido como parte da Imersão Dev com o Gemini da Google, promovida pela Alura, o projeto utiliza HTML5, CSS3, JavaScript e JSON para criar uma experiência eficiente e intuitiva.
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -19797,7 +19797,7 @@ Descrição do projeto
 Um projeto para levar o conhecimento sobre as linguagem de sinais para outras pessoas
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -20652,7 +20652,7 @@ Descrição do projeto
 O Portal do Cosmos é um site simples e divertido que te ajuda a explorar o vasto universo! Com ele, você pode pesquisar sobre qualquer assunto relacionado ao espaço e descobrir informações incríveis sobre planetas, estrelas, galáxias e muito mais.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 9:36 PM] Alura
 Novo projeto recebido!
@@ -21436,7 +21436,7 @@ Descrição do projeto
 Este projeto foi feito com base na Imersão Dev_ - Alura + Google Gemini e busca mostrar um pouco sobre a nova revolução industrial que estamos presenciando que é a Industria 4.0. Neste site, você poderá pesquisar sobre alguns dos assuntos que circundam o meio e as tecnologias e dispositivos envolvidos no processo.  Não haverá tudo que engloba a industria 4.0 pois não haveria tempo suficiente de preencher todo esse tema, pois é enorme e em constante desenvolvimento. Ainda sim, convido a todos a darem uma espiada pra ver como ficou!!!  Qualquer dúvidas ou Feedback, podem me mandar por aqui ou pelas minhas redes. Vamos juntos?!
 
 {Reactions}
-⭐ (18)
+⭐ (20)
 
 [9/7/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (73)
+⭐ (72)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -25177,7 +25177,7 @@ Descrição do projeto
 Página com info de jogos de tabuleiro utilizando-se:HTML, CSS, JAVA SCRIPT, desenvolvida na imersão Alura.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25380,7 +25380,7 @@ Descrição do projeto
 O projeto consiste em uma página interativa que permite os usuários realizarem pesquisas textuais para encontrar um personagem do jogo *Honkai: Star Rail*, além de poderem filtrar personagens por elementos e caminhos. Ao clicar no personagem, o usuário é direcionado para um link com mais informações.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 ==============================================================
 Exported 1,677 message(s)
