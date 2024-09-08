@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (114)
+⭐ (115)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (63)
+⭐ (64)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -15078,7 +15078,7 @@ Descrição do projeto
 O Tributário Municipal HUB é uma plataforma web interativa projetada para fornecer informações detalhadas sobre impostos municipais no Brasil. Desenvolvido durante a imersão Alura + Gemini, o projeto visa facilitar o acesso a dados relevantes sobre impostos como ISS, IPTU e ITBI. Com uma interface intuitiva e responsiva, os usuários podem facilmente pesquisar e explorar informações essenciais, promovendo um melhor entendimento das obrigações fiscais municipais.
 
 {Reactions}
-⭐ (11)
+⭐ (10)
 
 [9/7/2024 3:49 PM] Alura
 Novo projeto recebido!
@@ -17250,7 +17250,7 @@ Descrição do projeto
 One Piece Fan App é um projeto web interativo criado para os fãs do anime e mangá One Piece. Essa aplicação permite aos usuários pesquisar por seus personagens favoritos e descobrir detalhes como habilidades, recompensas e aparições.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 6:22 PM] Alura
 Novo projeto recebido!
@@ -22727,7 +22727,7 @@ Descrição do projeto
 Aqui no Curioso, vamos desvendar juntos o mundo mágico da programação. ‍♂️  O que você vai encontrar por aqui:  Explicações simples: Termos técnicos explicados de um jeito fácil de entender. Exemplos práticos: Codigos e projetos para você colocar a mão na massa. Dicas e truques: Macetes para você se tornar um programador ninja. Quer aprender a criar um site incrível? Ou talvez prefira desenvolver um jogo?  Independente do seu objetivo, aqui você vai encontrar o que precisa para dar seus primeiros passos na programação.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:09 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
