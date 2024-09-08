@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (92)
+⭐ (93)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -22847,7 +22847,7 @@ Descrição do projeto
 Um aplicativo web para pesquisa e visualização de ações da B3, com gráficos de preços históricos das ações.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 11:12 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -22952,7 +22952,7 @@ Descrição do projeto
 Projeto simples, mas feito com muito amor. Algumas melhorias serão feitas em breve \o/
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -22967,7 +22967,7 @@ Descrição do projeto
 Este projeto mostra a rica e diversa fauna brasileira, apresentando animais nativos do Brasil. Muitas dessas espécies enfrentam sérios riscos de extinção devido à destruição de habitat, caça ilegal e mudanças climáticas. Este site não só apresenta essas espécies ameaçadas, mas também busca conscientizar o público sobre a importância da conservação e trazer mais conhecimento dos animais nativos.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -22982,7 +22982,7 @@ Descrição do projeto
 Guia de Front-End para Iniciantes: Este projeto é uma aplicação web simples criada para ajudar iniciantes em desenvolvimento front-end a entender e aplicar conceitos básicos de lógica de programação, HTML, CSS e JavaScript. O objetivo é fornecer uma visão clara e prática desses fundamentos para quem está começando no mercado de trabalho como desenvolvedor front-end.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:17 PM] Alura
 Novo projeto recebido!
@@ -22997,7 +22997,7 @@ Descrição do projeto
 Já pensou em ter todas as cartas de Yu-Gi-Oh! na palma da sua mão? Com essa aplicação, você pode pesquisar por suas cartas favoritas de um jeito super fácil e rápido! ⚡  Digite o nome da carta, o tipo ou até mesmo um pedacinho da descrição, e pronto! A aplicação vai te mostrar todas as cartas que combinam com a sua busca.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23027,7 +23027,7 @@ Descrição do projeto
 Este projeto é um site de buscas focado nos personagens do jogo Overwatch 2. O objetivo é proporcionar uma ferramenta interativa que permita aos usuários pesquisarem e explorarem informações detalhadas sobre os heróis do jogo, incluindo suas habilidades, biografias, papéis dentro do jogo (Tank, Damage, Support), vídeos sobre a história dos personagens e estatísticas. O site oferece uma interface intuitiva para os fãs descobrirem mais sobre seus heróis favoritos.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23057,7 +23057,7 @@ Descrição do projeto
 O projeto mostra uma pesquisa sobre séries.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:19 PM] Alura
 Novo projeto recebido!
@@ -23072,7 +23072,7 @@ Descrição do projeto
 É um projeto em que consiste na busca de agentes do Valorant. Retornando suas habilidades, uma foto do agente e uma breve descriçäo. Queria dar continuidade adicionando mapas, utilizando API e uma interface melhor. Porém näo é permitido neste projeto. Entäo foi bem básico.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23087,7 +23087,7 @@ Descrição do projeto
 Uma Pequena aplicação com algumas curiosidades e lenda sobre os estados do nordeste
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23102,7 +23102,7 @@ Descrição do projeto
 Este projeto busca combater a desinformação e proteger o público 60+, mais vulnerável a golpes online, através de um guia web interativo e acessível. Apresentamos informações sobre golpes comuns e dicas de segurança em um formato claro e conciso, com navegação facilitada e busca por palavras-chave.  O conteúdo é baseado em materiais do "EducaMídia 60+", licenciado com Creative Commons, garantindo o acesso e a reutilização.  Mais do que competir na Imersão, queremos sensibilizar os participantes sobre a importância deste tema e inspirar a criação de projetos mais robustos, utilizando o rico conteúdo do EducaMídia/Palavra Aberta. Juntos, podemos construir um ambiente digital mais seguro para todos!
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23117,7 +23117,7 @@ Descrição do projeto
 Linkin Park Tribute  Este projeto é uma homenagem à icônica banda Linkin Park, que marcou gerações com sua música e energia. Com a recente volta da banda, decidimos criar este espaço para celebrar sua história, seus membros e, claro, sua música inesquecível.  Recursos:  Pesquisa interativa de membros Biografias detalhadas Galeria de imagens  Tecnologias: HTML, CSS, JavaScript  Contribuições: Se você é fã do Linkin Park e gostaria de contribuir para este projeto, fique à vontade para abrir um pull request. Seja adicionando novas funcionalidades, corrigindo bugs ou simplesmente sugerindo melhorias.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23903,7 +23903,7 @@ Descrição do projeto (cont.)
 s foram utilizados apenas como exemplos). Obrigado por visitarem meu site. Espero que gostem!
 
 {Reactions}
-⭐ (14)
+⭐ (17)
 
 [9/7/2024 11:43 PM] Alura
 Novo projeto recebido!
