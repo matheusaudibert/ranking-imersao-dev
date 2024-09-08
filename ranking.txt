@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (119)
+⭐ (120)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (129)
+⭐ (130)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (155)
+⭐ (156)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -4507,7 +4507,7 @@ Descrição do projeto
 Um jogo de adivinhar palavras pra testar o conhecimento do DEV. O usuário tem 5 chances para adivinha a palavra chave e pode pedir uma dica. Nas cinco chances que o usuário vai tentando a tela muda de cor e ao finalizar acertando ou errando ele pode reiniciar o jogo. Foi desenvolvido com HTML, CSS e JavaScript. tem um pequeno banco de elementos com palavras e dicas e é isso. Se divertir e aprender!
 
 {Reactions}
-⭐ (33)
+⭐ (32)
 
 [9/6/2024 2:59 PM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (127)
+⭐ (126)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (66)
+⭐ (68)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -12361,7 +12361,7 @@ Descrição do projeto
 Sou fã de futebol e resolvi criar um site para ajudar outros torcedores a conhecerem mais sobre os times cariocas. Você pode pesquisar pelo seu time favorito e descobrir curiosidades, história e até mesmo links para o site oficial. É uma ótima forma de se conectar com o mundo do futebol!
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:09 AM] Alura
 Novo projeto recebido!
@@ -12376,7 +12376,7 @@ Descrição do projeto
 Uma aplicação onde usuário pode encontrar profissionais disponíveis para resolver problemas rotineiros, fazer reparos na encanação, trocar tomadas, técnico de informática ou pedreiro.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:13 AM] Alura
 Novo projeto recebido!
@@ -12391,7 +12391,7 @@ Descrição do projeto
 Projeto criado para procurar personagens do anime Naruto. Alterado para que quando feita a pesquisa, no lugar de um link com mais informações apareça uma imagem do personagem. Pode ser visualizado por: https://petry85.github.io/projeto_imersao_alura/
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:15 AM] Alura
 Novo projeto recebido!
@@ -12406,7 +12406,7 @@ Descrição do projeto
 Nesse projeto você encontrará uma página dedicada e mostrar um pouco do que o fisiculturismo envolve. Acredito que existam pessoas, assim como eu, que não sabem nada sobre esse universo mas gostariam de conhecer ao menos um pouco. Foi desenvolvido com o auxílio do Google Gemini e as aulas da Imersão DevGemini oferecidas pela Alura. Espero que gostem do "Mundo Fisiculturista".
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:16 AM] Alura
 Novo projeto recebido!
@@ -12425,7 +12425,7 @@ Descrição do projeto (cont.)
 Brasileira de Sinais e para a promoção da inclusão de pessoas surdas.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:16 AM] Alura
 Novo projeto recebido!
@@ -12440,7 +12440,7 @@ Descrição do projeto
 O projeto foi uma inspiração de um momento que se passou em minha vida, onde tive que correr atrás de informações que não tinha naquele momento, então além de ser voltado para gestantes seria para curiosos de primeira viagem, é simples, mas com o objetivo de ser útil para muitas pessoas.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:17 AM] Alura
 Novo projeto recebido!
@@ -12457,7 +12457,7 @@ Descrição do projeto (cont.)
 ngitude Nos input simular coloquem a latitude e longitude do local chave que escolher na function move() no js modifiquem as variaveis =>latAgora e lotAgora => para uma latitude e longitude perto do local chave dps disso clique em simular se estiver a menos de 100 metros aparecera um alerta para modificar a distancia de disparar a app => na function move() no if(distanciDoDestino <100) => mude o 100 para qualquer outro valor OBS: a app recebe em KM e utilizo a funçao converKMtoM(kms) para converter para metros. 1km = 1000metros
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:20 AM] Alura
 Novo projeto recebido!
@@ -12474,7 +12474,7 @@ Descrição do projeto (cont.)
 da melhor!
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:23 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (124)
+⭐ (125)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -12504,7 +12504,7 @@ Descrição do projeto
 O projeto consiste em uma aplicação em HTML, CSS e Javascript onde o usuário pode digitar sua data de aniversário e o sistema retornará um acontecimento histórico que aconteceu no mundo nesse dia. O projeto foi desenvolvido durante a imersão dev!
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 11:27 AM] Alura
 Novo projeto recebido!
@@ -12519,7 +12519,7 @@ Descrição do projeto
 É meu primeiro contato com a programação e fiz um projeto de acordo com as aulas, fiz a mudança do tema, mas usei o mesmo raciocínio de linhas de comandos. Acredito que a ideia de um catálogo de minipizzas onde é possível consultar as receitas de variados sabores para que possa ser feita em sua casa é muito bacana!
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:28 AM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (122)
+⭐ (123)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -18017,7 +18017,7 @@ Descrição do projeto
 Desenvolvido com HTML, CSS e JavaScript, o Observatório COP30 é um projeto open-source que busca democratizar o acesso à informação sobre a COP30 com uma plataforma que oferece uma interface intuitiva. Pré-visualização: https://cop30.vercel.app/
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/7/2024 7:21 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -23087,7 +23087,7 @@ Descrição do projeto
 Uma Pequena aplicação com algumas curiosidades e lenda sobre os estados do nordeste
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
