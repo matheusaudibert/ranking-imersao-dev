@@ -1547,7 +1547,7 @@ Descrição do projeto
 Projeto desenvolvido com objetivo de mostrar as principais criptomoedas do mercado.
 
 {Reactions}
-⭐ (102)
+⭐ (101)
 
 [9/5/2024 6:38 PM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (73)
+⭐ (72)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (97)
+⭐ (96)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -21027,7 +21027,7 @@ Descrição do projeto
 A página ajudará você a descobrir o biotipo corporal de acordo com as informações fornecidas: ectomorfo, mesomorfo ou endomorfo. Após isso, é possível conferir mais informações no botão "saiba mais". Ficar por dentro do seu biotipo é o melhor caminho para ter uma noção mais precisa das suas necessidades específicas em termos de nutrição e treinamento, permitindo um plano de saúde e fitness mais personalizado e eficaz.
 
 {Reactions}
-⭐ (26)
+⭐ (27)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
