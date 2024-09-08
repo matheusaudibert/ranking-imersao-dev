@@ -20322,7 +20322,7 @@ Descrição do projeto
 Wimo é um website desenvolvido pela minha própria necessidade como "baby witch" em ter um mapa da lua para magia. No input, se adiciona o atual mês (já que, até o momento, consegui adicionar apenas este mês), seguido do número da data e ano. Além disso, também adicionei, com base nos conhecimentos da aula e ajuda de ferramentas de IA, uma seção "About" que possui recomendações minhas, no mesmo adicionei a idea de links que preferi não adicionar dentro da div "descrição-meta".
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -20352,7 +20352,7 @@ Descrição do projeto
 Fiz as aplicações e alterações no projeto, como texto, documentarios, e apliqueis alguns assuntos do meu cotidiano. Fiz alterações, de cores, estilos e fontes. Aplicabilidade e formatos diferentes de cores e tamanhos.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -20367,7 +20367,7 @@ Descrição do projeto
 Ferramenta de busca de informações turísticas sobre as capitais do Nordeste brasileiro.
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -20382,7 +20382,7 @@ Descrição do projeto
 Projeto sobre um formulário de cursos online. Adicionei um código de JS simples, pois eu ainda sou estudante e não sei muito bem ainda
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:21 PM] Alura
 Novo projeto recebido!
@@ -20397,7 +20397,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 9:21 PM] Alura
 Novo projeto recebido!
@@ -20412,7 +20412,7 @@ Descrição do projeto
 Uma ferramenta de pesquisa de animes por gênero e nome!
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:21 PM] Alura
 Novo projeto recebido!
@@ -20427,7 +20427,7 @@ Descrição do projeto
 GameFinder é um aplicativo web que permite aos usuários pesquisarem por jogos, filtrando por nome ou gênero. A aplicação utiliza uma base de dados de jogos para fornecer resultados precisos e relevantes. Você pode testar o GameFinder utilizando o seguinte link: https://game-finder-liart.vercel.app/
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:24 PM] Alura
 Novo projeto recebido!
@@ -20442,7 +20442,7 @@ Descrição do projeto
 Um buscador que inclui notícias inclusivas sobre tecnologia, como programas sociais internacionais, ideias inovadoras que incluem tecnologia em tempo de guerra, entre outros.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:25 PM] Alura
 Novo projeto recebido!
@@ -21592,7 +21592,7 @@ Descrição do projeto (cont.)
 da aplicação para uma interface visualmente atraente. JavaScript: Implementação de funcionalidades dinâmicas e interativas. React: Framework utilizado para criar uma interface de usuário responsiva e modular. Node.js:Backend para gerenciamento de dados e exr.Vanilla JavaScript: Para lógica de criação, atualização e renderização das partículas.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 10:21 PM] Alura
 Novo projeto recebido!
