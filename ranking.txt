@@ -2899,7 +2899,7 @@ Descrição do projeto
 AI.HUB: Sua biblioteca com as melhores INTELIGÊNCIAS ARTIFICIAIS do momento! Explore nosso catálogo e descubra IA's inovadoras para ASSISTÊNCIA, DESIGN, VÍDEO, MÚSICA e ESTUDOS. Além disso, o site conta com uma seção exclusiva que explica o funcionamento das IAs e seus diferentes tipos. ATUALIZAÇÕES estão a caminho! O site é totalmente RESPONSIVO, adaptando-se perfeitamente a qualquer dispositivo, para que você possa acessar quando e onde quiser! SEU APOIO é essencial para impulsionar o site e torná-lo conhecido por todos. Confira o link e aproveite: https://portfolio-ai-kvg6ycv0m-profile-z4ffarani.vercel.app. Agradeço desde já, future-se!
 
 {Reactions}
-⭐ (136)
+⭐ (137)
 
 [9/6/2024 5:45 AM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (107)
+⭐ (109)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -3246,7 +3246,7 @@ Descrição do projeto (cont.)
 uma lista dos produtos adicionados ira abrir
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/6/2024 10:42 AM] Alura
 Novo projeto recebido!
@@ -3261,7 +3261,7 @@ Descrição do projeto
 É o site que vocês ensinaram a criar, mas eu coloquei algumas coisas adicionais! Espero que gostem
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/6/2024 10:46 AM] Alura
 Novo projeto recebido!
@@ -3276,7 +3276,7 @@ Descrição do projeto
 Nesse projeto eu resolvi criar uma aplicação onde o usuário pode obter todas as informações sobre qualquer tipo de Game
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/6/2024 11:01 AM] Alura
 Novo projeto recebido!
@@ -3291,7 +3291,7 @@ Descrição do projeto
 É um site de busca por carros favaritos, onde o usuário pode escolher por nome sua busca!
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/6/2024 11:07 AM] Alura
 Novo projeto recebido!
@@ -3306,7 +3306,7 @@ Descrição do projeto
 Aplicação interativa de busca para tecnologias de desenvolvimento
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/6/2024 11:09 AM] Alura
 Novo projeto recebido!
@@ -3351,7 +3351,7 @@ Descrição do projeto
 O projeto "Pneumologia" tem por base várias doenças pulmonares, para que todos possam pesquisar e descobrir quais os sintomas, tratamentos e diversas medidas extremamente necessárias para precaução e cuidado da saúde. Consulte já caso esteja se sentindo com um sintoma ou até mesmo para ter um conhecimento sobre a área. Aplicação Web desenvolvida por um namorado de estudante de Medicina!!!
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/6/2024 11:34 AM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (48)
+⭐ (50)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (43)
+⭐ (46)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -21027,7 +21027,7 @@ Descrição do projeto
 A página ajudará você a descobrir o biotipo corporal de acordo com as informações fornecidas: ectomorfo, mesomorfo ou endomorfo. Após isso, é possível conferir mais informações no botão "saiba mais". Ficar por dentro do seu biotipo é o melhor caminho para ter uma noção mais precisa das suas necessidades específicas em termos de nutrição e treinamento, permitindo um plano de saúde e fitness mais personalizado e eficaz.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 9:57 PM] Alura
 Novo projeto recebido!
@@ -24449,7 +24449,7 @@ Descrição do projeto
 Esse projeto visa tornar a alimentação de seus cães e gatos muito mais fácil e segura! 🌟 Por meio de uma interface super amigável, você pode pesquisar qualquer alimento e descobrir se ele é seguro para o seu pet. Além disso, oferecemos informações sobre os benefícios e riscos de cada item, garantindo que seu amigo de quatro patas receba o melhor! 🐾🍽️
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:52 PM] Alura
 Novo projeto recebido!
