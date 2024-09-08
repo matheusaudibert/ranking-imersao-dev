@@ -4297,7 +4297,7 @@ Descrição do projeto
 É um buscador de linguagens de programação, onde me indica a dificuldade de aprender e utilizar a linguagem, linka o site dela e a documentação para acesso mais rápido.
 
 {Reactions}
-⭐ (160)
+⭐ (161)
 
 [9/6/2024 2:37 PM] Alura
 Novo projeto recebido!
@@ -8969,7 +8969,7 @@ Descrição do projeto
 Tentei meu melhor para fazer um site de pesquisa dos personagens da franquia de jogos Don't Starve, pretendo implementar mais detalhes mas por enquanto foi o que pude finalizar
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/6/2024 10:36 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
