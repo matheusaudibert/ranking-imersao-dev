@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (275)
+⭐ (274)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (120)
+⭐ (121)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -14491,7 +14491,7 @@ Descrição do projeto
 Patas Gemini: Ajude a encontrar um novo melhor amigo!
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
