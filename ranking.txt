@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (145)
+⭐ (146)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
