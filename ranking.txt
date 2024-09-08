@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (149)
+⭐ (150)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (109)
+⭐ (111)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -5507,7 +5507,7 @@ Descrição do projeto
 Ei, devs!  Criei um buscador de livros de programação simples e funcional chamado CodeBook. Perfeito para quem quer descobrir novas leituras. Fiz usando HTML, CSS e JavaScript. O que acharam?  #codebook #desenvolvedor #livrosdetecnologia
 
 {Reactions}
-⭐ (64)
+⭐ (65)
 
 [9/6/2024 4:43 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (185)
+⭐ (186)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -10376,7 +10376,7 @@ Descrição do projeto
 O projeto "Alimentos para Cães - Consulta de Permissão de Consumo" é uma aplicação web criada com o objetivo de auxiliar tutores de cães a identificarem de forma rápida e precisa quais alimentos são seguros para seus pets. Com uma interface interativa e responsiva, os usuários podem buscar alimentos específicos e descobrir se eles são permitidos, moderados ou proibidos para o consumo canino.  A aplicação organiza as informações em três categorias principais: alimentos permitidos, que podem ser consumidos sem preocupações; alimentos de moderação, que devem ser oferecidos com cautela; e alimentos proibidos, que representam riscos à saúde dos cães. O projeto também oferece uma interface visual amigável, que se adapta a diferentes dispositivos e tamanhos de tela.  Desenvolvido como parte da Imersão Dev com o Gemini da Google, promovida pela Alura, o projeto utiliza HTML5, CSS3, JavaScript e JSON para criar uma experiência eficiente e intuitiva.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 12:35 AM] Alura
 Novo projeto recebido!
@@ -11963,7 +11963,7 @@ Descrição do projeto
 Como sou iniciante no desenvolvimento de sites, este projeto é uma tentativa criativa de unir aprendizado com entretenimento.  Neste site simples de busca, voces podem explorar o multiverso da programação, ao pesquisar por uma linguagem vocês são transportados para links aleatórios, que podem ser uma explicação séria sobre a linguagem, uma imagem engraçada ou até um site inesperado! Meu objetivo foi proporcionar uma experiência divertida e educativa, mostrando as diversas facetas do mundo da programação. Espero que gostem!! testem aqui: http://multiverso-r29l.vercel.app/
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/7/2024 8:35 AM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (88)
+⭐ (89)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -24248,7 +24248,7 @@ Descrição do projeto
 Este projeto simula um terminal web que permite você interagir com comandos.  Tecnologias utilizadas: - HTML - CSS - JavaScript  Usabilidade: Fique à vontade para explorar os comandos disponíveis e me diga o que achou da experiência!  Easter Eggs: Existem alguns segredos escondidos neste terminal  Será que você consegue encontrá-los todos?  P.S. Não se preocupe, não há nada malicioso escondido por aqui. Apenas algumas brincadeiras para te entreter.
 
 {Reactions}
-⭐ (13)
+⭐ (16)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
