@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (77)
+⭐ (78)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (151)
+⭐ (152)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -11706,7 +11706,7 @@ Descrição do projeto
 Você finalmente conseguiu pegar aquele Personagem 5 estrelas que vai fazer a diferença nas suas aventuras, mas se você não sabe muito bem como buildar ele, ou que composição melhor fara um desempenho? Esse site a sua bússola no mundo de Teyvat! Ela te ajuda a encontrar o personagem que você aprimorar, seja pelo nome, elemento, região ou até mesmo pelo tipo de arma..Cada resultado te leva para um link com dicas de composição de equipe e builds para você arrasar em Teyvat!
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/7/2024 5:18 AM] Alura
 Novo projeto recebido!
@@ -14491,7 +14491,7 @@ Descrição do projeto
 Patas Gemini: Ajude a encontrar um novo melhor amigo!
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 2:46 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -25207,7 +25207,7 @@ Descrição do projeto
 CAST MARVEL é um site de busca simples e fácil de usar, projetado para ajudar os fãs da Marvel a encontrar seus atores favoritos. Com uma interface intuitiva e resultados precisos, o CAST MARVEL torna a sua busca por informações sobre os atores da Marvel mais rápida e agradável.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
