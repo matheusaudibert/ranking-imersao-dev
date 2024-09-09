@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (200)
+⭐ (201)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -5920,7 +5920,7 @@ Descrição do projeto
 O projeto é uma aplicação web interativa que permite aos usuários explorar o Sistema Solar de forma fácil e divertida. É como um guia virtual para quem se interessa por astronomia e quer aprender mais sobre os planetas e a estrela central do nosso sistema, o Sol.
 
 {Reactions}
-⭐ (126)
+⭐ (127)
 
 [9/6/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (122)
+⭐ (123)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -9549,7 +9549,7 @@ Descrição do projeto
 Meu site criado durante a Imersão Dev da Alura com o Google Gemini foi feito para apresentar alguns tipos variados de bebidas feitas com o café, que alguns diriam ser essencial para qualquer programador.
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/6/2024 11:28 PM] Alura
 Novo projeto recebido!
@@ -9684,7 +9684,7 @@ Descrição do projeto
 Projeto inspirado no Motocross , Escolhi esse tema porque é um esporte que amo e é muito desvalorizado no brasil, como é um esporte muito caro também e nem todos tem a condição ! foi um projeto onde utilizei sistema de direcionamento de páginas , Menu side bar animado , Segui o padrão de link porém de outras formas , fiz também a parte do javascript ja funcionando a pesquisa com múltiplas palavras etc... Fiz voltado mais para desktop porque ainda não peguei muito as manhã das config para smarthphone mais logo chego la !
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/6/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
@@ -25260,7 +25260,7 @@ Descrição do projeto
 "Vamos de DDS, AI?" é um parceiro amigável e inteligente para encontrar o DDS perfeito! Você pode pesquisar por tema ou então se surpreender com nossas sugestões de conteúdo, tudo para tornar a segurança no trabalho mais leve e inspiradora. Chega de DDS chatos, bora aprender com a IA!
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
