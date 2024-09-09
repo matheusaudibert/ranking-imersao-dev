@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (162)
+⭐ (163)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (158)
+⭐ (159)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (84)
+⭐ (85)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -25260,7 +25260,7 @@ Descrição do projeto
 "Vamos de DDS, AI?" é um parceiro amigável e inteligente para encontrar o DDS perfeito! Você pode pesquisar por tema ou então se surpreender com nossas sugestões de conteúdo, tudo para tornar a segurança no trabalho mais leve e inspiradora. Chega de DDS chatos, bora aprender com a IA!
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
