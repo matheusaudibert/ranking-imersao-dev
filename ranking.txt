@@ -4447,7 +4447,7 @@ Descrição do projeto
 Olá, criei esse projeto para centralizar todos os jogos em uma página só, lembra da lista telefônica? (coisa de velho, eu sei haha) a ideia seria a mesma, mas para jogos. Facilitando no acesso a wiki, plataformas disponíveis e com uma breve descrição. por enquanto o banco de dados não é tão grande, mas fiz com muito amor para vocês, espero que gostem ❤. link para a página: https://firstproject-flax.vercel.app/
 
 {Reactions}
-⭐ (29)
+⭐ (30)
 
 [9/6/2024 2:52 PM] Alura
 Novo projeto recebido!
@@ -11796,7 +11796,7 @@ Descrição do projeto
 Ao iniciar a imersão, com meu cafezinho sobre a mesa, surgiu a ideia de criar o projeto sobre "Tipos de Cafés" e assim iniciou os estudos!  Imagina um site onde você pode encontrar o café perfeito para aquele seu momento relaxante? É isso que esse projeto faz! Com ele, você pode pesquisar por tipos de café, ver suas características e até mesmo descobrir novas opções para experimentar.  Como funciona essa mágica?  Você digita: Escreve o tipo de café que você procura na barra de pesquisa. É vasculhado uma lista de tipos de cafés para encontrar aqueles que combinam com a sua busca. Os resultados aparecem na tela, mostrando tudo sobre os cafés encontrados, como sabor, aroma e entre outras coisas.
 
 {Reactions}
-⭐ (42)
+⭐ (41)
 
 [9/7/2024 5:55 AM] Alura
 Novo projeto recebido!
