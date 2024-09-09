@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (160)
+⭐ (161)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
