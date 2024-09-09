@@ -6265,7 +6265,7 @@ Descrição do projeto
 É com muita satisfação que apresento a vocês meu primeiro projeto, desenvolvido durante a imersão na Alura + Google Gemini. A ideia surgiu para que algumas pessoas possam tirar suas dúvidas antes do seu treino de musculação, espero ajudar vocês com o pouco do conhecimento adiquirido até aqui e gostaria mais uma vez de agradecer ao pessoal da Alura, pois eu já tinha pensado em desistir, porém no decorrer do curso fui elevando minha alto estima, pois as coisas estavam realmente funcionando e fui tendo mais compreensão no que estava fazendo.... Obrigado a todos! E conto com o voto de você para concorrer as premiações. Vlw!!!!!!
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/6/2024 5:56 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -17717,7 +17717,7 @@ Descrição do projeto
 Esse projeto foi o meu primeiro contato com a programação. Tesouros perdidos mostra alguns dos animais que estão ameaçados de extinção em cada bioma brasileiro. Minha ideia foi apresentar a diversidade da fauna brasileira através de uma pequena descrição de cada espécie e trazer as principais ameaças enfrentadas por elas a fim de conscientizar as pessoas sobre a importância da biodiversidade brasileira. https://tesouro-perdido.vercel.app/
 
 {Reactions}
-⭐ (106)
+⭐ (105)
 
 [9/7/2024 6:56 PM] Alura
 Novo projeto recebido!
