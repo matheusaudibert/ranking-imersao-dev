@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (147)
+⭐ (148)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -24935,7 +24935,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma base de conhecimento sobre os clássicos da literatura brasileira. A aplicação permite que os usuários busquem e visualizem informações sobre os principais livros, como título, autor, resumo e links para mais detalhes.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:57 PM] Alura
 Novo projeto recebido!
@@ -24950,7 +24950,7 @@ Descrição do projeto
 O Gallery Museum é uma plataforma digital desenvolvida para proporcionar uma experiência imersiva e educacional no mundo da arte. O site visa oferecer acesso a uma vasta coleção de obras de arte, permitindo aos usuários explorar, pesquisar e apreciar a arte de maneira interativa e acessível. O projeto combina design elegante, funcionalidade intuitiva e uma interface responsiva para criar um ambiente digital envolvente.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
