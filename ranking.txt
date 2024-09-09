@@ -151,7 +151,7 @@ Descrição do projeto
 um pequeno projeto sobre coalas e caso consiga clicar em cima do coala que ta correndo na barra de baixo vc vai ser levado para um joguinho bem legal1
 
 {Reactions}
-⭐ (214)
+⭐ (215)
 
 [9/5/2024 9:46 AM] Alura
 Novo projeto recebido!
@@ -21853,7 +21853,7 @@ Descrição do projeto
 Um visual-novel interativo onde as chaves de pesquisa levam ao próximo pedaço de história
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 10:34 PM] Alura
 Novo projeto recebido!
