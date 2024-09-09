@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (152)
+⭐ (153)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -2282,7 +2282,7 @@ Descrição do projeto
 Este projeto é uma página interativa onde o usuário pode pesquisar exercícios específicos para diferentes partes do corpo ou objetivos (como ganho de massa, emagrecimento, fortalecimento). O site exibe os exercícios, instruções, e vídeos demonstrativos. Seu objetivo é oferecer uma plataforma prática para que os usuários encontrem exercícios personalizados de acordo com suas metas de treino.
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/5/2024 10:38 PM] Alura
 Novo projeto recebido!
@@ -11406,7 +11406,7 @@ Descrição do projeto
 Descubra o mundo das Akuma no Mi!  Este projeto é um site interativo que permite explorar as frutas do diabo do universo One Piece. Escolha entre Logia, Zoan ou Paramecia e descubra detalhes sobre as frutas mais poderosas de cada tipo. Navegue por informações detalhadas e imagens das frutas, e conheça os usuários e poderes de cada uma. Acesse o projeto online para começar sua jornada no mundo das Akuma no Mi!
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 3:35 AM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (64)
+⭐ (65)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
