@@ -7034,7 +7034,7 @@ Descrição do projeto
 Pet Sitter - Cuidador perfeito para seu pet.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/6/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (128)
+⭐ (129)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -11254,7 +11254,7 @@ Descrição do projeto
 O projeto desenvolve um sistema de autoatendimento para uma loja de marmitas. Através de um menu interativo e um totem, os clientes personalizam seus pedidos, escolhendo o tamanho da embalagem e os ingredientes principais: carboidrato, proteína e guarnição. Após a confirmação, o sistema emite uma mensagem de agradecimento, finalizando o processo de forma intuitiva e eficiente.
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/7/2024 3:18 AM] Alura
 Novo projeto recebido!
