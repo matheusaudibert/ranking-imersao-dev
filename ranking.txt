@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (106)
+⭐ (107)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
