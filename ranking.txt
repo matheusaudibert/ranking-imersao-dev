@@ -4537,7 +4537,7 @@ Descrição do projeto
 O Show da Imersão é um jogo de perguntas e respostas desenvolvido em HTML, CSS e JavaScript, com o objetivo de simular a experiência do famoso programa de televisão "Show do Milhão". O jogador responde a perguntas de múltipla escolha e tem a chance de ganhar prêmios em barras de ouro virtuais que valem mais do que dinheiro.
 
 {Reactions}
-⭐ (87)
+⭐ (86)
 
 [9/6/2024 3:01 PM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (71)
+⭐ (72)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (103)
+⭐ (104)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (88)
+⭐ (89)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -22967,7 +22967,7 @@ Descrição do projeto
 Este projeto mostra a rica e diversa fauna brasileira, apresentando animais nativos do Brasil. Muitas dessas espécies enfrentam sérios riscos de extinção devido à destruição de habitat, caça ilegal e mudanças climáticas. Este site não só apresenta essas espécies ameaçadas, mas também busca conscientizar o público sobre a importância da conservação e trazer mais conhecimento dos animais nativos.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -22982,7 +22982,7 @@ Descrição do projeto
 Guia de Front-End para Iniciantes: Este projeto é uma aplicação web simples criada para ajudar iniciantes em desenvolvimento front-end a entender e aplicar conceitos básicos de lógica de programação, HTML, CSS e JavaScript. O objetivo é fornecer uma visão clara e prática desses fundamentos para quem está começando no mercado de trabalho como desenvolvedor front-end.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:17 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (51)
+⭐ (52)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23027,7 +23027,7 @@ Descrição do projeto
 Este projeto é um site de buscas focado nos personagens do jogo Overwatch 2. O objetivo é proporcionar uma ferramenta interativa que permita aos usuários pesquisarem e explorarem informações detalhadas sobre os heróis do jogo, incluindo suas habilidades, biografias, papéis dentro do jogo (Tank, Damage, Support), vídeos sobre a história dos personagens e estatísticas. O site oferece uma interface intuitiva para os fãs descobrirem mais sobre seus heróis favoritos.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -25055,7 +25055,7 @@ Descrição do projeto
 Este projeto é uma ferramenta abrangente de busca de roadmaps e um questionário interativo projetado para ajudar você a descobrir a carreira em TI que melhor se alinha ao seu perfil e interesses. Acredito que esta plataforma pode ser uma valiosa contribuição para a comunidade, atendendo tanto iniciantes quanto profissionais que estão considerando uma mudança de área.
 
 {Reactions}
-⭐ (63)
+⭐ (64)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
