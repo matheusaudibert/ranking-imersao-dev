@@ -1093,7 +1093,7 @@ Descrição do projeto
 Olá pessoal, desenvolvi um projeto especial em comemoração à Semana da Independência do Brasil! 🇧🇷.  Aproveitei esta ocasião para criar uma página dedicada à história das cédulas brasileiras. Criei também um Quiz, onde podem testar seus conhecimentos. Espero que gostem. Link para a página: https://marcoaurelior.github.io/cedulas-brasileiras/index.html
 
 {Reactions}
-⭐ (296)
+⭐ (297)
 
 [9/5/2024 4:28 PM] Alura
 Novo projeto recebido!
@@ -2779,7 +2779,7 @@ Descrição do projeto
 Quer aprender inglês, espanhol, alemão, francês e italiano de maneira divertida? Então não perca tempo e venha conhecer o Lang Studious um app web que monta questionários para você treinar a língua que você está estudando em uma interface amigável!!
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/6/2024 2:55 AM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (222)
+⭐ (223)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -19236,7 +19236,7 @@ Descrição do projeto
 **Pitch do Projeto: IntelliFinder**  O *IntelliFinder* é uma plataforma inovadora que ajuda você a encontrar a inteligência artificial certa para suas necessidades. Ao acessar o site, você simplesmente informa a tarefa ou o desafio que deseja resolver, e o *IntelliFinder* sugere as melhores soluções de IA disponíveis no mercado. De automatizações simples a ferramentas complexas de análise de dados, o *IntelliFinder* facilita o processo de descoberta e seleção da IA ideal, otimizando tempo e recursos. Seja para estudantes, profissionais ou empresas, nossa plataforma garante que você tenha as ferramentas certas para maximizar sua eficiência e resultados.
 
 {Reactions}
-⭐ (50)
+⭐ (49)
 
 [9/7/2024 8:20 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
