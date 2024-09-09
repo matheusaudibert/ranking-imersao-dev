@@ -4447,7 +4447,7 @@ Descrição do projeto
 Olá, criei esse projeto para centralizar todos os jogos em uma página só, lembra da lista telefônica? (coisa de velho, eu sei haha) a ideia seria a mesma, mas para jogos. Facilitando no acesso a wiki, plataformas disponíveis e com uma breve descrição. por enquanto o banco de dados não é tão grande, mas fiz com muito amor para vocês, espero que gostem ❤. link para a página: https://firstproject-flax.vercel.app/
 
 {Reactions}
-⭐ (26)
+⭐ (29)
 
 [9/6/2024 2:52 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (152)
+⭐ (153)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
