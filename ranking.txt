@@ -303,7 +303,7 @@ Descrição do projeto
 Minha primeira interação com HTML, CSS E JS, sou estagiário de T.I e estou fazendo um site inspirado no mundo mágico de Harry Potter, fiz algumas modificações legais e ainda estou fazendo mais. Espero que gostem!
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 10:48 AM] Alura
 Novo projeto recebido!
@@ -318,7 +318,7 @@ Descrição do projeto
 Um projeto no qual foi criado para eu relembrar algumas partes do HTML5 e CSS3.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 10:50 AM] Alura
 Novo projeto recebido!
@@ -333,7 +333,7 @@ Descrição do projeto
 O projeto oferece um resumo objetivo de informações sobre diversos países. Ao digitar o nome de um país na barra de pesquisa, o usuário é apresentado a um painel com vários tipos de dados. Exemplo: Nome, Capital, Moeda, Idioma.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 11:02 AM] Alura
 Novo projeto recebido!
@@ -348,7 +348,7 @@ Descrição do projeto
 Prodfilm é uma plataforma online de filmes, desenvolvida com as tecnologias HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 11:07 AM] Alura
 Novo projeto recebido!
@@ -378,7 +378,7 @@ Descrição do projeto
 Esta é uma versão anabolizada do que foi aprendido em aula, as diferenças da aula são:  Pesquisa dinamica digitando na barra de busca Botão de Curtir com contagem Estilização de fundo, cores e botões, fotos dos atletas
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/5/2024 11:15 AM] Alura
 Novo projeto recebido!
@@ -393,7 +393,7 @@ Descrição do projeto
 Site para consulta e pesquisa dos Hashiras do universo de Demons Slayer usando animações simples e conceitos básicos. É possível acessar o site clicando aqui: https://desafio-dev-alura-gemini2024-and-git-441af6-andrelukes-projects.vercel.app
 
 {Reactions}
-⭐ (73)
+⭐ (74)
 
 [9/5/2024 11:32 AM] Alura
 Novo projeto recebido!
@@ -423,7 +423,7 @@ Descrição do projeto
 Trata-se de um app para listar as franquias do Jurassic Park
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 11:55 AM] Alura
 Novo projeto recebido!
@@ -438,7 +438,7 @@ Descrição do projeto
 Criei um Site para verificação de idade com base nos dados de entrada(ano de nascimento), apresentando sua idade e um avatar.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 11:56 AM] Alura
 Novo projeto recebido!
@@ -453,7 +453,7 @@ Descrição do projeto
 Site oficial da empresa Heacher Games, o estúdio de jogos que eu junto de mais um amigo estamos fundando no programa de aceleração de StartUps da PUC Campinas o "Cria I". Nele constará as principais informações sobre a empresa, como nossos jogos, contato, história e muito mais.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 11:56 AM] Alura
 Novo projeto recebido!
@@ -468,7 +468,7 @@ Descrição do projeto
 O projeto se trata de uma aba de pesquisa sobres jogadores de E-Sports do mundo inteiro. Colocando em prática as aulas da imersão.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 12:09 PM] Alura
 Novo projeto recebido!
@@ -483,7 +483,7 @@ Descrição do projeto
 Descubra o Brasil: O Paraíso dos Nômades Digitais e Trabalhadores HomeOffice       Já pensou em trabalhar em um escritório com vista para uma praia paradisíaca ou em meio a vibrantes cidades históricas? O Brasil oferece exatamente isso e muito mais.  Mais do que sol e carnaval, o Brasil é um mosaico de experiências únicas, desde a exuberância da Amazônia até o charme colonial de Minas Gerais. Cada estado é uma nova oportunidade para quem busca combinar trabalho remoto com aventuras incríveis.  Prepare-se para explorar um país onde cada canto é uma nova descoberta e cada dia é uma nova experiência. Venha descobrir como o Brasil pode ser o seu próximo destino de trabalho e prazer!
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 12:20 PM] Alura
 Novo projeto recebido!
@@ -498,7 +498,7 @@ Descrição do projeto
 Oi gente esse é o projeto que eu fiz Se tiver que fazer outro que parece que foi isso que eu entendi por favor comentem comigo obrigado
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 12:23 PM] Alura
 Novo projeto recebido!
@@ -513,7 +513,7 @@ Descrição do projeto
 Site sobre as maravilhas da humanidade modernas e antigas
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 12:25 PM] Alura
 Novo projeto recebido!
@@ -530,7 +530,7 @@ Descrição do projeto (cont.)
 ário e armazenamento de dados.   Características:   Design minimalista: Interface limpa e fácil de usar, com foco nas funcionalidades essenciais.  Personalização: Permite que o usuário ajuste a aparência e o comportamento da aplicação de acordo com suas preferências.  Responsividade: Adapta-se a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.   Benefícios:   Aumento da produtividade: Ajuda o usuário a organizar suas tarefas e manter o foco.  Melhora da experiência do usuário: Interface intuitiva e personalizável.  Código limpo e organizado: Facilita a manutenção e a adição de novas funcionalidades.   Este projeto é um excelente ponto de partida para quem deseja aprender a desenvolver aplicações web utilizando HTML, CSS e JavaScript. Além disso, é uma ferramenta útil para organizar suas tarefas e aumentar sua produtividade.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/5/2024 12:26 PM] Alura
 Novo projeto recebido!
@@ -545,7 +545,7 @@ Descrição do projeto
 A intenção de meu projeto e auxiliar no conhecimento das pessoas trazendo uma breve descrição de qualquer tecnologia que a pessoa deseja pesquisar dando a ela a oportunidade de saber mais por meio dos links o tema do meu projeto e muito abrangente entao nem todas as informacoes estao disponiveis afinal eu sou humano e ate a IA nao conseguiria afinal de tecnologia o mundo e imenso entao voce pode dar uma breve olhada no banco e ver o que tem. (adoraria colocar um video de demonstracao mas nao da ) obs: precisei pesquisar ainda mais que a imersao me oferece entao espero nao ser desclassificado por adquirir mais conhecimentos afim de tornar meu projeto mais completo.
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/5/2024 12:27 PM] Alura
 Novo projeto recebido!
@@ -560,7 +560,7 @@ Descrição do projeto
 Site de busca para Atletas Radicais
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/5/2024 1:25 PM] Alura
 Novo projeto recebido!
@@ -592,7 +592,7 @@ Descrição do projeto (cont.)
 ciar melhor seus compromissos diários e rotas alternativas, evitando estresse e otimizando o tempo.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/5/2024 1:29 PM] Alura
 Novo projeto recebido!
@@ -607,7 +607,7 @@ Descrição do projeto
 Este site basicamente implementa a funcionalidade de listar materiais que sobram das obras/construções e as pessoas poderão vender esse material que sobra para outros interessados que estão construindo ou reformando. O site possui uma funcionalidade de busca e apresenta informações com o contato das pessoas que querem divulgar seus materiais.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/5/2024 1:34 PM] Alura
 Novo projeto recebido!
@@ -622,7 +622,7 @@ Descrição do projeto
 Sobre o Projeto Objetivo do Projeto: Bem-vindo ao repositório do Gemini IA News! Este projeto visa criar um site acessível e envolvente para introduzir a Inteligência Artificial a pessoas com mais idade ou pouca familiaridade com tecnologia. O site utiliza HTML, CSS e JavaScript para oferecer conteúdos em texto e vídeo de maneira simples e divertida, facilitando o aprendizado sobre IA e conceitos básicos de engenharia de prompt.  Site: https://beatrizgdc.github.io/geminiIaNews/  Vídeo do Projeto: https://youtu.be/8xS9065ZZWA 🎥  Código Fonte no GitHub: https://github.com/beatrizgdc/geminiIaNews 📝  Sobre a Desenvolvedora: Beatriz Garcia - LinkedIn: https://www.linkedin.com/in/beatrizgdcevaio/
 
 {Reactions}
-⭐ (87)
+⭐ (88)
 
 [9/5/2024 1:44 PM] Alura
 Novo projeto recebido!
@@ -637,7 +637,7 @@ Descrição do projeto
 O projeto foi desenvolvido utilizando as linguagens e formas utilizadas nas aulas. O tema escolhido foi Star Wars, onde o usuário pode buscar informações de personagens que compõem a saga.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 2:03 PM] Alura
 Novo projeto recebido!
@@ -652,7 +652,7 @@ Descrição do projeto
 O objetivo principal deste projeto é desenvolver um assistente virtual baseado em redes neurais de processamento de linguagem natural, com o intuito de fornecer informações científicas precisas e atualizadas a pesquisadores e estudantes de graduação. O sistema utilizará técnicas de resumo de textos e questionamento-resposta para permitir que os usuários encontrem rapidamente as informações relevantes em grandes bases de dados científicas. A interface do usuário será um chatbot acessível via web e aplicativo móvel, priorizando a simplicidade e a intuitividade. O sucesso do projeto será medido pela quantidade de usuários ativos, pela precisão das respostas geradas e pela satisfação dos usuários, avaliada através de pesquisas.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 2:03 PM] Alura
 Novo projeto recebido!
@@ -1562,7 +1562,7 @@ Descrição do projeto
 Uma plataforma de compras, moderna e intuitiva.Oferecendo uma experiência rápida e eficiente juntamente com uma interface amigável e recursos que garantem uma navegação fluida. > Link Deploy: https://ecomercebyniel.netlify.app
 
 {Reactions}
-⭐ (197)
+⭐ (198)
 
 [9/5/2024 6:51 PM] Alura
 Novo projeto recebido!
@@ -2779,7 +2779,7 @@ Descrição do projeto
 Quer aprender inglês, espanhol, alemão, francês e italiano de maneira divertida? Então não perca tempo e venha conhecer o Lang Studious um app web que monta questionários para você treinar a língua que você está estudando em uma interface amigável!!
 
 {Reactions}
-⭐ (101)
+⭐ (102)
 
 [9/6/2024 2:55 AM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (123)
+⭐ (124)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -11391,7 +11391,7 @@ Descrição do projeto
 Esse projeto web feito durante a Imersão Dev Alura e Google Gemini te ajuda a encontrar o pet ideal para você! Com uma busca simples, você pode descobrir diversas raças de cães e gatos, com informações detalhadas sobre cada uma. Basta digitar algumas palavras-chave, como "cão pequeno e brincalhão" ou "gato calmo para apartamento", e a aplicação fará uma busca inteligente em nosso banco de dados e te apresentará os resultados mais relevantes.  O melhor de tudo? Nossa aplicação é totalmente responsiva, ou seja, funciona perfeitamente em qualquer dispositivo, seja no seu computador, tablet ou smartphone!
 
 {Reactions}
-⭐ (55)
+⭐ (54)
 
 [9/7/2024 3:34 AM] Alura
 Novo projeto recebido!
@@ -11796,7 +11796,7 @@ Descrição do projeto
 Ao iniciar a imersão, com meu cafezinho sobre a mesa, surgiu a ideia de criar o projeto sobre "Tipos de Cafés" e assim iniciou os estudos!  Imagina um site onde você pode encontrar o café perfeito para aquele seu momento relaxante? É isso que esse projeto faz! Com ele, você pode pesquisar por tipos de café, ver suas características e até mesmo descobrir novas opções para experimentar.  Como funciona essa mágica?  Você digita: Escreve o tipo de café que você procura na barra de pesquisa. É vasculhado uma lista de tipos de cafés para encontrar aqueles que combinam com a sua busca. Os resultados aparecem na tela, mostrando tudo sobre os cafés encontrados, como sabor, aroma e entre outras coisas.
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/7/2024 5:55 AM] Alura
 Novo projeto recebido!
@@ -18092,7 +18092,7 @@ Descrição do projeto
 Este projeto, embora simples em sua estrutura, busca maximizar a interatividade e a acessibilidade. A inclusão de vídeos do YouTube como recurso complementar nos artigos da Wikipédia visa atender a um público diversificado, incluindo aqueles com dislexia ou outros desafios de aprendizagem.  Inicialmente, planejei vincular o site oficial do Fluminense Futebol Clube, atual campeão da competição, para enriquecer o conteúdo. Entretanto, devido a instabilidades técnicas no servidor do clube, optei por omitir o link temporariamente.
 
 {Reactions}
-⭐ (46)
+⭐ (47)
 
 [9/7/2024 7:24 PM] Alura
 Novo projeto recebido!
@@ -18302,7 +18302,7 @@ Descrição do projeto
 Biblioteca de Livros é uma aplicação web onde os usuários podem pesquisar livros, ver informações detalhadas, deixar comentários e avaliações. Esta aplicação também permite adicionar novos livros à biblioteca. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro
 
 {Reactions}
-⭐ (6)
+⭐ (8)
 
 [9/7/2024 7:32 PM] Alura
 Novo projeto recebido!
