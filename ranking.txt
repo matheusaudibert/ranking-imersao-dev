@@ -2282,7 +2282,7 @@ Descrição do projeto
 Este projeto é uma página interativa onde o usuário pode pesquisar exercícios específicos para diferentes partes do corpo ou objetivos (como ganho de massa, emagrecimento, fortalecimento). O site exibe os exercícios, instruções, e vídeos demonstrativos. Seu objetivo é oferecer uma plataforma prática para que os usuários encontrem exercícios personalizados de acordo com suas metas de treino.
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/5/2024 10:38 PM] Alura
 Novo projeto recebido!
@@ -5860,7 +5860,7 @@ Descrição do projeto
 Seja bem-vindo(a) ao Ferramentas IA! Aqui você poderá descobrir inúmeras ferramentas que utilizam a tecnologia da inteligência artifical para facilitar suas tarefas. Precisa criar um texto bonito? Aqui você acha uma IA que faz isso! Precisa criar um vídeo legal? Aqui você encontra a ferramenta perfeita! Acesse o site pelo seguinte link: https://qmartinz.github.io/Ferramentas-IA/. Nesse website, você pode pesquisar por ferramentas online de inteligência artificial dentro de um banco de dados com mais de 40 itens. Eu criei esse website após algumas dificuldades em encontrar IAs que pudessem ser utilizadas em alguns projetos de escola, já que onde eu estudo o uso de IA é bem promovido pelo corpo docente. Aproveitem a ferramenta!
 
 {Reactions}
-⭐ (120)
+⭐ (121)
 
 [9/6/2024 5:09 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (163)
+⭐ (164)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -15605,7 +15605,7 @@ Descrição do projeto
 "De Casa até a Escola: A Jornada da Educação"  Imagine um jogo simples, mas cheio de significado, onde o jogador enfrenta um dos maiores desafios da vida real: o caminho até a escola. Em "De Casa até a Escola", você controla um personagem que deve permanecer no caminho certo, superando obstáculos e desafios crescentes a cada fase. Mas não é apenas um jogo — é um lembrete poderoso de que, apesar das dificuldades, a educação tem o poder de mudar vidas.  Com três fases progressivamente mais difíceis, você não só se diverte, mas também se envolve em uma narrativa que destaca a importância da educação. E mais: você pode personalizar seu personagem e até preparar sua mochila, adicionando materiais escolares pela barra de pesquisa, tornando cada partida única e pessoal.  Link do jogo: https://github.com/mody-737/caminho-escola  Se divirtam! ;D
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 4:36 PM] Alura
 Novo projeto recebido!
