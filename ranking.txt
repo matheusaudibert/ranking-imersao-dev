@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (275)
+⭐ (277)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -2674,7 +2674,7 @@ Descrição do projeto (cont.)
 ta estiver incorreta, uma mensagem vermelha será exibida e você poderá tentar novamente. Complete o quiz: Continue respondendo as perguntas até completar todas. Ao final, uma mensagem de parabéns será exibida.
 
 {Reactions}
-⭐ (78)
+⭐ (79)
 
 [9/6/2024 12:57 AM] Alura
 Novo projeto recebido!
@@ -11796,7 +11796,7 @@ Descrição do projeto
 Ao iniciar a imersão, com meu cafezinho sobre a mesa, surgiu a ideia de criar o projeto sobre "Tipos de Cafés" e assim iniciou os estudos!  Imagina um site onde você pode encontrar o café perfeito para aquele seu momento relaxante? É isso que esse projeto faz! Com ele, você pode pesquisar por tipos de café, ver suas características e até mesmo descobrir novas opções para experimentar.  Como funciona essa mágica?  Você digita: Escreve o tipo de café que você procura na barra de pesquisa. É vasculhado uma lista de tipos de cafés para encontrar aqueles que combinam com a sua busca. Os resultados aparecem na tela, mostrando tudo sobre os cafés encontrados, como sabor, aroma e entre outras coisas.
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/7/2024 5:55 AM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (57)
+⭐ (58)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (73)
+⭐ (74)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -22982,7 +22982,7 @@ Descrição do projeto
 Guia de Front-End para Iniciantes: Este projeto é uma aplicação web simples criada para ajudar iniciantes em desenvolvimento front-end a entender e aplicar conceitos básicos de lógica de programação, HTML, CSS e JavaScript. O objetivo é fornecer uma visão clara e prática desses fundamentos para quem está começando no mercado de trabalho como desenvolvedor front-end.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:17 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23027,7 +23027,7 @@ Descrição do projeto
 Este projeto é um site de buscas focado nos personagens do jogo Overwatch 2. O objetivo é proporcionar uma ferramenta interativa que permita aos usuários pesquisarem e explorarem informações detalhadas sobre os heróis do jogo, incluindo suas habilidades, biografias, papéis dentro do jogo (Tank, Damage, Support), vídeos sobre a história dos personagens e estatísticas. O site oferece uma interface intuitiva para os fãs descobrirem mais sobre seus heróis favoritos.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23072,7 +23072,7 @@ Descrição do projeto
 É um projeto em que consiste na busca de agentes do Valorant. Retornando suas habilidades, uma foto do agente e uma breve descriçäo. Queria dar continuidade adicionando mapas, utilizando API e uma interface melhor. Porém näo é permitido neste projeto. Entäo foi bem básico.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23087,7 +23087,7 @@ Descrição do projeto
 Uma Pequena aplicação com algumas curiosidades e lenda sobre os estados do nordeste
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23102,7 +23102,7 @@ Descrição do projeto
 Este projeto busca combater a desinformação e proteger o público 60+, mais vulnerável a golpes online, através de um guia web interativo e acessível. Apresentamos informações sobre golpes comuns e dicas de segurança em um formato claro e conciso, com navegação facilitada e busca por palavras-chave.  O conteúdo é baseado em materiais do "EducaMídia 60+", licenciado com Creative Commons, garantindo o acesso e a reutilização.  Mais do que competir na Imersão, queremos sensibilizar os participantes sobre a importância deste tema e inspirar a criação de projetos mais robustos, utilizando o rico conteúdo do EducaMídia/Palavra Aberta. Juntos, podemos construir um ambiente digital mais seguro para todos!
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23117,7 +23117,7 @@ Descrição do projeto
 Linkin Park Tribute  Este projeto é uma homenagem à icônica banda Linkin Park, que marcou gerações com sua música e energia. Com a recente volta da banda, decidimos criar este espaço para celebrar sua história, seus membros e, claro, sua música inesquecível.  Recursos:  Pesquisa interativa de membros Biografias detalhadas Galeria de imagens  Tecnologias: HTML, CSS, JavaScript  Contribuições: Se você é fã do Linkin Park e gostaria de contribuir para este projeto, fique à vontade para abrir um pull request. Seja adicionando novas funcionalidades, corrigindo bugs ou simplesmente sugerindo melhorias.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
@@ -23132,7 +23132,7 @@ Descrição do projeto
 Uma viagem no tempo dos videogames. Prepare-se para uma jornada nostálgica pelos consoles que marcaram gerações! A Nostalgia Gamer é uma aplicação web simples e intuitiva que te permite pesquisar por seus consoles favoritos e descobrir mais sobre eles.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:20 PM] Alura
 Novo projeto recebido!
