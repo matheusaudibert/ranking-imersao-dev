@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (147)
+⭐ (148)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -18017,7 +18017,7 @@ Descrição do projeto
 Desenvolvido com HTML, CSS e JavaScript, o Observatório COP30 é um projeto open-source que busca democratizar o acesso à informação sobre a COP30 com uma plataforma que oferece uma interface intuitiva. Pré-visualização: https://cop30.vercel.app/
 
 {Reactions}
-⭐ (42)
+⭐ (44)
 
 [9/7/2024 7:21 PM] Alura
 Novo projeto recebido!
@@ -18092,7 +18092,7 @@ Descrição do projeto
 Este projeto, embora simples em sua estrutura, busca maximizar a interatividade e a acessibilidade. A inclusão de vídeos do YouTube como recurso complementar nos artigos da Wikipédia visa atender a um público diversificado, incluindo aqueles com dislexia ou outros desafios de aprendizagem.  Inicialmente, planejei vincular o site oficial do Fluminense Futebol Clube, atual campeão da competição, para enriquecer o conteúdo. Entretanto, devido a instabilidades técnicas no servidor do clube, optei por omitir o link temporariamente.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 7:24 PM] Alura
 Novo projeto recebido!
