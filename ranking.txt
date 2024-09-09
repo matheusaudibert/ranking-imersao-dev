@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (142)
+⭐ (143)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (62)
+⭐ (63)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
