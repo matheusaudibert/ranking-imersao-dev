@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (178)
+⭐ (179)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (157)
+⭐ (158)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (152)
+⭐ (153)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -11391,7 +11391,7 @@ Descrição do projeto
 Esse projeto web feito durante a Imersão Dev Alura e Google Gemini te ajuda a encontrar o pet ideal para você! Com uma busca simples, você pode descobrir diversas raças de cães e gatos, com informações detalhadas sobre cada uma. Basta digitar algumas palavras-chave, como "cão pequeno e brincalhão" ou "gato calmo para apartamento", e a aplicação fará uma busca inteligente em nosso banco de dados e te apresentará os resultados mais relevantes.  O melhor de tudo? Nossa aplicação é totalmente responsiva, ou seja, funciona perfeitamente em qualquer dispositivo, seja no seu computador, tablet ou smartphone!
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/7/2024 3:34 AM] Alura
 Novo projeto recebido!
