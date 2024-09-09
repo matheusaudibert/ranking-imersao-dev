@@ -3004,7 +3004,7 @@ Descrição do projeto
 Mergulhe em um mundo de fantasia épica em A Taverna! Você é o protagonista de uma história intrigante, onde cada decisão molda o seu destino. Explore tavernas escuras, enfrente criaturas perigosas e desvende mistérios ancestrais. Suas escolhas definirão o rumo da aventura. Prepare-se para viver uma experiência única e inesquecível
 
 {Reactions}
-⭐ (159)
+⭐ (160)
 
 [9/6/2024 8:40 AM] Alura
 Novo projeto recebido!
@@ -15965,7 +15965,7 @@ Descrição do projeto
 🌌🗓️ O Ephemeris é um projeto web que serve como um calendário astronômico, permitindo que você acompanhe e observe eventos importantes como eclipses, superluas, oposições de planetas e muito mais. O objetivo é fornecer informações sobre esses fenômenos celestes, ajudando entusiastas e astrônomos amadores a planejar e aproveitar ao máximo suas observações.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 5:02 PM] Alura
 Novo projeto recebido!
@@ -23811,7 +23811,7 @@ Descrição do projeto
 Desenvolvida com HTML, CSS e JavaScript, a aplicação oferece uma interface intuitiva e resultados precisos. Perfeita para fãs de quadrinhos.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:42 PM] Alura
 Novo projeto recebido!
