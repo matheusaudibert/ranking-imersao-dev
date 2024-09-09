@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (124)
+⭐ (126)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -12177,7 +12177,7 @@ Descrição do projeto
 Página de site para servir como meu site pessoal e exibição de portifólio .
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 10:22 AM] Alura
 Novo projeto recebido!
@@ -20337,7 +20337,7 @@ Descrição do projeto
 Futebolística Brasil é um site estático desenvolvido para fornecer informações completas sobre times de futebol brasileiro. Os usuários podem pesquisar times por nome ou selecionar a partir de uma lista, acessando dados detalhados como história, administração, estádios e mascotes. Além das informações principais, o site inclui links úteis para explorar ainda mais sobre os times. Com um design limpo e funcional, o Futebolística Brasil oferece uma maneira prática e informativa de explorar e celebrar o futebol nacional.
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/7/2024 9:18 PM] Alura
 Novo projeto recebido!
