@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (214)
+⭐ (215)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (158)
+⭐ (159)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (114)
+⭐ (115)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
@@ -22682,7 +22682,7 @@ Descrição do projeto
 Este projeto web é uma aplicação simples que permite pesquisar detalhes sobre os melhores filmes já produzidos, de acordo o site Rotten Tomatoes. Ao digitar um termo de busca, a aplicação exibe os filmes da lista, incluindo título, ano de lançamento, diretor, gênero, resumo e onde assitir.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:07 PM] Alura
 Novo projeto recebido!
@@ -22697,7 +22697,7 @@ Descrição do projeto
 Relatório Financeiro de Clubes Brasileiros é uma ferramenta online que permite explorar os dados financeiros de clubes de futebol brasileiros. Baseado em relatórios oficiais da EY Brasil e Convocados, o aplicativo oferece uma visão transparente sobre a saúde financeira dos clubes, permitindo comparações e análises. Ideal para: fãs de futebol, analistas de mercado e investidores que desejam entender a realidade financeira dos clubes brasileiros. Infelizmente, por falta de tempo durante a semana não consegui me dedicar tanto ao projeto, principalmente na parte visual (CSS), que é o meu ponto fraco. Porém, mesmo após a Imersão, continuarei fazendo melhorias na aplicação. Quem quiser se juntar a mim... :)
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 11:07 PM] Alura
 Novo projeto recebido!
@@ -22712,7 +22712,7 @@ Descrição do projeto
 Esse é um projeto para auxiliar os estudantes de escola pública a conhecerem mais sobre as linguagens da Arte.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 11:07 PM] Alura
 Novo projeto recebido!
@@ -22727,7 +22727,7 @@ Descrição do projeto
 Aqui no Curioso, vamos desvendar juntos o mundo mágico da programação. ‍♂️  O que você vai encontrar por aqui:  Explicações simples: Termos técnicos explicados de um jeito fácil de entender. Exemplos práticos: Codigos e projetos para você colocar a mão na massa. Dicas e truques: Macetes para você se tornar um programador ninja. Quer aprender a criar um site incrível? Ou talvez prefira desenvolver um jogo?  Independente do seu objetivo, aqui você vai encontrar o que precisa para dar seus primeiros passos na programação.
 
 {Reactions}
-⭐ (32)
+⭐ (33)
 
 [9/7/2024 11:09 PM] Alura
 Novo projeto recebido!
@@ -22817,7 +22817,7 @@ Descrição do projeto
 Um jogo simples onde, a partir de chutes, você terá que acertar uma das escolas da Alura e, após isso, poderá acessar os planos da Alura ou da FIAP
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (79)
+⭐ (80)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24965,7 +24965,7 @@ Descrição do projeto
 Guia para tutores de primeira viagem. No site o tutor encontrará informações sobre vacinação de cães e gatos, alimentos tóxicos, alimentos que o pet pode ingerir e entre outros...
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
