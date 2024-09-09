@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (63)
+⭐ (64)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (146)
+⭐ (145)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (148)
+⭐ (147)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -21853,7 +21853,7 @@ Descrição do projeto
 Um visual-novel interativo onde as chaves de pesquisa levam ao próximo pedaço de história
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/7/2024 10:34 PM] Alura
 Novo projeto recebido!
