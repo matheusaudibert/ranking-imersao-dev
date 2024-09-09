@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (140)
+⭐ (139)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -11406,7 +11406,7 @@ Descrição do projeto
 Descubra o mundo das Akuma no Mi!  Este projeto é um site interativo que permite explorar as frutas do diabo do universo One Piece. Escolha entre Logia, Zoan ou Paramecia e descubra detalhes sobre as frutas mais poderosas de cada tipo. Navegue por informações detalhadas e imagens das frutas, e conheça os usuários e poderes de cada uma. Acesse o projeto online para começar sua jornada no mundo das Akuma no Mi!
 
 {Reactions}
-⭐ (43)
+⭐ (44)
 
 [9/7/2024 3:35 AM] Alura
 Novo projeto recebido!
