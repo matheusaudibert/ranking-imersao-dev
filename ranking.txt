@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (151)
+⭐ (152)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (123)
+⭐ (125)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -14838,7 +14838,7 @@ Descrição do projeto
 Brasil Empregos - Site de Vagas de Emprego Este projeto é um site simples de vagas de emprego chamado "Brasil Empregos", construído com HTML, CSS e JavaScript.  Funcionalidades:  Os usuários podem pesquisar por vagas com base na localização (estado) e palavra-chave. As listagens de vagas exibem informações básicas como título, empresa e salário. Ao clicar em uma vaga, é aberto um modal com informações detalhadas, como responsabilidades, requisitos, benefícios e detalhes de candidatura.  Link: https://brasil-empregos.vercel.app
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 3:20 PM] Alura
 Novo projeto recebido!
