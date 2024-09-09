@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (71)
+⭐ (70)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -25085,7 +25085,7 @@ Descrição do projeto
 Busca Sinopse de Filmes
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
