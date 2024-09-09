@@ -11796,7 +11796,7 @@ Descrição do projeto
 Ao iniciar a imersão, com meu cafezinho sobre a mesa, surgiu a ideia de criar o projeto sobre "Tipos de Cafés" e assim iniciou os estudos!  Imagina um site onde você pode encontrar o café perfeito para aquele seu momento relaxante? É isso que esse projeto faz! Com ele, você pode pesquisar por tipos de café, ver suas características e até mesmo descobrir novas opções para experimentar.  Como funciona essa mágica?  Você digita: Escreve o tipo de café que você procura na barra de pesquisa. É vasculhado uma lista de tipos de cafés para encontrar aqueles que combinam com a sua busca. Os resultados aparecem na tela, mostrando tudo sobre os cafés encontrados, como sabor, aroma e entre outras coisas.
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/7/2024 5:55 AM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (103)
+⭐ (104)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
