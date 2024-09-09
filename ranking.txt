@@ -1033,7 +1033,7 @@ Descrição do projeto
 A base de conhecimento escolhida foi a culinária, com a criação de um site de receitas chamado Sabores da Alma para agregar receitas. As funções do projeto consistem na busca por diversas categorias: nome, tags e tempo de preparo. A descrição completa pode ser conferida no repositório do [GitHub](https://github.com/dsadriel/imersao-dev-alura-gemini). A página pode ser acessada través do link: https://dsadriel.github.io/imersao-dev-alura-gemini/
 
 {Reactions}
-⭐ (111)
+⭐ (112)
 
 [9/5/2024 4:17 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (81)
+⭐ (82)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (77)
+⭐ (78)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
@@ -23147,7 +23147,7 @@ Descrição do projeto
 O projeto 'De Calouro a Adulto' é um guia online criado para auxiliar jovens na transição para a vida adulta. Oferecendo informações e dicas práticas sobre diversos temas, o projeto busca equipar os jovens com os conhecimentos e habilidades necessárias para enfrentar os desafios do mundo adulto. Desenvolvido por mim.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/7/2024 11:21 PM] Alura
 Novo projeto recebido!
@@ -23162,7 +23162,7 @@ Descrição do projeto
 Portifólio de artes, usando das lógicas de java apresentadas no curso consegui fazer um portifólio com minhas artes que pretendo continuar produzindo para se tornar um site de encomendas
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 11:21 PM] Alura
 Novo projeto recebido!
@@ -23252,7 +23252,7 @@ Descrição do projeto
 Esse meu projeto é voltado para algo que faço no meu dia a dia que é provar todos os tipos de energéticos e dar a minha opinião sobre elas. Para amantes de energéticos como eu.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23267,7 +23267,7 @@ Descrição do projeto
 Aplicativo que pesquisa músicos clássicos
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:23 PM] Alura
 Novo projeto recebido!
@@ -23282,7 +23282,7 @@ Descrição do projeto
 Aluga Jogos
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:25 PM] Alura
 Novo projeto recebido!
@@ -23342,7 +23342,7 @@ Descrição do projeto
 Buscador de Cursos Online: Ferramenta para encontrar rapidamente cursos online gratuitos em diversas áreas do conhecimento. Desenvolvido durante a Imersão Dev. Projeto Imersão Dev: Aplicação web que permite pesquisar cursos online gratuitos. Utilizando HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 11:26 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (111)
+⭐ (112)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
