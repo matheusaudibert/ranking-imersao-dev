@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (176)
+⭐ (177)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -5010,7 +5010,7 @@ Descrição do projeto
 Uma oportunidade de explorar mais informações a respeito do seu videogame favorito. Principalmente pelo fato dele listar alguns defeitos recorrentes do seu console e te mostrar o caminho para resolver o problema, que não necessite da prestação de serviço do técnico. Caso o problema for maior recomendamos que leve a uma assistência técnica. Esse é um projeto piloto que pretendo elevar na sua construção não apenas banco de dados mas também informações técnicas para auxiliar um técnico eletrônico na manutenção desses aparelhos. Aceito sugestões de melhoria do mesmo...
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/6/2024 3:41 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (173)
+⭐ (174)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -6100,7 +6100,7 @@ Descrição do projeto
 Cansado de passar horas procurando a receita perfeita? Com o Comidinhas Saborosas, você encontra todas as receitas que precisa em um só lugar. Economize tempo e dinheiro, explore novos sabores e prepare refeições deliciosas com facilidade. Eu construi esse site com html, css, javascript e com a ajuda do Gemini!
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/6/2024 5:40 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (75)
+⭐ (76)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (75)
+⭐ (76)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
