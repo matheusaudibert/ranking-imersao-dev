@@ -1048,7 +1048,7 @@ Descrição do projeto
 Projeto Imersão Alura com Google Gemini, onde se ultiliza da IA do google, para criação de uma pagina Web com HTML,  CSS, JAVASCRIPT
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 4:18 PM] Alura
 Novo projeto recebido!
@@ -1063,7 +1063,7 @@ Descrição do projeto
 criei um projeto sobre os planetas do nosso sistema solar
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 4:22 PM] Alura
 Novo projeto recebido!
@@ -1078,7 +1078,7 @@ Descrição do projeto
 Curiosidades de gatos
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 4:26 PM] Alura
 Novo projeto recebido!
@@ -1108,7 +1108,7 @@ Descrição do projeto
 Projeto de calculadora de IMC com foco na área da saúde, visando facilitar o calculo feito pelos profissionais.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/5/2024 4:34 PM] Alura
 Novo projeto recebido!
@@ -1123,7 +1123,7 @@ Descrição do projeto
 Este projeto visa promover a cidade de Birigui, interior de São Paulo, ao reunir uma seleção de restaurantes locais em um site interativo. Utilizando a tecnologia JavaScript, CSS e HTML, o site permite aos usuários buscar restaurantes por nome ou categoria, facilitando a descoberta de opções gastronômicas na cidade. A formatação do site é otimizada com o Gimini, garantindo uma apresentação clara e atraente. Futuramente, o projeto será expandido para incluir pontos turísticos, tornando-se um recurso completo para turistas interessados em explorar Birigui.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 4:36 PM] Alura
 Novo projeto recebido!
@@ -1138,7 +1138,7 @@ Descrição do projeto
 Projeta da imersão DEV
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 4:39 PM] Alura
 Novo projeto recebido!
@@ -1153,7 +1153,7 @@ Descrição do projeto
 Projeto da imersão DEV
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 4:44 PM] Alura
 Novo projeto recebido!
@@ -1168,7 +1168,7 @@ Descrição do projeto
 Como entusiasta do mercado financeiro e de tecnologia, da integração dos temas surgiu a DollarBill como as primeiras linhas de código. Trata-se de uma página sobre Finanças!
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 4:57 PM] Alura
 Novo projeto recebido!
@@ -1187,7 +1187,7 @@ Descrição do projeto (cont.)
 , podemos não apenas ensinar uma linguagem, mas também fomentar um ambiente de respeito e compreensão mútua. Ao apoiar o "Sinalize Libras", você está investindo em um futuro onde a comunicação é uma ponte que une, e não uma barreira que separa.
 
 {Reactions}
-⭐ (34)
+⭐ (35)
 
 [9/5/2024 5:07 PM] Alura
 Novo projeto recebido!
@@ -1202,7 +1202,7 @@ Descrição do projeto
 Projeto criado durante a Imersão_Dev da Alura com Google Gemini
 
 {Reactions}
-⭐ (95)
+⭐ (96)
 
 [9/5/2024 5:20 PM] Alura
 Novo projeto recebido!
@@ -1217,7 +1217,7 @@ Descrição do projeto
 Local de busca projetado para fãs da banda Iron Maiden e entusiastas da música em geral. O objetivo da aplicação é fornecer uma plataforma interativa para explorar a discografia completa da banda e realizar pesquisas específicas por faixas. A aplicação oferece uma interface amigável que facilita a visualização dos álbuns, a aplicação de filtros para encontrar álbuns específicos e a busca por faixas individuais.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/5/2024 5:21 PM] Alura
 Novo projeto recebido!
@@ -1232,7 +1232,7 @@ Descrição do projeto
 Projeto de uma Pokedex de Pokemon
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 5:29 PM] Alura
 Novo projeto recebido!
@@ -1247,7 +1247,7 @@ Descrição do projeto
 O projeto tem como público-alvo pessoas neurodivergentes que precisam de ajuda para se organizarem e estabelecerem uma rotina. O site trabalha com tópicos sobre a importância da rotina na vida de um neurodivergente; ele também aborda dicas sobre como montar uma rotina e como o hiperfoco pode ser um aliado, além de abordar rotinas no ambiente de trabalho e como evitar crises com essas rotinas. Apliquei essa ideia como uma pessoa neurodivergente que possui o desejo de ajudar outras pessoas neurodivergentes. Tenho muita vontade de evoluir esse projeto futuramente para que ele se torne uma aplicação real que mude a vida de várias pessoas.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/5/2024 5:30 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (124)
+⭐ (125)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -12819,7 +12819,7 @@ Descrição do projeto
 O projeto Semente do Bem nasceu com o intuito de conectar possíveis doadores a organizações que prestam serviços sociais. Essas organizações necessitam muito de contribuições para continuar e funcionamento. E muitas vezes o usuário não sabe onde direcionar sua doação, qual instituição é confiável ou como fazer a doação de forma segura e transparente. O Semente do Bem surge como uma solução para esses desafios, oferecendo uma plataforma intuitiva e confiável para que as pessoas possam fazer o bem. (obs: ainda não está 100% finalizado, pretendo adicionar mais ONGs, mas já da para ver como será o projeto finalizado)
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/7/2024 12:13 PM] Alura
 Novo projeto recebido!
@@ -18302,7 +18302,7 @@ Descrição do projeto
 Biblioteca de Livros é uma aplicação web onde os usuários podem pesquisar livros, ver informações detalhadas, deixar comentários e avaliações. Esta aplicação também permite adicionar novos livros à biblioteca. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 7:32 PM] Alura
 Novo projeto recebido!
