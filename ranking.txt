@@ -817,7 +817,7 @@ Descrição do projeto
 POKELANDIA, Mergulhe em um mundo mágico de Pokémon. Nossa plataforma permite que você pesquise seus Pokémon favoritos e descubra informações fascinantes sobre eles. Desde os clássicos até os mais recentes, a Pokelândia é o seu guia completo para o universo Pokémon.
 
 {Reactions}
-⭐ (207)
+⭐ (208)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (145)
+⭐ (146)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (171)
+⭐ (172)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (82)
+⭐ (83)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (113)
+⭐ (112)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
