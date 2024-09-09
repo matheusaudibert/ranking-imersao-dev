@@ -575,7 +575,7 @@ Descrição do projeto
 Este projeto tem como objetivo democratizar o acesso a informações sobre projetos esportivos aptos a receberem investimentos/doações pela Lei de Incentivo ao Esporte, facilitando a consulta de dados como agência, conta bancária e empresa proponente por meio do CNPJ. A plataforma foi construída com as linguagens HTML, CSS e JavaScript, sendo que o deploy foi feito no GitHub Pages. É uma página web simples que permite que pessoas físicas e jurídicas, interessadas em investir no esporte brasileiro, encontrem rapidamente oportunidades e compreendam melhor como funciona esse incentivo que pode gerar abatimento no imposto de renda.  Com poucos cliques, você terá acesso a informações que não estão disponíveis de forma centralizada no site oficial do Ministério do Esporte, agilizando o processo de decisão para quem busca apoiar iniciativas esportivas de fato.
 
 {Reactions}
-⭐ (212)
+⭐ (213)
 
 [9/5/2024 1:27 PM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (144)
+⭐ (145)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (149)
+⭐ (150)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (217)
+⭐ (218)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -8008,7 +8008,7 @@ Descrição do projeto
 Café na Xícara, um site dedicado aos amantes de café! Este site oferece informações sobre diferentes tipos de café e bebidas feitas à base de café, além de uma funcionalidade de pesquisa para facilitar a navegação.
 
 {Reactions}
-⭐ (79)
+⭐ (80)
 
 [9/6/2024 9:19 PM] Alura
 Novo projeto recebido!
@@ -8269,7 +8269,7 @@ Descrição do projeto
 O Rimas Score é um site com intuito de compartilhar e armazenar dados sobre a cultura das batalha de rima no Brasil,, com ele o usuario tem acesso a historia, instagram e titulos relevantes dos Melhores Mcs do Brasil.  Talvez um dia esse projeto seja um porta voz da cultura do hip hop brasil.   RIMAS EM 3 2 1..
 
 {Reactions}
-⭐ (74)
+⭐ (75)
 
 [9/6/2024 9:41 PM] Alura
 Novo projeto recebido!
@@ -8453,7 +8453,7 @@ Descrição do projeto
 Este projeto web te permite explorar o universo dos vilões de Power Rangers! Com uma interface simples e intuitiva, você pode comparar os meus personagens favoritos e descobrir detalhes como nome, intérprete e até mesmo uma breve descrição.
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/6/2024 9:56 PM] Alura
 Novo projeto recebido!
@@ -21748,7 +21748,7 @@ Descrição do projeto
 Buscador de Pesqueiros (informações sobre o projeto no ReadMe)
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 10:30 PM] Alura
 Novo projeto recebido!
