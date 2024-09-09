@@ -1787,7 +1787,7 @@ Descrição do projeto
 Oii! Meu projeto é voltado a coelhos, chama-se Bunnies, nele você pode ver sobre diversas raças diferentes para estimação, e pequenas especificações de cada um. https://l44ver.github.io/imersaoDev/
 
 {Reactions}
-⭐ (149)
+⭐ (150)
 
 [9/5/2024 7:49 PM] Alura
 Novo projeto recebido!
@@ -8939,7 +8939,7 @@ Descrição do projeto (cont.)
 se no site ela irá te informar uma mensagem, uma dica ou um conhecimento novo acerca de assuntos ambientais/sociais.
 
 {Reactions}
-⭐ (55)
+⭐ (54)
 
 [9/6/2024 10:29 PM] Alura
 Novo projeto recebido!
@@ -19782,7 +19782,7 @@ Descrição do projeto (cont.)
 de qualquer lugar, seja através de seu smartphone, tablet ou computador. Benefícios: Eficiência Operacional: Automatize tarefas rotineiras e otimize o uso de recursos para aumentar a produtividade. Decisões Informadas: Baseie suas decisões em dados precisos e relatórios detalhados para maximizar os resultados. Facilidade de Uso: Com uma interface amigável, o AgroWalker é fácil de usar, mesmo para aqueles que não têm experiência em tecnologia. Com o AgroWalker, você tem o controle total sobre suas operações agrícolas, permitindo uma gestão mais eficiente e lucrativa. Seja você um pequeno produtor ou um grande fazendeiro, o AgroWalker é a solução que você precisa para levar sua propriedade ao próximo nível.
 
 {Reactions}
-⭐ (81)
+⭐ (80)
 
 [9/7/2024 8:50 PM] Alura
 Novo projeto recebido!
@@ -21667,7 +21667,7 @@ Descrição do projeto
 Esse foi um projeto que desenvolvi através da imersão da Alura com o Google Gemini, utilizei como tema central a Pixar, no projeto mostra os filmes e os personagens da Pixar, como por exemplo o filme Toy Story e os personagens Woody, Buzz e entre outros. Para a criação dos dados utilizei o Google Gemini como foi apresentado nas aulas. Já o sistema de busca foi feito da mesma maneira que foi explicado no decorrer das aulas mas com algumas alterações pera se encaixar no projeto, como a pesquisa de personagens e a dos filmes para trazer os personagens relacionados a esse filme. Utilizei também o gemini para explicar para mim como colocar imagens dos filmes e personagens para uma melhor experiencia do usuário. Por fim teve também o css e o index que criei utilizando como tema a Pixar, caso deseje o Readme tem as imagens da tela do projeto para uma visualização de como ele ficou.
 
 {Reactions}
-⭐ (54)
+⭐ (55)
 
 [9/7/2024 10:27 PM] Alura
 Novo projeto recebido!
@@ -22922,7 +22922,7 @@ Descrição do projeto
 LOLGUIDE é um projeto dedicado a fornecer informações detalhadas sobre campeões do universo de League of Legends. Desenvolvido como parte do evento Imersão Dev Alura, o site é uma fonte completa para aprender sobre as habilidades, itens e runas de diversos campeões. Para acessar o site, clique aqui: https://lolguide-nu.vercel.app/
 
 {Reactions}
-⭐ (104)
+⭐ (105)
 
 [9/7/2024 11:14 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
