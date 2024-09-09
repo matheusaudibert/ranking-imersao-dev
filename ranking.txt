@@ -1847,7 +1847,7 @@ Descrição do projeto
 Virtude Estoica é uma aplicação web interativa dedicada à filosofia estoica, projetada para ajudar os usuários a explorar, aprender e aplicar os princípios estoicos em suas vidas diárias. Com uma interface elegante e recursos envolventes, o projeto visa tornar a sabedoria estoica acessível e prática para o mundo moderno.
 
 {Reactions}
-⭐ (23)
+⭐ (25)
 
 [9/5/2024 8:06 PM] Alura
 Novo projeto recebido!
@@ -4537,7 +4537,7 @@ Descrição do projeto
 O Show da Imersão é um jogo de perguntas e respostas desenvolvido em HTML, CSS e JavaScript, com o objetivo de simular a experiência do famoso programa de televisão "Show do Milhão". O jogador responde a perguntas de múltipla escolha e tem a chance de ganhar prêmios em barras de ouro virtuais que valem mais do que dinheiro.
 
 {Reactions}
-⭐ (85)
+⭐ (86)
 
 [9/6/2024 3:01 PM] Alura
 Novo projeto recebido!
@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (158)
+⭐ (157)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -11391,7 +11391,7 @@ Descrição do projeto
 Esse projeto web feito durante a Imersão Dev Alura e Google Gemini te ajuda a encontrar o pet ideal para você! Com uma busca simples, você pode descobrir diversas raças de cães e gatos, com informações detalhadas sobre cada uma. Basta digitar algumas palavras-chave, como "cão pequeno e brincalhão" ou "gato calmo para apartamento", e a aplicação fará uma busca inteligente em nosso banco de dados e te apresentará os resultados mais relevantes.  O melhor de tudo? Nossa aplicação é totalmente responsiva, ou seja, funciona perfeitamente em qualquer dispositivo, seja no seu computador, tablet ou smartphone!
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/7/2024 3:34 AM] Alura
 Novo projeto recebido!
@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (67)
+⭐ (68)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -22817,7 +22817,7 @@ Descrição do projeto
 Um jogo simples onde, a partir de chutes, você terá que acertar uma das escolas da Alura e, após isso, poderá acessar os planos da Alura ou da FIAP
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/7/2024 11:11 PM] Alura
 Novo projeto recebido!
