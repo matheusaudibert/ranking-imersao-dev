@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (73)
+⭐ (74)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
