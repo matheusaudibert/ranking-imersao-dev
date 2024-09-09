@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (164)
+⭐ (165)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -3783,7 +3783,7 @@ Descrição do projeto
 Minha aplicação é dedicada aos jogadores de Call of Duty: Warzone. Ela inclui um sistema de pesquisa que permite encontrar jogadores e visualizar suas redes sociais de stream, além de uma seção de notícias com atualizações e informações sobre o jogo, como torneios, atualização das Seasons e uma ferramenta para os melhores ajustes de armas em cada Modo de jogo. Com um design criativo, moderno e simples.
 
 {Reactions}
-⭐ (60)
+⭐ (61)
 
 [9/6/2024 1:04 PM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (161)
+⭐ (160)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
