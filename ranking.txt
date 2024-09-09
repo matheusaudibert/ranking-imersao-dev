@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (149)
+⭐ (150)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (127)
+⭐ (128)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -15003,7 +15003,7 @@ Descrição do projeto
 O projeto foi criado com a ideia de tentar facilitar o encontro de restaurantes novos e restaurantes localizados de maneira mais distante (alimentado com base fictícia), de uma maneira simples, sem fugir do tema abordado na imersão (ou seja, sem google API), para poder realizar as pesquisas de restaurantes, pode-se utilizar o tipo de comida, como por exemplo, brasileira ou mexicana. Como a base é totalmente fictícia, não temos links vinculados aos nomes dos restaurantes, e os nomes de ruas são inventados.
 
 {Reactions}
-⭐ (36)
+⭐ (37)
 
 [9/7/2024 3:40 PM] Alura
 Novo projeto recebido!
@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
