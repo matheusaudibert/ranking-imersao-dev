@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (183)
+⭐ (182)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (202)
+⭐ (201)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -2899,7 +2899,7 @@ Descrição do projeto
 AI.HUB: Sua biblioteca com as melhores INTELIGÊNCIAS ARTIFICIAIS do momento! Explore nosso catálogo e descubra IA's inovadoras para ASSISTÊNCIA, DESIGN, VÍDEO, MÚSICA e ESTUDOS. Além disso, o site conta com uma seção exclusiva que explica o funcionamento das IAs e seus diferentes tipos. ATUALIZAÇÕES estão a caminho! O site é totalmente RESPONSIVO, adaptando-se perfeitamente a qualquer dispositivo, para que você possa acessar quando e onde quiser! SEU APOIO é essencial para impulsionar o site e torná-lo conhecido por todos. Confira o link e aproveite: https://portfolio-ai-kvg6ycv0m-profile-z4ffarani.vercel.app. Agradeço desde já, future-se!
 
 {Reactions}
-⭐ (188)
+⭐ (187)
 
 [9/6/2024 5:45 AM] Alura
 Novo projeto recebido!
@@ -5627,7 +5627,7 @@ Descrição do projeto
 EcoWatt funciona como se fosse o jogo TERMO, e a solução definitiva para quem deseja economizar energia de forma inteligente e envolvente. Com desafios interativos e um sistema de pontos, você melhora seus hábitos energéticos enquanto se diverte. Descubra dicas práticas e complete missões que realmente fazem a diferença, suba de nível e receba feedback imediato sobre suas conquistas. Transforme sua forma de consumir energia e ajude a construir um futuro sustentável com EcoWatt. Comece sua jornada para um consumo mais consciente agora!
 
 {Reactions}
-⭐ (176)
+⭐ (177)
 
 [9/6/2024 4:52 PM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (69)
+⭐ (70)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
@@ -17340,7 +17340,7 @@ Descrição do projeto
 O projeto é um site sobre radioamadorismo. Ele procura detalhar algumas de suas principais modalidades. Um campo de pesquisa de palavras-chave foi adicionado ao final do projeto seguindo o modelo da imersão. Como essa imersão tem como objeto também a Inteligência artificial, todos os textos e imagens foram produzidos com inteligência artificial, exceto a página de links. Foi utilizado IA também para a produção de alguns códigos como o menu.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 6:27 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (90)
+⭐ (91)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
