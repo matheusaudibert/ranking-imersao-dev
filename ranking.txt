@@ -11948,7 +11948,7 @@ Descrição do projeto
 O Grande Guia da Jardinagem é uma plataforma digital completa e interativa, projetada para auxiliar amantes da jardinagem em todos os níveis de experiência. Com um banco de dados abrangente de plantas, ferramentas de pesquisa intuitivas e uma comunidade engajada, nosso objetivo é tornar a jardinagem mais acessível e prazerosa. Através de informações detalhadas sobre cultivo, cuidados e benefícios, o projeto oferece tudo o que você precisa para criar um jardim exuberante e saudável.
 
 {Reactions}
-⭐ (106)
+⭐ (105)
 
 [9/7/2024 8:28 AM] Alura
 Novo projeto recebido!
@@ -15980,7 +15980,7 @@ Descrição do projeto
 Este projeto consiste em um site interativo que permite aos usuários pesquisar informações detalhadas sobre diversos tipos de vinho, incluindo suas características, origens e harmonizações com pratos. O site foi desenvolvido utilizando as tecnologias web HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (73)
+⭐ (72)
 
 [9/7/2024 5:05 PM] Alura
 Novo projeto recebido!
