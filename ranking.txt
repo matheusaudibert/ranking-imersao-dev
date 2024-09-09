@@ -288,7 +288,7 @@ Descrição do projeto
 O Decola Dev é um projeto que compila oportunidades, eventos e iniciativas gratuitas voltados para desenvolvedores em início de carreira.
 
 {Reactions}
-⭐ (194)
+⭐ (195)
 
 [9/5/2024 10:47 AM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -3428,7 +3428,7 @@ Descrição do projeto
 Fiz uma site com uma lista de animes que podem ser filtrados por categoria https://bomba4512.github.io/imersao-alura/ OBS: Fiz o projeto enquanto fazia live lá na twitch, segue lá! https://www.twitch.tv/bomba4512
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/6/2024 11:48 AM] Alura
 Novo projeto recebido!
@@ -6824,7 +6824,7 @@ Descrição do projeto
 Roteiros Prontos é um site web que ajuda os usuários a planejar suas viagens de forma simples e rápida. A plataforma oferece:  Busca por destinos: Encontre roteiros personalizados para o seu destino ideal. Exploração de destinos populares: Descubra novos lugares e inspire-se. Criação de roteiros personalizados: Monte seu próprio roteiro com as suas preferências. Dicas de viagem: Receba dicas úteis para planejar sua viagem. Em poucas palavras, é um guia de viagem online que te ajuda a encontrar a aventura perfeita.  Tecnologias: HTML, CSS e JavaScript.  Objetivo: Facilitar o planejamento de viagens e inspirar os usuários a explorarem novos destinos.  Próximos passos: Melhorias na busca, criação de perfis de usuários e integração com APIs de viagens.  Em resumo, Roteiros Prontos é a sua próxima parada para planejar suas férias!
 
 {Reactions}
-⭐ (152)
+⭐ (151)
 
 [9/6/2024 6:58 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (94)
+⭐ (95)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -23736,7 +23736,7 @@ Descrição do projeto
 Este projeto, desenvolvido durante a Imersão Alura com Google Gemini, busca trazer um toque brasileiro a um clássico dos jogos de cartas: o Trunfo. Com adaptações nas regras tradicionais, o objetivo é oferecer uma experiência de jogo mais simples e acessível.
 
 {Reactions}
-⭐ (33)
+⭐ (34)
 
 [9/7/2024 11:41 PM] Alura
 Novo projeto recebido!
