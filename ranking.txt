@@ -11254,7 +11254,7 @@ Descrição do projeto
 O projeto desenvolve um sistema de autoatendimento para uma loja de marmitas. Através de um menu interativo e um totem, os clientes personalizam seus pedidos, escolhendo o tamanho da embalagem e os ingredientes principais: carboidrato, proteína e guarnição. Após a confirmação, o sistema emite uma mensagem de agradecimento, finalizando o processo de forma intuitiva e eficiente.
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/7/2024 3:18 AM] Alura
 Novo projeto recebido!
@@ -18302,7 +18302,7 @@ Descrição do projeto
 Biblioteca de Livros é uma aplicação web onde os usuários podem pesquisar livros, ver informações detalhadas, deixar comentários e avaliações. Esta aplicação também permite adicionar novos livros à biblioteca. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 7:32 PM] Alura
 Novo projeto recebido!
@@ -18797,7 +18797,7 @@ Descrição do projeto
 Esta aplicação oferece uma base de suporte para auxiliar na pesquisa sobre alimentos, seus benefícios, e uma tabela nutricional detalhada criada pelo Google Gemini, apresentada como resultado em forma de imagem. Além disso, traz algumas curiosidades sobre os alimentos que consumimos no dia a dia. Também apresenta três opções de metas com Easter eggs de animes, com personagens que passaram por mudanças no visual (ou não), tornando a pesquisa mais divertida.
 
 {Reactions}
-⭐ (98)
+⭐ (99)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
