@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (297)
+⭐ (298)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (273)
+⭐ (274)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -6884,7 +6884,7 @@ Descrição do projeto
 Embarque em uma jornada épica pela mitologia nórdica! Este projeto web te convida a explorar o panteão nórdico de uma forma interativa e divertida. Pesquise por seus deuses favoritos, como Thor, Odin e Freya, e descubra detalhes fascinantes sobre suas histórias, poderes e papéis no universo de God of War. Perfeito para fãs da série e entusiastas da mitologia!
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/6/2024 7:09 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (125)
+⭐ (126)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -8954,7 +8954,7 @@ Descrição do projeto
 O Codepedia fornece uma visão superficial sobre determinadas linguagens de programação, mas também fontes de aprofundamento sobre essas tecnologias. Seu estilo foi inspirado em terminais linux.
 
 {Reactions}
-⭐ (119)
+⭐ (120)
 
 [9/6/2024 10:30 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (142)
+⭐ (143)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -11254,7 +11254,7 @@ Descrição do projeto
 O projeto desenvolve um sistema de autoatendimento para uma loja de marmitas. Através de um menu interativo e um totem, os clientes personalizam seus pedidos, escolhendo o tamanho da embalagem e os ingredientes principais: carboidrato, proteína e guarnição. Após a confirmação, o sistema emite uma mensagem de agradecimento, finalizando o processo de forma intuitiva e eficiente.
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 3:18 AM] Alura
 Novo projeto recebido!
@@ -14838,7 +14838,7 @@ Descrição do projeto
 Brasil Empregos - Site de Vagas de Emprego Este projeto é um site simples de vagas de emprego chamado "Brasil Empregos", construído com HTML, CSS e JavaScript.  Funcionalidades:  Os usuários podem pesquisar por vagas com base na localização (estado) e palavra-chave. As listagens de vagas exibem informações básicas como título, empresa e salário. Ao clicar em uma vaga, é aberto um modal com informações detalhadas, como responsabilidades, requisitos, benefícios e detalhes de candidatura.  Link: https://brasil-empregos.vercel.app
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/7/2024 3:20 PM] Alura
 Novo projeto recebido!
@@ -21853,7 +21853,7 @@ Descrição do projeto
 Um visual-novel interativo onde as chaves de pesquisa levam ao próximo pedaço de história
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/7/2024 10:34 PM] Alura
 Novo projeto recebido!
