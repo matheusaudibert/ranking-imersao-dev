@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -11796,7 +11796,7 @@ Descrição do projeto
 Ao iniciar a imersão, com meu cafezinho sobre a mesa, surgiu a ideia de criar o projeto sobre "Tipos de Cafés" e assim iniciou os estudos!  Imagina um site onde você pode encontrar o café perfeito para aquele seu momento relaxante? É isso que esse projeto faz! Com ele, você pode pesquisar por tipos de café, ver suas características e até mesmo descobrir novas opções para experimentar.  Como funciona essa mágica?  Você digita: Escreve o tipo de café que você procura na barra de pesquisa. É vasculhado uma lista de tipos de cafés para encontrar aqueles que combinam com a sua busca. Os resultados aparecem na tela, mostrando tudo sobre os cafés encontrados, como sabor, aroma e entre outras coisas.
 
 {Reactions}
-⭐ (46)
+⭐ (48)
 
 [9/7/2024 5:55 AM] Alura
 Novo projeto recebido!
@@ -21406,7 +21406,7 @@ Descrição do projeto
 O projeto é focado para as crianças de até 12 anos, já que decidi utilizar cinco personagens do videogame Sonic the Hedgehog, sendo eles: o próprio Sonic, Tails, Amy, Knuckles e Shadow. Cada um desses cinco personagens possui um tema sobre a importância do meio ambiente e dicas sobre como devemos cuidar delas, com um link que leva a sites que possuam mais informações caso necessário. O site foi feito pensando para que as gerações futuras desde crianças saibam o quão importante é a natureza e sobre como fazemos parte dela.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 10:14 PM] Alura
 Novo projeto recebido!
