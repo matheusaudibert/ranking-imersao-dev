@@ -16,7 +16,7 @@ Descrição do projeto
 Imersão Dev com Google Gemini - Alura
 
 {Reactions}
-⭐ (30)
+⭐ (31)
 
 [9/5/2024 8:31 AM] Alura
 Novo projeto recebido!
@@ -31,7 +31,7 @@ Descrição do projeto
 O Hyper Cortex foi um projeto desenvolvido com o objetivo de ajudar as pessoas com Alzheimer, tendo jogos, sobre o Alzheimer, além de dicas para os cuidadores.
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/5/2024 8:36 AM] Alura
 Novo projeto recebido!
@@ -46,7 +46,7 @@ Descrição do projeto
 Este projeto tem como objetivo explorar as estrelas mais brilhantes do universo observável, permitindo que os usuários realizem buscas específicas para obter informações detalhadas sobre as estrelas de seu interesse. Desenvolvido com HTML, CSS e JavaScript, o sistema oferece uma interface intuitiva e responsiva para facilitar a navegação e a interação, tornando a descoberta de dados astronômicos mais acessível e interessante para todos os entusiastas do espaço.
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/5/2024 8:41 AM] Alura
 Novo projeto recebido!
@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (299)
+⭐ (300)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -6884,7 +6884,7 @@ Descrição do projeto
 Embarque em uma jornada épica pela mitologia nórdica! Este projeto web te convida a explorar o panteão nórdico de uma forma interativa e divertida. Pesquise por seus deuses favoritos, como Thor, Odin e Freya, e descubra detalhes fascinantes sobre suas histórias, poderes e papéis no universo de God of War. Perfeito para fãs da série e entusiastas da mitologia!
 
 {Reactions}
-⭐ (55)
+⭐ (56)
 
 [9/6/2024 7:09 PM] Alura
 Novo projeto recebido!
@@ -23012,7 +23012,7 @@ Descrição do projeto
 Jogo da Velha: Uma Batalha Épica Contra o Tédio! ⚔️ Prepare-se para uma batalha épica contra o tédio com o nosso Jogo da Velha! 🕹️ Neste jogo clássico, você precisa alinhar 3 marcas (X ou O) em linha, coluna ou diagonal para vencer. Se todas as células forem preenchidas sem um vencedor, o jogo termina empatado. Mas espere! Temos um toque especial: Animação das Bolhas: As bolhas dançam no fundo, dando um toque especial ao jogo! ✨ Troca de Cores: A cada 5 segundos, o fundo muda de cor, proporcionando uma experiência visual dinâmica. 🌈 É fácil de jogar e perfeito para qualquer pessoa! 😉 Clique no botão "Reiniciar" para uma nova partida e divirta-se! 🎉
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 11:18 PM] Alura
 Novo projeto recebido!
@@ -23361,7 +23361,7 @@ Descrição do projeto (cont.)
 Aprenda e Jogue: Cada vez que você encontra um par, receba uma dica sobre o material reciclável representado pela carta. Complete o Jogo: Continue encontrando pares até que todas as cartas sejam combinadas.
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/7/2024 11:27 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (51)
+⭐ (52)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -25335,7 +25335,7 @@ Descrição do projeto
 Usando a IA para plantar.
 
 {Reactions}
-⭐ (37)
+⭐ (38)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
