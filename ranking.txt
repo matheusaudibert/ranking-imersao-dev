@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (154)
+⭐ (155)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1847,7 +1847,7 @@ Descrição do projeto
 Virtude Estoica é uma aplicação web interativa dedicada à filosofia estoica, projetada para ajudar os usuários a explorar, aprender e aplicar os princípios estoicos em suas vidas diárias. Com uma interface elegante e recursos envolventes, o projeto visa tornar a sabedoria estoica acessível e prática para o mundo moderno.
 
 {Reactions}
-⭐ (25)
+⭐ (27)
 
 [9/5/2024 8:06 PM] Alura
 Novo projeto recebido!
@@ -18932,7 +18932,7 @@ Descrição do projeto
 Criado do zero, desde o código até o design, meu projeto é um buscador de vilões. Para utilizá-lo, digite o nome do vilão no campo de busca. Se o encontrarmos, você verá o nome do vilão, uma breve descrição e até mesmo um link para o trailer do seu malvado favorito! https://buscador-de-viloes.vercel.app/
 
 {Reactions}
-⭐ (112)
+⭐ (113)
 
 [9/7/2024 8:04 PM] Alura
 Novo projeto recebido!
