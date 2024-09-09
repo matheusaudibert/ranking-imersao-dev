@@ -5267,7 +5267,7 @@ Descrição do projeto
 Projeto de um site que ensina o idioma japonês.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/6/2024 4:08 PM] Alura
 Novo projeto recebido!
