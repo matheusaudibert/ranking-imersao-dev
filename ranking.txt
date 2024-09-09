@@ -4537,7 +4537,7 @@ Descrição do projeto
 O Show da Imersão é um jogo de perguntas e respostas desenvolvido em HTML, CSS e JavaScript, com o objetivo de simular a experiência do famoso programa de televisão "Show do Milhão". O jogador responde a perguntas de múltipla escolha e tem a chance de ganhar prêmios em barras de ouro virtuais que valem mais do que dinheiro.
 
 {Reactions}
-⭐ (86)
+⭐ (87)
 
 [9/6/2024 3:01 PM] Alura
 Novo projeto recebido!
@@ -5663,7 +5663,7 @@ Descrição do projeto (cont.)
 respostas corretas para as perguntas que o usuário errou, com uma breve explicação.     Integração com redes sociais: Permitir que o usuário compartilhe seu resultado nas redes sociais.  Conclusão:  O projeto é um exemplo bem-sucedido de um quiz interativo construído com HTML, CSS e JavaScript. A estrutura do código é clara e organizada, facilitando a manutenção e futuras adições de funcionalidades. O projeto pode ser utilizado como base para a criação de outros quizzes sobre diferentes temas.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/6/2024 4:56 PM] Alura
 Novo projeto recebido!
