@@ -1033,7 +1033,7 @@ Descrição do projeto
 A base de conhecimento escolhida foi a culinária, com a criação de um site de receitas chamado Sabores da Alma para agregar receitas. As funções do projeto consistem na busca por diversas categorias: nome, tags e tempo de preparo. A descrição completa pode ser conferida no repositório do [GitHub](https://github.com/dsadriel/imersao-dev-alura-gemini). A página pode ser acessada través do link: https://dsadriel.github.io/imersao-dev-alura-gemini/
 
 {Reactions}
-⭐ (107)
+⭐ (108)
 
 [9/5/2024 4:17 PM] Alura
 Novo projeto recebido!
@@ -10650,7 +10650,7 @@ Descrição do projeto
 Para alegrar seu dia, nós disponibilizamos um site com mangakás como gatinhos! Lá você pode achar um mangaká que você conhece da maneira mais fofa possível!
 
 {Reactions}
-⭐ (84)
+⭐ (86)
 
 [9/7/2024 1:15 AM] Alura
 Novo projeto recebido!
@@ -20472,7 +20472,7 @@ Descrição do projeto
 Wiki-Jogos é uma plataforma de referência e pesquisa para entusiastas de videogames, oferecendo informações abrangentes sobre uma vasta gama de jogos. O site permite aos usuários buscar e explorar jogos por título, gênero e outros critérios, apresentando detalhes como descrições, gêneros, e links para mais informações
 
 {Reactions}
-⭐ (45)
+⭐ (46)
 
 [9/7/2024 9:26 PM] Alura
 Novo projeto recebido!
@@ -21883,7 +21883,7 @@ Descrição do projeto
 Projeto básico de site de consulta de algumas receitas. Realizando os testes de aprendizado usando HTML, CSS e JavaScript no campo de busca e em algumas particularidades no site. Utilizado auxílio do Google Gemini para inserir algumas particularidades no código (coisas simples) tais como, utilização do "ENTER" no campo de busca, mensagem animada quando ocorre algum erro entre outros. Agradecido pela oportunidade de aprendizado.
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 10:35 PM] Alura
 Novo projeto recebido!
