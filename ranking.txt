@@ -697,7 +697,7 @@ Descrição do projeto
 Uma pagina de pesquisa sobre tecnologia
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -2327,7 +2327,7 @@ Descrição do projeto
 Site criado com a intenção de cátalogar filmes, onde é possivel buscar pelo nome, onde a ira aparecer a sinopse e um link para IMDb.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/5/2024 10:49 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (99)
+⭐ (100)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
