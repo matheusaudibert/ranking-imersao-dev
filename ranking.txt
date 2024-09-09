@@ -3064,7 +3064,7 @@ Descrição do projeto
 Levantei um problema que eu já passei e resolvi criar o TreinoFácil: a solução para seus treinos. Diga adeus às dificuldades com a academia! Nossos planos de treino e tutoriais em vídeo te ajudam a alcançar seus objetivos de forma rápida e eficiente.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/6/2024 9:36 AM] Alura
 Novo projeto recebido!
@@ -11164,7 +11164,7 @@ Descrição do projeto
 Estou desenvolvendo um site interativo voltado para o jogo de RPG Tormenta 20. O projeto inclui funcionalidades como:  Exploração da história: Uma seção que conta a história de Tormenta 20, ajudando os visitantes a conhecer o universo do jogo. Teste de personalidade: Um questionário dinâmico que auxilia os jogadores a encontrar a classe ideal, baseado em suas respostas sobre estilo de jogo e preferências.
 
 {Reactions}
-⭐ (126)
+⭐ (127)
 
 [9/7/2024 3:03 AM] Alura
 Novo projeto recebido!
@@ -21853,7 +21853,7 @@ Descrição do projeto
 Um visual-novel interativo onde as chaves de pesquisa levam ao próximo pedaço de história
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 10:34 PM] Alura
 Novo projeto recebido!
