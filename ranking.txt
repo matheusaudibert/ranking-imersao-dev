@@ -18767,7 +18767,7 @@ Descrição do projeto
 RareBunny RoadMap é uma aplicação web projetada para auxiliar usuários na busca e descoberta de informações sobre áreas e tecnologias na indústria de tecnologia. Com uma interface simples e direta, a aplicação permite que os usuários pesquisem por diferentes áreas tecnológicas e obtenham detalhes relevantes de forma rápida e fácil.
 
 {Reactions}
-⭐ (42)
+⭐ (43)
 
 [9/7/2024 7:57 PM] Alura
 Novo projeto recebido!
@@ -19932,7 +19932,7 @@ Descrição do projeto
 O site "Projetos Pedagógicos" foi criado durante a Imersão Dev 2024 da Alura, um evento gratuito que ensina a desenvolver projetos com HTML, CSS e JavaScript, com suporte da inteligência artificial do Google Gemini. O site ajuda professores a encontrar projetos pedagógicos organizados por disciplina, exibindo imagens, materiais necessários, descrições e links para cada projeto. Com um design simples e funcional, o site é acessível e prático, pensado especialmente para educadores com pouca experiência em plataformas digitais.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/7/2024 9:01 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (86)
+⭐ (87)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
