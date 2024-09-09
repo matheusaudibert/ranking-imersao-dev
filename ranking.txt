@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (155)
+⭐ (156)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -22847,7 +22847,7 @@ Descrição do projeto
 Um aplicativo web para pesquisa e visualização de ações da B3, com gráficos de preços históricos das ações.
 
 {Reactions}
-⭐ (39)
+⭐ (40)
 
 [9/7/2024 11:12 PM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (118)
+⭐ (119)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -25365,7 +25365,7 @@ Descrição do projeto
 Segue projeto da imersao
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/7/2024 11:59 PM] Alura
 Novo projeto recebido!
@@ -25380,7 +25380,7 @@ Descrição do projeto
 O projeto consiste em uma página interativa que permite os usuários realizarem pesquisas textuais para encontrar um personagem do jogo *Honkai: Star Rail*, além de poderem filtrar personagens por elementos e caminhos. Ao clicar no personagem, o usuário é direcionado para um link com mais informações.
 
 {Reactions}
-⭐ (50)
+⭐ (51)
 
 ==============================================================
 Exported 1,677 message(s)
