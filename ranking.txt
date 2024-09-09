@@ -2312,7 +2312,7 @@ Descrição do projeto
 Copie e cole códigos de elementos interativos que vão deixar seu projeto AESTHETIC! Acesse a Token+ Elements aqui: https://udanielnogueira.github.io/token-elements/ e basta inserir/clicar o token que desejar para ver o código HTML e CSS do elemento escolhido. Com muito carinho pra vocês do Nogueira! Câmbio, Desligo...
 
 {Reactions}
-⭐ (176)
+⭐ (177)
 
 [9/5/2024 10:41 PM] Alura
 Novo projeto recebido!
@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (144)
+⭐ (145)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -23978,7 +23978,7 @@ Descrição do projeto
 Consumir alimentos sazonais oferece vários benefícios, como um maior aporte de nutrientes, menor presença de agrotóxicos, apoio à agricultura local e custos mais baixos para os consumidores.  Pensando nisso, o projeto "Sabores da Estação" tem como objetivo facilitar a escolha de alimentos com base em sua sazonalidade. Com ele, você pode consultar uma lista de alimentos disponíveis em qualquer mês do ano ou descobrir os melhores períodos para consumir um alimento específico. Basta digitar na barra de pesquisa o mês ou o alimento desejado para obter mais informações!
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
