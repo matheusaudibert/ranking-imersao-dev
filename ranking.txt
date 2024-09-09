@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (152)
+⭐ (151)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -18302,7 +18302,7 @@ Descrição do projeto
 Biblioteca de Livros é uma aplicação web onde os usuários podem pesquisar livros, ver informações detalhadas, deixar comentários e avaliações. Esta aplicação também permite adicionar novos livros à biblioteca. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro
 
 {Reactions}
-⭐ (22)
+⭐ (23)
 
 [9/7/2024 7:32 PM] Alura
 Novo projeto recebido!
