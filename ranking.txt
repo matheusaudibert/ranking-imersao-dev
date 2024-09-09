@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (201)
+⭐ (202)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -21012,7 +21012,7 @@ Descrição do projeto
 este é um projeto que tem por finalidade proporcinar ao usuario  uma facilidade em encontar  repositorios e desenvolvedores no github facilitando a interação de novos usuarios
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 9:55 PM] Alura
 Novo projeto recebido!
