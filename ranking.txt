@@ -667,7 +667,7 @@ Descrição do projeto
 Projeto desenvolvivo para ser um guia sobre o uso de árvores medicinais nativas do Semiárido brasileiro para ajudar a pessoas leigas a conhecerem mais sobre os usos das espécies e para que servem.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 2:08 PM] Alura
 Novo projeto recebido!
@@ -682,7 +682,7 @@ Descrição do projeto
 Diante da crescente preocupação com a má alimentação e suas consequências para a saúde, o Sabor Saudável surge como uma solução inovadora. Uma plataforma inovadora que poderá conectar profissionais da saúde e seus pacientes em busca de uma alimentação mais saudável. Através de um banco de dados extenso de receitas, a plataforma permite a criação de planos alimentares personalizados a partir de um único ingrediente base, facilitando a adesão a hábitos alimentares mais saudáveis. Tanto profissionais quanto pacientes podem utilizar a ferramenta para encontrar inspiração e criar menus nutritivos e saborosos.
 
 {Reactions}
-⭐ (20)
+⭐ (21)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -697,7 +697,7 @@ Descrição do projeto
 Uma pagina de pesquisa sobre tecnologia
 
 {Reactions}
-⭐ (77)
+⭐ (78)
 
 [9/5/2024 2:14 PM] Alura
 Novo projeto recebido!
@@ -712,7 +712,7 @@ Descrição do projeto
 um site com o intuito de ensinar sobre a historia, com um foco inicial nas guerras
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 2:28 PM] Alura
 Novo projeto recebido!
@@ -727,7 +727,7 @@ Descrição do projeto
 Sejam bem vindos ao meu projeto! Uma página wiki do melhor anime já feito: One Piece! Pesquise seus personagens favoritos do bando dos piratas Chapéu de Palha, você também pode tentar a sua sorte pesquisando um personagem aleatório em “Estou com sorte”! Este projeto colocou em pratica todas as informações e conhecimentos passados através da Imersão Alura-Gemini ✨ Aproveite o projeto e avaliem!
 
 {Reactions}
-⭐ (70)
+⭐ (71)
 
 [9/5/2024 2:29 PM] Alura
 Novo projeto recebido!
@@ -742,7 +742,7 @@ Descrição do projeto
 etc
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/5/2024 2:35 PM] Alura
 Novo projeto recebido!
@@ -757,7 +757,7 @@ Descrição do projeto
 Ainda não tenho,  mas quero aprender.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/5/2024 2:36 PM] Alura
 Novo projeto recebido!
@@ -772,7 +772,7 @@ Descrição do projeto
 Ambiente de testes para desenvolvedores web, onde os usuários podem experimentar e aprender a criar páginas web utilizando HTML, CSS e JavaScript. Ele fornece um editor interativo dividido em três painéis: um para código HTML, outro para CSS e outro para JavaScript. Os usuários podem escrever seus códigos nos respectivos campos e visualizar os resultados imediatamente em um painel de saída clicando no botão "Executar"
 
 {Reactions}
-⭐ (48)
+⭐ (49)
 
 [9/5/2024 2:41 PM] Alura
 Novo projeto recebido!
@@ -787,7 +787,7 @@ Descrição do projeto
 É uma lista de tarefas onde você pode adicionar uma atividade futura. Ao concluir a tarefa, você clica no símbolo de certo, indicando que a tarefa foi finalizada. Caso tenha se enganado, não queira mais a tarefa, ou mesmo se já tiver concluído e não quiser que ela apareça mais, você pode clicar no ícone de lixeira para excluí-la.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/5/2024 2:42 PM] Alura
 Novo projeto recebido!
@@ -832,7 +832,7 @@ Descrição do projeto
 Utilizando os conhecimentos adquiridos através das aulas da imersão, resolvi fazer um site com todos os jogadores convocados para a seleção brasileira que vão disputar as eliminatórias da Copa do Mundo de 2026.
 
 {Reactions}
-⭐ (21)
+⭐ (22)
 
 [9/5/2024 2:51 PM] Alura
 Novo projeto recebido!
@@ -847,7 +847,7 @@ Descrição do projeto
 Pesquisa de personagens de Game of Thrones, pega as infos de uma API online e faz a pesquisa usando input em vez de precisar clicar no button
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 3:03 PM] Alura
 Novo projeto recebido!
@@ -866,7 +866,7 @@ Descrição do projeto (cont.)
 isualização em diferentes dispositivos.  Estilização Personalizada: O design inclui uma paleta de cores coesa, com fundo preto para as caixas de projetos e texto branco para garantir boa legibilidade. Botões com bordas arredondadas e transições suaves melhoram a interação do usuário.
 
 {Reactions}
-⭐ (18)
+⭐ (19)
 
 [9/5/2024 3:05 PM] Alura
 Novo projeto recebido!
@@ -881,7 +881,7 @@ Descrição do projeto
 Projeto da Imersão Alura-Gemini de aprendizado HTML, CSS e Java Script
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 3:06 PM] Alura
 Novo projeto recebido!
@@ -898,7 +898,7 @@ Descrição do projeto (cont.)
 !!
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 3:09 PM] Alura
 Novo projeto recebido!
@@ -913,7 +913,7 @@ Descrição do projeto
 Esse projeto foi realizado com os conhecimentos adquiridos dentro da Imersão Dev com Gemini. Foi realizado uma página utilizando HTML, CSS e JavaScript, com o tema de carros. Seria um projeto onde pessoas amantes de carros e hipercarros conseguem desvendar sobre alguns atributos de algumas máquinas de marcas grandes, como: Ferrari, Lamborghini, Bugatti, etc... Uma página dedicada com muita pesquisa sobre cada um dos modelos citados, muitos bem descritos e montados.
 
 {Reactions}
-⭐ (17)
+⭐ (18)
 
 [9/5/2024 3:23 PM] Alura
 Novo projeto recebido!
@@ -928,7 +928,7 @@ Descrição do projeto
 Este projeto foi feito para os amantes de cinema, nele há informações de filmes e series, com seus diretores, atores, sinopse...
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 3:37 PM] Alura
 Novo projeto recebido!
@@ -943,7 +943,7 @@ Descrição do projeto
 Foi pensando no desenjo rick and morty, que trata sobre viajens no multiverso. Pensei em fazer uma descrição curta de alguns personagens.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/5/2024 3:56 PM] Alura
 Novo projeto recebido!
@@ -958,7 +958,7 @@ Descrição do projeto
 Filmes
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 4:03 PM] Alura
 Novo projeto recebido!
@@ -973,7 +973,7 @@ Descrição do projeto
 GDRMUSIC - Escute músicas com amigos em tempo real + Busca aprimorada por IA GDRMUSIC é um player de músicas, gerenciador de playlists e utiliza a API da Gemini (Google) para recomendar músicas por IA na Busca
 
 {Reactions}
-⭐ (25)
+⭐ (26)
 
 [9/5/2024 4:06 PM] Alura
 Novo projeto recebido!
@@ -988,7 +988,7 @@ Descrição do projeto
 Que animal posso adotar? é um simples catálogo de possíveis animais que você pode adotar!
 
 {Reactions}
-⭐ (74)
+⭐ (75)
 
 [9/5/2024 4:07 PM] Alura
 Novo projeto recebido!
@@ -1003,7 +1003,7 @@ Descrição do projeto
 Futebol Futurista é uma aplicação web inovadora que explora novas táticas de futebol e oferece simulações avançadas. Com uma interface interativa, você pode:      Visualizar e alterar formações de jogo, como 4-3-3 e 3-4-3.     Simular partidas com configurações quânticas e ajustar o formato e a gravidade do campo.     Buscar detalhes sobre super jogadores, incluindo fotos e descrições.     Realizar análises detalhadas de desempenho e reescrever momentos históricos do futebol.  O projeto utiliza HTML, CSS e JavaScript para oferecer uma experiência imersiva e dinâmica. Ideal para entusiastas do futebol que desejam experimentar táticas futuristas e explorar o impacto de diferentes configurações no jogo.
 
 {Reactions}
-⭐ (160)
+⭐ (161)
 
 [9/5/2024 4:12 PM] Alura
 Novo projeto recebido!
@@ -1018,7 +1018,7 @@ Descrição do projeto
 APP DE VENDADS
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 4:14 PM] Alura
 Novo projeto recebido!
@@ -1033,7 +1033,7 @@ Descrição do projeto
 A base de conhecimento escolhida foi a culinária, com a criação de um site de receitas chamado Sabores da Alma para agregar receitas. As funções do projeto consistem na busca por diversas categorias: nome, tags e tempo de preparo. A descrição completa pode ser conferida no repositório do [GitHub](https://github.com/dsadriel/imersao-dev-alura-gemini). A página pode ser acessada través do link: https://dsadriel.github.io/imersao-dev-alura-gemini/
 
 {Reactions}
-⭐ (110)
+⭐ (111)
 
 [9/5/2024 4:17 PM] Alura
 Novo projeto recebido!
@@ -13718,7 +13718,7 @@ Descrição do projeto
 Você sabe qual é o esporte coletivo mais praticado no mundo? Se você respondeu o FUTEBOL acertou! Além de incentivar o desenvolvimento social e cognitivo, o futebol ainda ajuda a fazer amizades e ensina sobre resolução de conflitos. Mergulhe no universo do futebol carioca e descubra tudo sobre seu time favorito! Nesse projeto, você pode pesquisar por times, ver seus maiores feitos, ídolos e até mesmo os próximos jogos.
 
 {Reactions}
-⭐ (126)
+⭐ (127)
 
 [9/7/2024 1:39 PM] Alura
 Novo projeto recebido!
@@ -13977,7 +13977,7 @@ Descrição do projeto
 Já imaginou ter uma aplicação que pudesse transformar sua relação com a saúde, oferecendo recomendações personalizadas de hábitos saudáveis, sem complicações? Conheça o Heal Us, uma IA inovadora que está revolucionando o cuidado preventivo, ajudando você a melhorar seu bem-estar antes mesmo de surgirem problemas maiores. Com base nas suas dúvidas e hábitos, o Heal Us gera insights valiosos que promovem pequenas mudanças no seu estilo de vida, impactando positivamente sua saúde a longo prazo. Tudo isso com uma interface simples e interativa, onde você faz perguntas e recebe respostas personalizadas em tempo real!
 
 {Reactions}
-⭐ (154)
+⭐ (155)
 
 [9/7/2024 2:01 PM] Alura
 Novo projeto recebido!
@@ -18302,7 +18302,7 @@ Descrição do projeto
 Biblioteca de Livros é uma aplicação web onde os usuários podem pesquisar livros, ver informações detalhadas, deixar comentários e avaliações. Esta aplicação também permite adicionar novos livros à biblioteca. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 7:32 PM] Alura
 Novo projeto recebido!
@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (102)
+⭐ (103)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
