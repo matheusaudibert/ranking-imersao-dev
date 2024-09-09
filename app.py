@@ -46,19 +46,6 @@ def display_projects(st, title, projects, start_index):
         st.markdown(f"   **Link do Projeto**: [Link]({github_link})")
         st.markdown(f"   **Reações**: :orange[{reactions}]")
 
-def format_time_delta(delta):
-    hours, remainder = divmod(delta.seconds, 3600)
-    minutes, seconds = divmod(remainder, 60)
-    return f"{hours:02}:{minutes:02}:{seconds:02}"
-
-def calculate_time_remaining(offset_hours):
-    now_utc = datetime.datetime.utcnow()
-    now = now_utc - datetime.timedelta(hours=offset_hours)
-    next_update = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    if now.hour == 0 and now.minute == 0:
-        next_update += datetime.timedelta(days=1)
-    remaining_time = next_update - now
-    return remaining_time
 
 def main():
     st.set_page_config(page_title="Ranking Imersão Dev", layout="wide", initial_sidebar_state="expanded", menu_items=None)
@@ -86,12 +73,8 @@ def main():
 
     st.markdown("### 📚 Total de projetos: 1677")
 
-  
-    offset_hours = 3 
-    time_remaining = calculate_time_remaining(offset_hours)
-    formatted_time = format_time_delta(time_remaining)
     with st.sidebar:
-      st.markdown(f"### ⏳ Tempo restante para o fim das votações: {formatted_time}")
+      st.markdown(f"### ⏳ :red[Votações Encerradas]")
 
     st.sidebar.header("🔍 Pesquisar Projeto")
     search_name = st.sidebar.text_input("Digite o seu nome:")
