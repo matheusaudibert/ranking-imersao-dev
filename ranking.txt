@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (278)
+⭐ (279)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -1847,7 +1847,7 @@ Descrição do projeto
 Virtude Estoica é uma aplicação web interativa dedicada à filosofia estoica, projetada para ajudar os usuários a explorar, aprender e aplicar os princípios estoicos em suas vidas diárias. Com uma interface elegante e recursos envolventes, o projeto visa tornar a sabedoria estoica acessível e prática para o mundo moderno.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/5/2024 8:06 PM] Alura
 Novo projeto recebido!
@@ -19962,7 +19962,7 @@ Descrição do projeto
 Hypermuseu: Sua porta de entrada para a arte brasileira. Desenvolvido por uma ilustradora e designer gráfica apaixonada por arte e tecnologia, o Hypermuseu é uma biblioteca digital que tem como objetivo democratizar o acesso ao conhecimento sobre arte brasileira. A plataforma oferece informações sobre artistas brasileiros, como sua biografia e links para suas obras, tornando-se um recurso útil para estudantes, educadores e amantes da arte em geral. É um projeto educativo, não-comercial, que busca promover a cultura e as artes através do meio digital.
 
 {Reactions}
-⭐ (68)
+⭐ (69)
 
 [9/7/2024 9:02 PM] Alura
 Novo projeto recebido!
@@ -24083,7 +24083,7 @@ Descrição do projeto
 Oi! O Codding Platform Searcher é um projeto desenvolvido com o intuito de apresentar plataformas de prática de programação para que, principalmente, estudantes da área, possam estar cientes desse tipo de possibilidade de aprimoramento de suas habilidades. A proposta do projeto é fornecer uma breve seção de informação sobre determinada plataforma, uma seção com um exercício prático simples (e sua resolução) disponível na plataforma original, e permitir a imersão do estudante ao conhecer e avaliar o que se encaixa melhor em seu perfil de aprendizado.
 
 {Reactions}
-⭐ (72)
+⭐ (73)
 
 [9/7/2024 11:46 PM] Alura
 Novo projeto recebido!
