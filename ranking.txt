@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (306)
+⭐ (307)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -23963,7 +23963,7 @@ Descrição do projeto
 Ao começar a se interessar por tecnologia (mais especificamente por programação), muitas pessoas sentem-se perdidas no mar de possibilidades que esta área oferece. Por isso, este projeto foi criado: um teste vocacional com 8 perguntas que, além de dizer qual área dá um match com seu perfil, também indica as formações da Alura para você dar o pontapé inicial perfeito na sua carreira!  As áreas escolhidas para o teste (Programação, Front-end, Data Science, Inteligência Artificial, DevOps, UX & Design, Mobile e Inovação & Gestão) são inspiradas nas próprias escolas da Alura. A seguir, você verá mais sobre o processo de desenvolvimento do site.
 
 {Reactions}
-⭐ (119)
+⭐ (120)
 
 [9/7/2024 11:44 PM] Alura
 Novo projeto recebido!
@@ -24188,7 +24188,7 @@ Descrição do projeto
 Quer dar um rolê com os amigos, mas tem receio do local não ter acessibilidade? Relaxa, só escrever que tipo de rolê quer dar e vai achar opções maravilhosas pra ti! Infelizmente não são todos os estabelecimentos que se preocupam com a acessibilidade para PcD, mas com este buscador tu encontrará locais que tu possa ir sem medo! Este projeto foi criado para participar da Premiação de Projetos da Imersão Dev com Gemini, promovido pela Alura. Foram utilizados apenas os conhecimentos adquiridos durante a imersão, podendo melhorar ainda mais com futuros conhecimentos que estou buscando. Obs sobre o projeto: Criei baseado em locais de Porto Alegre/RS, capital do meu estado. Quero no futuro implementar ainda mais locais e todo o espectro PcD. Muito obrigado pelo tempo dedicado a observar e testar meu projeto!
 
 {Reactions}
-⭐ (23)
+⭐ (25)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
