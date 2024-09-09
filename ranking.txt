@@ -20202,7 +20202,7 @@ Descrição do projeto
 Um Data Base Pokémon onde terá informações diversas sobre os 55 pokémons disponíveis.
 
 {Reactions}
-⭐ (107)
+⭐ (108)
 
 [9/7/2024 9:10 PM] Alura
 Novo projeto recebido!
