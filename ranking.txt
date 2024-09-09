@@ -3229,7 +3229,7 @@ Descrição do projeto
 O projeto "Entendendo o Autismo" é uma base de conhecimento voltada para a conscientização e disseminação de informações sobre o autismo de forma acessível e clara. Criado com o objetivo de ajudar pessoas a compreender melhor o transtorno do espectro autista, o projeto oferece uma página de perguntas frequentes (FAQ) para esclarecer dúvidas comuns, além de uma página de recursos com materiais úteis. Desenvolvido com HTML, CSS e JavaScript, busca tornar a informação mais disponível, contribuindo para a inclusão e o apoio a indivíduos autistas. https://alinerhanny.github.io/entendendo-o-autismo/
 
 {Reactions}
-⭐ (154)
+⭐ (155)
 
 [9/6/2024 10:26 AM] Alura
 Novo projeto recebido!
@@ -21526,7 +21526,7 @@ Descrição do projeto
 Essa aplicação funciona como um motor de busca personalizado para desenvolvedores Front-end. Ela permite realizar pesquisas por tópicos específicos, como "React", "CSS" ou "JavaScript", retornando resultados relevantes como cursos, principais linguagens e dicas.
 
 {Reactions}
-⭐ (65)
+⭐ (66)
 
 [9/7/2024 10:19 PM] Alura
 Novo projeto recebido!
@@ -24297,7 +24297,7 @@ Descrição do projeto (cont.)
 tares. * Fomentar uma relação mais profunda e informada com a alimentação, alinhada aos princípios da sustentabilidade e da saúde integral.  Público-Alvo:  * Pessoas com restrições alimentares, como intolerância ao glúten e à lactose. * Entusiastas da culinária que buscam compreender melhor os aspectos científicos dos alimentos. * Consumidores interessados em alimentação saudável e sustentável.
 
 {Reactions}
-⭐ (41)
+⭐ (40)
 
 [9/7/2024 11:50 PM] Alura
 Novo projeto recebido!
@@ -24740,7 +24740,7 @@ Descrição do projeto
 Primeiramente, gostaria de agradecer pelo privilégio de estar com vocês nesta imersão. Sou pessoa com deficiência visual e não tive dificuldades para absorver o conteúdo. Pensei em algo que cooperasse para a sustentabilidade das cidades. Então criei um buscador simples e intuitivo para ajudar o usuário a encontrar o ecoponto mais próximo para descartar seus eletrônicos de forma correta. A final, precisamos salvar o nosso planeta que está tão caótico.
 
 {Reactions}
-⭐ (9)
+⭐ (10)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -24755,7 +24755,7 @@ Descrição do projeto
 Website que recomenda documentários de diversos tipos. Basta escolher um tema, e você será direcionado para as recomendações.
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
