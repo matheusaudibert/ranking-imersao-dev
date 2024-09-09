@@ -61,7 +61,7 @@ Descrição do projeto
 Olá pessoal, fiquei muito orgulhoso desse projeto, fiz um buscador de jogos antigos, dentro do site fiz um mini game, parecido com o space invaders do atari (só que mais legal rsrs), também fiz um background de estrelas aleatórias que piscam e se movem, além disso o resultado da busca são cards que se parecem com fitas de super nintendo, quando o card é clicado você é redirecionado para um site onde pode jogar de fato o título que escolheu, espero que se divirtam. Esse é o link da demo: https://ijrodrigues.github.io/retro-search
 
 {Reactions}
-⭐ (300)
+⭐ (301)
 
 [9/5/2024 9:06 AM] Alura
 Novo projeto recebido!
@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (159)
+⭐ (160)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (156)
+⭐ (157)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
@@ -4250,7 +4250,7 @@ Descrição do projeto
 Como sou fã de Judô e já pratiquei por um tempo resolvi fazer uma página que fale sobre os nossos principais judocas brasileiros.
 
 {Reactions}
-⭐ (61)
+⭐ (62)
 
 [9/6/2024 2:33 PM] Alura
 Novo projeto recebido!
@@ -18302,7 +18302,7 @@ Descrição do projeto
 Biblioteca de Livros é uma aplicação web onde os usuários podem pesquisar livros, ver informações detalhadas, deixar comentários e avaliações. Esta aplicação também permite adicionar novos livros à biblioteca. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/7/2024 7:32 PM] Alura
 Novo projeto recebido!
@@ -22937,7 +22937,7 @@ Descrição do projeto
 Construí uma ferramenta de pesquisa de personagens de One Piece usando HTML, CSS e JavaScript. Para acessar o site clique aqui -> https://grand-line-search.vercel.app/index.html
 
 {Reactions}
-⭐ (71)
+⭐ (73)
 
 [9/7/2024 11:15 PM] Alura
 Novo projeto recebido!
