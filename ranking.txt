@@ -8269,7 +8269,7 @@ Descrição do projeto
 O Rimas Score é um site com intuito de compartilhar e armazenar dados sobre a cultura das batalha de rima no Brasil,, com ele o usuario tem acesso a historia, instagram e titulos relevantes dos Melhores Mcs do Brasil.  Talvez um dia esse projeto seja um porta voz da cultura do hip hop brasil.   RIMAS EM 3 2 1..
 
 {Reactions}
-⭐ (78)
+⭐ (77)
 
 [9/6/2024 9:41 PM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (155)
+⭐ (156)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -17912,7 +17912,7 @@ Descrição do projeto
 Essa aplicação web desenvolvida durante a imersão, projetada para ajudar os usuários a encontrar e visualizar vídeos de exercícios físicos. O projeto exibe vídeos a partir de um conjunto de dados pré-definidos, sem utilizar APIs externas, e é totalmente gerenciado com uma única página.   https://fitessence.vercel.app/
 
 {Reactions}
-⭐ (58)
+⭐ (57)
 
 [9/7/2024 7:07 PM] Alura
 Novo projeto recebido!
@@ -24755,7 +24755,7 @@ Descrição do projeto
 Website que recomenda documentários de diversos tipos. Basta escolher um tema, e você será direcionado para as recomendações.
 
 {Reactions}
-⭐ (24)
+⭐ (25)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
@@ -25055,7 +25055,7 @@ Descrição do projeto
 Este projeto é uma ferramenta abrangente de busca de roadmaps e um questionário interativo projetado para ajudar você a descobrir a carreira em TI que melhor se alinha ao seu perfil e interesses. Acredito que esta plataforma pode ser uma valiosa contribuição para a comunidade, atendendo tanto iniciantes quanto profissionais que estão considerando uma mudança de área.
 
 {Reactions}
-⭐ (66)
+⭐ (67)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
