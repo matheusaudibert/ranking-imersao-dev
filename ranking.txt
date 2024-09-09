@@ -5267,7 +5267,7 @@ Descrição do projeto
 Projeto de um site que ensina o idioma japonês.
 
 {Reactions}
-⭐ (16)
+⭐ (17)
 
 [9/6/2024 4:08 PM] Alura
 Novo projeto recebido!
@@ -7766,7 +7766,7 @@ Descrição do projeto
 Este é um projeto voltado para ensinar as crianças, de forma simples e divertida,  sobre a diversidade da fauna brasileira. Exibe informações, foto e curiosidade sobre o animal que a criança deseja conhecer.
 
 {Reactions}
-⭐ (132)
+⭐ (133)
 
 [9/6/2024 8:56 PM] Alura
 Novo projeto recebido!
@@ -12489,7 +12489,7 @@ Descrição do projeto
 Tédio é uma plataforma interativa desenvolvida para ajudar os usuários a combater o tédio, oferecendo sugestões personalizadas de atividades baseadas em preferências individuais, como categorias de atividades, companhia (sozinho ou em grupo) e o grau de esforço desejado. O objetivo é proporcionar uma experiência simples e eficiente, ajudando as pessoas a encontrar rapidamente algo produtivo, criativo ou divertido para fazer, seja no dia a dia ou em momentos de indecisão. > Link do Projeto: https://flaveti.github.io/Projeto-Tedio/
 
 {Reactions}
-⭐ (153)
+⭐ (154)
 
 [9/7/2024 11:26 AM] Alura
 Novo projeto recebido!
@@ -22862,7 +22862,7 @@ Descrição do projeto
 Onmicare Laser
 
 {Reactions}
-⭐ (7)
+⭐ (8)
 
 [9/7/2024 11:13 PM] Alura
 Novo projeto recebido!
