@@ -10845,7 +10845,7 @@ Descrição do projeto
 Meu projeto é sobre os países da oceania, acredito que seja uma informação interessante já que poucas pessoas conhecem esses locais, além disso fiz um menu com a ajuda do Gemini para que, caso o usuário não saiba nem como pesquisar no meu site, ele tenha uma base com os nomes e informações dos países. Obs: meu outro projeto submetido havia começado a dar erro, por isso estou submetendo novamente.
 
 {Reactions}
-⭐ (153)
+⭐ (152)
 
 [9/7/2024 1:57 AM] Alura
 Novo projeto recebido!
@@ -24188,7 +24188,7 @@ Descrição do projeto
 Quer dar um rolê com os amigos, mas tem receio do local não ter acessibilidade? Relaxa, só escrever que tipo de rolê quer dar e vai achar opções maravilhosas pra ti! Infelizmente não são todos os estabelecimentos que se preocupam com a acessibilidade para PcD, mas com este buscador tu encontrará locais que tu possa ir sem medo! Este projeto foi criado para participar da Premiação de Projetos da Imersão Dev com Gemini, promovido pela Alura. Foram utilizados apenas os conhecimentos adquiridos durante a imersão, podendo melhorar ainda mais com futuros conhecimentos que estou buscando. Obs sobre o projeto: Criei baseado em locais de Porto Alegre/RS, capital do meu estado. Quero no futuro implementar ainda mais locais e todo o espectro PcD. Muito obrigado pelo tempo dedicado a observar e testar meu projeto!
 
 {Reactions}
-⭐ (25)
+⭐ (27)
 
 [9/7/2024 11:49 PM] Alura
 Novo projeto recebido!
