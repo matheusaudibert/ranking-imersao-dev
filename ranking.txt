@@ -76,7 +76,7 @@ Descrição do projeto
 O projeto é um guia de personagens sobre o jogo Honkai: Star Rail, onde há cards contando pequenas informações sobre os personagens e seus poderes.
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 9:08 AM] Alura
 Novo projeto recebido!
@@ -91,7 +91,7 @@ Descrição do projeto
 Desenvolver uma pagina que fale sobre cibersegurança no Brasil
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 9:14 AM] Alura
 Novo projeto recebido!
@@ -121,7 +121,7 @@ Descrição do projeto
 Página sobre charcutaria no Brasil.
 
 {Reactions}
-⭐ (10)
+⭐ (11)
 
 [9/5/2024 9:16 AM] Alura
 Novo projeto recebido!
@@ -136,7 +136,7 @@ Descrição do projeto
 Resumo: O projeto "Pesquisa de Jogadores da NBA" é uma aplicação web interativa que permite aos usuários buscar e visualizar informações detalhadas sobre jogadores da NBA. Com uma interface moderna e fácil de usar, a aplicação oferece uma pesquisa eficiente e exibe dados relevantes sobre os jogadores em um formato atraente.
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 9:37 AM] Alura
 Novo projeto recebido!
@@ -166,7 +166,7 @@ Descrição do projeto
 Uma pagina que apresenta instrumentos musicais, com seus sons e imagem de cada um
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 9:48 AM] Alura
 Novo projeto recebido!
@@ -183,7 +183,7 @@ Descrição do projeto (cont.)
 UkW2MFapi2U1klPOOErsdQbi729kNF/ Formação: ● Engenharia da Computação em Ênfase IoT - Universidade UNIVESP - Cursando 5° Semestre. ● Técnico em Eletrônica - Instituto Monitor. ● Técnico em Mecatrônica - Colégio Seta.
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 9:57 AM] Alura
 Novo projeto recebido!
@@ -198,7 +198,7 @@ Descrição do projeto
 O meu projeto se trata de um sistema de controle financeiro com js e dados manuais
 
 {Reactions}
-⭐ (11)
+⭐ (12)
 
 [9/5/2024 10:13 AM] Alura
 Novo projeto recebido!
@@ -213,7 +213,7 @@ Descrição do projeto
 Um site voltado para eventos históricos, com foco inicial em guerras.
 
 {Reactions}
-⭐ (15)
+⭐ (16)
 
 [9/5/2024 10:24 AM] Alura
 Novo projeto recebido!
@@ -228,7 +228,7 @@ Descrição do projeto
 Projeto Imersão com Gemini
 
 {Reactions}
-⭐ (12)
+⭐ (13)
 
 [9/5/2024 10:28 AM] Alura
 Novo projeto recebido!
@@ -243,7 +243,7 @@ Descrição do projeto
 Gerenciar custo de insumos de projetos em impressão 3D
 
 {Reactions}
-⭐ (13)
+⭐ (14)
 
 [9/5/2024 10:35 AM] Alura
 Novo projeto recebido!
@@ -258,7 +258,7 @@ Descrição do projeto
 O MoneyGrow é um sistema que tem como finalidade mostrar em quais tipos de investimentos é ideal aplicar o seu dinheiro, visando o crescimento do seu patrimônio. Com uma interface intuitiva e fácil de usar, o sistema fornece informações valiosas em tabelas e gráficos sobre diferentes tipos de investimentos em renda fixa.
 
 {Reactions}
-⭐ (28)
+⭐ (29)
 
 [9/5/2024 10:36 AM] Alura
 Novo projeto recebido!
@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (158)
+⭐ (159)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -2387,7 +2387,7 @@ Descrição do projeto
 História do Brasil nas Olimpíadas 🏅  Explore como o Brasil brilhou nas Olimpíadas com nossa aplicação web interativa! 🌟  Funcionalidades:  📅 Linha do Tempo: Veja os grandes momentos olímpicos do Brasil. 🏆 Contador de Medalhas: Acompanhe o total de medalhas conquistadas. 🔍 Pesquisa de Atletas: Descubra conquistas de atletas brasileiros. Tecnologias:  HTML, CSS, JavaScript Experimente Agora:  Navegue pela linha do tempo Confira o contador de medalhas Pesquise atletas
 
 {Reactions}
-⭐ (150)
+⭐ (151)
 
 [9/5/2024 11:08 PM] Alura
 Novo projeto recebido!
@@ -3828,7 +3828,7 @@ Descrição do projeto
 🚀 DevSpace, seu portal para o universo da programação! Nossa plataforma te conecta com as linguagens, bancos de dados, frameworks e IDEs mais utilizados e promissores do mercado. Economize tempo e otimize suas escolhas com nossa ferramenta de busca personalizada. Esteja sempre atualizado com as últimas tendências e novidades do mundo Dev. Junte-se à nossa comunidade e comece a construir seus projetos com as tecnologias certas! 🌐
 
 {Reactions}
-⭐ (149)
+⭐ (150)
 
 [9/6/2024 1:17 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (143)
+⭐ (144)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -11796,7 +11796,7 @@ Descrição do projeto
 Ao iniciar a imersão, com meu cafezinho sobre a mesa, surgiu a ideia de criar o projeto sobre "Tipos de Cafés" e assim iniciou os estudos!  Imagina um site onde você pode encontrar o café perfeito para aquele seu momento relaxante? É isso que esse projeto faz! Com ele, você pode pesquisar por tipos de café, ver suas características e até mesmo descobrir novas opções para experimentar.  Como funciona essa mágica?  Você digita: Escreve o tipo de café que você procura na barra de pesquisa. É vasculhado uma lista de tipos de cafés para encontrar aqueles que combinam com a sua busca. Os resultados aparecem na tela, mostrando tudo sobre os cafés encontrados, como sabor, aroma e entre outras coisas.
 
 {Reactions}
-⭐ (51)
+⭐ (52)
 
 [9/7/2024 5:55 AM] Alura
 Novo projeto recebido!
@@ -18302,7 +18302,7 @@ Descrição do projeto
 Biblioteca de Livros é uma aplicação web onde os usuários podem pesquisar livros, ver informações detalhadas, deixar comentários e avaliações. Esta aplicação também permite adicionar novos livros à biblioteca. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript puro
 
 {Reactions}
-⭐ (5)
+⭐ (6)
 
 [9/7/2024 7:32 PM] Alura
 Novo projeto recebido!
@@ -23616,7 +23616,7 @@ Descrição do projeto
 Desenvolvido para os amantes de viagens, nosso site oferece uma experiência única e personalizada. Com apenas alguns cliques, você encontra uma vasta gama de pontos turísticos de diversas partes do mundo. Nossa plataforma, alimentada por uma extensa base de dados, permite que você pesquise por destinos, descubra novos lugares e planeje suas próximas aventuras com facilidade. Com informações detalhadas sobre cada local, desde a história até dicas práticas, garantimos que sua jornada seja inesquecível.
 
 {Reactions}
-⭐ (52)
+⭐ (53)
 
 [9/7/2024 11:36 PM] Alura
 Novo projeto recebido!
@@ -24785,7 +24785,7 @@ Descrição do projeto
 O meu projeto de site, intitulado *"Proteja os Mares: A Vida Marinha em Extinção", foi desenvolvido com o objetivo de conscientizar sobre a grave situação dos oceanos e os animais ameaçados pela extinção. Através de um design atraente e intuitivo, o site explora temas fundamentais como a poluição nos oceanos e as espécies em risco. Uma das suas funcionalidades mais interativas é a **barra de pesquisa*, onde vocês podem procurar mais informações sobre poluição, sendo direcionados a artigos relevantes que aprofundam a questão.  Além disso, o projeto traz informações práticas e orientações claras sobre como *cada pessoa pode ajudar* a proteger os mares. O conteúdo foi cuidadosamente pensado para gerar impacto, educar e inspirar a ação. Acredito que este site, além de informar, pode mobilizar mais pessoas a tomar medidas concretas na preservação da vida marinha.  Espero que gostem! ;D  Link do site: https://suelenribs.github.io/proteja-os-mares/  Github: https://github.com/suelenribs/proteja-os-mares/tree/main
 
 {Reactions}
-⭐ (107)
+⭐ (108)
 
 [9/7/2024 11:56 PM] Alura
 Novo projeto recebido!
