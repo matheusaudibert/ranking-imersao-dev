@@ -4387,7 +4387,7 @@ Descrição do projeto
 Lore of Legends é um projeto que explora o vasto universo de League of Legends, oferecendo uma imersão completa nas histórias dos campeões e nas regiões que formam Runeterra. Acesse o projeto clicando aqui: https://lore-of-legends.vercel.app/
 
 {Reactions}
-⭐ (178)
+⭐ (179)
 
 [9/6/2024 2:47 PM] Alura
 Novo projeto recebido!
@@ -4597,7 +4597,7 @@ Descrição do projeto
 Wiki Piece e meu primeiro projeto que fiz junto com a imersão alura e estou muito feliz com isso, espero por mais oportunidades.
 
 {Reactions}
-⭐ (6)
+⭐ (7)
 
 [9/6/2024 3:05 PM] Alura
 Novo projeto recebido!
@@ -10316,7 +10316,7 @@ Descrição do projeto
 Quiz interativo com perguntas relacionadas à Inteligência Artificial Google Gemini. Sistema de pontuação que calcula quantas perguntas foram respondidas corretamente. Feedback visual para cada resposta (correto/incorreto). Opção de reiniciar o quiz ao final do jogo.
 
 {Reactions}
-⭐ (148)
+⭐ (149)
 
 [9/7/2024 12:30 AM] Alura
 Novo projeto recebido!
@@ -12849,7 +12849,7 @@ Descrição do projeto
 O Quiz Alura é um site interativo que testa conhecimentos de programação. Criado durante a Imersão Dev da Alura, utiliza HTML, CSS, JavaScript, e um banco de dados. O usuário inicia o quiz na página principal, e ao final, vê sua pontuação, com opção de revisar respostas e recomeçar.
 
 {Reactions}
-⭐ (83)
+⭐ (84)
 
 [9/7/2024 12:14 PM] Alura
 Novo projeto recebido!
