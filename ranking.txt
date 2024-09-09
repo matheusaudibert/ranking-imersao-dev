@@ -7190,7 +7190,7 @@ Descrição do projeto
 SimuTalk é a sua plataforma definitiva para simulações realistas de entrevistas! 🚀 Pratique e aperfeiçoe suas habilidades com perguntas geradas por IA usando Gemini 🤖, receba feedback detalhado e aproveite a experiência imersiva com suporte para webcam e microfone. Prepare-se para o sucesso com o SimuTalk e conquiste sua próxima oportunidade!  Link de acesso: https://simuu-pietra-costas-projects.vercel.app/sign-in
 
 {Reactions}
-⭐ (149)
+⭐ (150)
 
 [9/6/2024 7:36 PM] Alura
 Novo projeto recebido!
@@ -13575,7 +13575,7 @@ Descrição do projeto
 Best Games: Se liga na bagaça! ️ Tá ligado nesses jogãozera tudo?  Esse rolê aqui é pra você encontrar o seu próximo game favorito sem precisar ficar fuçando feito doido na internet.  Como funciona? É molezinha, parceiro!  Digita o nome ou o gênero do jogo que você tá procurando lá na caixa de pesquisa. Clica no botão "Pesquisar" e bum! Aparece na tela uma listinha com os games que tem a ver com o que você digitou. Quais tecnologias tão por trás desse trampo?  HTML: A estrutura básica da página, tipo os bloquinhos de montar. CSS: Deixa o bagulho bonito e organizado, igualzinho seu setup gamer. JavaScript: É o que faz a mágica acontecer, parceiro. É a linguagem que deixa a bagaça interativa, saca? ✨
 
 {Reactions}
-⭐ (109)
+⭐ (110)
 
 [9/7/2024 1:20 PM] Alura
 Novo projeto recebido!
@@ -22483,7 +22483,7 @@ Descrição do projeto
 Cansado de cursos chatos e teorias enfadonhas? No SoftinSkills, a diversão é garantida!  Descubra como transformar jogos em ferramentas poderosas para o desenvolvimento pessoal e profissional. Desenvolva as Soft Skills mais buscadas no mercado jogando, tem jogo pra todo mundo desde o tabuleiro cheio de gente quanto seu jogo online colaborativo.
 
 {Reactions}
-⭐ (44)
+⭐ (45)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
