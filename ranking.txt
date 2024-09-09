@@ -3383,7 +3383,7 @@ Descrição do projeto (cont.)
 rface Intuitiva: Um layout limpo e fácil de usar, com botões e campos de pesquisa claramente visíveis e acessíveis. Tecnologias Utilizadas HTML: Estrutura da página e conteúdo. CSS: Estilo e design da página, garantindo um visual atraente e responsivo. JavaScript: Funcionalidade de busca e interação dinâmica com a lista de personagens. Objetivo O objetivo é proporcionar uma ferramenta prática para fãs de Naruto que desejam encontrar informações sobre personagens de forma rápida e organizada. O projeto também serve como uma oportunidade para aplicar conceitos de desenvolvimento web e aprimorar habilidades em HTML, CSS e JavaScript.
 
 {Reactions}
-⭐ (14)
+⭐ (15)
 
 [9/6/2024 11:43 AM] Alura
 Novo projeto recebido!
