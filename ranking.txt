@@ -11781,7 +11781,7 @@ Descrição do projeto
 Olá! Meu projeto é uma página com o tema "A24" (Studio de cinema) nessa página você pode pesquisar por alguns dos principais filmes, seja pelo gênero ou ano. (Não contém todos os films, ainda)
 
 {Reactions}
-⭐ (4)
+⭐ (5)
 
 [9/7/2024 5:45 AM] Alura
 Novo projeto recebido!
