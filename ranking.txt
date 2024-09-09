@@ -363,7 +363,7 @@ Descrição do projeto
 O Buscador de Receitas Saudáveis com Ingredientes é uma aplicação web desenvolvida para ajudar os usuários a encontrar receitas saudáveis com base nos ingredientes que eles têm em casa. Utilizando apenas HTML, CSS e JavaScript, a aplicação oferece um sistema de busca com sugestões dinâmicas e exibe resultados filtrados com links para mais detalhes sobre cada receita.
 
 {Reactions}
-⭐ (272)
+⭐ (273)
 
 [9/5/2024 11:10 AM] Alura
 Novo projeto recebido!
@@ -378,7 +378,7 @@ Descrição do projeto
 Esta é uma versão anabolizada do que foi aprendido em aula, as diferenças da aula são:  Pesquisa dinamica digitando na barra de busca Botão de Curtir com contagem Estilização de fundo, cores e botões, fotos dos atletas
 
 {Reactions}
-⭐ (23)
+⭐ (24)
 
 [9/5/2024 11:15 AM] Alura
 Novo projeto recebido!
@@ -802,7 +802,7 @@ Descrição do projeto
 Eaii galera, esse é o NuTrainerAi, um sistema para quem gosta de treinar ou pretende começar e sente dificuldade nas execuções dos exercícios de forma correta, ele conta com seções para consultar as execuções dos exercícios com animações, fichas de treino para você seguir e dietas para cuidar da saúde da melhor forma possível, além disso, o NuTrainerAi conta com a Consultoria personalizada da IA Gemini, que irá responder de acordo com seu peso, altura e idade! Aproveitem o projeto, e estou aberto a feedbacks.  Deixa ai sua avaliação se curtiu a ideia 😁✌�
 
 {Reactions}
-⭐ (146)
+⭐ (147)
 
 [9/5/2024 2:50 PM] Alura
 Novo projeto recebido!
@@ -1712,7 +1712,7 @@ Descrição do projeto
 Pesquise e descubra diferentes códigos de resposta de requisições HTTP de uma forma divertida, alternando a visualização de cada um entre os temas: Cachorro, Gato ou Cabras. Acesse em: https://themed-http-codes.vercel.app/
 
 {Reactions}
-⭐ (105)
+⭐ (106)
 
 [9/5/2024 7:23 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (219)
+⭐ (220)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -9290,7 +9290,7 @@ Descrição do projeto
 Projeto web financeiro ajuda pessoas com dificuldade de organizar-se financeiramente a começar a aprender a se organizar
 
 {Reactions}
-⭐ (47)
+⭐ (48)
 
 [9/6/2024 11:00 PM] Alura
 Novo projeto recebido!
@@ -16196,7 +16196,7 @@ Descrição do projeto (cont.)
 S e JavaScript: Para a construção da interface do site e a implementação das funcionalidades. GitHub: Para gerenciamento do código e colaboração entre desenvolvedores. Público-alvo:  Estudantes: Como ferramenta de pesquisa e apoio aos estudos literários. Leitores: Para descobrir novos autores e obras, e aprofundar seus conhecimentos sobre a literatura brasileira. Entusiastas da literatura: Para compartilhar informações e discutir sobre seus autores favoritos. Em resumo, o Navio dos Poetas é um projeto que celebra a literatura brasileira e oferece uma experiência única para todos aqueles que se interessam pela cultura e história do nosso país.
 
 {Reactions}
-⭐ (8)
+⭐ (9)
 
 [9/7/2024 5:15 PM] Alura
 Novo projeto recebido!
