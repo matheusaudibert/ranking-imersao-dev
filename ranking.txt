@@ -9170,7 +9170,7 @@ Descrição do projeto
 Crie um site para buscar ongs no brasil, onde você pode ver um breve resumo de varias ongs e acessar o site de cada uma caso voce queira apoiar qualquer caridade
 
 {Reactions}
-⭐ (174)
+⭐ (175)
 
 [9/6/2024 10:50 PM] Alura
 Novo projeto recebido!
@@ -17912,7 +17912,7 @@ Descrição do projeto
 Essa aplicação web desenvolvida durante a imersão, projetada para ajudar os usuários a encontrar e visualizar vídeos de exercícios físicos. O projeto exibe vídeos a partir de um conjunto de dados pré-definidos, sem utilizar APIs externas, e é totalmente gerenciado com uma única página.   https://fitessence.vercel.app/
 
 {Reactions}
-⭐ (58)
+⭐ (59)
 
 [9/7/2024 7:07 PM] Alura
 Novo projeto recebido!
