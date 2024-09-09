@@ -273,7 +273,7 @@ Descrição do projeto
 Um projeto voltado aos amantes de futebol, uma aplicação de busca relacionada ao jogo eletrônico EA Sports FC 25, a aplicação permite o usuário buscar e visualizar diferentes cartas de atletas do modo Ultimate Team, além disso o website é totalmente responsivo para todos os dispositivos! O design foi totalmente expirado na identidade visual da EA na interface do próprio jogo! Me dediquei ao máximo para deixar o design o mais bonito e funcional possível! Se você gostou do resultado em: https://joaonative.github.io/alura-imersao-gemini-2024/ ; vote em meu projeto! Obrigado!
 
 {Reactions}
-⭐ (157)
+⭐ (158)
 
 [9/5/2024 10:38 AM] Alura
 Novo projeto recebido!
@@ -1847,7 +1847,7 @@ Descrição do projeto
 Virtude Estoica é uma aplicação web interativa dedicada à filosofia estoica, projetada para ajudar os usuários a explorar, aprender e aplicar os princípios estoicos em suas vidas diárias. Com uma interface elegante e recursos envolventes, o projeto visa tornar a sabedoria estoica acessível e prática para o mundo moderno.
 
 {Reactions}
-⭐ (27)
+⭐ (28)
 
 [9/5/2024 8:06 PM] Alura
 Novo projeto recebido!
@@ -2222,7 +2222,7 @@ Descrição do projeto
 Um projeto que consome a API do Rick and Morty, nesse projeto você pode pesquisar cada um dos personagens da série!
 
 {Reactions}
-⭐ (151)
+⭐ (152)
 
 [9/5/2024 10:14 PM] Alura
 Novo projeto recebido!
