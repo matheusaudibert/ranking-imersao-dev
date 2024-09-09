@@ -2342,7 +2342,7 @@ Descrição do projeto
 Este projeto tem como objetivo criar uma Biblioteca Virtual interativa, permitindo a pesquisa e visualização de livros de forma intuitiva. 📚 A página inclui um cabeçalho elegante com um GIF animado, um campo de busca para encontrar livros e um rodapé com links para minhas redes sociais.  Eu criei este projeto também com o intuito de ir expandindo ele com novos livros que for lendo pela minha jornada, transformando assim um hobby em projeto. Link para a página: https://jeferson-paz.github.io/projeto_final_alura_gemini/
 
 {Reactions}
-⭐ (201)
+⭐ (202)
 
 [9/5/2024 10:56 PM] Alura
 Novo projeto recebido!
@@ -6235,7 +6235,7 @@ Descrição do projeto
 Descubra os encantos dos estados brasileiros e mergulhe na rica diversidade cultural e natural do Brasil! Este projeto é a sua porta de entrada para explorar os destinos mais fascinantes do país, revelando as belezas deslumbrantes e as histórias vibrantes que cada região tem a oferecer. Desde as exuberantes praias do Nordeste até as majestosas paisagens da Amazônia, você encontrará informações detalhadas, imagens inspiradoras e links úteis para planejar sua próxima grande aventura. Prepare-se para uma jornada virtual que vai despertar seu desejo de explorar e celebrar o maravilhoso Brasil! Deploy:https://laraguedes.github.io/Imersao-Alura-e-Google-Gemini/
 
 {Reactions}
-⭐ (220)
+⭐ (221)
 
 [9/6/2024 5:55 PM] Alura
 Novo projeto recebido!
@@ -6884,7 +6884,7 @@ Descrição do projeto
 Embarque em uma jornada épica pela mitologia nórdica! Este projeto web te convida a explorar o panteão nórdico de uma forma interativa e divertida. Pesquise por seus deuses favoritos, como Thor, Odin e Freya, e descubra detalhes fascinantes sobre suas histórias, poderes e papéis no universo de God of War. Perfeito para fãs da série e entusiastas da mitologia!
 
 {Reactions}
-⭐ (49)
+⭐ (50)
 
 [9/6/2024 7:09 PM] Alura
 Novo projeto recebido!
@@ -16316,7 +16316,7 @@ Descrição do projeto
 Memória Culinária é um jogo da memória que não só testa suas habilidades cognitivas, mas também te garante receber deliciosas receitas. Vem provar! 🍲🎉
 
 {Reactions}
-⭐ (76)
+⭐ (77)
 
 [9/7/2024 5:26 PM] Alura
 Novo projeto recebido!
