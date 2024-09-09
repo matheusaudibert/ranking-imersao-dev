@@ -15965,7 +15965,7 @@ Descrição do projeto
 🌌🗓️ O Ephemeris é um projeto web que serve como um calendário astronômico, permitindo que você acompanhe e observe eventos importantes como eclipses, superluas, oposições de planetas e muito mais. O objetivo é fornecer informações sobre esses fenômenos celestes, ajudando entusiastas e astrônomos amadores a planejar e aproveitar ao máximo suas observações.
 
 {Reactions}
-⭐ (41)
+⭐ (42)
 
 [9/7/2024 5:02 PM] Alura
 Novo projeto recebido!
