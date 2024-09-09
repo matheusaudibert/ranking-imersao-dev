@@ -17113,7 +17113,7 @@ Descrição do projeto
 enIgmA é um jogo de adivinhação online que desafia sua mente! Como funciona:  Charadas desafiadoras: Você se depara com charadas criativas e enigmáticas. Múltiplas escolhas: Escolha a resposta que você acha que mais se encaixa na charada. Verificação instantânea: Descubra se você acertou ou errou e avance para a próxima charada. Por que jogar enIgmA?  Divertido e educativo: Treine seu raciocínio lógico e aprenda coisas novas. Fácil de jogar: A interface é intuitiva e a jogabilidade é simples. Desafios constantes: Novas charadas são adicionadas regularmente para manter a diversão. Prepare-se para horas de diversão enquanto testa seus conhecimentos e explora o mundo das adivinhações!
 
 {Reactions}
-⭐ (19)
+⭐ (20)
 
 [9/7/2024 6:17 PM] Alura
 Novo projeto recebido!
@@ -22483,7 +22483,7 @@ Descrição do projeto
 Cansado de cursos chatos e teorias enfadonhas? No SoftinSkills, a diversão é garantida!  Descubra como transformar jogos em ferramentas poderosas para o desenvolvimento pessoal e profissional. Desenvolva as Soft Skills mais buscadas no mercado jogando, tem jogo pra todo mundo desde o tabuleiro cheio de gente quanto seu jogo online colaborativo.
 
 {Reactions}
-⭐ (53)
+⭐ (54)
 
 [9/7/2024 11:01 PM] Alura
 Novo projeto recebido!
@@ -25025,7 +25025,7 @@ Descrição do projeto
 O projeto busca pelos prefeitos das capitais do Brasil e mostra uma pequena descrição da Biografia do prefeito. Além disso, caso o usuário deseja ver mais sobre o prefeito tem como clicar no link para ver as propostas.
 
 {Reactions}
-⭐ (88)
+⭐ (89)
 
 [9/7/2024 11:58 PM] Alura
 Novo projeto recebido!
